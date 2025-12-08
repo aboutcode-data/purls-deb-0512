@@ -1,0 +1,6 @@
+- pkg:deb/debian/osmocom-analog@0.0~git20250208.4ebf64f-1?arch=amd64
+- pkg:deb/debian/osmocom-analog@0.0~git20250208.4ebf64f-1?arch=arm64
+- pkg:deb/debian/osmocom-analog@0.0~git20250208.4ebf64f-1?arch=armel
+- pkg:deb/debian/osmocom-analog@0.0~git20250208.4ebf64f-1?arch=armhf
+- pkg:deb/debian/osmocom-analog@0.0~git20250208.4ebf64f-1?arch=riscv64
+- pkg:deb/debian/osmocom-analog@0.0~git20250208.4ebf64f-1?arch=s390x

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtexttools-doc@2.1.0-18?arch=all
+- pkg:deb/debian/libtexttools-doc@2.1.0-26?arch=all
+- pkg:deb/debian/libtexttools-doc@2.1.0-30?arch=all

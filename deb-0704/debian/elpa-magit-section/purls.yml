@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-magit-section@3.3.0-2?arch=all
+- pkg:deb/debian/elpa-magit-section@4.3.5-1%2Bdeb13u1?arch=all
+- pkg:deb/debian/elpa-magit-section@4.3.8-2?arch=all
+- pkg:deb/debian/elpa-magit-section@4.4.2-1?arch=all

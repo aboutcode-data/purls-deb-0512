@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-mf2py@1.1.2-2?arch=all
+- pkg:deb/debian/python3-mf2py@2.0.1-2?arch=all

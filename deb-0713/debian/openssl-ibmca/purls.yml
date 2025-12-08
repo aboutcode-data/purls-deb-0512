@@ -1,0 +1,2 @@
+- pkg:deb/debian/openssl-ibmca@1.4.0-1%2Bb2?arch=s390x
+- pkg:deb/debian/openssl-ibmca@1.4.0-1%2Bb3?arch=s390x

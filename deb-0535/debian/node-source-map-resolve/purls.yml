@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-source-map-resolve@0.6.0%2B~cs2.7.2-2?arch=all
+- pkg:deb/debian/node-source-map-resolve@0.6.0%2B~cs2.7.3-2?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/mupen64plus-rsp-z64@2.0.0%2B12%2Bg5a0a580-5?arch=amd64
+- pkg:deb/debian/mupen64plus-rsp-z64@2.0.0%2B12%2Bg5a0a580-5?arch=i386
+- pkg:deb/debian/mupen64plus-rsp-z64@2.5.9%2B10%2Bga7bf40f-2?arch=amd64
+- pkg:deb/debian/mupen64plus-rsp-z64@2.5.9%2B10%2Bga7bf40f-2?arch=i386
+- pkg:deb/debian/mupen64plus-rsp-z64@2.6.0-2?arch=amd64
+- pkg:deb/debian/mupen64plus-rsp-z64@2.6.0-2?arch=i386

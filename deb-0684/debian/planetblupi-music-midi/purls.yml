@@ -1,0 +1,4 @@
+- pkg:deb/debian/planetblupi-music-midi@1.14.2-2?arch=all
+- pkg:deb/debian/planetblupi-music-midi@1.14.2-3?arch=all
+- pkg:deb/debian/planetblupi-music-midi@1.15.1-1?arch=all
+- pkg:deb/debian/planetblupi-music-midi@1.15.1-2?arch=all

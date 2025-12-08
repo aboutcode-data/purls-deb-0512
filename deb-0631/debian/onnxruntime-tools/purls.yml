@@ -1,0 +1,2 @@
+- pkg:deb/debian/onnxruntime-tools@1.21.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/onnxruntime-tools@1.21.0%2Bdfsg-2?arch=all

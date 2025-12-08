@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-domhandler@4.0.0-4?arch=all
+- pkg:deb/debian/node-domhandler@5.0.3-3?arch=all
+- pkg:deb/debian/node-domhandler@5.0.3-4?arch=all

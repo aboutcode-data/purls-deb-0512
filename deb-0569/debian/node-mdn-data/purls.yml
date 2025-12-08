@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-mdn-data@1.0.0-1.1?arch=all
+- pkg:deb/debian/node-mdn-data@2.0.30-1?arch=all
+- pkg:deb/debian/node-mdn-data@2.17.0-1?arch=all
+- pkg:deb/debian/node-mdn-data@2.24.0-1?arch=all

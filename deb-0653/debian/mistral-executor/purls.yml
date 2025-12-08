@@ -1,0 +1,4 @@
+- pkg:deb/debian/mistral-executor@11.0.0-2?arch=all
+- pkg:deb/debian/mistral-executor@15.0.0-1?arch=all
+- pkg:deb/debian/mistral-executor@20.0.0-2?arch=all
+- pkg:deb/debian/mistral-executor@21.0.0-5?arch=all

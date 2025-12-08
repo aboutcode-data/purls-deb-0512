@@ -1,0 +1,15 @@
+- pkg:deb/debian/libopm-upscaling@2022.10%2Bds-4?arch=amd64
+- pkg:deb/debian/libopm-upscaling@2022.10%2Bds-4?arch=arm64
+- pkg:deb/debian/libopm-upscaling@2022.10%2Bds-4?arch=ppc64el
+- pkg:deb/debian/libopm-upscaling@2024.10%2Bds-1%2Bb1?arch=amd64
+- pkg:deb/debian/libopm-upscaling@2024.10%2Bds-1%2Bb1?arch=arm64
+- pkg:deb/debian/libopm-upscaling@2024.10%2Bds-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/libopm-upscaling@2024.10%2Bds-1%2Bb1?arch=riscv64
+- pkg:deb/debian/libopm-upscaling@2025.04%2Bds-1?arch=amd64
+- pkg:deb/debian/libopm-upscaling@2025.04%2Bds-1?arch=arm64
+- pkg:deb/debian/libopm-upscaling@2025.04%2Bds-1?arch=ppc64el
+- pkg:deb/debian/libopm-upscaling@2025.04%2Bds-1?arch=riscv64
+- pkg:deb/debian/libopm-upscaling@2025.10%2Bds-1?arch=amd64
+- pkg:deb/debian/libopm-upscaling@2025.10%2Bds-1?arch=arm64
+- pkg:deb/debian/libopm-upscaling@2025.10%2Bds-1?arch=ppc64el
+- pkg:deb/debian/libopm-upscaling@2025.10%2Bds-1?arch=riscv64

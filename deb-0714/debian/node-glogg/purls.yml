@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-glogg@1.0.2-2?arch=all
+- pkg:deb/debian/node-glogg@2.0.0-2?arch=all

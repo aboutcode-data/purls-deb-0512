@@ -1,0 +1,3 @@
+- pkg:deb/debian/php-http-interop-http-factory-tests@0.9.0-3?arch=all
+- pkg:deb/debian/php-http-interop-http-factory-tests@2.2.0-2?arch=all
+- pkg:deb/debian/php-http-interop-http-factory-tests@2.3.0-1?arch=all

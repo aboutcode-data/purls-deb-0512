@@ -1,0 +1,2 @@
+- pkg:deb/debian/samplerate-programs@0.2.1%2Bds0-1?arch=all
+- pkg:deb/debian/samplerate-programs@0.2.2-3?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-doctrine-deprecations@1.0.0-2%2Bdeb12u1?arch=all
+- pkg:deb/debian/php-doctrine-deprecations@1.1.5-1?arch=all

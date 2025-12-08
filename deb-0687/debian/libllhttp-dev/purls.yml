@@ -1,3 +1,11 @@
+- pkg:deb/debian/libllhttp-dev@9.2.1~7.3.0%2Bdfsg1%2B~cs24.12.11-1?arch=amd64
+- pkg:deb/debian/libllhttp-dev@9.2.1~7.3.0%2Bdfsg1%2B~cs24.12.11-1?arch=arm64
+- pkg:deb/debian/libllhttp-dev@9.2.1~7.3.0%2Bdfsg1%2B~cs24.12.11-1?arch=armel
+- pkg:deb/debian/libllhttp-dev@9.2.1~7.3.0%2Bdfsg1%2B~cs24.12.11-1?arch=armhf
+- pkg:deb/debian/libllhttp-dev@9.2.1~7.3.0%2Bdfsg1%2B~cs24.12.11-1?arch=i386
+- pkg:deb/debian/libllhttp-dev@9.2.1~7.3.0%2Bdfsg1%2B~cs24.12.11-1?arch=ppc64el
+- pkg:deb/debian/libllhttp-dev@9.2.1~7.3.0%2Bdfsg1%2B~cs24.12.11-1?arch=riscv64
+- pkg:deb/debian/libllhttp-dev@9.2.1~7.3.0%2Bdfsg1%2B~cs24.12.11-1?arch=s390x
 - pkg:deb/debian/libllhttp-dev@9.3.3~really9.3.0%2B~cs12.11.8-3?arch=amd64
 - pkg:deb/debian/libllhttp-dev@9.3.3~really9.3.0%2B~cs12.11.8-3?arch=arm64
 - pkg:deb/debian/libllhttp-dev@9.3.3~really9.3.0%2B~cs12.11.8-3?arch=armhf

@@ -1,0 +1,4 @@
+- pkg:deb/debian/pgcluu@3.1-1?arch=all
+- pkg:deb/debian/pgcluu@3.4-1?arch=all
+- pkg:deb/debian/pgcluu@4.0-1?arch=all
+- pkg:deb/debian/pgcluu@4.0-2?arch=all

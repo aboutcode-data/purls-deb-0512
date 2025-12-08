@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsfml-doc@2.5.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/libsfml-doc@2.5.1%2Bdfsg-2?arch=all
+- pkg:deb/debian/libsfml-doc@2.6.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/libsfml-doc@3.0.2%2Bdfsg-1?arch=all

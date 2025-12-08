@@ -1,0 +1,2 @@
+- pkg:deb/debian/phppgadmin@7.14.7%2Bdfsg-1?arch=all
+- pkg:deb/debian/phppgadmin@7.14.7%2Bdfsg-1~bpo12%2B1?arch=all

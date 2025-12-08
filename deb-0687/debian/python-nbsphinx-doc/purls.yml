@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-nbsphinx-doc@0.8.0%2Bds-1?arch=all
+- pkg:deb/debian/python-nbsphinx-doc@0.8.11%2Bds-1?arch=all
+- pkg:deb/debian/python-nbsphinx-doc@0.9.5%2Bds-1?arch=all

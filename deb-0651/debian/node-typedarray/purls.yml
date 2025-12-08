@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-typedarray@0.0.6-1.1?arch=all
+- pkg:deb/debian/node-typedarray@0.0.7-1?arch=all

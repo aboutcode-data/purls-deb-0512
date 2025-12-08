@@ -1,0 +1,4 @@
+- pkg:deb/debian/phpunit-object-reflector@2.0.4-1?arch=all
+- pkg:deb/debian/phpunit-object-reflector@2.0.4-3?arch=all
+- pkg:deb/debian/phpunit-object-reflector@4.0.1-4?arch=all
+- pkg:deb/debian/phpunit-object-reflector@5.0.0-2?arch=all

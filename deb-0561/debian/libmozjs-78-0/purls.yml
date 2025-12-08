@@ -1,0 +1,13 @@
+- pkg:deb/debian/libmozjs-78-0@78.15.0-7?arch=amd64
+- pkg:deb/debian/libmozjs-78-0@78.15.0-7?arch=arm64
+- pkg:deb/debian/libmozjs-78-0@78.15.0-7?arch=armel
+- pkg:deb/debian/libmozjs-78-0@78.15.0-7?arch=armhf
+- pkg:deb/debian/libmozjs-78-0@78.15.0-7?arch=i386
+- pkg:deb/debian/libmozjs-78-0@78.15.0-7?arch=mips64el
+- pkg:deb/debian/libmozjs-78-0@78.15.0-7?arch=mipsel
+- pkg:deb/debian/libmozjs-78-0@78.15.0-7?arch=ppc64el
+- pkg:deb/debian/libmozjs-78-0@78.15.0-7?arch=s390x
+- pkg:deb/debian/libmozjs-78-0@78.4.0-2?arch=amd64
+- pkg:deb/debian/libmozjs-78-0@78.4.0-2?arch=arm64
+- pkg:deb/debian/libmozjs-78-0@78.4.0-2?arch=armhf
+- pkg:deb/debian/libmozjs-78-0@78.4.0-2?arch=i386

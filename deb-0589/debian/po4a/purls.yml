@@ -1,0 +1,4 @@
+- pkg:deb/debian/po4a@0.62-1?arch=all
+- pkg:deb/debian/po4a@0.69-1?arch=all
+- pkg:deb/debian/po4a@0.73-2?arch=all
+- pkg:deb/debian/po4a@0.74-1?arch=all

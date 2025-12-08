@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-browser-resolve@1.11.3-3?arch=all
+- pkg:deb/debian/node-browser-resolve@2.0.0-3?arch=all

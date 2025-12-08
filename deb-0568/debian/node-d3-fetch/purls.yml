@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-d3-fetch@1.2.0%2B~1.2.2-1?arch=all
+- pkg:deb/debian/node-d3-fetch@1.2.0%2B~1.2.2-2?arch=all
+- pkg:deb/debian/node-d3-fetch@1.2.0-1?arch=all
+- pkg:deb/debian/node-d3-fetch@1.2.0-5?arch=all

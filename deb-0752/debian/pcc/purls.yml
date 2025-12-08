@@ -1,0 +1,6 @@
+- pkg:deb/debian/pcc@1.2.0~DEVEL%2B20200630-2?arch=amd64
+- pkg:deb/debian/pcc@1.2.0~DEVEL%2B20200630-2?arch=i386
+- pkg:deb/debian/pcc@1.2.0~DEVEL%2B20220331-1?arch=amd64
+- pkg:deb/debian/pcc@1.2.0~DEVEL%2B20220331-1?arch=i386
+- pkg:deb/debian/pcc@1.2.0~DEVEL%2B20220331-2?arch=amd64
+- pkg:deb/debian/pcc@1.2.0~DEVEL%2B20220331-2?arch=i386

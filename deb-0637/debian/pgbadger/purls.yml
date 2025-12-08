@@ -1,0 +1,4 @@
+- pkg:deb/debian/pgbadger@11.4-1?arch=all
+- pkg:deb/debian/pgbadger@12.0-1?arch=all
+- pkg:deb/debian/pgbadger@13.1-1?arch=all
+- pkg:deb/debian/pgbadger@13.1-2?arch=all

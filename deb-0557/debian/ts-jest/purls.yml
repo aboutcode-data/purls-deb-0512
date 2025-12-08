@@ -1,0 +1,3 @@
+- pkg:deb/debian/ts-jest@26.5.0%2B~cs2.4.7-1?arch=all
+- pkg:deb/debian/ts-jest@29.0.3%2B~cs0.2.6-1?arch=all
+- pkg:deb/debian/ts-jest@29.1.1%2B~cs0.2.6-2?arch=all

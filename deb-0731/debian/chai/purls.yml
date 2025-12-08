@@ -1,0 +1,3 @@
+- pkg:deb/debian/chai@4.2.0%2Bds%2B~4.2.14-4?arch=all
+- pkg:deb/debian/chai@4.3.7~ds1%2B~cs9.7.21-1?arch=all
+- pkg:deb/debian/chai@6.0.1%2B~cs12.4.15-1?arch=all

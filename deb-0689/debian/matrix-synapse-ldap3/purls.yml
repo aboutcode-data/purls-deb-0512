@@ -1,0 +1,2 @@
+- pkg:deb/debian/matrix-synapse-ldap3@0.1.4%2Bgit20201015%2Ba3c7a9f-1?arch=all
+- pkg:deb/debian/matrix-synapse-ldap3@0.2.2%2Bgit20221102%2B258473620416-2?arch=all

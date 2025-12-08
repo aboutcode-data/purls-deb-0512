@@ -1,0 +1,2 @@
+- pkg:deb/debian/m1n1@1.4.21-3?arch=arm64
+- pkg:deb/debian/m1n1@1.5.2-2%2Bb1?arch=arm64

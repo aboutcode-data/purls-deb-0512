@@ -1,0 +1,3 @@
+- pkg:deb/debian/plantuml@1.2020.2%2Bds-1?arch=all
+- pkg:deb/debian/plantuml@1.2020.2%2Bds-3?arch=all
+- pkg:deb/debian/plantuml@1.2020.2%2Bds-6?arch=all

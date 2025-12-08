@@ -1,0 +1,7 @@
+- pkg:deb/debian/semanage-utils@3.1-1%2Bb2?arch=amd64
+- pkg:deb/debian/semanage-utils@3.1-1%2Bb2?arch=arm64
+- pkg:deb/debian/semanage-utils@3.1-1%2Bb2?arch=armhf
+- pkg:deb/debian/semanage-utils@3.1-1%2Bb2?arch=i386
+- pkg:deb/debian/semanage-utils@3.4-1?arch=all
+- pkg:deb/debian/semanage-utils@3.8.1-1?arch=all
+- pkg:deb/debian/semanage-utils@3.9-1?arch=all

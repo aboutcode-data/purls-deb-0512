@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-poliastro@0.14.0-5?arch=all
+- pkg:deb/debian/python3-poliastro@0.17.0-2?arch=all

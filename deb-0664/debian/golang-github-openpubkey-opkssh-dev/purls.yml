@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-openpubkey-opkssh-dev@0.4.0-1?arch=all
+- pkg:deb/debian/golang-github-openpubkey-opkssh-dev@0.8.0-2?arch=all

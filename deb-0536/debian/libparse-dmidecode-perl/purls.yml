@@ -1,0 +1,2 @@
+- pkg:deb/debian/libparse-dmidecode-perl@0.03-2.1?arch=all
+- pkg:deb/debian/libparse-dmidecode-perl@0.03-4?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/optimir@1.0-3?arch=all
+- pkg:deb/debian/optimir@1.2-1?arch=all
+- pkg:deb/debian/optimir@1.2-2?arch=all

@@ -1,0 +1,14 @@
+- pkg:deb/debian/noiz2sa@0.51a-10.1?arch=amd64
+- pkg:deb/debian/noiz2sa@0.51a-10.1?arch=arm64
+- pkg:deb/debian/noiz2sa@0.51a-10.1?arch=armhf
+- pkg:deb/debian/noiz2sa@0.51a-10.1?arch=i386
+- pkg:deb/debian/noiz2sa@0.51a-13%2Bb1?arch=riscv64
+- pkg:deb/debian/noiz2sa@0.51a-13?arch=amd64
+- pkg:deb/debian/noiz2sa@0.51a-13?arch=arm64
+- pkg:deb/debian/noiz2sa@0.51a-13?arch=armel
+- pkg:deb/debian/noiz2sa@0.51a-13?arch=armhf
+- pkg:deb/debian/noiz2sa@0.51a-13?arch=i386
+- pkg:deb/debian/noiz2sa@0.51a-13?arch=mips64el
+- pkg:deb/debian/noiz2sa@0.51a-13?arch=mipsel
+- pkg:deb/debian/noiz2sa@0.51a-13?arch=ppc64el
+- pkg:deb/debian/noiz2sa@0.51a-13?arch=s390x

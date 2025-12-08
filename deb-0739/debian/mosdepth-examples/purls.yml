@@ -1,0 +1,3 @@
+- pkg:deb/debian/mosdepth-examples@0.3.1%2Bds-2?arch=all
+- pkg:deb/debian/mosdepth-examples@0.3.11%2Bds-3?arch=all
+- pkg:deb/debian/mosdepth-examples@0.3.3%2Bds-2?arch=all

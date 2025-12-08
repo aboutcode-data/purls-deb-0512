@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-util@0.10.3-4?arch=all
+- pkg:deb/debian/node-util@0.12.5%2B~1.0.10-1?arch=all

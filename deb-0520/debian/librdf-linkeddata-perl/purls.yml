@@ -1,0 +1,3 @@
+- pkg:deb/debian/librdf-linkeddata-perl@1.940-1.1?arch=all
+- pkg:deb/debian/librdf-linkeddata-perl@1.940-3?arch=all
+- pkg:deb/debian/librdf-linkeddata-perl@1.940-4?arch=all

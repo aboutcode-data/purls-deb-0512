@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-18-pgmemcache@2.3.0-15?arch=amd64
+- pkg:deb/debian/postgresql-18-pgmemcache@2.3.0-15?arch=arm64
+- pkg:deb/debian/postgresql-18-pgmemcache@2.3.0-15?arch=ppc64el
+- pkg:deb/debian/postgresql-18-pgmemcache@2.3.0-15?arch=riscv64
+- pkg:deb/debian/postgresql-18-pgmemcache@2.3.0-15?arch=s390x

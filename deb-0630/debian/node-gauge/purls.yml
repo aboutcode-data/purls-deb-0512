@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-gauge@2.7.4-1.1?arch=all
+- pkg:deb/debian/node-gauge@4.0.4-1?arch=all
+- pkg:deb/debian/node-gauge@4.0.4-2?arch=all

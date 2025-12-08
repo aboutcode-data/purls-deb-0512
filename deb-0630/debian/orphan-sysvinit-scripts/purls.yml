@@ -1,0 +1,4 @@
+- pkg:deb/debian/orphan-sysvinit-scripts@0.07?arch=all
+- pkg:deb/debian/orphan-sysvinit-scripts@0.14?arch=all
+- pkg:deb/debian/orphan-sysvinit-scripts@0.21%2Bdeb13u2?arch=all
+- pkg:deb/debian/orphan-sysvinit-scripts@0.23?arch=all

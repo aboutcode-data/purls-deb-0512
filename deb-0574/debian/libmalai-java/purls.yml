@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmalai-java@2.0%2Bds1-2?arch=all
+- pkg:deb/debian/libmalai-java@2.0%2Bds1-3?arch=all

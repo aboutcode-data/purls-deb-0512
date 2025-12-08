@@ -1,0 +1,4 @@
+- pkg:deb/debian/nagstamon@3.10.1%2Bds1-6?arch=all
+- pkg:deb/debian/nagstamon@3.16.2%2Bds1-3?arch=all
+- pkg:deb/debian/nagstamon@3.17-20250821-1?arch=all
+- pkg:deb/debian/nagstamon@3.4.1-1?arch=all

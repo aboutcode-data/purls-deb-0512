@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-domain-browser@4.22.0-1?arch=all
+- pkg:deb/debian/node-domain-browser@4.4.0-1?arch=all

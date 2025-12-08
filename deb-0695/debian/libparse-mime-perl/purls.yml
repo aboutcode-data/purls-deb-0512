@@ -1,0 +1,2 @@
+- pkg:deb/debian/libparse-mime-perl@1.003-2?arch=all
+- pkg:deb/debian/libparse-mime-perl@1.006-2?arch=all

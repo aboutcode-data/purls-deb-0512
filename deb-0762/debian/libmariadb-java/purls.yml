@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmariadb-java@2.7.2-1?arch=all
+- pkg:deb/debian/libmariadb-java@2.7.6-1?arch=all

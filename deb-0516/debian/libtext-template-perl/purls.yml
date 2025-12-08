@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtext-template-perl@1.59-1?arch=all
+- pkg:deb/debian/libtext-template-perl@1.61-1?arch=all

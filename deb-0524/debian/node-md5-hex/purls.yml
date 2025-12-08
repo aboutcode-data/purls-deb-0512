@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-md5-hex@2.0.0-2?arch=all
+- pkg:deb/debian/node-md5-hex@4.0.0-2?arch=all

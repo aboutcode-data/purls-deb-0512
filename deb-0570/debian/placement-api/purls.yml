@@ -1,0 +1,4 @@
+- pkg:deb/debian/placement-api@13.0.0-1?arch=all
+- pkg:deb/debian/placement-api@14.0.0-1?arch=all
+- pkg:deb/debian/placement-api@4.0.0-1?arch=all
+- pkg:deb/debian/placement-api@8.0.0-2?arch=all

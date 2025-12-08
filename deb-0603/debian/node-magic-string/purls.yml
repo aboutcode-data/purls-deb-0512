@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-magic-string@0.25.7-4?arch=all
+- pkg:deb/debian/node-magic-string@0.26.7-1?arch=all
+- pkg:deb/debian/node-magic-string@0.30.10-1?arch=all
+- pkg:deb/debian/node-magic-string@0.30.18-1?arch=all

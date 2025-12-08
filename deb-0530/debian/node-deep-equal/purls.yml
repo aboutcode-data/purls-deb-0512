@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-deep-equal@1.0.1-2?arch=all
+- pkg:deb/debian/node-deep-equal@2.1.0%2B~cs31.12.80-1?arch=all
+- pkg:deb/debian/node-deep-equal@2.2.3%2B~cs43.15.94-1?arch=all

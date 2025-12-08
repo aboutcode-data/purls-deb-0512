@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-err-code@2.0.3%2Bdfsg-1?arch=all
+- pkg:deb/debian/node-err-code@2.0.3%2Bdfsg-3?arch=all

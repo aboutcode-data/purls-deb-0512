@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-xxhashjs@0.2.2%2Bdfsg%2B~0.2.2-1?arch=all
+- pkg:deb/debian/node-xxhashjs@0.2.2%2Bdfsg-2?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/mgmt@0.0.26.git.2024.10.25.85e1d6c0e8-4?arch=amd64
+- pkg:deb/debian/mgmt@0.0.26.git.2024.10.25.85e1d6c0e8-4?arch=arm64
+- pkg:deb/debian/mgmt@0.0.26.git.2024.10.25.85e1d6c0e8-4?arch=ppc64el
+- pkg:deb/debian/mgmt@0.0.26.git.2024.10.25.85e1d6c0e8-4?arch=riscv64
+- pkg:deb/debian/mgmt@0.0.26.git.2024.10.25.85e1d6c0e8-4?arch=s390x

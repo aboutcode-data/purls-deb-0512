@@ -1,0 +1,5 @@
+- pkg:deb/debian/libpostgresql-jdbc-java@42.2.15-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/libpostgresql-jdbc-java@42.5.5-0%2Bdeb12u1?arch=all
+- pkg:deb/debian/libpostgresql-jdbc-java@42.7.7-1?arch=all
+- pkg:deb/debian/libpostgresql-jdbc-java@42.7.8-1?arch=all
+- pkg:deb/debian/libpostgresql-jdbc-java@42.7.8-2?arch=all

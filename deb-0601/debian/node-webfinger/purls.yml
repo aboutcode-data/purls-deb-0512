@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-webfinger@0.4.2-1.1?arch=all
+- pkg:deb/debian/node-webfinger@0.4.2-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/pandorafms-agent@4.1-1.1?arch=all
+- pkg:deb/debian/pandorafms-agent@6.0-1?arch=all

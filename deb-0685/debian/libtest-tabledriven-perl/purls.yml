@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtest-tabledriven-perl@0.02-1.1?arch=all
+- pkg:deb/debian/libtest-tabledriven-perl@0.02-3?arch=all
+- pkg:deb/debian/libtest-tabledriven-perl@0.02-4?arch=all
+- pkg:deb/debian/libtest-tabledriven-perl@0.02-5?arch=all

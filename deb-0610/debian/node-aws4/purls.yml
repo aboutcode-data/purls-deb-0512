@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-aws4@1.11.0-1?arch=all
+- pkg:deb/debian/node-aws4@1.11.0-2?arch=all

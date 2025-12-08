@@ -1,0 +1,3 @@
+- pkg:deb/debian/pgcli@3.5.0-5?arch=all
+- pkg:deb/debian/pgcli@4.3.0-2?arch=all
+- pkg:deb/debian/pgcli@4.3.0-3?arch=all

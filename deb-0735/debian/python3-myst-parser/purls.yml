@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-myst-parser@0.18.1-2?arch=all
+- pkg:deb/debian/python3-myst-parser@4.0.1-1?arch=all

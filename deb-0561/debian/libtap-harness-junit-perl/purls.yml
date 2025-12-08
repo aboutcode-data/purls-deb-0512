@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtap-harness-junit-perl@0.42-2?arch=all
+- pkg:deb/debian/libtap-harness-junit-perl@0.42-3?arch=all

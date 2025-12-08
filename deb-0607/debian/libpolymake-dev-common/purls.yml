@@ -1,0 +1,4 @@
+- pkg:deb/debian/libpolymake-dev-common@4.12-3?arch=all
+- pkg:deb/debian/libpolymake-dev-common@4.14-2?arch=all
+- pkg:deb/debian/libpolymake-dev-common@4.3-4?arch=all
+- pkg:deb/debian/libpolymake-dev-common@4.6-5?arch=all

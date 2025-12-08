@@ -1,0 +1,4 @@
+- pkg:deb/debian/octave-ncarray@1.0.4-3?arch=all
+- pkg:deb/debian/octave-ncarray@1.0.5-3?arch=all
+- pkg:deb/debian/octave-ncarray@1.0.6-3?arch=all
+- pkg:deb/debian/octave-ncarray@1.0.6-4?arch=all

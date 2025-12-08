@@ -1,0 +1,2 @@
+- pkg:deb/debian/libperl-critic-pulp-perl@100-1?arch=all
+- pkg:deb/debian/libperl-critic-pulp-perl@99-1?arch=all

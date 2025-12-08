@@ -1,0 +1,2 @@
+- pkg:deb/debian/mapproxy-doc@1.13.0-1?arch=all
+- pkg:deb/debian/mapproxy-doc@1.15.1-2?arch=all

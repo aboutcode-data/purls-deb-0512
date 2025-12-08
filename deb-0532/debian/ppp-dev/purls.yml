@@ -1,0 +1,4 @@
+- pkg:deb/debian/ppp-dev@2.4.9-1%2B1.1?arch=all
+- pkg:deb/debian/ppp-dev@2.4.9-1%2B1?arch=all
+- pkg:deb/debian/ppp-dev@2.5.2-1%2B1.1?arch=all
+- pkg:deb/debian/ppp-dev@2.5.2-1%2B1?arch=all

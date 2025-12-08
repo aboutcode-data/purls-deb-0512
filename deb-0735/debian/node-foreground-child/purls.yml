@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-foreground-child@2.0.0-2?arch=all
+- pkg:deb/debian/node-foreground-child@2.0.0-5?arch=all
+- pkg:deb/debian/node-foreground-child@3.1.1-2?arch=all

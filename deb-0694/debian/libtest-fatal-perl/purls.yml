@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtest-fatal-perl@0.016-1?arch=all
+- pkg:deb/debian/libtest-fatal-perl@0.017-1?arch=all
+- pkg:deb/debian/libtest-fatal-perl@0.017-2?arch=all
+- pkg:deb/debian/libtest-fatal-perl@0.018-1?arch=all

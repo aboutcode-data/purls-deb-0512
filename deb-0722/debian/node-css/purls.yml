@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-css@3.0.0%2Brepack-1?arch=all
+- pkg:deb/debian/node-css@3.0.0%2Brepack-2?arch=all

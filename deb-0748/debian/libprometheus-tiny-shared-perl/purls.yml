@@ -1,0 +1,2 @@
+- pkg:deb/debian/libprometheus-tiny-shared-perl@0.026-2?arch=all
+- pkg:deb/debian/libprometheus-tiny-shared-perl@0.027-1?arch=all

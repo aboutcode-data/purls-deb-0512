@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-clipboard@2.0.11%2Bds%2B~cs9.6.11-1?arch=all
+- pkg:deb/debian/node-clipboard@2.0.6%2Bds%2B~cs7.6.4-1?arch=all

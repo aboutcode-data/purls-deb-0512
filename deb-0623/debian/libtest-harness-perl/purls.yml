@@ -1,0 +1,4 @@
+- pkg:deb/debian/libtest-harness-perl@3.42-2?arch=all
+- pkg:deb/debian/libtest-harness-perl@3.44-1?arch=all
+- pkg:deb/debian/libtest-harness-perl@3.50-1?arch=all
+- pkg:deb/debian/libtest-harness-perl@3.52-1?arch=all

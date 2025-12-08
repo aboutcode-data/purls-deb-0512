@@ -1,0 +1,4 @@
+- pkg:deb/debian/librdf-query-perl@2.918-1.1?arch=all
+- pkg:deb/debian/librdf-query-perl@2.918-3?arch=all
+- pkg:deb/debian/librdf-query-perl@2.919-1?arch=all
+- pkg:deb/debian/librdf-query-perl@2.919-2?arch=all

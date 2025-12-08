@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pint-xarray@0.4-1?arch=all
+- pkg:deb/debian/python3-pint-xarray@0.6.0-2?arch=all

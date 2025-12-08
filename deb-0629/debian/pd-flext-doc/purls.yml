@@ -1,0 +1,4 @@
+- pkg:deb/debian/pd-flext-doc@0.6.1-2?arch=all
+- pkg:deb/debian/pd-flext-doc@0.6.2-3?arch=all
+- pkg:deb/debian/pd-flext-doc@0.6.3-3?arch=all
+- pkg:deb/debian/pd-flext-doc@0.6.3-4?arch=all

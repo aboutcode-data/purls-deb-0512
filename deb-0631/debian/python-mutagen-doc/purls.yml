@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-mutagen-doc@1.45.1-2?arch=all
+- pkg:deb/debian/python-mutagen-doc@1.46.0-1?arch=all
+- pkg:deb/debian/python-mutagen-doc@1.47.0-1?arch=all

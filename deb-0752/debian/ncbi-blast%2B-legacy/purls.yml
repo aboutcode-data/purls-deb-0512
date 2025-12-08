@@ -1,0 +1,4 @@
+- pkg:deb/debian/ncbi-blast%2B-legacy@2.11.0%2Bds-1?arch=all
+- pkg:deb/debian/ncbi-blast%2B-legacy@2.12.0%2Bds-3?arch=all
+- pkg:deb/debian/ncbi-blast%2B-legacy@2.16.0%2Bds-7?arch=all
+- pkg:deb/debian/ncbi-blast%2B-legacy@2.17.0%2Bds-6?arch=all

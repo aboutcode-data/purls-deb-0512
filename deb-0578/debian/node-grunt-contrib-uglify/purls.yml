@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-grunt-contrib-uglify@4.0.1%2Bdfsg-2?arch=all
+- pkg:deb/debian/node-grunt-contrib-uglify@5.2.2%2Bdfsg-1?arch=all

@@ -1,0 +1,14 @@
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb3?arch=amd64
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb3?arch=arm64
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb3?arch=armhf
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb3?arch=i386
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb3?arch=ppc64el
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb3?arch=riscv64
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb3?arch=s390x
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb4?arch=amd64
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb4?arch=arm64
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb4?arch=armhf
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb4?arch=i386
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb4?arch=ppc64el
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb4?arch=riscv64
+- pkg:deb/debian/libsimtkmolmodel3.1t64@3.1.0-4.1%2Bb4?arch=s390x

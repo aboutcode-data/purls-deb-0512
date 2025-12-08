@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-gyp@11.1.0%2B~5.0.0-1?arch=all
+- pkg:deb/debian/node-gyp@11.4.0%2B~5.0.0-2?arch=all
+- pkg:deb/debian/node-gyp@7.1.2-4?arch=all
+- pkg:deb/debian/node-gyp@9.3.0-2?arch=all

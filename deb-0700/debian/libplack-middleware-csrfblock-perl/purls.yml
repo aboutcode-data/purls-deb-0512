@@ -1,0 +1,2 @@
+- pkg:deb/debian/libplack-middleware-csrfblock-perl@0.10-2?arch=all
+- pkg:deb/debian/libplack-middleware-csrfblock-perl@0.10-3?arch=all

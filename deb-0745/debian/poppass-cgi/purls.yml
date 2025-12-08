@@ -1,0 +1,2 @@
+- pkg:deb/debian/poppass-cgi@3-6.1?arch=all
+- pkg:deb/debian/poppass-cgi@3-6.2?arch=all

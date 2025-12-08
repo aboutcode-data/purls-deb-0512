@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-nth-check@2.0.0-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/node-nth-check@2.0.1-2?arch=all
+- pkg:deb/debian/node-nth-check@2.1.1-4?arch=all
+- pkg:deb/debian/node-nth-check@2.1.1-5?arch=all

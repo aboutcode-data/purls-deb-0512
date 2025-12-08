@@ -1,0 +1,6 @@
+- pkg:deb/debian/mupen64plus-qt@1.14-1?arch=amd64
+- pkg:deb/debian/mupen64plus-qt@1.14-1?arch=i386
+- pkg:deb/debian/mupen64plus-qt@1.15-1%2Bb1?arch=i386
+- pkg:deb/debian/mupen64plus-qt@1.15-1%2Bb3?arch=amd64
+- pkg:deb/debian/mupen64plus-qt@1.15-1?arch=amd64
+- pkg:deb/debian/mupen64plus-qt@1.15-1?arch=i386

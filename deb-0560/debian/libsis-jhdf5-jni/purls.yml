@@ -1,0 +1,11 @@
+- pkg:deb/debian/libsis-jhdf5-jni@19.04.0%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/libsis-jhdf5-jni@19.04.0%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/libsis-jhdf5-jni@19.04.0%2Bdfsg-4?arch=armhf
+- pkg:deb/debian/libsis-jhdf5-jni@19.04.0%2Bdfsg-4?arch=i386
+- pkg:deb/debian/libsis-jhdf5-jni@19.04.1%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/libsis-jhdf5-jni@19.04.1%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/libsis-jhdf5-jni@19.04.1%2Bdfsg-3?arch=armel
+- pkg:deb/debian/libsis-jhdf5-jni@19.04.1%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/libsis-jhdf5-jni@19.04.1%2Bdfsg-3?arch=i386
+- pkg:deb/debian/libsis-jhdf5-jni@19.04.1%2Bdfsg-3?arch=mips64el
+- pkg:deb/debian/libsis-jhdf5-jni@19.04.1%2Bdfsg-3?arch=ppc64el

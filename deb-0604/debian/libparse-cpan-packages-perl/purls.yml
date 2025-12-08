@@ -1,0 +1,2 @@
+- pkg:deb/debian/libparse-cpan-packages-perl@2.40-1.1?arch=all
+- pkg:deb/debian/libparse-cpan-packages-perl@2.40-2?arch=all

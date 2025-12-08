@@ -1,0 +1,7 @@
+- pkg:deb/debian/libplb1t64@1.5~r1%2Brepack1-5.1%2Bb4?arch=amd64
+- pkg:deb/debian/libplb1t64@1.5~r1%2Brepack1-5.1%2Bb4?arch=arm64
+- pkg:deb/debian/libplb1t64@1.5~r1%2Brepack1-5.1%2Bb4?arch=armhf
+- pkg:deb/debian/libplb1t64@1.5~r1%2Brepack1-5.1%2Bb4?arch=i386
+- pkg:deb/debian/libplb1t64@1.5~r1%2Brepack1-5.1%2Bb4?arch=ppc64el
+- pkg:deb/debian/libplb1t64@1.5~r1%2Brepack1-5.1%2Bb4?arch=riscv64
+- pkg:deb/debian/libplb1t64@1.5~r1%2Brepack1-5.1%2Bb4?arch=s390x

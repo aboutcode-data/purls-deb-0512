@@ -1,0 +1,4 @@
+- pkg:deb/debian/libpdf-api2-perl@2.038-3?arch=all
+- pkg:deb/debian/libpdf-api2-perl@2.044-1?arch=all
+- pkg:deb/debian/libpdf-api2-perl@2.047-1?arch=all
+- pkg:deb/debian/libpdf-api2-perl@2.048-1?arch=all

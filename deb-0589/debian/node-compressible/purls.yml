@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-compressible@2.0.18%2B~2.0.0-1?arch=all
+- pkg:deb/debian/node-compressible@2.0.18-1?arch=all

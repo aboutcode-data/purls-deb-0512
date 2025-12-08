@@ -1,0 +1,3 @@
+- pkg:deb/debian/libweb-mrest-cli-perl@0.283-1.1?arch=all
+- pkg:deb/debian/libweb-mrest-cli-perl@0.284-2?arch=all
+- pkg:deb/debian/libweb-mrest-cli-perl@0.284-3?arch=all

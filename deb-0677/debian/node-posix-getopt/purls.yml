@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-posix-getopt@1.2.0%2B20150728-4?arch=all
+- pkg:deb/debian/node-posix-getopt@1.2.1-1?arch=all

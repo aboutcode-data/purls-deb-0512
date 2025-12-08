@@ -1,0 +1,2 @@
+- pkg:deb/debian/libstring-rewriteprefix-perl@0.008-1?arch=all
+- pkg:deb/debian/libstring-rewriteprefix-perl@0.009-1?arch=all

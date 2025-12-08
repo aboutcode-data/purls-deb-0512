@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-mssql-django@1.2-1?arch=all
+- pkg:deb/debian/python3-mssql-django@1.5-1?arch=all
+- pkg:deb/debian/python3-mssql-django@1.6-1?arch=all

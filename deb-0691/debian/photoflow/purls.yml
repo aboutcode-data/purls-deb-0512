@@ -1,0 +1,4 @@
+- pkg:deb/debian/photoflow@0.2.8%2Bgit20200114-3?arch=amd64
+- pkg:deb/debian/photoflow@0.2.8%2Bgit20200114-3?arch=arm64
+- pkg:deb/debian/photoflow@0.2.8%2Bgit20200114-3?arch=armhf
+- pkg:deb/debian/photoflow@0.2.8%2Bgit20200114-3?arch=i386

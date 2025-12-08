@@ -1,0 +1,4 @@
+- pkg:deb/debian/libopencolorio1v5@1.1.1~dfsg0-7?arch=amd64
+- pkg:deb/debian/libopencolorio1v5@1.1.1~dfsg0-7?arch=arm64
+- pkg:deb/debian/libopencolorio1v5@1.1.1~dfsg0-7?arch=armhf
+- pkg:deb/debian/libopencolorio1v5@1.1.1~dfsg0-7?arch=i386

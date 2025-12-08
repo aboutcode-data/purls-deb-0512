@@ -1,0 +1,14 @@
+- pkg:deb/debian/php-libvirt-php@0.5.5-3?arch=amd64
+- pkg:deb/debian/php-libvirt-php@0.5.5-3?arch=arm64
+- pkg:deb/debian/php-libvirt-php@0.5.5-3?arch=armhf
+- pkg:deb/debian/php-libvirt-php@0.5.5-3?arch=i386
+- pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=amd64
+- pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=arm64
+- pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=armel
+- pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=armhf
+- pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=i386
+- pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=mips64el
+- pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=mipsel
+- pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=ppc64el
+- pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=s390x
+- pkg:deb/debian/php-libvirt-php@0.5.8-7?arch=all

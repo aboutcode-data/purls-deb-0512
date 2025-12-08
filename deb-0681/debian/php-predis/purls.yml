@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-predis@1.1.10-2?arch=all
+- pkg:deb/debian/php-predis@2.4.0-1?arch=all
+- pkg:deb/debian/php-predis@2.4.1-1?arch=all
+- pkg:deb/debian/php-predis@3.3.0-1?arch=all

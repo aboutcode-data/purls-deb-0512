@@ -1,0 +1,5 @@
+- pkg:deb/debian/opensbi@0.9-1?arch=all
+- pkg:deb/debian/opensbi@1.1-2?arch=all
+- pkg:deb/debian/opensbi@1.5.1-1~bpo12%2B2?arch=all
+- pkg:deb/debian/opensbi@1.6-1?arch=all
+- pkg:deb/debian/opensbi@1.7-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-camelcase-keys@10.0.1-1?arch=all
+- pkg:deb/debian/node-camelcase-keys@6.2.2-1?arch=all
+- pkg:deb/debian/node-camelcase-keys@8.0.2-2?arch=all
+- pkg:deb/debian/node-camelcase-keys@8.0.2-3?arch=all

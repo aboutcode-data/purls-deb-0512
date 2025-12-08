@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-constants-browserify@1.0.0%2Bdfsg-6.1?arch=all
+- pkg:deb/debian/node-constants-browserify@1.0.0%2Bdfsg-8?arch=all

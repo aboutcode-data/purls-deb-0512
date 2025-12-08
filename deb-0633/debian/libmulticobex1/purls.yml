@@ -1,0 +1,13 @@
+- pkg:deb/debian/libmulticobex1@0.24-6%2Bb4?arch=amd64
+- pkg:deb/debian/libmulticobex1@0.24-6%2Bb4?arch=arm64
+- pkg:deb/debian/libmulticobex1@0.24-6%2Bb4?arch=armhf
+- pkg:deb/debian/libmulticobex1@0.24-6%2Bb4?arch=i386
+- pkg:deb/debian/libmulticobex1@0.24-9?arch=amd64
+- pkg:deb/debian/libmulticobex1@0.24-9?arch=arm64
+- pkg:deb/debian/libmulticobex1@0.24-9?arch=armel
+- pkg:deb/debian/libmulticobex1@0.24-9?arch=armhf
+- pkg:deb/debian/libmulticobex1@0.24-9?arch=i386
+- pkg:deb/debian/libmulticobex1@0.24-9?arch=mips64el
+- pkg:deb/debian/libmulticobex1@0.24-9?arch=mipsel
+- pkg:deb/debian/libmulticobex1@0.24-9?arch=ppc64el
+- pkg:deb/debian/libmulticobex1@0.24-9?arch=s390x

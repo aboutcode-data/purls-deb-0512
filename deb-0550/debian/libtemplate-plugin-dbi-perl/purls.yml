@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtemplate-plugin-dbi-perl@2.65-2.1?arch=all
+- pkg:deb/debian/libtemplate-plugin-dbi-perl@2.65-2.2?arch=all

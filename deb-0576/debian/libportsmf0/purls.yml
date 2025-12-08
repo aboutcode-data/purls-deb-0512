@@ -1,0 +1,13 @@
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-5?arch=amd64
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-5?arch=arm64
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-5?arch=armhf
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-5?arch=i386
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-6?arch=amd64
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-6?arch=arm64
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-6?arch=armel
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-6?arch=armhf
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-6?arch=i386
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-6?arch=mips64el
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-6?arch=mipsel
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-6?arch=ppc64el
+- pkg:deb/debian/libportsmf0@0.1~svn20101010-6?arch=s390x

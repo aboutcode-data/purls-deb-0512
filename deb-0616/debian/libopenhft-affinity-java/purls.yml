@@ -1,0 +1,2 @@
+- pkg:deb/debian/libopenhft-affinity-java@2.2-2?arch=all
+- pkg:deb/debian/libopenhft-affinity-java@3.23.3-1?arch=all

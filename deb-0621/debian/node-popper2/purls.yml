@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-popper2@2.11.2-4?arch=all
+- pkg:deb/debian/node-popper2@2.11.2-8?arch=all
+- pkg:deb/debian/node-popper2@2.11.2-9?arch=all

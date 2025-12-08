@@ -1,0 +1,3 @@
+- pkg:deb/debian/netctl@1.24-1.1?arch=all
+- pkg:deb/debian/netctl@1.24-1?arch=all
+- pkg:deb/debian/netctl@1.29-1?arch=all

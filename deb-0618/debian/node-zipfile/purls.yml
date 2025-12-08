@@ -1,0 +1,4 @@
+- pkg:deb/debian/node-zipfile@0.5.12%2Bds-6?arch=amd64
+- pkg:deb/debian/node-zipfile@0.5.12%2Bds-6?arch=arm64
+- pkg:deb/debian/node-zipfile@0.5.12%2Bds-6?arch=armhf
+- pkg:deb/debian/node-zipfile@0.5.12%2Bds-6?arch=i386

@@ -1,0 +1,3 @@
+- pkg:deb/debian/nagios-plugin-check-multi@0.26-4?arch=all
+- pkg:deb/debian/nagios-plugin-check-multi@0.26-5?arch=all
+- pkg:deb/debian/nagios-plugin-check-multi@0.26-6?arch=all

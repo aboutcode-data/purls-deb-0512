@@ -1,0 +1,3 @@
+- pkg:deb/debian/ogamesim-www@0.34-3.1?arch=all
+- pkg:deb/debian/ogamesim-www@20130107-3.2?arch=all
+- pkg:deb/debian/ogamesim-www@20130107-5?arch=all

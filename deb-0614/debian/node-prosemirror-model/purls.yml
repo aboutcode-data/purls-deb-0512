@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-prosemirror-model@1.16.1%2B~cs1.1.5-2?arch=all
+- pkg:deb/debian/node-prosemirror-model@1.9.0-3?arch=all

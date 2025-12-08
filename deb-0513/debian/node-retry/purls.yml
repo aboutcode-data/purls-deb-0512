@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-retry@0.12.0-1?arch=all
+- pkg:deb/debian/node-retry@0.13.1%2B~0.12.1-1?arch=all
+- pkg:deb/debian/node-retry@0.13.1.%2B~cs2.19.16-1?arch=all

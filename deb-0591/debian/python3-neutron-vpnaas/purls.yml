@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-neutron-vpnaas@17.0.0-1?arch=all
+- pkg:deb/debian/python3-neutron-vpnaas@21.0.0-2?arch=all
+- pkg:deb/debian/python3-neutron-vpnaas@26.0.0-1?arch=all
+- pkg:deb/debian/python3-neutron-vpnaas@27.0.0-2?arch=all

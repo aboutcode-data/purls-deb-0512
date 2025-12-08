@@ -1,0 +1,2 @@
+- pkg:deb/debian/slapd-smbk5pwd@2.4.57%2Bdfsg-3%2Bdeb11u1?arch=all
+- pkg:deb/debian/slapd-smbk5pwd@2.5.13%2Bdfsg-5?arch=all

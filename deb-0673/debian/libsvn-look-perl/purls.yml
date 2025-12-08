@@ -1,0 +1,2 @@
+- pkg:deb/debian/libsvn-look-perl@0.42-1?arch=all
+- pkg:deb/debian/libsvn-look-perl@0.43-1?arch=all

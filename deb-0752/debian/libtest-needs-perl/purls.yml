@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtest-needs-perl@0.002006-1?arch=all
+- pkg:deb/debian/libtest-needs-perl@0.002010-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/octavia-health-manager@11.0.0-2?arch=all
+- pkg:deb/debian/octavia-health-manager@16.0.0-2?arch=all
+- pkg:deb/debian/octavia-health-manager@17.0.0-1?arch=all
+- pkg:deb/debian/octavia-health-manager@7.1.0-2?arch=all

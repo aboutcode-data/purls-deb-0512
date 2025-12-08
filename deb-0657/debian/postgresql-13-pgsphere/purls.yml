@@ -1,0 +1,4 @@
+- pkg:deb/debian/postgresql-13-pgsphere@1.1.1%2B2020-10-20-2?arch=amd64
+- pkg:deb/debian/postgresql-13-pgsphere@1.1.1%2B2020-10-20-2?arch=arm64
+- pkg:deb/debian/postgresql-13-pgsphere@1.1.1%2B2020-10-20-2?arch=armhf
+- pkg:deb/debian/postgresql-13-pgsphere@1.1.1%2B2020-10-20-2?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-libvirt-php-all-dev@0.5.6-6?arch=all
+- pkg:deb/debian/php-libvirt-php-all-dev@0.5.8-7?arch=all

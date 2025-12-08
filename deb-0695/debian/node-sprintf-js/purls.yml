@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-sprintf-js@1.1.2%2Bds1%2B~1.1.2-1?arch=all
+- pkg:deb/debian/node-sprintf-js@1.1.2%2Bds1-2?arch=all

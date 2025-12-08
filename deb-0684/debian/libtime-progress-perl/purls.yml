@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtime-progress-perl@2.12-1.1?arch=all
+- pkg:deb/debian/libtime-progress-perl@2.12-3?arch=all
+- pkg:deb/debian/libtime-progress-perl@2.15-1?arch=all

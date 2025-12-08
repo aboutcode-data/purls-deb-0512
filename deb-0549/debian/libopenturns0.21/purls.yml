@@ -1,0 +1,7 @@
+- pkg:deb/debian/libopenturns0.21@1.20-9?arch=amd64
+- pkg:deb/debian/libopenturns0.21@1.20-9?arch=arm64
+- pkg:deb/debian/libopenturns0.21@1.20-9?arch=armel
+- pkg:deb/debian/libopenturns0.21@1.20-9?arch=armhf
+- pkg:deb/debian/libopenturns0.21@1.20-9?arch=mips64el
+- pkg:deb/debian/libopenturns0.21@1.20-9?arch=ppc64el
+- pkg:deb/debian/libopenturns0.21@1.20-9?arch=s390x

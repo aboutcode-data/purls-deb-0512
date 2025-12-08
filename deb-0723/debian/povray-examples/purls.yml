@@ -1,0 +1,4 @@
+- pkg:deb/debian/povray-examples@3.7.0.10-2?arch=all
+- pkg:deb/debian/povray-examples@3.7.0.10-3?arch=all
+- pkg:deb/debian/povray-examples@3.7.0.8-5?arch=all
+- pkg:deb/debian/povray-examples@3.8.0~beta.2-2?arch=all

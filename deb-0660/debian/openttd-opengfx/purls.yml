@@ -1,0 +1,3 @@
+- pkg:deb/debian/openttd-opengfx@0.6.0-1?arch=all
+- pkg:deb/debian/openttd-opengfx@7.1-1?arch=all
+- pkg:deb/debian/openttd-opengfx@7.1-3?arch=all

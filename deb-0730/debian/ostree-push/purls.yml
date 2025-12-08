@@ -1,0 +1,3 @@
+- pkg:deb/debian/ostree-push@0.20170708%2Bgitabc601f-2?arch=all
+- pkg:deb/debian/ostree-push@1.0.1-1?arch=all
+- pkg:deb/debian/ostree-push@1.2.0-1?arch=all

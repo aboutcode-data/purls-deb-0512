@@ -1,0 +1,2 @@
+- pkg:deb/debian/mapivi@0.9.7-1.2?arch=all
+- pkg:deb/debian/mapivi@1.2%2Bsvn356-1?arch=all

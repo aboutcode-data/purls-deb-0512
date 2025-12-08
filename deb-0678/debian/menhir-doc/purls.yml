@@ -1,0 +1,4 @@
+- pkg:deb/debian/menhir-doc@20201216-1?arch=all
+- pkg:deb/debian/menhir-doc@20220210%2Bds-2?arch=all
+- pkg:deb/debian/menhir-doc@20240715%2Bds-1?arch=all
+- pkg:deb/debian/menhir-doc@20250912%2Bds-1?arch=all

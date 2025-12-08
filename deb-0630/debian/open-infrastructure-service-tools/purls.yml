@@ -1,0 +1,3 @@
+- pkg:deb/debian/open-infrastructure-service-tools@20221223-2?arch=all
+- pkg:deb/debian/open-infrastructure-service-tools@20240930-1?arch=all
+- pkg:deb/debian/open-infrastructure-service-tools@20250626-2?arch=all

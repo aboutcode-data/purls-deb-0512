@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-guzzlehttp-psr7@1.7.0-1%2Bdeb11u2?arch=all
+- pkg:deb/debian/php-guzzlehttp-psr7@2.4.5-1?arch=all
+- pkg:deb/debian/php-guzzlehttp-psr7@2.7.1-1?arch=all
+- pkg:deb/debian/php-guzzlehttp-psr7@2.8.0-1?arch=all

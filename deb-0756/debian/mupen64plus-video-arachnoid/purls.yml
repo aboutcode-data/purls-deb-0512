@@ -1,0 +1,6 @@
+- pkg:deb/debian/mupen64plus-video-arachnoid@2.0.0%2B13%2Bg911d3b8-5?arch=amd64
+- pkg:deb/debian/mupen64plus-video-arachnoid@2.0.0%2B13%2Bg911d3b8-5?arch=i386
+- pkg:deb/debian/mupen64plus-video-arachnoid@2.5.9%2B14%2Bg82ab630-2?arch=amd64
+- pkg:deb/debian/mupen64plus-video-arachnoid@2.5.9%2B14%2Bg82ab630-2?arch=i386
+- pkg:deb/debian/mupen64plus-video-arachnoid@2.6.0-2?arch=amd64
+- pkg:deb/debian/mupen64plus-video-arachnoid@2.6.0-2?arch=i386

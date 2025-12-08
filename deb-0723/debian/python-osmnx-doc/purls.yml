@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-osmnx-doc@1.0.1%2Bds-1?arch=all
+- pkg:deb/debian/python-osmnx-doc@1.2.3%2Bds-1?arch=all
+- pkg:deb/debian/python-osmnx-doc@2.0.2%2Bds-1?arch=all
+- pkg:deb/debian/python-osmnx-doc@2.0.3%2Bds-2?arch=all

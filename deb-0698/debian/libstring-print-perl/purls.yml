@@ -1,0 +1,4 @@
+- pkg:deb/debian/libstring-print-perl@0.94-1?arch=all
+- pkg:deb/debian/libstring-print-perl@0.94-2?arch=all
+- pkg:deb/debian/libstring-print-perl@0.96-1?arch=all
+- pkg:deb/debian/libstring-print-perl@1.01-1?arch=all

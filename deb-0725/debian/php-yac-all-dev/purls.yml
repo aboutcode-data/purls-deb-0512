@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-yac-all-dev@2.3.1%2B%2B-4?arch=all
+- pkg:deb/debian/php-yac-all-dev@2.3.1%2B0.9.2-5?arch=all

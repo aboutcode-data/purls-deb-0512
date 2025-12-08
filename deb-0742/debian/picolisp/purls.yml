@@ -1,0 +1,13 @@
+- pkg:deb/debian/picolisp@21.1.8-1?arch=amd64
+- pkg:deb/debian/picolisp@21.1.8-1?arch=arm64
+- pkg:deb/debian/picolisp@23.2-1?arch=amd64
+- pkg:deb/debian/picolisp@23.2-1?arch=arm64
+- pkg:deb/debian/picolisp@23.2-1?arch=mips64el
+- pkg:deb/debian/picolisp@23.2-1?arch=ppc64el
+- pkg:deb/debian/picolisp@23.2-1?arch=s390x
+- pkg:deb/debian/picolisp@25.3-1?arch=amd64
+- pkg:deb/debian/picolisp@25.3-1?arch=arm64
+- pkg:deb/debian/picolisp@25.3-1?arch=ppc64el
+- pkg:deb/debian/picolisp@25.9-1?arch=amd64
+- pkg:deb/debian/picolisp@25.9-1?arch=arm64
+- pkg:deb/debian/picolisp@25.9-1?arch=ppc64el

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libsemver-perl@0.10.0-1?arch=all
+- pkg:deb/debian/libsemver-perl@0.10.0-2?arch=all

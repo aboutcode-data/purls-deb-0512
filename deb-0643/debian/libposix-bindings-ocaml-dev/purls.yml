@@ -1,0 +1,7 @@
+- pkg:deb/debian/libposix-bindings-ocaml-dev@2.0.2-1?arch=s390x
+- pkg:deb/debian/libposix-bindings-ocaml-dev@2.2.0-1%2Bb1?arch=amd64
+- pkg:deb/debian/libposix-bindings-ocaml-dev@2.2.0-1%2Bb1?arch=arm64
+- pkg:deb/debian/libposix-bindings-ocaml-dev@2.2.0-1%2Bb1?arch=armhf
+- pkg:deb/debian/libposix-bindings-ocaml-dev@2.2.0-1%2Bb1?arch=i386
+- pkg:deb/debian/libposix-bindings-ocaml-dev@2.2.0-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/libposix-bindings-ocaml-dev@2.2.0-1%2Bb1?arch=riscv64

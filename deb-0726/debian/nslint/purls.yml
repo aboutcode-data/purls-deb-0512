@@ -1,0 +1,12 @@
+- pkg:deb/debian/nslint@3.0a2-1.1%2Bb2?arch=amd64
+- pkg:deb/debian/nslint@3.0a2-1.1%2Bb2?arch=arm64
+- pkg:deb/debian/nslint@3.0a2-1.1%2Bb2?arch=armhf
+- pkg:deb/debian/nslint@3.0a2-1.1%2Bb2?arch=i386
+- pkg:deb/debian/nslint@3.2-6?arch=amd64
+- pkg:deb/debian/nslint@3.2-6?arch=arm64
+- pkg:deb/debian/nslint@3.2-6?arch=armel
+- pkg:deb/debian/nslint@3.2-6?arch=armhf
+- pkg:deb/debian/nslint@3.2-6?arch=i386
+- pkg:deb/debian/nslint@3.2-6?arch=ppc64el
+- pkg:deb/debian/nslint@3.2-6?arch=riscv64
+- pkg:deb/debian/nslint@3.2-6?arch=s390x

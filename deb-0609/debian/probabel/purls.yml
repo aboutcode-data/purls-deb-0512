@@ -1,0 +1,6 @@
+- pkg:deb/debian/probabel@0.5.0%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/probabel@0.5.0%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/probabel@0.5.0%2Bdfsg-4?arch=armhf
+- pkg:deb/debian/probabel@0.5.0%2Bdfsg-4?arch=i386
+- pkg:deb/debian/probabel@0.5.0%2Bdfsg-6?arch=amd64
+- pkg:deb/debian/probabel@0.5.0%2Bdfsg-6?arch=i386

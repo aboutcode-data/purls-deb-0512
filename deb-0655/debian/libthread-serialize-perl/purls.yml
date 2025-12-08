@@ -1,0 +1,2 @@
+- pkg:deb/debian/libthread-serialize-perl@1.02-1?arch=all
+- pkg:deb/debian/libthread-serialize-perl@1.03-1?arch=all

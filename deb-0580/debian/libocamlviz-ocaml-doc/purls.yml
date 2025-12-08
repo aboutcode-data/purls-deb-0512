@@ -1,0 +1,3 @@
+- pkg:deb/debian/libocamlviz-ocaml-doc@1.01-5?arch=all
+- pkg:deb/debian/libocamlviz-ocaml-doc@1.01-6?arch=all
+- pkg:deb/debian/libocamlviz-ocaml-doc@1.01-8?arch=all

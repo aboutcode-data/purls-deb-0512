@@ -1,0 +1,3 @@
+- pkg:deb/debian/libview2-dbg@0.6.6-2.1%2Bb4?arch=amd64
+- pkg:deb/debian/libview2-dbg@0.6.6-2.1%2Bb4?arch=armhf
+- pkg:deb/debian/libview2-dbg@0.6.6-2.1%2Bb4?arch=i386

@@ -1,0 +1,8 @@
+- pkg:deb/debian/libxatracker-dev@20.3.5-1?arch=amd64
+- pkg:deb/debian/libxatracker-dev@20.3.5-1?arch=i386
+- pkg:deb/debian/libxatracker-dev@22.3.6-1%2Bdeb12u1?arch=amd64
+- pkg:deb/debian/libxatracker-dev@22.3.6-1%2Bdeb12u1?arch=i386
+- pkg:deb/debian/libxatracker-dev@25.0.7-2?arch=amd64
+- pkg:deb/debian/libxatracker-dev@25.0.7-2?arch=i386
+- pkg:deb/debian/libxatracker-dev@25.0.7-2~bpo12%2B1?arch=amd64
+- pkg:deb/debian/libxatracker-dev@25.0.7-2~bpo12%2B1?arch=i386

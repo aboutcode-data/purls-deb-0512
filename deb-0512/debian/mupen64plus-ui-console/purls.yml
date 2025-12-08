@@ -1,0 +1,6 @@
+- pkg:deb/debian/mupen64plus-ui-console@2.5-5?arch=amd64
+- pkg:deb/debian/mupen64plus-ui-console@2.5-5?arch=i386
+- pkg:deb/debian/mupen64plus-ui-console@2.5.9%2B26%2Bg3ad5cbb-3?arch=amd64
+- pkg:deb/debian/mupen64plus-ui-console@2.5.9%2B26%2Bg3ad5cbb-3?arch=i386
+- pkg:deb/debian/mupen64plus-ui-console@2.6.0-2?arch=amd64
+- pkg:deb/debian/mupen64plus-ui-console@2.6.0-2?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/pikepdf-doc@1.17.3%2Bdfsg-5?arch=all
+- pkg:deb/debian/pikepdf-doc@10.0.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/pikepdf-doc@6.0.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/pikepdf-doc@9.5.2%2Bdfsg-1?arch=all

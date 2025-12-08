@@ -1,0 +1,3 @@
+- pkg:deb/debian/node-globals@13.18.0-1?arch=all
+- pkg:deb/debian/node-globals@13.23.0-1?arch=all
+- pkg:deb/debian/node-globals@13.5.0-1?arch=all

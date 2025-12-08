@@ -1,0 +1,2 @@
+- pkg:deb/debian/pentium-builder@0.21%2Bnmu1?arch=all
+- pkg:deb/debian/pentium-builder@0.21%2Bnmu2?arch=all

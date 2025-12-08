@@ -1,0 +1,14 @@
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9%2B-8?arch=amd64
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9%2B-8?arch=arm64
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9%2B-8?arch=armel
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9%2B-8?arch=armhf
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9%2B-8?arch=i386
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9%2B-8?arch=mips64el
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9%2B-8?arch=mipsel
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9%2B-8?arch=ppc64el
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9%2B-8?arch=s390x
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9-3?arch=amd64
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9-3?arch=arm64
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9-3?arch=armhf
+- pkg:deb/debian/php-memcache@8.0%2B4.0.5.2%2B3.0.9~20170802.e702b5f9-3?arch=i386
+- pkg:deb/debian/php-memcache@8.2-5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/librcs-perl@1.05-5.1?arch=all
+- pkg:deb/debian/librcs-perl@1.05-6?arch=all

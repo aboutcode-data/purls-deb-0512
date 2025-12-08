@@ -1,0 +1,5 @@
+- pkg:deb/debian/libsub-handlesvia-perl@0.016-1?arch=all
+- pkg:deb/debian/libsub-handlesvia-perl@0.050000-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/libsub-handlesvia-perl@0.050002-1?arch=all
+- pkg:deb/debian/libsub-handlesvia-perl@0.050007-1?arch=all
+- pkg:deb/debian/libsub-handlesvia-perl@0.052000-1?arch=all

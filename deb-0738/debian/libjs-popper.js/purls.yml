@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjs-popper.js@1.16.1%2Bds-3?arch=all
+- pkg:deb/debian/libjs-popper.js@1.16.1%2Bds-6?arch=all

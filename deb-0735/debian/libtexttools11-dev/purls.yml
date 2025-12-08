@@ -1,0 +1,9 @@
+- pkg:deb/debian/libtexttools11-dev@2.1.0-26?arch=amd64
+- pkg:deb/debian/libtexttools11-dev@2.1.0-26?arch=arm64
+- pkg:deb/debian/libtexttools11-dev@2.1.0-26?arch=armel
+- pkg:deb/debian/libtexttools11-dev@2.1.0-26?arch=armhf
+- pkg:deb/debian/libtexttools11-dev@2.1.0-26?arch=i386
+- pkg:deb/debian/libtexttools11-dev@2.1.0-26?arch=mips64el
+- pkg:deb/debian/libtexttools11-dev@2.1.0-26?arch=mipsel
+- pkg:deb/debian/libtexttools11-dev@2.1.0-26?arch=ppc64el
+- pkg:deb/debian/libtexttools11-dev@2.1.0-26?arch=s390x

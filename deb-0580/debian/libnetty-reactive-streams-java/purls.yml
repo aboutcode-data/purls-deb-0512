@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnetty-reactive-streams-java@2.0.5-1?arch=all
+- pkg:deb/debian/libnetty-reactive-streams-java@2.0.8-1?arch=all

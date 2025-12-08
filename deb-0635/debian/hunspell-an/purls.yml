@@ -1,1 +1,3 @@
 - pkg:deb/debian/hunspell-an@0.2-5?arch=all
+- pkg:deb/debian/hunspell-an@25.2.3-1?arch=all
+- pkg:deb/debian/hunspell-an@7.5.0-1?arch=all

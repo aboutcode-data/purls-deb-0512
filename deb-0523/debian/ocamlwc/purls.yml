@@ -1,0 +1,10 @@
+- pkg:deb/debian/ocamlwc@0.3-17?arch=all
+- pkg:deb/debian/ocamlwc@0.3-18?arch=all
+- pkg:deb/debian/ocamlwc@0.3-21%2Bb4?arch=amd64
+- pkg:deb/debian/ocamlwc@0.3-21%2Bb4?arch=arm64
+- pkg:deb/debian/ocamlwc@0.3-21%2Bb4?arch=armel
+- pkg:deb/debian/ocamlwc@0.3-21%2Bb4?arch=armhf
+- pkg:deb/debian/ocamlwc@0.3-21%2Bb4?arch=i386
+- pkg:deb/debian/ocamlwc@0.3-21%2Bb4?arch=ppc64el
+- pkg:deb/debian/ocamlwc@0.3-21%2Bb4?arch=s390x
+- pkg:deb/debian/ocamlwc@0.3-21%2Bb5?arch=riscv64

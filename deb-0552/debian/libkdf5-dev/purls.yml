@@ -1,0 +1,2 @@
+- pkg:deb/debian/libkdf5-dev@2.10.9%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libkdf5-dev@2.10.9%2Bdfsg-2?arch=i386

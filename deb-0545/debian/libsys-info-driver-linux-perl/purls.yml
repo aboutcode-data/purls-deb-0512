@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsys-info-driver-linux-perl@0.7905-2?arch=all
+- pkg:deb/debian/libsys-info-driver-linux-perl@0.7905-3?arch=all
+- pkg:deb/debian/libsys-info-driver-linux-perl@0.7905-6?arch=all
+- pkg:deb/debian/libsys-info-driver-linux-perl@0.7911-1?arch=all

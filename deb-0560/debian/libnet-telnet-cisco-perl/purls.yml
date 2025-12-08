@@ -1,2 +1,4 @@
+- pkg:deb/debian/libnet-telnet-cisco-perl@1.10-5.3?arch=all
+- pkg:deb/debian/libnet-telnet-cisco-perl@1.10-5.4?arch=all
 - pkg:deb/debian/libnet-telnet-cisco-perl@1.12-2?arch=all
 - pkg:deb/debian/libnet-telnet-cisco-perl@1.12-3?arch=all

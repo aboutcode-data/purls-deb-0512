@@ -1,0 +1,2 @@
+- pkg:deb/debian/netdata-plugins-bash@1.29.3-4?arch=all
+- pkg:deb/debian/netdata-plugins-bash@1.37.1-2?arch=all

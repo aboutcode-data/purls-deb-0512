@@ -1,0 +1,4 @@
+- pkg:deb/debian/oz@0.17.0-4?arch=all
+- pkg:deb/debian/oz@0.17.0-5.1?arch=all
+- pkg:deb/debian/oz@0.17.0-6?arch=all
+- pkg:deb/debian/oz@0.17.0-7?arch=all

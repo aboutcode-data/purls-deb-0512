@@ -1,0 +1,4 @@
+- pkg:deb/debian/libppi-perl@1.270-1?arch=all
+- pkg:deb/debian/libppi-perl@1.276-1?arch=all
+- pkg:deb/debian/libppi-perl@1.281-1?arch=all
+- pkg:deb/debian/libppi-perl@1.284-1?arch=all

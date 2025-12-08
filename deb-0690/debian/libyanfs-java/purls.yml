@@ -1,0 +1,2 @@
+- pkg:deb/debian/libyanfs-java@0.0%2Bcvs20070825-4.1?arch=all
+- pkg:deb/debian/libyanfs-java@1.4-1?arch=all

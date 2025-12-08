@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-rechoir@0.7.0-1?arch=all
+- pkg:deb/debian/node-rechoir@0.8.0%2B~0.6.1-2?arch=all

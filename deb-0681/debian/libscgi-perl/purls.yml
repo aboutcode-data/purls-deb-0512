@@ -1,0 +1,2 @@
+- pkg:deb/debian/libscgi-perl@0.6-2?arch=all
+- pkg:deb/debian/libscgi-perl@0.6-3?arch=all

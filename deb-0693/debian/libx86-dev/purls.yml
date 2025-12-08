@@ -1,0 +1,4 @@
+- pkg:deb/debian/libx86-dev@1.1%2Bds1-12?arch=amd64
+- pkg:deb/debian/libx86-dev@1.1%2Bds1-12?arch=i386
+- pkg:deb/debian/libx86-dev@1.1%2Bds1-13?arch=amd64
+- pkg:deb/debian/libx86-dev@1.1%2Bds1-13?arch=i386

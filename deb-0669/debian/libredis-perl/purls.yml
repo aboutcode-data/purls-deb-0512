@@ -1,0 +1,2 @@
+- pkg:deb/debian/libredis-perl@1.9980-2?arch=all
+- pkg:deb/debian/libredis-perl@2.000-1?arch=all

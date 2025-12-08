@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-doctrine-collections@1.6.7-2?arch=all
+- pkg:deb/debian/php-doctrine-collections@2.1.2-1?arch=all
+- pkg:deb/debian/php-doctrine-collections@2.3.0-1?arch=all
+- pkg:deb/debian/php-doctrine-collections@2.4.0-1?arch=all

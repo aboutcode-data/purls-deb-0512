@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pigpio@1.78-1.1?arch=all
+- pkg:deb/debian/python3-pigpio@1.78-1?arch=all

@@ -1,0 +1,11 @@
+- pkg:deb/debian/php-maxminddb@1.11.0-5?arch=amd64
+- pkg:deb/debian/php-maxminddb@1.11.0-5?arch=arm64
+- pkg:deb/debian/php-maxminddb@1.11.0-5?arch=armel
+- pkg:deb/debian/php-maxminddb@1.11.0-5?arch=armhf
+- pkg:deb/debian/php-maxminddb@1.11.0-5?arch=i386
+- pkg:deb/debian/php-maxminddb@1.11.0-5?arch=mips64el
+- pkg:deb/debian/php-maxminddb@1.11.0-5?arch=mipsel
+- pkg:deb/debian/php-maxminddb@1.11.0-5?arch=ppc64el
+- pkg:deb/debian/php-maxminddb@1.11.0-5?arch=s390x
+- pkg:deb/debian/php-maxminddb@1.12.0-1?arch=all
+- pkg:deb/debian/php-maxminddb@1.12.1-1?arch=all

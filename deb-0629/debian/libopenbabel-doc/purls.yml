@@ -1,0 +1,4 @@
+- pkg:deb/debian/libopenbabel-doc@3.1.1%2Bdfsg-12?arch=all
+- pkg:deb/debian/libopenbabel-doc@3.1.1%2Bdfsg-14?arch=all
+- pkg:deb/debian/libopenbabel-doc@3.1.1%2Bdfsg-6?arch=all
+- pkg:deb/debian/libopenbabel-doc@3.1.1%2Bdfsg-9?arch=all

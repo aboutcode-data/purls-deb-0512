@@ -1,0 +1,5 @@
+- pkg:deb/debian/pg-rage-terminator-17@0.1.7-11?arch=amd64
+- pkg:deb/debian/pg-rage-terminator-17@0.1.7-11?arch=arm64
+- pkg:deb/debian/pg-rage-terminator-17@0.1.7-11?arch=ppc64el
+- pkg:deb/debian/pg-rage-terminator-17@0.1.7-11?arch=riscv64
+- pkg:deb/debian/pg-rage-terminator-17@0.1.7-11?arch=s390x

@@ -1,0 +1,9 @@
+- pkg:deb/debian/libpromise-xs-perl@0.20-1%2Bb3?arch=arm64
+- pkg:deb/debian/libpromise-xs-perl@0.20-1%2Bb3?arch=armel
+- pkg:deb/debian/libpromise-xs-perl@0.20-1%2Bb3?arch=ppc64el
+- pkg:deb/debian/libpromise-xs-perl@0.20-1%2Bb3?arch=s390x
+- pkg:deb/debian/libpromise-xs-perl@0.20-1%2Bb4?arch=amd64
+- pkg:deb/debian/libpromise-xs-perl@0.20-1%2Bb4?arch=armhf
+- pkg:deb/debian/libpromise-xs-perl@0.20-1%2Bb4?arch=i386
+- pkg:deb/debian/libpromise-xs-perl@0.20-1%2Bb4?arch=ppc64el
+- pkg:deb/debian/libpromise-xs-perl@0.20-1%2Bb4?arch=riscv64

@@ -1,0 +1,6 @@
+- pkg:deb/debian/libne10-dev@1.2.1-5.1%2Bb2?arch=arm64
+- pkg:deb/debian/libne10-dev@1.2.1-5.1%2Bb2?arch=armhf
+- pkg:deb/debian/libne10-dev@1.2.1-5?arch=arm64
+- pkg:deb/debian/libne10-dev@1.2.1-5?arch=armhf
+- pkg:deb/debian/libne10-dev@1.2.1-6?arch=arm64
+- pkg:deb/debian/libne10-dev@1.2.1-6?arch=armhf

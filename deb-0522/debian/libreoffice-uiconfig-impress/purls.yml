@@ -1,0 +1,7 @@
+- pkg:deb/debian/libreoffice-uiconfig-impress@24.2.5-1~bpo12%2B1?arch=all
+- pkg:deb/debian/libreoffice-uiconfig-impress@25.2.3-2%2Bdeb13u2?arch=all
+- pkg:deb/debian/libreoffice-uiconfig-impress@25.2.3-2%2Bdeb13u2~bpo12%2B1?arch=all
+- pkg:deb/debian/libreoffice-uiconfig-impress@25.8.3-1?arch=all
+- pkg:deb/debian/libreoffice-uiconfig-impress@25.8.3-1~bpo13%2B1?arch=all
+- pkg:deb/debian/libreoffice-uiconfig-impress@26.2.0~alpha1-3?arch=all
+- pkg:deb/debian/libreoffice-uiconfig-impress@26.2.0~beta1-1?arch=all

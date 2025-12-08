@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnormaliz-dev-common@3.10.4%2Bds-1?arch=all
+- pkg:deb/debian/libnormaliz-dev-common@3.10.5%2Bds-3?arch=all
+- pkg:deb/debian/libnormaliz-dev-common@3.8.9%2Bds-0.1?arch=all
+- pkg:deb/debian/libnormaliz-dev-common@3.9.4%2Bds-2?arch=all

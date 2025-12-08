@@ -1,0 +1,3 @@
+- pkg:deb/debian/parallel-fastq-dump@0.6.6-3?arch=amd64
+- pkg:deb/debian/parallel-fastq-dump@0.6.7-3?arch=amd64
+- pkg:deb/debian/parallel-fastq-dump@0.6.7-3?arch=arm64

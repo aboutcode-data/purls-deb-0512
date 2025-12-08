@@ -1,0 +1,6 @@
+- pkg:deb/debian/libmupen64plus2@2.5-7?arch=amd64
+- pkg:deb/debian/libmupen64plus2@2.5-7?arch=i386
+- pkg:deb/debian/libmupen64plus2@2.5.9%2B341%2Bgf82b37bf-1?arch=amd64
+- pkg:deb/debian/libmupen64plus2@2.5.9%2B341%2Bgf82b37bf-1?arch=i386
+- pkg:deb/debian/libmupen64plus2@2.6.0-2?arch=amd64
+- pkg:deb/debian/libmupen64plus2@2.6.0-2?arch=i386

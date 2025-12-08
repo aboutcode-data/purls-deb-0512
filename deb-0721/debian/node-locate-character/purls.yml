@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-locate-character@2.0.5%2Brepack-2?arch=all
+- pkg:deb/debian/node-locate-character@2.0.5%2Brepack-5?arch=all

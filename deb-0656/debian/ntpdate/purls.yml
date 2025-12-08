@@ -1,0 +1,5 @@
+- pkg:deb/debian/ntpdate@4.2.8p15%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/ntpdate@4.2.8p15%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/ntpdate@4.2.8p15%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/ntpdate@4.2.8p15%2Bdfsg-1?arch=i386
+- pkg:deb/debian/ntpdate@4.2.8p15%2Bdfsg-2~1.2.2%2Bdfsg1-1%2Bdeb12u1?arch=all

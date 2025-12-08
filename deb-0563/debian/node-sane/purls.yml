@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-sane@4.1.0%2B~cs18.16.37-1?arch=all
+- pkg:deb/debian/node-sane@4.1.0%2B~cs18.17.38-2?arch=all

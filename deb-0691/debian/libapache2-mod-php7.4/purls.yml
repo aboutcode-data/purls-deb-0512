@@ -1,0 +1,4 @@
+- pkg:deb/debian/libapache2-mod-php7.4@7.4.33-1%2Bdeb11u5?arch=amd64
+- pkg:deb/debian/libapache2-mod-php7.4@7.4.33-1%2Bdeb11u5?arch=arm64
+- pkg:deb/debian/libapache2-mod-php7.4@7.4.33-1%2Bdeb11u5?arch=armhf
+- pkg:deb/debian/libapache2-mod-php7.4@7.4.33-1%2Bdeb11u5?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/openjdk-25-source@25.0.1%2B8-1?arch=all
+- pkg:deb/debian/openjdk-25-source@25.0.1%2B8-1~deb13u1?arch=all

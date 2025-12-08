@@ -1,0 +1,4 @@
+- pkg:deb/debian/octavia-agent@11.0.0-2?arch=all
+- pkg:deb/debian/octavia-agent@16.0.0-2?arch=all
+- pkg:deb/debian/octavia-agent@17.0.0-1?arch=all
+- pkg:deb/debian/octavia-agent@7.1.0-2?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-jasmine@4.5.0%2B~cs8.8.0-1?arch=all
+- pkg:deb/debian/node-jasmine@5.11.0%2B~cs10.12.9-1?arch=all

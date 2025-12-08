@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmaven-jar-plugin-java@3.1.2-1?arch=all
+- pkg:deb/debian/libmaven-jar-plugin-java@3.3.0-2?arch=all

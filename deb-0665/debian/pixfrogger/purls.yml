@@ -1,0 +1,4 @@
+- pkg:deb/debian/pixfrogger@1.0%2Bdfsg-0.1?arch=armel
+- pkg:deb/debian/pixfrogger@1.0%2Bdfsg-0.1?arch=armhf
+- pkg:deb/debian/pixfrogger@1.0%2Bdfsg-0.1?arch=i386
+- pkg:deb/debian/pixfrogger@1.0%2Bdfsg-0.1?arch=mipsel

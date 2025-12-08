@@ -1,0 +1,3 @@
+- pkg:deb/debian/libspin-java@1.5%2Bdfsg-10?arch=all
+- pkg:deb/debian/libspin-java@1.5%2Bdfsg-8.1?arch=all
+- pkg:deb/debian/libspin-java@1.5%2Bdfsg-9?arch=all

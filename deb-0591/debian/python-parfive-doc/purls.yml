@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-parfive-doc@1.2.0-1?arch=all
+- pkg:deb/debian/python-parfive-doc@2.0.2-1?arch=all
+- pkg:deb/debian/python-parfive-doc@2.1.0-1?arch=all
+- pkg:deb/debian/python-parfive-doc@2.2.0-1?arch=all

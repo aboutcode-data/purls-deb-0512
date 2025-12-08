@@ -1,0 +1,3 @@
+- pkg:deb/debian/libplack-perl@1.0048-1?arch=all
+- pkg:deb/debian/libplack-perl@1.0050-1?arch=all
+- pkg:deb/debian/libplack-perl@1.0051-1?arch=all

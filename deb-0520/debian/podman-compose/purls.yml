@@ -1,0 +1,4 @@
+- pkg:deb/debian/podman-compose@1.0.3-3?arch=all
+- pkg:deb/debian/podman-compose@1.0.6-1~bpo12%2B1?arch=all
+- pkg:deb/debian/podman-compose@1.3.0-1?arch=all
+- pkg:deb/debian/podman-compose@1.5.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-har-validator@5.1.5-1?arch=all
+- pkg:deb/debian/node-har-validator@5.1.5-3?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-objgraph-doc@3.5.0-1?arch=all
+- pkg:deb/debian/python-objgraph-doc@3.5.0-6?arch=all
+- pkg:deb/debian/python-objgraph-doc@3.6.2-1?arch=all

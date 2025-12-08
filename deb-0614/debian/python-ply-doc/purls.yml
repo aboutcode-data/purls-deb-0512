@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-ply-doc@3.11-4?arch=all
+- pkg:deb/debian/python-ply-doc@3.11-5?arch=all
+- pkg:deb/debian/python-ply-doc@3.11-9?arch=all

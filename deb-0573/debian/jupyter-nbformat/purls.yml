@@ -1,0 +1,3 @@
+- pkg:deb/debian/jupyter-nbformat@5.1.2-1?arch=all
+- pkg:deb/debian/jupyter-nbformat@5.5.0-1?arch=all
+- pkg:deb/debian/jupyter-nbformat@5.9.1-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-plugin-error@1.0.1%2Brepack-1?arch=all
+- pkg:deb/debian/node-plugin-error@1.0.1%2Brepack-2?arch=all

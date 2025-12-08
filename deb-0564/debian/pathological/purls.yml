@@ -1,0 +1,3 @@
+- pkg:deb/debian/pathological@1.1.3-16?arch=all
+- pkg:deb/debian/pathological@1.1.3-17?arch=all
+- pkg:deb/debian/pathological@1.1.3-18?arch=all

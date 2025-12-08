@@ -1,0 +1,4 @@
+- pkg:deb/debian/libonnx-testdata@1.12.0-2?arch=all
+- pkg:deb/debian/libonnx-testdata@1.17.0-3?arch=all
+- pkg:deb/debian/libonnx-testdata@1.19.1-1~exp1?arch=all
+- pkg:deb/debian/libonnx-testdata@1.7.0%2Bdfsg-3?arch=all

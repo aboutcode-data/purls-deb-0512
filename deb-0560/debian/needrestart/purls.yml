@@ -1,0 +1,4 @@
+- pkg:deb/debian/needrestart@3.11-1?arch=all
+- pkg:deb/debian/needrestart@3.5-4%2Bdeb11u3?arch=all
+- pkg:deb/debian/needrestart@3.6-4%2Bdeb12u3?arch=all
+- pkg:deb/debian/needrestart@3.8-2~bpo12%2B1?arch=all

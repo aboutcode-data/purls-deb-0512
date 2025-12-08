@@ -1,0 +1,16 @@
+- pkg:deb/debian/mricron@1.0.20190902%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/mricron@1.0.20190902%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/mricron@1.0.20190902%2Bdfsg-2?arch=armhf
+- pkg:deb/debian/mricron@1.0.20190902%2Bdfsg-2?arch=i386
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-4?arch=armel
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-4?arch=armhf
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-4?arch=i386
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-4?arch=ppc64el
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-6?arch=amd64
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-6?arch=arm64
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-6?arch=armel
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-6?arch=armhf
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-6?arch=i386
+- pkg:deb/debian/mricron@1.2.20211006%2Bdfsg-6?arch=ppc64el

@@ -1,0 +1,4 @@
+- pkg:deb/debian/pkg-kde-tools@0.15.32?arch=all
+- pkg:deb/debian/pkg-kde-tools@0.15.38?arch=all
+- pkg:deb/debian/pkg-kde-tools@0.18.12?arch=all
+- pkg:deb/debian/pkg-kde-tools@0.19.1?arch=all
