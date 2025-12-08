@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-seccomp-libseccomp-golang-dev@0.10.0-3?arch=all
+- pkg:deb/debian/golang-github-seccomp-libseccomp-golang-dev@0.10.0-4?arch=all
+- pkg:deb/debian/golang-github-seccomp-libseccomp-golang-dev@0.9.1-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-gmsh@4.13.1%2Bds1-6?arch=all
+- pkg:deb/debian/python3-gmsh@4.14.0%2Bds1-1?arch=all
+- pkg:deb/debian/python3-gmsh@4.7.1%2Bds1-5?arch=all
+- pkg:deb/debian/python3-gmsh@4.8.4%2Bds2-3?arch=all

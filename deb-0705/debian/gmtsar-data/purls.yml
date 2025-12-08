@@ -1,0 +1,2 @@
+- pkg:deb/debian/gmtsar-data@6.5%2Bds-3?arch=all
+- pkg:deb/debian/gmtsar-data@6.6%2Bds-1?arch=all

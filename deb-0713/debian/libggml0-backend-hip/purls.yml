@@ -1,0 +1,2 @@
+- pkg:deb/debian/libggml0-backend-hip@0.9.4-4%2Bhip~exp2?arch=amd64
+- pkg:deb/debian/libggml0-backend-hip@0.9.4-5%2Bhip~exp1?arch=arm64

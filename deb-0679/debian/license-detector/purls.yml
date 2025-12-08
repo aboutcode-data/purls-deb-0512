@@ -1,0 +1,15 @@
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb12?arch=amd64
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb12?arch=arm64
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb12?arch=armel
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb12?arch=armhf
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb12?arch=i386
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb12?arch=ppc64el
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb12?arch=riscv64
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb12?arch=s390x
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb13?arch=amd64
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb13?arch=arm64
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb13?arch=armhf
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb13?arch=i386
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb13?arch=ppc64el
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb13?arch=riscv64
+- pkg:deb/debian/license-detector@4.3.0%2Bgit20221007.a3a1cc6-3%2Bb13?arch=s390x

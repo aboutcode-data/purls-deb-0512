@@ -1,0 +1,13 @@
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb3?arch=amd64
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb3?arch=arm64
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb3?arch=i386
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb4?arch=amd64
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb4?arch=arm64
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb4?arch=armhf
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb4?arch=i386
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb4?arch=mips64el
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb4?arch=mipsel
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb4?arch=ppc64el
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb4?arch=s390x
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb5?arch=armel
+- pkg:deb/debian/libgdome2-ocaml-dev@0.2.6-7%2Bb5?arch=armhf

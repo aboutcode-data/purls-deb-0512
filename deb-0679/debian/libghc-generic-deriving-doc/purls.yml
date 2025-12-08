@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-generic-deriving-doc@1.13.1-1?arch=all
+- pkg:deb/debian/libghc-generic-deriving-doc@1.14.2-1?arch=all
+- pkg:deb/debian/libghc-generic-deriving-doc@1.14.5-2?arch=all

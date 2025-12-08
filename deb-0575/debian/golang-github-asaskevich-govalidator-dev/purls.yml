@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-asaskevich-govalidator-dev@11.0.1-1?arch=all
+- pkg:deb/debian/golang-github-asaskevich-govalidator-dev@9%2Bgit20180720.0.f9ffefc3-1.1?arch=all

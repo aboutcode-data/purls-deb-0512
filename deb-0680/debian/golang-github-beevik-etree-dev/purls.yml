@@ -1,0 +1,5 @@
+- pkg:deb/debian/golang-github-beevik-etree-dev@1.0.0%2Bgit20171015.af219c0-1.1?arch=all
+- pkg:deb/debian/golang-github-beevik-etree-dev@1.1.0-1?arch=all
+- pkg:deb/debian/golang-github-beevik-etree-dev@1.5.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-beevik-etree-dev@1.5.1-1?arch=all
+- pkg:deb/debian/golang-github-beevik-etree-dev@1.6.0-1?arch=all

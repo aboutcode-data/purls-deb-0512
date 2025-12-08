@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-klauspost-reedsolomon-dev@1.9.13-1?arch=all
+- pkg:deb/debian/golang-github-klauspost-reedsolomon-dev@1.9.9-1?arch=all

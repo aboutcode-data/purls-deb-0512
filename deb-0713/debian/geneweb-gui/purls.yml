@@ -1,0 +1,4 @@
+- pkg:deb/debian/geneweb-gui@6.08%2Bgit20181019%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/geneweb-gui@6.08%2Bgit20181019%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/geneweb-gui@6.08%2Bgit20181019%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/geneweb-gui@6.08%2Bgit20181019%2Bdfsg-3?arch=i386

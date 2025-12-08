@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-halide-doc@14.0.0-3?arch=all
+- pkg:deb/debian/python3-halide-doc@19.0.0-6?arch=all
+- pkg:deb/debian/python3-halide-doc@21.0.0-4?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/libgoa-1.0-common@3.38.0-3?arch=all
+- pkg:deb/debian/libgoa-1.0-common@3.46.0-1?arch=all
+- pkg:deb/debian/libgoa-1.0-common@3.54.5-1~deb13u1?arch=all
+- pkg:deb/debian/libgoa-1.0-common@3.56.2-1?arch=all
+- pkg:deb/debian/libgoa-1.0-common@3.56.2-5?arch=all

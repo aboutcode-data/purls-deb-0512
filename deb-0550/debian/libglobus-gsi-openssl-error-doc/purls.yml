@@ -1,0 +1,3 @@
+- pkg:deb/debian/libglobus-gsi-openssl-error-doc@4.2-1?arch=all
+- pkg:deb/debian/libglobus-gsi-openssl-error-doc@4.4-2?arch=all
+- pkg:deb/debian/libglobus-gsi-openssl-error-doc@4.4-3?arch=all

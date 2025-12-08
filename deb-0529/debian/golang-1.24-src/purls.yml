@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-1.24-src@1.24.4-1?arch=all
+- pkg:deb/debian/golang-1.24-src@1.24.9-1?arch=all

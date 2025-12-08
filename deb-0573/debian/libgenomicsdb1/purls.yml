@@ -1,0 +1,6 @@
+- pkg:deb/debian/libgenomicsdb1@1.5.5-2?arch=amd64
+- pkg:deb/debian/libgenomicsdb1@1.5.5-2?arch=arm64
+- pkg:deb/debian/libgenomicsdb1@1.5.5-2?arch=armhf
+- pkg:deb/debian/libgenomicsdb1@1.5.5-2?arch=ppc64el
+- pkg:deb/debian/libgenomicsdb1@1.5.5-2?arch=riscv64
+- pkg:deb/debian/libgenomicsdb1@1.5.5-2?arch=s390x

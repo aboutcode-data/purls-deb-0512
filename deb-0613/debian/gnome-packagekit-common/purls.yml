@@ -1,0 +1,2 @@
+- pkg:deb/debian/gnome-packagekit-common@43.0-1?arch=all
+- pkg:deb/debian/gnome-packagekit-common@43.0-4?arch=all

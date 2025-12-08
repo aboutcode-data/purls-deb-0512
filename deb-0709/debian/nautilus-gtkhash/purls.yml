@@ -1,0 +1,4 @@
+- pkg:deb/debian/nautilus-gtkhash@1.2-1%2Bb2?arch=arm64
+- pkg:deb/debian/nautilus-gtkhash@1.2-1%2Bb2?arch=armhf
+- pkg:deb/debian/nautilus-gtkhash@1.2-1%2Bb2?arch=i386
+- pkg:deb/debian/nautilus-gtkhash@1.2-1%2Bb3?arch=amd64

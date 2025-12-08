@@ -1,0 +1,6 @@
+- pkg:deb/debian/goldendict-webengine@23.02.05-1?arch=amd64
+- pkg:deb/debian/goldendict-webengine@23.02.05-1?arch=arm64
+- pkg:deb/debian/goldendict-webengine@23.02.05-1?arch=armhf
+- pkg:deb/debian/goldendict-webengine@23.02.05-1?arch=i386
+- pkg:deb/debian/goldendict-webengine@23.02.05-1?arch=mips64el
+- pkg:deb/debian/goldendict-webengine@23.02.05-1?arch=mipsel

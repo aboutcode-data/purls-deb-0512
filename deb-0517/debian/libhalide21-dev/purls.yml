@@ -1,0 +1,3 @@
+- pkg:deb/debian/libhalide21-dev@21.0.0-4?arch=amd64
+- pkg:deb/debian/libhalide21-dev@21.0.0-4?arch=arm64
+- pkg:deb/debian/libhalide21-dev@21.0.0-4?arch=i386

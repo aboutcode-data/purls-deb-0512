@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-nats-io-go-nats-dev@1.22.1-1?arch=all
+- pkg:deb/debian/golang-github-nats-io-go-nats-dev@1.41.0-1?arch=all
+- pkg:deb/debian/golang-github-nats-io-go-nats-dev@1.47.0-1?arch=all
+- pkg:deb/debian/golang-github-nats-io-go-nats-dev@1.6.0%2Bgit20181112.9089d12-1.1?arch=all

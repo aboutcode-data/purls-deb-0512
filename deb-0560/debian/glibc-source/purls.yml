@@ -1,0 +1,6 @@
+- pkg:deb/debian/glibc-source@2.31-13%2Bdeb11u11?arch=all
+- pkg:deb/debian/glibc-source@2.31-13%2Bdeb11u5?arch=all
+- pkg:deb/debian/glibc-source@2.36-9%2Bdeb12u13?arch=all
+- pkg:deb/debian/glibc-source@2.41-12?arch=all
+- pkg:deb/debian/glibc-source@2.42-4?arch=all
+- pkg:deb/debian/glibc-source@2.42-5?arch=all

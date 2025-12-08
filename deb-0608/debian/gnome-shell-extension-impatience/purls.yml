@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-impatience@0.4.5-4?arch=all
+- pkg:deb/debian/gnome-shell-extension-impatience@0.4.8-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-impatience@0.5.2-3?arch=all
+- pkg:deb/debian/gnome-shell-extension-impatience@0.5.3-2?arch=all

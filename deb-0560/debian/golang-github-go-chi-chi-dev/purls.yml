@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-go-chi-chi-dev@1.5.1-2?arch=all
+- pkg:deb/debian/golang-github-go-chi-chi-dev@5.0.7-1?arch=all
+- pkg:deb/debian/golang-github-go-chi-chi-dev@5.2.0-1?arch=all
+- pkg:deb/debian/golang-github-go-chi-chi-dev@5.2.3-1?arch=all

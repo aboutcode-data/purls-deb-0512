@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-jinzhu-gorm-dev@1.9.6-1?arch=all
+- pkg:deb/debian/golang-github-jinzhu-gorm-dev@1.9.6-2?arch=all

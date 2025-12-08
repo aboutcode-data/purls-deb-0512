@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-grpc-ecosystem-grpc-opentracing-dev@0.0~git20180507.8e809c8-2?arch=all
+- pkg:deb/debian/golang-github-grpc-ecosystem-grpc-opentracing-dev@0.0~git20180507.8e809c8-3?arch=all

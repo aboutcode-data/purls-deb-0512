@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-ansi-wl-pprint-doc@0.6.9-2?arch=all
+- pkg:deb/debian/libghc-ansi-wl-pprint-doc@0.6.9-5?arch=all
+- pkg:deb/debian/libghc-ansi-wl-pprint-doc@1.0.2-1?arch=all

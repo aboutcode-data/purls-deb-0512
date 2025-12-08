@@ -1,0 +1,2 @@
+- pkg:deb/debian/gvmd-common@26.12.1-1?arch=all
+- pkg:deb/debian/gvmd-common@26.5.0-1?arch=all

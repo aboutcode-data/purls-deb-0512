@@ -1,0 +1,17 @@
+- pkg:deb/debian/libgloo0@0.0~git20200918.3dc0328-4?arch=amd64
+- pkg:deb/debian/libgloo0@0.0~git20200918.3dc0328-4?arch=arm64
+- pkg:deb/debian/libgloo0@0.0~git20220518.5b14351-3?arch=amd64
+- pkg:deb/debian/libgloo0@0.0~git20220518.5b14351-3?arch=arm64
+- pkg:deb/debian/libgloo0@0.0~git20220518.5b14351-3?arch=mips64el
+- pkg:deb/debian/libgloo0@0.0~git20220518.5b14351-3?arch=ppc64el
+- pkg:deb/debian/libgloo0@0.0~git20220518.5b14351-3?arch=s390x
+- pkg:deb/debian/libgloo0@0.0~git20231202.5354032-3%2Bb1?arch=ppc64el
+- pkg:deb/debian/libgloo0@0.0~git20231202.5354032-3%2Bb1?arch=s390x
+- pkg:deb/debian/libgloo0@0.0~git20231202.5354032-3%2Bb2?arch=amd64
+- pkg:deb/debian/libgloo0@0.0~git20231202.5354032-3%2Bb2?arch=arm64
+- pkg:deb/debian/libgloo0@0.0~git20231202.5354032-3%2Bb2?arch=riscv64
+- pkg:deb/debian/libgloo0@0.0~git20250912.d97133a-1?arch=amd64
+- pkg:deb/debian/libgloo0@0.0~git20250912.d97133a-1?arch=arm64
+- pkg:deb/debian/libgloo0@0.0~git20250912.d97133a-1?arch=ppc64el
+- pkg:deb/debian/libgloo0@0.0~git20250912.d97133a-1?arch=riscv64
+- pkg:deb/debian/libgloo0@0.0~git20250912.d97133a-1?arch=s390x

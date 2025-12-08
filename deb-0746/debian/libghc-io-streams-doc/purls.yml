@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-io-streams-doc@1.5.1.0-4?arch=all
+- pkg:deb/debian/libghc-io-streams-doc@1.5.2.2-1?arch=all
+- pkg:deb/debian/libghc-io-streams-doc@1.5.2.2-3?arch=all

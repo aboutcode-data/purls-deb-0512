@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-cowsql-go-cowsql-dev@1.22.0-2?arch=all
+- pkg:deb/debian/golang-github-cowsql-go-cowsql-dev@1.22.0-2~bpo12%2B1?arch=all

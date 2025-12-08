@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-hide-activities@0.00~git20131024.1.6574986-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-hide-activities@43-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-hide-activities@48-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-hide-activities@49-1?arch=all

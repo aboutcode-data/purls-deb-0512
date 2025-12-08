@@ -1,0 +1,2 @@
+- pkg:deb/debian/gcc-14-locales@14.2.0-19?arch=all
+- pkg:deb/debian/gcc-14-locales@14.3.0-10?arch=all

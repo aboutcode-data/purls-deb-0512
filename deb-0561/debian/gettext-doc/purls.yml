@@ -1,0 +1,4 @@
+- pkg:deb/debian/gettext-doc@0.21-12?arch=all
+- pkg:deb/debian/gettext-doc@0.21-4?arch=all
+- pkg:deb/debian/gettext-doc@0.23.1-2?arch=all
+- pkg:deb/debian/gettext-doc@0.23.2-1?arch=all

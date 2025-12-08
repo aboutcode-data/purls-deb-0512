@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-dave-jennifer-dev@1.4.1-2?arch=all
+- pkg:deb/debian/golang-github-dave-jennifer-dev@1.7.1-1?arch=all

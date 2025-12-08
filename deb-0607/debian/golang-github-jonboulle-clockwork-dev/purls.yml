@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-jonboulle-clockwork-dev@0.1.0-4.1?arch=all
+- pkg:deb/debian/golang-github-jonboulle-clockwork-dev@0.5.0%2Breally%2B0.1.0-1?arch=all

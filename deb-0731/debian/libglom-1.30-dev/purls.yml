@@ -1,0 +1,13 @@
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-6.1%2Bb3?arch=amd64
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-6.1%2Bb3?arch=arm64
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-6.1%2Bb3?arch=armhf
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-6.1%2Bb3?arch=i386
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-7%2Bb3?arch=amd64
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-7%2Bb3?arch=arm64
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-7%2Bb3?arch=armel
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-7%2Bb3?arch=armhf
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-7%2Bb3?arch=i386
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-7%2Bb3?arch=mips64el
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-7%2Bb3?arch=mipsel
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-7%2Bb3?arch=ppc64el
+- pkg:deb/debian/libglom-1.30-dev@1.30.4-7%2Bb3?arch=s390x

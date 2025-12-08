@@ -1,0 +1,13 @@
+- pkg:deb/debian/gnome-games-app@3.38.0-1?arch=amd64
+- pkg:deb/debian/gnome-games-app@3.38.0-1?arch=arm64
+- pkg:deb/debian/gnome-games-app@3.38.0-1?arch=armhf
+- pkg:deb/debian/gnome-games-app@3.38.0-1?arch=i386
+- pkg:deb/debian/gnome-games-app@40.0-4?arch=amd64
+- pkg:deb/debian/gnome-games-app@40.0-4?arch=arm64
+- pkg:deb/debian/gnome-games-app@40.0-4?arch=armel
+- pkg:deb/debian/gnome-games-app@40.0-4?arch=armhf
+- pkg:deb/debian/gnome-games-app@40.0-4?arch=i386
+- pkg:deb/debian/gnome-games-app@40.0-4?arch=mips64el
+- pkg:deb/debian/gnome-games-app@40.0-4?arch=mipsel
+- pkg:deb/debian/gnome-games-app@40.0-4?arch=ppc64el
+- pkg:deb/debian/gnome-games-app@40.0-4?arch=s390x

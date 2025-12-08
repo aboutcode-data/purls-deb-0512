@@ -1,0 +1,5 @@
+- pkg:deb/debian/gnucash-common@4.13-1?arch=all
+- pkg:deb/debian/gnucash-common@4.4-1?arch=all
+- pkg:deb/debian/gnucash-common@5.10-0.1?arch=all
+- pkg:deb/debian/gnucash-common@5.13-1?arch=all
+- pkg:deb/debian/gnucash-common@5.6-1~bpo12%2B1?arch=all

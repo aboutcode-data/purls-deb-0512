@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-hashicorp-go-azure-helpers-dev@0.13.1-2?arch=all
+- pkg:deb/debian/golang-github-hashicorp-go-azure-helpers-dev@0.13.1-3?arch=all

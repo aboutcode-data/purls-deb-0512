@@ -1,0 +1,4 @@
+- pkg:deb/debian/gdbm-l10n@1.19-2?arch=all
+- pkg:deb/debian/gdbm-l10n@1.23-3?arch=all
+- pkg:deb/debian/gdbm-l10n@1.24-2?arch=all
+- pkg:deb/debian/gdbm-l10n@1.26-1?arch=all

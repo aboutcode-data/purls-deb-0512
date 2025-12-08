@@ -1,0 +1,4 @@
+- pkg:deb/debian/geany-common@1.37.1-2?arch=all
+- pkg:deb/debian/geany-common@1.38-1?arch=all
+- pkg:deb/debian/geany-common@2.0-2?arch=all
+- pkg:deb/debian/geany-common@2.1-1?arch=all

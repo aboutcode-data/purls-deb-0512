@@ -1,0 +1,4 @@
+- pkg:deb/debian/git-buildpackage@0.9.22?arch=all
+- pkg:deb/debian/git-buildpackage@0.9.30?arch=all
+- pkg:deb/debian/git-buildpackage@0.9.38?arch=all
+- pkg:deb/debian/git-buildpackage@0.9.39?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-jaytaylor-html2text-dev@0.0~git20200412.3577fbd-2?arch=all
+- pkg:deb/debian/golang-github-jaytaylor-html2text-dev@0.0~git20211013.90c08c5-2?arch=all
+- pkg:deb/debian/golang-github-jaytaylor-html2text-dev@0.0~git20230321.74c2419-1?arch=all

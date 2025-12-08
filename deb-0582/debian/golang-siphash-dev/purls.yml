@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-siphash-dev@1.0.0-2?arch=all
+- pkg:deb/debian/golang-siphash-dev@1.2.3-2?arch=all

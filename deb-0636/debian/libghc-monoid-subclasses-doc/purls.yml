@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-monoid-subclasses-doc@1.0.1-1?arch=all
+- pkg:deb/debian/libghc-monoid-subclasses-doc@1.1.3-1?arch=all
+- pkg:deb/debian/libghc-monoid-subclasses-doc@1.2.5.1-1?arch=all

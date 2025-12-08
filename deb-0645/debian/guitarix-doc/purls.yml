@@ -1,0 +1,4 @@
+- pkg:deb/debian/guitarix-doc@0.42.1%2Bdfsg1-2?arch=all
+- pkg:deb/debian/guitarix-doc@0.44.1%2Bdfsg1-2?arch=all
+- pkg:deb/debian/guitarix-doc@0.46.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/guitarix-doc@0.47.0%2Bdfsg-1?arch=all

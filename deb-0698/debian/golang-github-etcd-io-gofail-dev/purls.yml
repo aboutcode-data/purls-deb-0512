@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-etcd-io-gofail-dev@0.0.0%2Bgit.2022.09.25.d0d2a96a6e-4?arch=all
+- pkg:deb/debian/golang-github-etcd-io-gofail-dev@0.1.0-1?arch=all

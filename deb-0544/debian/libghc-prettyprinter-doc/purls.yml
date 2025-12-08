@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-prettyprinter-doc@1.6.2-1?arch=all
+- pkg:deb/debian/libghc-prettyprinter-doc@1.7.1-1?arch=all
+- pkg:deb/debian/libghc-prettyprinter-doc@1.7.1-3?arch=all

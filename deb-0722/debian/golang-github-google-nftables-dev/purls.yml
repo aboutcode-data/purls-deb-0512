@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-google-nftables-dev@0.1.0-4~deb12u1?arch=all
+- pkg:deb/debian/golang-github-google-nftables-dev@0.2.0-3?arch=all

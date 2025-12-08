@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-openzipkin-zipkin-go-dev@0.1.5%2Bgit20190103.2fd7f4a-1.1?arch=all
+- pkg:deb/debian/golang-github-openzipkin-zipkin-go-dev@0.4.3-1?arch=all

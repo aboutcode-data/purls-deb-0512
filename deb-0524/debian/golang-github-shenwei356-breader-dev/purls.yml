@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-shenwei356-breader-dev@0.0~git20170924.21f0a70-2?arch=all
+- pkg:deb/debian/golang-github-shenwei356-breader-dev@0.3.1-1?arch=all
+- pkg:deb/debian/golang-github-shenwei356-breader-dev@0.3.2-1?arch=all

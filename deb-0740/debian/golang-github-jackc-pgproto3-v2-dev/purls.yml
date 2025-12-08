@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-jackc-pgproto3-v2-dev@2.2.0-2?arch=all
+- pkg:deb/debian/golang-github-jackc-pgproto3-v2-dev@2.3.2-1?arch=all

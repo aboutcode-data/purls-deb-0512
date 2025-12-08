@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-shirou-gopsutil-dev@2.19.11-4?arch=all
+- pkg:deb/debian/golang-github-shirou-gopsutil-dev@3.22.10-1?arch=all
+- pkg:deb/debian/golang-github-shirou-gopsutil-dev@4.24.9-2~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-shirou-gopsutil-dev@4.25.2-1?arch=all

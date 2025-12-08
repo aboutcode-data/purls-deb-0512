@@ -1,0 +1,4 @@
+- pkg:deb/debian/libstdc%2B%2B5@3.3.6-32?arch=amd64
+- pkg:deb/debian/libstdc%2B%2B5@3.3.6-32?arch=i386
+- pkg:deb/debian/libstdc%2B%2B5@3.3.6-34?arch=amd64
+- pkg:deb/debian/libstdc%2B%2B5@3.3.6-34?arch=i386

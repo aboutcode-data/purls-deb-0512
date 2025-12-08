@@ -1,0 +1,5 @@
+- pkg:deb/debian/golang-github-opencontainers-image-spec-dev@1.0.1-5?arch=all
+- pkg:deb/debian/golang-github-opencontainers-image-spec-dev@1.1.0-2?arch=all
+- pkg:deb/debian/golang-github-opencontainers-image-spec-dev@1.1.0-2~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-opencontainers-image-spec-dev@1.1.0~rc2-3?arch=all
+- pkg:deb/debian/golang-github-opencontainers-image-spec-dev@1.1.1-1?arch=all

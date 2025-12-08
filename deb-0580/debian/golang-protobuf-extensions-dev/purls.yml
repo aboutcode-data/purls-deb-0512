@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-protobuf-extensions-dev@1.0.1-1?arch=all
+- pkg:deb/debian/golang-protobuf-extensions-dev@1.0.1-3?arch=all
+- pkg:deb/debian/golang-protobuf-extensions-dev@1.0.4-2?arch=all
+- pkg:deb/debian/golang-protobuf-extensions-dev@1.0.4-3?arch=all

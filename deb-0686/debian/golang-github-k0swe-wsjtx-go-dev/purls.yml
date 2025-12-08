@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-k0swe-wsjtx-go-dev@1.1.0-2?arch=all
+- pkg:deb/debian/golang-github-k0swe-wsjtx-go-dev@4.0.1-1?arch=all
+- pkg:deb/debian/golang-github-k0swe-wsjtx-go-dev@4.0.1-2?arch=all

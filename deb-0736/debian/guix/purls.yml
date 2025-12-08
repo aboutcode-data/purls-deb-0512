@@ -1,0 +1,16 @@
+- pkg:deb/debian/guix@1.2.0-4%2Bdeb11u2?arch=amd64
+- pkg:deb/debian/guix@1.2.0-4%2Bdeb11u2?arch=arm64
+- pkg:deb/debian/guix@1.2.0-4%2Bdeb11u2?arch=armhf
+- pkg:deb/debian/guix@1.2.0-4%2Bdeb11u2?arch=i386
+- pkg:deb/debian/guix@1.4.0%2B154928%2Bf1810-1?arch=amd64
+- pkg:deb/debian/guix@1.4.0%2B154928%2Bf1810-1?arch=arm64
+- pkg:deb/debian/guix@1.4.0%2B154928%2Bf1810-1?arch=armhf
+- pkg:deb/debian/guix@1.4.0%2B154928%2Bf1810-1?arch=i386
+- pkg:deb/debian/guix@1.4.0%2B154928%2Bf1810-1?arch=ppc64el
+- pkg:deb/debian/guix@1.4.0%2B154928%2Bf1810-1?arch=riscv64
+- pkg:deb/debian/guix@1.4.0-9?arch=amd64
+- pkg:deb/debian/guix@1.4.0-9?arch=arm64
+- pkg:deb/debian/guix@1.4.0-9?arch=armhf
+- pkg:deb/debian/guix@1.4.0-9?arch=i386
+- pkg:deb/debian/guix@1.4.0-9?arch=ppc64el
+- pkg:deb/debian/guix@1.4.0-9?arch=riscv64

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-cactus-go-statsd-client-dev@4.0.0-1?arch=all
+- pkg:deb/debian/golang-github-cactus-go-statsd-client-dev@5.0.0-1?arch=all

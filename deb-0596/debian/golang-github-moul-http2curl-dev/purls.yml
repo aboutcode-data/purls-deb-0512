@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-moul-http2curl-dev@0.0~git20161031.0.4e24498%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/golang-github-moul-http2curl-dev@2.3.0-1?arch=all

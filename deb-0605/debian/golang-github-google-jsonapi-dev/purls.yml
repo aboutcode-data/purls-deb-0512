@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-google-jsonapi-dev@0.0~git20171108.0.e0fc4ee-2.1?arch=all
+- pkg:deb/debian/golang-github-google-jsonapi-dev@1.0.0-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-shell-extension-freon@43%2Bdfsg-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-freon@50%2Bdfsg-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-freon@58%2Bdfsg-2?arch=all
+- pkg:deb/debian/gnome-shell-extension-freon@58%2Bdfsg-4?arch=all

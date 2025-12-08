@@ -1,0 +1,3 @@
+- pkg:deb/debian/gdpc-examples@2.2.5-14?arch=all
+- pkg:deb/debian/gdpc-examples@2.2.5-15?arch=all
+- pkg:deb/debian/gdpc-examples@2.2.5-16?arch=all

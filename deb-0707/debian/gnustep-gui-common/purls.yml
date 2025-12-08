@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnustep-gui-common@0.28.0-3?arch=all
+- pkg:deb/debian/gnustep-gui-common@0.29.0-2?arch=all
+- pkg:deb/debian/gnustep-gui-common@0.32.0-3?arch=all
+- pkg:deb/debian/gnustep-gui-common@0.32.0-4?arch=all

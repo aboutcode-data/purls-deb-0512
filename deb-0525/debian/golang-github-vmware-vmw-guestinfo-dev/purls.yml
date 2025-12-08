@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-vmware-vmw-guestinfo-dev@0.0~git20220317.510905f-1?arch=amd64
+- pkg:deb/debian/golang-github-vmware-vmw-guestinfo-dev@0.0~git20220317.510905f-1?arch=i386

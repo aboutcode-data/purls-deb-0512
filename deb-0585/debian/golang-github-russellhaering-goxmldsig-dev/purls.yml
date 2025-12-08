@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-russellhaering-goxmldsig-dev@1.1.0-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/golang-github-russellhaering-goxmldsig-dev@1.2.0-1?arch=all

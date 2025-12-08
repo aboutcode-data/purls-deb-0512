@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-hstringtemplate-doc@0.8.7-5?arch=all
+- pkg:deb/debian/libghc-hstringtemplate-doc@0.8.8-2?arch=all
+- pkg:deb/debian/libghc-hstringtemplate-doc@0.8.8-4?arch=all

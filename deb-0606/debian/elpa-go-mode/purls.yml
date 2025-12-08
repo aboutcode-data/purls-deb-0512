@@ -1,0 +1,3 @@
+- pkg:deb/debian/elpa-go-mode@1.5.0-4?arch=all
+- pkg:deb/debian/elpa-go-mode@1.6.0%2Bgit20250311.0ed3c52-1?arch=all
+- pkg:deb/debian/elpa-go-mode@1.6.0-1?arch=all

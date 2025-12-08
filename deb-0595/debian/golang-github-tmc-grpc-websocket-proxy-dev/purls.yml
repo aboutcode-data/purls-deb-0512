@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-tmc-grpc-websocket-proxy-dev@0.0~git20200427.3cfed13-2?arch=all
+- pkg:deb/debian/golang-github-tmc-grpc-websocket-proxy-dev@0.0~git20200427.3cfed13-3?arch=all

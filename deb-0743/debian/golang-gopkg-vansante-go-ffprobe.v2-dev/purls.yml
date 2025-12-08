@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-gopkg-vansante-go-ffprobe.v2-dev@2.1.1-2?arch=all
+- pkg:deb/debian/golang-gopkg-vansante-go-ffprobe.v2-dev@2.1.1-2~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-gopkg-vansante-go-ffprobe.v2-dev@2.2.1-1?arch=all

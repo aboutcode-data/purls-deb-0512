@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-hashicorp-serf-dev@0.10.1-1?arch=all
+- pkg:deb/debian/golang-github-hashicorp-serf-dev@0.9.4~ds1-1?arch=all

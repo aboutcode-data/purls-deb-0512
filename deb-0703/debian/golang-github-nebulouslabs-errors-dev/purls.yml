@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-nebulouslabs-errors-dev@0.0~git20170430.98e1f05-1.1?arch=all
+- pkg:deb/debian/golang-github-nebulouslabs-errors-dev@0.0~git20181203.9f787ce-1?arch=all

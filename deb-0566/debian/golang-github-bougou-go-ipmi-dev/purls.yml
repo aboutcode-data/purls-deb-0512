@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-bougou-go-ipmi-dev@0.7.2-2?arch=all
+- pkg:deb/debian/golang-github-bougou-go-ipmi-dev@0.7.8-1?arch=all

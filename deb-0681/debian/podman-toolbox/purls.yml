@@ -1,0 +1,15 @@
+- pkg:deb/debian/podman-toolbox@0.0.99.3%2Bgit20230118%2B446d7bfdef6a-2?arch=amd64
+- pkg:deb/debian/podman-toolbox@0.0.99.3%2Bgit20230118%2B446d7bfdef6a-2?arch=arm64
+- pkg:deb/debian/podman-toolbox@0.0.99.3%2Bgit20230118%2B446d7bfdef6a-2?arch=armel
+- pkg:deb/debian/podman-toolbox@0.0.99.3%2Bgit20230118%2B446d7bfdef6a-2?arch=armhf
+- pkg:deb/debian/podman-toolbox@0.0.99.3%2Bgit20230118%2B446d7bfdef6a-2?arch=i386
+- pkg:deb/debian/podman-toolbox@0.0.99.3%2Bgit20230118%2B446d7bfdef6a-2?arch=ppc64el
+- pkg:deb/debian/podman-toolbox@0.0.99.3%2Bgit20230118%2B446d7bfdef6a-2?arch=s390x
+- pkg:deb/debian/podman-toolbox@0.0.99.4-2?arch=amd64
+- pkg:deb/debian/podman-toolbox@0.0.99.4-2?arch=arm64
+- pkg:deb/debian/podman-toolbox@0.0.99.4-2?arch=armel
+- pkg:deb/debian/podman-toolbox@0.0.99.4-2?arch=armhf
+- pkg:deb/debian/podman-toolbox@0.0.99.4-2?arch=i386
+- pkg:deb/debian/podman-toolbox@0.0.99.4-2?arch=ppc64el
+- pkg:deb/debian/podman-toolbox@0.0.99.4-2?arch=riscv64
+- pkg:deb/debian/podman-toolbox@0.0.99.4-2?arch=s390x

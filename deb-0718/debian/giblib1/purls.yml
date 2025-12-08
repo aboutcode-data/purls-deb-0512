@@ -1,0 +1,4 @@
+- pkg:deb/debian/giblib1@1.2.4-13?arch=amd64
+- pkg:deb/debian/giblib1@1.2.4-13?arch=arm64
+- pkg:deb/debian/giblib1@1.2.4-13?arch=armhf
+- pkg:deb/debian/giblib1@1.2.4-13?arch=i386

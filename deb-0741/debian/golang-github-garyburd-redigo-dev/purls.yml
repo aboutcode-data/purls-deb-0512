@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-garyburd-redigo-dev@0.0~git20150901.0.d8dbe4d-2.1?arch=all
+- pkg:deb/debian/golang-github-garyburd-redigo-dev@0.0~git20220831.5b01704-1?arch=all

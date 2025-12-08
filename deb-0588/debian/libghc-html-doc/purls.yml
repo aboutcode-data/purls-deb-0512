@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-html-doc@1.0.1.2-16?arch=all
+- pkg:deb/debian/libghc-html-doc@1.0.1.2-17?arch=all
+- pkg:deb/debian/libghc-html-doc@1.0.1.2-19?arch=all

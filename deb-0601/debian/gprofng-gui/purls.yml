@@ -1,0 +1,2 @@
+- pkg:deb/debian/gprofng-gui@1.0-1?arch=all
+- pkg:deb/debian/gprofng-gui@2.2-1?arch=all

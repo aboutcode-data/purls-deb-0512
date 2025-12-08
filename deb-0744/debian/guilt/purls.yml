@@ -1,0 +1,2 @@
+- pkg:deb/debian/guilt@0.36-2?arch=all
+- pkg:deb/debian/guilt@0.36-3?arch=all

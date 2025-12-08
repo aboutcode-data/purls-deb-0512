@@ -1,0 +1,4 @@
+- pkg:deb/debian/geneagrapher@1.0c2%2Bgit20180919-2?arch=all
+- pkg:deb/debian/geneagrapher@1.0c2%2Bgit20220519-1?arch=all
+- pkg:deb/debian/geneagrapher@2.0.0-1?arch=all
+- pkg:deb/debian/geneagrapher@2.0.0-2?arch=all

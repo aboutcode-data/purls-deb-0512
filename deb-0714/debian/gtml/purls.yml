@@ -1,0 +1,4 @@
+- pkg:deb/debian/gtml@3.5.4-30?arch=all
+- pkg:deb/debian/gtml@3.6.1-2?arch=all
+- pkg:deb/debian/gtml@3.6.1-3?arch=all
+- pkg:deb/debian/gtml@3.6.1-4?arch=all

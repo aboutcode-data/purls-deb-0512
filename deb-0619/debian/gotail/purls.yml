@@ -1,0 +1,4 @@
+- pkg:deb/debian/gotail@1.0.0%2Bgit20180327.c434825-4%2Bb5?arch=amd64
+- pkg:deb/debian/gotail@1.0.0%2Bgit20180327.c434825-4%2Bb5?arch=arm64
+- pkg:deb/debian/gotail@1.0.0%2Bgit20180327.c434825-4%2Bb5?arch=armhf
+- pkg:deb/debian/gotail@1.0.0%2Bgit20180327.c434825-4%2Bb5?arch=i386

@@ -1,0 +1,9 @@
+- pkg:deb/debian/gjh-asl-json@0.0%2Bgit20180428.eb8720e-2?arch=amd64
+- pkg:deb/debian/gjh-asl-json@0.0%2Bgit20180428.eb8720e-2?arch=arm64
+- pkg:deb/debian/gjh-asl-json@0.0%2Bgit20210628.867c5da-1%2Bb1?arch=arm64
+- pkg:deb/debian/gjh-asl-json@0.0%2Bgit20210628.867c5da-1%2Bb1?arch=riscv64
+- pkg:deb/debian/gjh-asl-json@0.0%2Bgit20210628.867c5da-1?arch=amd64
+- pkg:deb/debian/gjh-asl-json@0.0%2Bgit20210628.867c5da-1?arch=arm64
+- pkg:deb/debian/gjh-asl-json@0.0%2Bgit20210628.867c5da-1?arch=mips64el
+- pkg:deb/debian/gjh-asl-json@0.0%2Bgit20210628.867c5da-1?arch=ppc64el
+- pkg:deb/debian/gjh-asl-json@0.0%2Bgit20210628.867c5da-1?arch=s390x

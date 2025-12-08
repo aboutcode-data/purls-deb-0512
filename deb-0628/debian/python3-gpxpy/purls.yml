@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-gpxpy@1.4.2-1?arch=all
+- pkg:deb/debian/python3-gpxpy@1.5.0-1?arch=all
+- pkg:deb/debian/python3-gpxpy@1.6.2-1?arch=all

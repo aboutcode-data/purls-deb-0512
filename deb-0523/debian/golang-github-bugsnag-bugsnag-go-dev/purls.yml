@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-bugsnag-bugsnag-go-dev@1.7.0-1?arch=all
+- pkg:deb/debian/golang-github-bugsnag-bugsnag-go-dev@1.7.0-2?arch=all
+- pkg:deb/debian/golang-github-bugsnag-bugsnag-go-dev@2.5.1-1?arch=all

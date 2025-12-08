@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-pid1-doc@0.1.2.0-4?arch=all
+- pkg:deb/debian/libghc-pid1-doc@0.1.3.0-1?arch=all
+- pkg:deb/debian/libghc-pid1-doc@0.1.3.1-2?arch=all

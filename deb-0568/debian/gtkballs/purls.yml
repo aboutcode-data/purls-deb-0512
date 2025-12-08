@@ -1,0 +1,17 @@
+- pkg:deb/debian/gtkballs@3.1.5%2Bgit20210713.6e53b66-2?arch=amd64
+- pkg:deb/debian/gtkballs@3.1.5%2Bgit20210713.6e53b66-2?arch=arm64
+- pkg:deb/debian/gtkballs@3.1.5%2Bgit20210713.6e53b66-2?arch=armel
+- pkg:deb/debian/gtkballs@3.1.5%2Bgit20210713.6e53b66-2?arch=armhf
+- pkg:deb/debian/gtkballs@3.1.5%2Bgit20210713.6e53b66-2?arch=i386
+- pkg:deb/debian/gtkballs@3.1.5%2Bgit20210713.6e53b66-2?arch=ppc64el
+- pkg:deb/debian/gtkballs@3.1.5%2Bgit20210713.6e53b66-2?arch=riscv64
+- pkg:deb/debian/gtkballs@3.1.5%2Bgit20210713.6e53b66-2?arch=s390x
+- pkg:deb/debian/gtkballs@3.1.5-12?arch=amd64
+- pkg:deb/debian/gtkballs@3.1.5-12?arch=arm64
+- pkg:deb/debian/gtkballs@3.1.5-12?arch=armel
+- pkg:deb/debian/gtkballs@3.1.5-12?arch=armhf
+- pkg:deb/debian/gtkballs@3.1.5-12?arch=i386
+- pkg:deb/debian/gtkballs@3.1.5-12?arch=mips64el
+- pkg:deb/debian/gtkballs@3.1.5-12?arch=mipsel
+- pkg:deb/debian/gtkballs@3.1.5-12?arch=ppc64el
+- pkg:deb/debian/gtkballs@3.1.5-12?arch=s390x

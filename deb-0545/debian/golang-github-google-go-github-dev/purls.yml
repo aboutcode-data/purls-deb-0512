@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-google-go-github-dev@32.1.0-2?arch=all
+- pkg:deb/debian/golang-github-google-go-github-dev@48.1.0-2?arch=all
+- pkg:deb/debian/golang-github-google-go-github-dev@60.0.0-1?arch=all

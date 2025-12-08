@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgnatprj8-dev@2021.0.0.0778b109-5?arch=amd64
+- pkg:deb/debian/libgnatprj8-dev@2021.0.0.0778b109-5?arch=arm64
+- pkg:deb/debian/libgnatprj8-dev@2021.0.0.0778b109-5?arch=armhf
+- pkg:deb/debian/libgnatprj8-dev@2021.0.0.0778b109-5?arch=i386

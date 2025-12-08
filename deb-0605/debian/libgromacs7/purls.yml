@@ -1,0 +1,5 @@
+- pkg:deb/debian/libgromacs7@2022.5-2?arch=amd64
+- pkg:deb/debian/libgromacs7@2022.5-2?arch=arm64
+- pkg:deb/debian/libgromacs7@2022.5-2?arch=mips64el
+- pkg:deb/debian/libgromacs7@2022.5-2?arch=ppc64el
+- pkg:deb/debian/libgromacs7@2022.5-2?arch=s390x

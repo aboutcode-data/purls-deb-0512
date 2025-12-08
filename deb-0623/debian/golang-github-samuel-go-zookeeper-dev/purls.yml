@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-samuel-go-zookeeper-dev@0.0~git20180130.c4fab1a-1?arch=all
+- pkg:deb/debian/golang-github-samuel-go-zookeeper-dev@0.0~git20201211.7117e9e-1?arch=all

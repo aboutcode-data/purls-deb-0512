@@ -1,0 +1,2 @@
+- pkg:deb/debian/gosa-plugins-dhcp-schema@2.8~git20211027.5741b8f-4%2Bdeb12u2?arch=all
+- pkg:deb/debian/gosa-plugins-dhcp-schema@2.8~git20211027.5741b8f-9?arch=all

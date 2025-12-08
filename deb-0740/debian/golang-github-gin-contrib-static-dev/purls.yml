@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-gin-contrib-static-dev@0.0~git20200916.d45d9a3-1?arch=all
+- pkg:deb/debian/golang-github-gin-contrib-static-dev@0.0~git20220829.3035101-1?arch=all

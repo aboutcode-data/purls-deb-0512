@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-go-openapi-loads-dev@0.15.0-1?arch=all
+- pkg:deb/debian/golang-github-go-openapi-loads-dev@0.21.1-2?arch=all
+- pkg:deb/debian/golang-github-go-openapi-loads-dev@0.22.0-1?arch=all
+- pkg:deb/debian/golang-github-go-openapi-loads-dev@0.23.1-2?arch=all

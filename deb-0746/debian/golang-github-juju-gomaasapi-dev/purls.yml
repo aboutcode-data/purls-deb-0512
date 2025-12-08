@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-juju-gomaasapi-dev@2.0.0-1?arch=all
+- pkg:deb/debian/golang-github-juju-gomaasapi-dev@2.2.0-1?arch=all

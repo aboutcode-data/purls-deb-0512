@@ -1,0 +1,15 @@
+- pkg:deb/debian/goldendict@1.5.0%2Bgit20250409%2Brm-2?arch=all
+- pkg:deb/debian/goldendict@1.5.0%2Bgit20251011%2Brm-1?arch=all
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20200409%2Bds-2?arch=amd64
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20200409%2Bds-2?arch=arm64
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20200409%2Bds-2?arch=armhf
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20200409%2Bds-2?arch=i386
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20221126%2Bds-1%2Bb1?arch=amd64
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20221126%2Bds-1%2Bb1?arch=arm64
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20221126%2Bds-1%2Bb1?arch=armel
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20221126%2Bds-1%2Bb1?arch=armhf
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20221126%2Bds-1%2Bb1?arch=i386
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20221126%2Bds-1%2Bb1?arch=mips64el
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20221126%2Bds-1%2Bb1?arch=mipsel
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20221126%2Bds-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/goldendict@1.5.0~rc2%2Bgit20221126%2Bds-1%2Bb1?arch=s390x

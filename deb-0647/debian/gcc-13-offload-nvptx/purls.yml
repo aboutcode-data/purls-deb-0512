@@ -1,0 +1,6 @@
+- pkg:deb/debian/gcc-13-offload-nvptx@13.3.0-16?arch=amd64
+- pkg:deb/debian/gcc-13-offload-nvptx@13.3.0-16?arch=arm64
+- pkg:deb/debian/gcc-13-offload-nvptx@13.3.0-16?arch=ppc64el
+- pkg:deb/debian/gcc-13-offload-nvptx@13.4.0-4?arch=amd64
+- pkg:deb/debian/gcc-13-offload-nvptx@13.4.0-4?arch=arm64
+- pkg:deb/debian/gcc-13-offload-nvptx@13.4.0-4?arch=ppc64el

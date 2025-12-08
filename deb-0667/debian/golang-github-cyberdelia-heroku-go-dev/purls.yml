@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-cyberdelia-heroku-go-dev@5.2.1-1?arch=all
+- pkg:deb/debian/golang-github-cyberdelia-heroku-go-dev@5.5.0-1?arch=all

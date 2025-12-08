@@ -1,0 +1,3 @@
+- pkg:deb/debian/gwakeonlan@0.8.5-1?arch=all
+- pkg:deb/debian/gwakeonlan@0.8.6-1?arch=all
+- pkg:deb/debian/gwakeonlan@0.8.6-2?arch=all

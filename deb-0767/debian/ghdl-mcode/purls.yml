@@ -1,0 +1,6 @@
+- pkg:deb/debian/ghdl-mcode@1.0.0%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/ghdl-mcode@1.0.0%2Bdfsg-3?arch=i386
+- pkg:deb/debian/ghdl-mcode@2.0.0%2Bdfsg-6.2?arch=amd64
+- pkg:deb/debian/ghdl-mcode@2.0.0%2Bdfsg-6.2?arch=i386
+- pkg:deb/debian/ghdl-mcode@5.0.1%2Bdfsg-1%2Bb1?arch=amd64
+- pkg:deb/debian/ghdl-mcode@5.0.1%2Bdfsg-1%2Bb2?arch=amd64

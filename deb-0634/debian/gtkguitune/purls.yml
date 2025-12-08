@@ -1,0 +1,9 @@
+- pkg:deb/debian/gtkguitune@0.8-6%2Bb3?arch=amd64
+- pkg:deb/debian/gtkguitune@0.8-6%2Bb3?arch=arm64
+- pkg:deb/debian/gtkguitune@0.8-6%2Bb3?arch=armel
+- pkg:deb/debian/gtkguitune@0.8-6%2Bb3?arch=armhf
+- pkg:deb/debian/gtkguitune@0.8-6%2Bb3?arch=i386
+- pkg:deb/debian/gtkguitune@0.8-6%2Bb3?arch=mips64el
+- pkg:deb/debian/gtkguitune@0.8-6%2Bb3?arch=mipsel
+- pkg:deb/debian/gtkguitune@0.8-6%2Bb3?arch=ppc64el
+- pkg:deb/debian/gtkguitune@0.8-6%2Bb3?arch=s390x

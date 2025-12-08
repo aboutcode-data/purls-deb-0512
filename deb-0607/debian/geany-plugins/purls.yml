@@ -1,0 +1,4 @@
+- pkg:deb/debian/geany-plugins@1.37%2Bdfsg-6?arch=all
+- pkg:deb/debian/geany-plugins@1.38%2Bdfsg-2?arch=all
+- pkg:deb/debian/geany-plugins@2.0-6?arch=all
+- pkg:deb/debian/geany-plugins@2.1%2Bdfsg-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-prometheus-common-dev@0.15.0-2?arch=all
+- pkg:deb/debian/golang-github-prometheus-common-dev@0.39.0-2?arch=all
+- pkg:deb/debian/golang-github-prometheus-common-dev@0.62.0-3?arch=all
+- pkg:deb/debian/golang-github-prometheus-common-dev@0.65.0-1?arch=all

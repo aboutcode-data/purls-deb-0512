@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-user-docs@3.38.2-1?arch=all
+- pkg:deb/debian/gnome-user-docs@43.0-2?arch=all
+- pkg:deb/debian/gnome-user-docs@48.2-1?arch=all
+- pkg:deb/debian/gnome-user-docs@49.1-1?arch=all

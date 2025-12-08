@@ -1,0 +1,14 @@
+- pkg:deb/debian/ghostwriter@1.8.1-2?arch=amd64
+- pkg:deb/debian/ghostwriter@1.8.1-2?arch=arm64
+- pkg:deb/debian/ghostwriter@1.8.1-2?arch=armhf
+- pkg:deb/debian/ghostwriter@1.8.1-2?arch=i386
+- pkg:deb/debian/ghostwriter@2.1.6%2Bds-2?arch=amd64
+- pkg:deb/debian/ghostwriter@2.1.6%2Bds-2?arch=arm64
+- pkg:deb/debian/ghostwriter@2.1.6%2Bds-2?arch=armhf
+- pkg:deb/debian/ghostwriter@2.1.6%2Bds-2?arch=i386
+- pkg:deb/debian/ghostwriter@2.1.6%2Bds-2?arch=mips64el
+- pkg:deb/debian/ghostwriter@2.1.6%2Bds-2?arch=mipsel
+- pkg:deb/debian/ghostwriter@25.04.0%2Bds-1?arch=amd64
+- pkg:deb/debian/ghostwriter@25.04.0%2Bds-1?arch=arm64
+- pkg:deb/debian/ghostwriter@25.04.0%2Bds-1?arch=armhf
+- pkg:deb/debian/ghostwriter@25.04.0%2Bds-1?arch=i386

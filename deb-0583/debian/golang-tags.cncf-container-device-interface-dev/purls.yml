@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-tags.cncf-container-device-interface-dev@0.8.0-5?arch=all
+- pkg:deb/debian/golang-tags.cncf-container-device-interface-dev@1.0.1-1?arch=all

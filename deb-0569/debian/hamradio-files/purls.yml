@@ -1,0 +1,4 @@
+- pkg:deb/debian/hamradio-files@20210608?arch=all
+- pkg:deb/debian/hamradio-files@20230502?arch=all
+- pkg:deb/debian/hamradio-files@20250523?arch=all
+- pkg:deb/debian/hamradio-files@20251125?arch=all

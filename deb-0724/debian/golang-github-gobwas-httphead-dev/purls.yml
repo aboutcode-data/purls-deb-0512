@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-gobwas-httphead-dev@0.1.0-2?arch=all
+- pkg:deb/debian/golang-github-gobwas-httphead-dev@0.1.0-3?arch=all

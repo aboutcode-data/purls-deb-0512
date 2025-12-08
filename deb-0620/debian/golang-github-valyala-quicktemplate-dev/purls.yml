@@ -1,0 +1,3 @@
+- pkg:deb/debian/golang-github-valyala-quicktemplate-dev@1.6.3%2Bds-3?arch=all
+- pkg:deb/debian/golang-github-valyala-quicktemplate-dev@1.7.0%2Bds1-1?arch=all
+- pkg:deb/debian/golang-github-valyala-quicktemplate-dev@1.8.0%2Bds1-2?arch=all

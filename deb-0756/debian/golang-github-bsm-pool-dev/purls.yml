@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-bsm-pool-dev@0.8.0-5?arch=all
+- pkg:deb/debian/golang-github-bsm-pool-dev@0.8.0-7?arch=all

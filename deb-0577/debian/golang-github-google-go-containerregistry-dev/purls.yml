@@ -1,0 +1,10 @@
+- pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.14.0%2Bds1-2~bpo12%2B1?arch=amd64
+- pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.14.0%2Bds1-2~bpo12%2B1?arch=arm64
+- pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.14.0%2Bds1-2~bpo12%2B1?arch=armel
+- pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.14.0%2Bds1-2~bpo12%2B1?arch=armhf
+- pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.14.0%2Bds1-2~bpo12%2B1?arch=i386
+- pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.14.0%2Bds1-2~bpo12%2B1?arch=mips64el
+- pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.14.0%2Bds1-2~bpo12%2B1?arch=mipsel
+- pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.14.0%2Bds1-2~bpo12%2B1?arch=ppc64el
+- pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.14.0%2Bds1-2~bpo12%2B1?arch=s390x
+- pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.20.1%2Bds1-1?arch=all

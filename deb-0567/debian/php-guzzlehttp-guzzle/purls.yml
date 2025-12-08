@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-guzzlehttp-guzzle@7.4.5-1?arch=all
+- pkg:deb/debian/php-guzzlehttp-guzzle@7.9.2-0.1?arch=all

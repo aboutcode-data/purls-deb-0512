@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-go-jose-go-jose-dev@4.0.5-1?arch=all
+- pkg:deb/debian/golang-github-go-jose-go-jose-dev@4.0.5-1~bpo12%2B1?arch=all

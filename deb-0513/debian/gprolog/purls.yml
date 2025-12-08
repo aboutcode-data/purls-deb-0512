@@ -1,0 +1,2 @@
+- pkg:deb/debian/gprolog@1.4.5.0-3?arch=amd64
+- pkg:deb/debian/gprolog@1.4.5.0-3?arch=i386

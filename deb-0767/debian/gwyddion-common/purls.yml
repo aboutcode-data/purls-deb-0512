@@ -1,0 +1,3 @@
+- pkg:deb/debian/gwyddion-common@2.57-1?arch=all
+- pkg:deb/debian/gwyddion-common@2.62-1?arch=all
+- pkg:deb/debian/gwyddion-common@2.67-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-streadway-amqp-dev@0.0~git20200716.e6b33f4-2?arch=all
+- pkg:deb/debian/golang-github-streadway-amqp-dev@0.0~git20200716.e6b33f4-3?arch=all
