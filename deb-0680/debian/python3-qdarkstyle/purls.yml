@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-qdarkstyle@2.8.1%2Bds1-3?arch=all
+- pkg:deb/debian/python3-qdarkstyle@3.1%2Bds1-1?arch=all
+- pkg:deb/debian/python3-qdarkstyle@3.2.3%2Bds1-3?arch=all

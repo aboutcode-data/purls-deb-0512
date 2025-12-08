@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-criterion-dev@0.3.6-4?arch=all
+- pkg:deb/debian/librust-criterion-dev@0.5.1-10?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-fastimport@0.9.14-2.1?arch=all
+- pkg:deb/debian/python3-fastimport@0.9.8-5?arch=all

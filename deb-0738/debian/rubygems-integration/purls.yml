@@ -1,0 +1,2 @@
+- pkg:deb/debian/rubygems-integration@1.18?arch=all
+- pkg:deb/debian/rubygems-integration@1.19?arch=all

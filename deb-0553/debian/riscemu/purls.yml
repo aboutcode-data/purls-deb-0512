@@ -1,0 +1,2 @@
+- pkg:deb/debian/riscemu@2.2.7-1?arch=all
+- pkg:deb/debian/riscemu@2.2.7-2?arch=all

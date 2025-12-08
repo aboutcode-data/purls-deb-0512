@@ -1,0 +1,2 @@
+- pkg:deb/debian/puppet-module-saz-memcached@3.1.0-1?arch=all
+- pkg:deb/debian/puppet-module-saz-memcached@8.2.0-4?arch=all

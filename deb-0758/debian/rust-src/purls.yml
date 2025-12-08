@@ -1,0 +1,10 @@
+- pkg:deb/debian/rust-src@1.48.0%2Bdfsg1-2?arch=all
+- pkg:deb/debian/rust-src@1.63.0%2Bdfsg1-2?arch=all
+- pkg:deb/debian/rust-src@1.85.0%2Bdfsg3-1?arch=all
+- pkg:deb/debian/rust-src@1.86.0%2Bdfsg1-1~bpo13%2B2?arch=all
+- pkg:deb/debian/rust-src@1.87.0%2Bdfsg1-1~bpo13%2B2?arch=all
+- pkg:deb/debian/rust-src@1.88.0%2Bdfsg1-2~bpo13%2B1?arch=all
+- pkg:deb/debian/rust-src@1.89.0%2Bdfsg1-1~bpo13%2B2?arch=all
+- pkg:deb/debian/rust-src@1.90.0%2Bdfsg1-1?arch=all
+- pkg:deb/debian/rust-src@1.90.0%2Bdfsg1-1~bpo13%2B1?arch=all
+- pkg:deb/debian/rust-src@1.90.0%2Bdfsg1-1~bpo13%2B2?arch=all

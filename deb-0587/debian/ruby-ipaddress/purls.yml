@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-ipaddress@0.8.3-3?arch=all
+- pkg:deb/debian/ruby-ipaddress@0.8.3-5?arch=all

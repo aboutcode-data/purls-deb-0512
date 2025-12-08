@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-app-store-connect@0.37.0-2?arch=all
+- pkg:deb/debian/ruby-app-store-connect@0.38.0-1?arch=all

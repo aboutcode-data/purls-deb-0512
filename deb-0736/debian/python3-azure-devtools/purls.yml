@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-azure-devtools@1.2.0-1?arch=all
+- pkg:deb/debian/python3-azure-devtools@1.2.0-4?arch=all
+- pkg:deb/debian/python3-azure-devtools@1.2.0-6?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-rr@1.2.1-2.1?arch=all
+- pkg:deb/debian/ruby-rr@3.1.0-1?arch=all
+- pkg:deb/debian/ruby-rr@3.1.2-1?arch=all

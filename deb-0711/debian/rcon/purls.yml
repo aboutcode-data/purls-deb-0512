@@ -1,0 +1,2 @@
+- pkg:deb/debian/rcon@2.3.9-1?arch=all
+- pkg:deb/debian/rcon@2.4.9-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-hgapi@1.7.3%2Bgit20170127.dd8fb7b-3?arch=all
+- pkg:deb/debian/python3-hgapi@1.7.3%2Bgit20170127.dd8fb7b-4?arch=all
+- pkg:deb/debian/python3-hgapi@1.7.3%2Bgit20170127.dd8fb7b-5?arch=all

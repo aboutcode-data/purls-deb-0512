@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-editor@1.0.3-10?arch=all
+- pkg:deb/debian/python3-editor@1.0.3-2?arch=all
+- pkg:deb/debian/python3-editor@1.0.3-3?arch=all

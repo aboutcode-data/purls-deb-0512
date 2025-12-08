@@ -1,0 +1,4 @@
+- pkg:deb/debian/puppet-module-manila@16.3.0-2?arch=all
+- pkg:deb/debian/puppet-module-manila@21.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-manila@25.0.0-2?arch=all
+- pkg:deb/debian/puppet-module-manila@27.0.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/librocblas4-bench@6.4.4-2?arch=amd64
+- pkg:deb/debian/librocblas4-bench@6.4.4-2?arch=arm64

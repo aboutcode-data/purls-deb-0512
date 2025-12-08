@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-sigstore-rekor-dev@1.3.9-1?arch=all
+- pkg:deb/debian/golang-github-sigstore-rekor-dev@1.4.2-1?arch=all

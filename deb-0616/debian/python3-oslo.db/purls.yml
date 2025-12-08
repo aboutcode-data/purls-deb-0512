@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-oslo.db@12.1.0-3?arch=all
+- pkg:deb/debian/python3-oslo.db@17.2.1-2?arch=all
+- pkg:deb/debian/python3-oslo.db@17.4.0-2?arch=all
+- pkg:deb/debian/python3-oslo.db@8.4.0-2?arch=all

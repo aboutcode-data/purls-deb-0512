@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-rack-parser@0.7.0-2?arch=all
+- pkg:deb/debian/ruby-rack-parser@0.7.0-3?arch=all

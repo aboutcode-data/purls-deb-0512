@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-snowplow-tracker@0.6.1-2?arch=all
+- pkg:deb/debian/ruby-snowplow-tracker@0.8.0-2?arch=all

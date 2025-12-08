@@ -1,0 +1,4 @@
+- pkg:deb/debian/puredata64@0.55.2%2Bds-1~bpo12%2B1?arch=all
+- pkg:deb/debian/puredata64@0.55.2%2Bds-2?arch=all
+- pkg:deb/debian/puredata64@0.56.2%2Bds-1?arch=all
+- pkg:deb/debian/puredata64@0.56.2%2Bds-1~bpo13%2B1?arch=all

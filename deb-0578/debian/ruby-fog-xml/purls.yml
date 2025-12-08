@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-fog-xml@0.1.1-5.1?arch=all
+- pkg:deb/debian/ruby-fog-xml@0.1.5-1?arch=all

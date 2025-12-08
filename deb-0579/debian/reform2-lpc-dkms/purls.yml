@@ -1,0 +1,4 @@
+- pkg:deb/debian/reform2-lpc-dkms@1.71-2?arch=all
+- pkg:deb/debian/reform2-lpc-dkms@1.82-2?arch=all
+- pkg:deb/debian/reform2-lpc-dkms@1.82-2~bpo13%2B1?arch=all
+- pkg:deb/debian/reform2-lpc-dkms@1.82-2~bpo13%2B2?arch=all

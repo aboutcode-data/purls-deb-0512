@@ -1,0 +1,10 @@
+- pkg:deb/debian/qemu-web-desktop@23.02.16%2Bds1-1?arch=amd64
+- pkg:deb/debian/qemu-web-desktop@23.02.16%2Bds1-1?arch=arm64
+- pkg:deb/debian/qemu-web-desktop@23.02.16%2Bds1-1?arch=ppc64el
+- pkg:deb/debian/qemu-web-desktop@23.06.22%2Bds1-2~bpo12%2B1?arch=amd64
+- pkg:deb/debian/qemu-web-desktop@23.06.22%2Bds1-2~bpo12%2B1?arch=arm64
+- pkg:deb/debian/qemu-web-desktop@23.06.22%2Bds1-2~bpo12%2B1?arch=ppc64el
+- pkg:deb/debian/qemu-web-desktop@25.04.05%2Bds1-1?arch=amd64
+- pkg:deb/debian/qemu-web-desktop@25.04.05%2Bds1-1?arch=arm64
+- pkg:deb/debian/qemu-web-desktop@25.04.05%2Bds1-1?arch=ppc64el
+- pkg:deb/debian/qemu-web-desktop@25.04.05%2Bds1-1?arch=riscv64

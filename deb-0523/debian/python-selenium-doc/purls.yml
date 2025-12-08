@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-selenium-doc@4.24.4%2Bdfsg-1?arch=all
+- pkg:deb/debian/python-selenium-doc@4.8.3%2Bdfsg-1?arch=all

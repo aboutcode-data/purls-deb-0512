@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-gnuplotlib@0.37-1?arch=all
+- pkg:deb/debian/python3-gnuplotlib@0.39-1?arch=all
+- pkg:deb/debian/python3-gnuplotlib@0.45-1?arch=all
+- pkg:deb/debian/python3-gnuplotlib@0.46-1?arch=all

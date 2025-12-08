@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-chm-dbg@0.8.6-2%2Bb3?arch=amd64
+- pkg:deb/debian/python3-chm-dbg@0.8.6-2%2Bb3?arch=arm64
+- pkg:deb/debian/python3-chm-dbg@0.8.6-2%2Bb3?arch=armhf
+- pkg:deb/debian/python3-chm-dbg@0.8.6-2%2Bb3?arch=i386

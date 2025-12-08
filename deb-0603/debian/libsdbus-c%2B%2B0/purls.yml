@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsdbus-c%2B%2B0@0.8.3-4?arch=amd64
+- pkg:deb/debian/libsdbus-c%2B%2B0@0.8.3-4?arch=arm64
+- pkg:deb/debian/libsdbus-c%2B%2B0@0.8.3-4?arch=armhf
+- pkg:deb/debian/libsdbus-c%2B%2B0@0.8.3-4?arch=i386

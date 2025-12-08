@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-plist@3.2.0-1.1?arch=all
+- pkg:deb/debian/ruby-plist@3.6.0-1?arch=all
+- pkg:deb/debian/ruby-plist@3.7.0-1?arch=all
+- pkg:deb/debian/ruby-plist@3.7.2-1?arch=all

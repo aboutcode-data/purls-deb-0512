@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-test-construct@2.0.2-1?arch=all
+- pkg:deb/debian/ruby-test-construct@2.0.2-4?arch=all

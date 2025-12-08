@@ -1,0 +1,3 @@
+- pkg:deb/debian/s390-tools@2.16.0-2?arch=s390x
+- pkg:deb/debian/s390-tools@2.35.0-1?arch=s390x
+- pkg:deb/debian/s390-tools@2.35.0-2?arch=s390x

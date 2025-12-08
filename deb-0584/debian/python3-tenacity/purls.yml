@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-tenacity@6.2.0-4?arch=all
+- pkg:deb/debian/python3-tenacity@8.2.1-1?arch=all
+- pkg:deb/debian/python3-tenacity@8.4.2%2Breally8.4.1-2?arch=all
+- pkg:deb/debian/python3-tenacity@9.1.2-2?arch=all

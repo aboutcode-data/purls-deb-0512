@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-fog-aws@3.15.0-1?arch=all
+- pkg:deb/debian/ruby-fog-aws@3.18.0-2?arch=all
+- pkg:deb/debian/ruby-fog-aws@3.33.1-1?arch=all
+- pkg:deb/debian/ruby-fog-aws@3.8.0-1?arch=all

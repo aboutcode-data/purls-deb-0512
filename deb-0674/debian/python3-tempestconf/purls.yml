@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-tempestconf@2.5.0-4?arch=all
+- pkg:deb/debian/python3-tempestconf@3.5.1-1?arch=all

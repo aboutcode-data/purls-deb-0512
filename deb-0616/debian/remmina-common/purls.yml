@@ -1,0 +1,4 @@
+- pkg:deb/debian/remmina-common@1.4.11%2Bdfsg-3?arch=all
+- pkg:deb/debian/remmina-common@1.4.29%2Bdfsg-1?arch=all
+- pkg:deb/debian/remmina-common@1.4.39%2Bdfsg-1?arch=all
+- pkg:deb/debian/remmina-common@1.4.40%2Bdfsg-2?arch=all

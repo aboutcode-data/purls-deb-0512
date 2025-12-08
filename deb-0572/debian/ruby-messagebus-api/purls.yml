@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-messagebus-api@3.0.7%2Bgit.20130130.97b34ece.REALLY.1.0.3-2.1?arch=all
+- pkg:deb/debian/ruby-messagebus-api@3.0.7%2Bgit.20130130.97b34ece.REALLY.1.0.3-3?arch=all
+- pkg:deb/debian/ruby-messagebus-api@3.0.7%2Bgit.20130130.97b34ece.REALLY.1.0.3-4?arch=all

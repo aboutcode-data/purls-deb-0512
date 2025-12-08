@@ -1,0 +1,6 @@
+- pkg:deb/debian/rio@1.07-14?arch=amd64
+- pkg:deb/debian/rio@1.07-14?arch=i386
+- pkg:deb/debian/rio@1.07-15?arch=amd64
+- pkg:deb/debian/rio@1.07-15?arch=i386
+- pkg:deb/debian/rio@1.07-16?arch=amd64
+- pkg:deb/debian/rio@1.07-16?arch=i386

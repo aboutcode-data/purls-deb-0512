@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-pwntools@4.14.1-1?arch=all
+- pkg:deb/debian/python3-pwntools@4.15.0-1?arch=all
+- pkg:deb/debian/python3-pwntools@4.9.0-1?arch=all

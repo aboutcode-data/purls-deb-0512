@@ -1,0 +1,4 @@
+- pkg:deb/debian/puppet-module-heat@17.4.0-2?arch=all
+- pkg:deb/debian/puppet-module-heat@21.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-heat@25.0.0-5?arch=all
+- pkg:deb/debian/puppet-module-heat@27.0.0-1?arch=all

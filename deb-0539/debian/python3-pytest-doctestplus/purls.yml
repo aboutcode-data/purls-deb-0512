@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pytest-doctestplus@0.12.1-1?arch=all
+- pkg:deb/debian/python3-pytest-doctestplus@0.9.0-1?arch=all
+- pkg:deb/debian/python3-pytest-doctestplus@1.4.0-1?arch=all
+- pkg:deb/debian/python3-pytest-doctestplus@1.6.0-1?arch=all

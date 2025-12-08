@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pymad-dbg@0.10-4%2Bb3?arch=amd64
+- pkg:deb/debian/python3-pymad-dbg@0.10-4%2Bb3?arch=arm64
+- pkg:deb/debian/python3-pymad-dbg@0.10-4%2Bb3?arch=armhf
+- pkg:deb/debian/python3-pymad-dbg@0.10-4%2Bb3?arch=i386

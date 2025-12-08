@@ -1,0 +1,5 @@
+- pkg:deb/debian/proj-data@7.2.1-1?arch=all
+- pkg:deb/debian/proj-data@9.1.1-1?arch=all
+- pkg:deb/debian/proj-data@9.6.0-1?arch=all
+- pkg:deb/debian/proj-data@9.7.0-1?arch=all
+- pkg:deb/debian/proj-data@9.7.1-1?arch=all

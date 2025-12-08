@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-rq@1.13.0-1?arch=all
+- pkg:deb/debian/python3-rq@1.7.0-1?arch=all
+- pkg:deb/debian/python3-rq@2.3.3-2?arch=all
+- pkg:deb/debian/python3-rq@2.6.1-1?arch=all

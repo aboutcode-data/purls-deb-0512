@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-openssl-doc@20.0.1-1?arch=all
+- pkg:deb/debian/python-openssl-doc@23.0.0-1?arch=all
+- pkg:deb/debian/python-openssl-doc@25.0.0-1?arch=all
+- pkg:deb/debian/python-openssl-doc@25.3.0-1?arch=all

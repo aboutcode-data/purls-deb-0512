@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-soundfile@0.10.3%2Bpost1-1?arch=all
+- pkg:deb/debian/python3-soundfile@0.12.1-1?arch=all
+- pkg:deb/debian/python3-soundfile@0.13.1-2?arch=all
+- pkg:deb/debian/python3-soundfile@0.13.1-3?arch=all

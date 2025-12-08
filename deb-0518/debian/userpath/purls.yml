@@ -1,0 +1,4 @@
+- pkg:deb/debian/userpath@1.4.2-1?arch=all
+- pkg:deb/debian/userpath@1.8.0-1?arch=all
+- pkg:deb/debian/userpath@1.9.2-1?arch=all
+- pkg:deb/debian/userpath@1.9.2-2?arch=all

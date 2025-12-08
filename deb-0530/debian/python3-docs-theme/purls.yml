@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-docs-theme@2018.2-2?arch=all
+- pkg:deb/debian/python3-docs-theme@2022.1-1?arch=all
+- pkg:deb/debian/python3-docs-theme@2025.4.1-1?arch=all
+- pkg:deb/debian/python3-docs-theme@2025.9.2-1?arch=all

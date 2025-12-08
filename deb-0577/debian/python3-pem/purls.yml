@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pem@19.1.0-1?arch=all
+- pkg:deb/debian/python3-pem@19.1.0-2?arch=all

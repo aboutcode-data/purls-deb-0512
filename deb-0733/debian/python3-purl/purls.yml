@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-purl@1.5-2?arch=all
+- pkg:deb/debian/python3-purl@1.6-1?arch=all

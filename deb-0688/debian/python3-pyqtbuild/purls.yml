@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pyqtbuild@1.14.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/python3-pyqtbuild@1.18.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/python3-pyqtbuild@1.19.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/python3-pyqtbuild@1.7.0%2Bdfsg-1?arch=all

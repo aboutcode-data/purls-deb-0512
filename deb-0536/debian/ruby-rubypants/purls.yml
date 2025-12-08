@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-rubypants@0.6.0-1.1?arch=all
+- pkg:deb/debian/ruby-rubypants@0.7.1-1?arch=all

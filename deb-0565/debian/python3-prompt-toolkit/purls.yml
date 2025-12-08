@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-prompt-toolkit@3.0.14-1?arch=all
+- pkg:deb/debian/python3-prompt-toolkit@3.0.36-2?arch=all
+- pkg:deb/debian/python3-prompt-toolkit@3.0.51-2?arch=all
+- pkg:deb/debian/python3-prompt-toolkit@3.0.52-2?arch=all

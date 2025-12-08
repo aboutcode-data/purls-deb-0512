@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-boto3@1.13.14-1?arch=all
+- pkg:deb/debian/python3-boto3@1.26.27%2Bdfsg-1?arch=all
+- pkg:deb/debian/python3-boto3@1.37.9-1?arch=all
+- pkg:deb/debian/python3-boto3@1.40.72-1?arch=all

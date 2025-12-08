@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-pulp@1.6.0%2Bdfsg1-5?arch=all
+- pkg:deb/debian/python3-pulp@2.6.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/python3-pulp@2.7.0%2Bdfsg-4?arch=all

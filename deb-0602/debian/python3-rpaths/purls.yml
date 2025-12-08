@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-rpaths@0.13-1.1?arch=all
+- pkg:deb/debian/python3-rpaths@0.13-2?arch=all
+- pkg:deb/debian/python3-rpaths@1.0.0-2?arch=all

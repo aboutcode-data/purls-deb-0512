@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-pomegranate-doc@0.13.5-1?arch=all
+- pkg:deb/debian/python-pomegranate-doc@0.14.8-3?arch=all
+- pkg:deb/debian/python-pomegranate-doc@0.15.0-1?arch=all
+- pkg:deb/debian/python-pomegranate-doc@0.15.0-2?arch=all

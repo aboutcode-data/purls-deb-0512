@@ -1,0 +1,4 @@
+- pkg:deb/debian/rex@1.13.3-1?arch=all
+- pkg:deb/debian/rex@1.14.1-1?arch=all
+- pkg:deb/debian/rex@1.16.0-1?arch=all
+- pkg:deb/debian/rex@1.16.1-1?arch=all

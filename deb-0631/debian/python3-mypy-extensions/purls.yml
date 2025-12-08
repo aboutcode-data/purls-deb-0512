@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-mypy-extensions@0.4.3-2?arch=all
+- pkg:deb/debian/python3-mypy-extensions@0.4.3-4?arch=all
+- pkg:deb/debian/python3-mypy-extensions@1.0.0-1?arch=all
+- pkg:deb/debian/python3-mypy-extensions@1.1.0-1?arch=all

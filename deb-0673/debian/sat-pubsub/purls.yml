@@ -1,1 +1,2 @@
 - pkg:deb/debian/sat-pubsub@0.4.0%2Bhg473-1?arch=all
+- pkg:deb/debian/sat-pubsub@0.4.0~hg437.454f61a32427-1?arch=all

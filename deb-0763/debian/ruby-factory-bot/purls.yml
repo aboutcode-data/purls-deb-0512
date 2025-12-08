@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-factory-bot@5.1.1-1?arch=all
+- pkg:deb/debian/ruby-factory-bot@6.2.1-1?arch=all
+- pkg:deb/debian/ruby-factory-bot@6.5.1-1?arch=all
+- pkg:deb/debian/ruby-factory-bot@6.5.6-1?arch=all

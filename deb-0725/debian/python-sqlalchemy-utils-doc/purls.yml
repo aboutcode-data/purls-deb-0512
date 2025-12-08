@@ -1,0 +1,5 @@
+- pkg:deb/debian/python-sqlalchemy-utils-doc@0.36.8-4?arch=all
+- pkg:deb/debian/python-sqlalchemy-utils-doc@0.38.2-2?arch=all
+- pkg:deb/debian/python-sqlalchemy-utils-doc@0.41.0-5?arch=all
+- pkg:deb/debian/python-sqlalchemy-utils-doc@0.41.2-2?arch=all
+- pkg:deb/debian/python-sqlalchemy-utils-doc@0.41.2-3?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-cran-matlab@1.0.2-3?arch=all
+- pkg:deb/debian/r-cran-matlab@1.0.4-1?arch=all
+- pkg:deb/debian/r-cran-matlab@1.0.4.1-1?arch=all

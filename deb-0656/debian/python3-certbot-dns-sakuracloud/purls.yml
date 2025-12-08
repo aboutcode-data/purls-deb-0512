@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-certbot-dns-sakuracloud@1.3.0-1?arch=all
+- pkg:deb/debian/python3-certbot-dns-sakuracloud@2.1.0-1?arch=all
+- pkg:deb/debian/python3-certbot-dns-sakuracloud@4.0.0-1?arch=all

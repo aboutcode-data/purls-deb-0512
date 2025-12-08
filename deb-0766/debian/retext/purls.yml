@@ -1,0 +1,3 @@
+- pkg:deb/debian/retext@7.2.1-3?arch=all
+- pkg:deb/debian/retext@8.0.0-1?arch=all
+- pkg:deb/debian/retext@8.1.0-2?arch=all

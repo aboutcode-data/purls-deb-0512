@@ -1,0 +1,4 @@
+- pkg:deb/debian/librange-v3-dev@0.11.0-1?arch=all
+- pkg:deb/debian/librange-v3-dev@0.12.0-1.1?arch=all
+- pkg:deb/debian/librange-v3-dev@0.12.0-1?arch=all
+- pkg:deb/debian/librange-v3-dev@0.12.0-2?arch=all

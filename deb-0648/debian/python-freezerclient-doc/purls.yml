@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-freezerclient-doc@4.0.0-2?arch=all
+- pkg:deb/debian/python-freezerclient-doc@5.0.0-2?arch=all
+- pkg:deb/debian/python-freezerclient-doc@6.0.0-3?arch=all
+- pkg:deb/debian/python-freezerclient-doc@6.1.0-2?arch=all

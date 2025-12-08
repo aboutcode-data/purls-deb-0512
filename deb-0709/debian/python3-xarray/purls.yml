@@ -1,0 +1,5 @@
+- pkg:deb/debian/python3-xarray@0.16.2-2?arch=all
+- pkg:deb/debian/python3-xarray@2023.01.0-1.1?arch=all
+- pkg:deb/debian/python3-xarray@2025.03.1-8?arch=all
+- pkg:deb/debian/python3-xarray@2025.10.1-1?arch=all
+- pkg:deb/debian/python3-xarray@2025.11.0-1?arch=all

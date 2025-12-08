@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pretty-yaml@20.4.0-1?arch=all
+- pkg:deb/debian/python3-pretty-yaml@21.10.1-1?arch=all
+- pkg:deb/debian/python3-pretty-yaml@25.1.0-1?arch=all
+- pkg:deb/debian/python3-pretty-yaml@25.7.0-1?arch=all

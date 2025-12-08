@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-gollum-lib@4.2.7.10~gitlab.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/ruby-gollum-lib@4.2.7.10~gitlab.2%2Bdfsg-1?arch=all

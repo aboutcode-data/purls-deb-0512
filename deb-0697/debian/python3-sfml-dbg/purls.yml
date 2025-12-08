@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-sfml-dbg@2.2~git20150611.196c88%2Bdfsg-6%2Bb3?arch=amd64
+- pkg:deb/debian/python3-sfml-dbg@2.2~git20150611.196c88%2Bdfsg-6%2Bb3?arch=arm64
+- pkg:deb/debian/python3-sfml-dbg@2.2~git20150611.196c88%2Bdfsg-6%2Bb3?arch=armhf
+- pkg:deb/debian/python3-sfml-dbg@2.2~git20150611.196c88%2Bdfsg-6%2Bb3?arch=i386

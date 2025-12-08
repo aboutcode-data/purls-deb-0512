@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-django-timezone-field@4.1-1?arch=all
+- pkg:deb/debian/python3-django-timezone-field@5.0-1?arch=all
+- pkg:deb/debian/python3-django-timezone-field@7.1-1?arch=all
+- pkg:deb/debian/python3-django-timezone-field@7.1-2?arch=all

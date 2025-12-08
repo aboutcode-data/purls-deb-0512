@@ -1,0 +1,2 @@
+- pkg:deb/debian/librocblas-doc@5.5.1%2Bdfsg-7?arch=all
+- pkg:deb/debian/librocblas-doc@6.4.4-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/librust-sysinfo%2Bdebug-dev@0.13.2-3?arch=amd64
+- pkg:deb/debian/librust-sysinfo%2Bdebug-dev@0.13.2-3?arch=arm64
+- pkg:deb/debian/librust-sysinfo%2Bdebug-dev@0.13.2-3?arch=armhf
+- pkg:deb/debian/librust-sysinfo%2Bdebug-dev@0.13.2-3?arch=i386

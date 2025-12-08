@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-genpy@0.6.14-2?arch=all
+- pkg:deb/debian/python3-genpy@0.6.16-2?arch=all
+- pkg:deb/debian/python3-genpy@0.6.16-3?arch=all
+- pkg:deb/debian/python3-genpy@0.6.18-2?arch=all

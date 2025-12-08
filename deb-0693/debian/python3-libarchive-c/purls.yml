@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-libarchive-c@2.9-0.1?arch=all
+- pkg:deb/debian/python3-libarchive-c@5.1-1?arch=all

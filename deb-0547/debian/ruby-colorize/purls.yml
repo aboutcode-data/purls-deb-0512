@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-colorize@0.8.1-1.1?arch=all
+- pkg:deb/debian/ruby-colorize@0.8.1-1?arch=all
+- pkg:deb/debian/ruby-colorize@0.8.1-2?arch=all
+- pkg:deb/debian/ruby-colorize@1.1.0-1?arch=all

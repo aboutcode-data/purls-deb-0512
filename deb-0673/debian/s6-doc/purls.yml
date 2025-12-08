@@ -1,0 +1,3 @@
+- pkg:deb/debian/s6-doc@2.10.0.2-1?arch=all
+- pkg:deb/debian/s6-doc@2.11.3.2-1?arch=all
+- pkg:deb/debian/s6-doc@2.13.1.0-1?arch=all

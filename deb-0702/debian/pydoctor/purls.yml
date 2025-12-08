@@ -1,0 +1,4 @@
+- pkg:deb/debian/pydoctor@19.11.0%2Bgit20200303.47424e7-1?arch=all
+- pkg:deb/debian/pydoctor@22.9.1-4?arch=all
+- pkg:deb/debian/pydoctor@24.11.2-1?arch=all
+- pkg:deb/debian/pydoctor@25.4.0-1?arch=all

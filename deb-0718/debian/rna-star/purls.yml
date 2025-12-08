@@ -1,0 +1,10 @@
+- pkg:deb/debian/rna-star@2.7.10b%2Bdfsg-2%2Bb2?arch=amd64
+- pkg:deb/debian/rna-star@2.7.10b%2Bdfsg-2%2Bb2?arch=arm64
+- pkg:deb/debian/rna-star@2.7.10b%2Bdfsg-2%2Bb2?arch=mips64el
+- pkg:deb/debian/rna-star@2.7.10b%2Bdfsg-2%2Bb2?arch=ppc64el
+- pkg:deb/debian/rna-star@2.7.11b%2Bdfsg-2%2Bb2?arch=amd64
+- pkg:deb/debian/rna-star@2.7.11b%2Bdfsg-2%2Bb2?arch=arm64
+- pkg:deb/debian/rna-star@2.7.11b%2Bdfsg-2%2Bb2?arch=ppc64el
+- pkg:deb/debian/rna-star@2.7.11b%2Bdfsg-2%2Bb2?arch=riscv64
+- pkg:deb/debian/rna-star@2.7.8a%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/rna-star@2.7.8a%2Bdfsg-2?arch=arm64

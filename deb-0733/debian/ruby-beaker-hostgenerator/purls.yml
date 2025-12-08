@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-beaker-hostgenerator@1.1.22-1.1?arch=all
+- pkg:deb/debian/ruby-beaker-hostgenerator@1.7.1-1?arch=all

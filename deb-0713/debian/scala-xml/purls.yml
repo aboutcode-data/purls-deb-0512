@@ -1,0 +1,2 @@
+- pkg:deb/debian/scala-xml@1.0.3-3.1?arch=all
+- pkg:deb/debian/scala-xml@1.0.3-4?arch=all

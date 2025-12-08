@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-usb1@1.9.1-1?arch=all
+- pkg:deb/debian/python3-usb1@2.0.1-0.1?arch=all
+- pkg:deb/debian/python3-usb1@3.3.1%2Bds-4?arch=all

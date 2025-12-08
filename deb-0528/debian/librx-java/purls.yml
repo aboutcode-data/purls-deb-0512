@@ -1,0 +1,2 @@
+- pkg:deb/debian/librx-java@3.0.7%2Bds-2?arch=all
+- pkg:deb/debian/librx-java@3.1.5-1?arch=all

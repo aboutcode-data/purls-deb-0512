@@ -1,0 +1,2 @@
+- pkg:deb/debian/cargo-web-doc@1.78.0%2Bdfsg1-2~deb11u3?arch=all
+- pkg:deb/debian/cargo-web-doc@1.85.0%2Bdfsg3-1~deb12u3?arch=all

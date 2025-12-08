@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-pycparser@2.20-3?arch=all
+- pkg:deb/debian/python3-pycparser@2.21-1?arch=all
+- pkg:deb/debian/python3-pycparser@2.22-2?arch=all
+- pkg:deb/debian/python3-pycparser@2.23-1?arch=all

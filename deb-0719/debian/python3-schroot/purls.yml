@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-schroot@0.4-4?arch=all
+- pkg:deb/debian/python3-schroot@0.4-5?arch=all

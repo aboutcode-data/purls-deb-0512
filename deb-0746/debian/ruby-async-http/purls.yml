@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-async-http@0.52.5-1?arch=all
+- pkg:deb/debian/ruby-async-http@0.59.5-1?arch=all

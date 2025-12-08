@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-cartopy-data@0.18.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/python-cartopy-data@0.21.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/python-cartopy-data@0.24.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/python-cartopy-data@0.25.0%2Bdfsg-1?arch=all

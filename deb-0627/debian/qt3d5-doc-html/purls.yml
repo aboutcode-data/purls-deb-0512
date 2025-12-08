@@ -1,0 +1,4 @@
+- pkg:deb/debian/qt3d5-doc-html@5.15.15%2Bdfsg-3?arch=all
+- pkg:deb/debian/qt3d5-doc-html@5.15.17%2Bdfsg-2?arch=all
+- pkg:deb/debian/qt3d5-doc-html@5.15.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/qt3d5-doc-html@5.15.8%2Bdfsg-2?arch=all

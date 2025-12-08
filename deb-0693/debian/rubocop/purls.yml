@@ -1,0 +1,2 @@
+- pkg:deb/debian/rubocop@0.89.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/rubocop@1.39.0%2Bdfsg-1?arch=all

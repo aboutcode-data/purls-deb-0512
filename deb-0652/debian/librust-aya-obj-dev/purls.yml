@@ -1,0 +1,7 @@
+- pkg:deb/debian/librust-aya-obj-dev@0.2.1-4?arch=amd64
+- pkg:deb/debian/librust-aya-obj-dev@0.2.1-4?arch=arm64
+- pkg:deb/debian/librust-aya-obj-dev@0.2.1-4?arch=armel
+- pkg:deb/debian/librust-aya-obj-dev@0.2.1-4?arch=armhf
+- pkg:deb/debian/librust-aya-obj-dev@0.2.1-4?arch=ppc64el
+- pkg:deb/debian/librust-aya-obj-dev@0.2.1-4?arch=riscv64
+- pkg:deb/debian/librust-aya-obj-dev@0.2.1-4?arch=s390x

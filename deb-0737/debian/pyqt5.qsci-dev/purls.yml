@@ -1,0 +1,4 @@
+- pkg:deb/debian/pyqt5.qsci-dev@2.11.6%2Bdfsg-2?arch=all
+- pkg:deb/debian/pyqt5.qsci-dev@2.13.3%2Bdfsg-3?arch=all
+- pkg:deb/debian/pyqt5.qsci-dev@2.14.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/pyqt5.qsci-dev@2.14.1%2Bdfsg-2?arch=all

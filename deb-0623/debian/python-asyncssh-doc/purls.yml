@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-asyncssh-doc@2.10.1-2%2Bdeb12u2?arch=all
+- pkg:deb/debian/python-asyncssh-doc@2.20.0-1?arch=all
+- pkg:deb/debian/python-asyncssh-doc@2.21.1-1?arch=all
+- pkg:deb/debian/python-asyncssh-doc@2.5.0-0.1?arch=all

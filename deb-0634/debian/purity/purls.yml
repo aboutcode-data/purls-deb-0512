@@ -1,0 +1,14 @@
+- pkg:deb/debian/purity@1-19?arch=amd64
+- pkg:deb/debian/purity@1-19?arch=arm64
+- pkg:deb/debian/purity@1-19?arch=armhf
+- pkg:deb/debian/purity@1-19?arch=i386
+- pkg:deb/debian/purity@1-20%2Bb2?arch=riscv64
+- pkg:deb/debian/purity@1-20?arch=amd64
+- pkg:deb/debian/purity@1-20?arch=arm64
+- pkg:deb/debian/purity@1-20?arch=armel
+- pkg:deb/debian/purity@1-20?arch=armhf
+- pkg:deb/debian/purity@1-20?arch=i386
+- pkg:deb/debian/purity@1-20?arch=mips64el
+- pkg:deb/debian/purity@1-20?arch=mipsel
+- pkg:deb/debian/purity@1-20?arch=ppc64el
+- pkg:deb/debian/purity@1-20?arch=s390x

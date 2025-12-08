@@ -1,0 +1,2 @@
+- pkg:deb/debian/cl-quicklisp@20150128-1?arch=all
+- pkg:deb/debian/cl-quicklisp@20150128-2?arch=all

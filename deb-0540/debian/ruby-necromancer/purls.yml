@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-necromancer@0.5.1-2?arch=all
+- pkg:deb/debian/ruby-necromancer@0.7.0-1?arch=all

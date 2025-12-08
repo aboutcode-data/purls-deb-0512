@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-rotp@2.1.1%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/ruby-rotp@6.2.0-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/sentinelsat@0.14-1?arch=all
+- pkg:deb/debian/sentinelsat@1.1.1-1?arch=all
+- pkg:deb/debian/sentinelsat@1.2.1-2?arch=all

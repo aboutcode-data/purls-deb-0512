@@ -1,0 +1,4 @@
+- pkg:deb/debian/puppet-module-nova@17.5.0-2?arch=all
+- pkg:deb/debian/puppet-module-nova@21.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-nova@25.0.0-4?arch=all
+- pkg:deb/debian/puppet-module-nova@27.0.0-1?arch=all

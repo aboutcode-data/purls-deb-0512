@@ -1,0 +1,4 @@
+- pkg:deb/debian/qdbm-doc@1.8.78-10?arch=all
+- pkg:deb/debian/qdbm-doc@1.8.78-12?arch=all
+- pkg:deb/debian/qdbm-doc@1.8.78-13?arch=all
+- pkg:deb/debian/qdbm-doc@1.8.78-14?arch=all

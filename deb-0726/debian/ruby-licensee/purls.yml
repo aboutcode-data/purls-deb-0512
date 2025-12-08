@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-licensee@8.9.2-2?arch=all
+- pkg:deb/debian/ruby-licensee@9.15.2-4?arch=all

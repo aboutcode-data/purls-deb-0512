@@ -1,0 +1,2 @@
+- pkg:deb/debian/qt5-doc@5.15.2-2?arch=all
+- pkg:deb/debian/qt5-doc@5.15.8-2?arch=all

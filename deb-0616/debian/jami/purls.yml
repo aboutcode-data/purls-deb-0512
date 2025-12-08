@@ -1,3 +1,16 @@
+- pkg:deb/debian/jami@20210112.2.b757bac~ds1-1?arch=amd64
+- pkg:deb/debian/jami@20210112.2.b757bac~ds1-1?arch=arm64
+- pkg:deb/debian/jami@20210112.2.b757bac~ds1-1?arch=armhf
+- pkg:deb/debian/jami@20210112.2.b757bac~ds1-1?arch=i386
+- pkg:deb/debian/jami@20230206.0~ds2-1.1%2Bdeb12u1?arch=amd64
+- pkg:deb/debian/jami@20230206.0~ds2-1.1%2Bdeb12u1?arch=arm64
+- pkg:deb/debian/jami@20230206.0~ds2-1.1%2Bdeb12u1?arch=armel
+- pkg:deb/debian/jami@20230206.0~ds2-1.1%2Bdeb12u1?arch=armhf
+- pkg:deb/debian/jami@20230206.0~ds2-1.1%2Bdeb12u1?arch=i386
+- pkg:deb/debian/jami@20230206.0~ds2-1.1%2Bdeb12u1?arch=mips64el
+- pkg:deb/debian/jami@20230206.0~ds2-1.1%2Bdeb12u1?arch=mipsel
+- pkg:deb/debian/jami@20230206.0~ds2-1.1%2Bdeb12u1?arch=ppc64el
+- pkg:deb/debian/jami@20230206.0~ds2-1.1%2Bdeb12u1?arch=s390x
 - pkg:deb/debian/jami@20231201.0~ds2-1%2Bb1?arch=armhf
 - pkg:deb/debian/jami@20231201.0~ds2-1?arch=amd64
 - pkg:deb/debian/jami@20231201.0~ds2-1?arch=arm64

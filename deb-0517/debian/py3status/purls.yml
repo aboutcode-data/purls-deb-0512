@@ -1,0 +1,4 @@
+- pkg:deb/debian/py3status@3.31-1?arch=all
+- pkg:deb/debian/py3status@3.47-1?arch=all
+- pkg:deb/debian/py3status@3.61-1?arch=all
+- pkg:deb/debian/py3status@3.63-1?arch=all

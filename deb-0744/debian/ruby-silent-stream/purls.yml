@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-silent-stream@1.0.12-1?arch=all
+- pkg:deb/debian/ruby-silent-stream@1.0.6-2?arch=all

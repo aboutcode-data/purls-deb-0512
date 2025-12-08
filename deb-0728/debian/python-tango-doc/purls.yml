@@ -1,0 +1,5 @@
+- pkg:deb/debian/python-tango-doc@10.0.2-1?arch=all
+- pkg:deb/debian/python-tango-doc@10.0.2-1~bpo12%2B2?arch=all
+- pkg:deb/debian/python-tango-doc@10.0.2-3?arch=all
+- pkg:deb/debian/python-tango-doc@9.3.2-1?arch=all
+- pkg:deb/debian/python-tango-doc@9.3.6-2.1?arch=all

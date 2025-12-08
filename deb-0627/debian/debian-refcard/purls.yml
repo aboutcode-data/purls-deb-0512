@@ -1,0 +1,4 @@
+- pkg:deb/debian/debian-refcard@11.0?arch=all
+- pkg:deb/debian/debian-refcard@12.0?arch=all
+- pkg:deb/debian/debian-refcard@13.1.1?arch=all
+- pkg:deb/debian/debian-refcard@13.1?arch=all

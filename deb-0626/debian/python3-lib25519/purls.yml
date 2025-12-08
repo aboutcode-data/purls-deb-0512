@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-lib25519@0~20241004.1-4?arch=all
+- pkg:deb/debian/python3-lib25519@0~20241004.2-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/librust-futures%2Bdefault-dev@0.1.29-3?arch=amd64
+- pkg:deb/debian/librust-futures%2Bdefault-dev@0.1.29-3?arch=arm64
+- pkg:deb/debian/librust-futures%2Bdefault-dev@0.1.29-3?arch=armhf
+- pkg:deb/debian/librust-futures%2Bdefault-dev@0.1.29-3?arch=i386

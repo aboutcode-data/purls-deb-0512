@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-puppetserver-ca-cli@2.4.0-4?arch=all
+- pkg:deb/debian/ruby-puppetserver-ca-cli@2.7.0-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-pybindgen@0.20.0%2Bdfsg1-2?arch=all
+- pkg:deb/debian/python3-pybindgen@0.20.0%2Bdfsg1-4?arch=all
+- pkg:deb/debian/python3-pybindgen@0.20.0%2Bdfsg1-5?arch=all

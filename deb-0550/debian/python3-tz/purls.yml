@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-tz@2021.1-1?arch=all
+- pkg:deb/debian/python3-tz@2022.7.1-4?arch=all
+- pkg:deb/debian/python3-tz@2025.2-3?arch=all
+- pkg:deb/debian/python3-tz@2025.2-5?arch=all

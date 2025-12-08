@@ -1,0 +1,6 @@
+- pkg:deb/debian/python3-pysph@1.0~b0~20191115.gite3d5e10-4?arch=amd64
+- pkg:deb/debian/python3-pysph@1.0~b0~20191115.gite3d5e10-4?arch=arm64
+- pkg:deb/debian/python3-pysph@1.0~b1-5%2Bb1?arch=amd64
+- pkg:deb/debian/python3-pysph@1.0~b1-5%2Bb1?arch=arm64
+- pkg:deb/debian/python3-pysph@1.0~b2-2?arch=amd64
+- pkg:deb/debian/python3-pysph@1.0~b2-2?arch=arm64

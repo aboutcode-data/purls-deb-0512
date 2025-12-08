@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-base32@0.3.2-4?arch=all
+- pkg:deb/debian/ruby-base32@0.3.4-1?arch=all

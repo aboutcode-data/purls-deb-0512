@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-gtkspellcheck@4.0.5-2?arch=all
+- pkg:deb/debian/python3-gtkspellcheck@4.0.5-3?arch=all
+- pkg:deb/debian/python3-gtkspellcheck@5.0.3-1?arch=all

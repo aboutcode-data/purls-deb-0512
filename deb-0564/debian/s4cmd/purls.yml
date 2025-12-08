@@ -1,0 +1,2 @@
+- pkg:deb/debian/s4cmd@2.1.0%2Bds-2?arch=all
+- pkg:deb/debian/s4cmd@2.1.0%2Bds-3?arch=all

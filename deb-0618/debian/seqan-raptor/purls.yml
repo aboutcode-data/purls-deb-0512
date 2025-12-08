@@ -1,0 +1,12 @@
+- pkg:deb/debian/seqan-raptor@2.0.0.0.git.fecfbca%2Bds-3?arch=amd64
+- pkg:deb/debian/seqan-raptor@2.0.0.0.git.fecfbca%2Bds-3?arch=arm64
+- pkg:deb/debian/seqan-raptor@2.0.0.0.git.fecfbca%2Bds-3?arch=mips64el
+- pkg:deb/debian/seqan-raptor@2.0.0.0.git.fecfbca%2Bds-3?arch=ppc64el
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-10?arch=amd64
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-10?arch=arm64
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-10?arch=ppc64el
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-10?arch=riscv64
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-9?arch=amd64
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-9?arch=arm64
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-9?arch=ppc64el
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-9?arch=riscv64

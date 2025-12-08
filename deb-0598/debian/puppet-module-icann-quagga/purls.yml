@@ -1,0 +1,2 @@
+- pkg:deb/debian/puppet-module-icann-quagga@0.5.2-5?arch=all
+- pkg:deb/debian/puppet-module-icann-quagga@0.5.2-6?arch=all

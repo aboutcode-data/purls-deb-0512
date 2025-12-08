@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-babel-doc@2.10.3-1?arch=all
+- pkg:deb/debian/python-babel-doc@2.17.0-1?arch=all
+- pkg:deb/debian/python-babel-doc@2.17.0-2?arch=all
+- pkg:deb/debian/python-babel-doc@2.8.0%2Bdfsg.1-7?arch=all

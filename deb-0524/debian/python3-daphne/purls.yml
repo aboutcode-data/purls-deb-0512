@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-daphne@3.0.1-1?arch=all
+- pkg:deb/debian/python3-daphne@4.0.0-1?arch=all
+- pkg:deb/debian/python3-daphne@4.1.2-2?arch=all
+- pkg:deb/debian/python3-daphne@4.2.1-1?arch=all

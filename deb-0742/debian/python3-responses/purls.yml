@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-responses@0.12.1-1?arch=all
+- pkg:deb/debian/python3-responses@0.18.0-1?arch=all
+- pkg:deb/debian/python3-responses@0.25.7-1?arch=all
+- pkg:deb/debian/python3-responses@0.25.8-1?arch=all

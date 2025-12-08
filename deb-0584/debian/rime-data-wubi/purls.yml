@@ -1,0 +1,17 @@
+- pkg:deb/debian/rime-data-wubi@0.0~git20200908.f1876f0-3?arch=amd64
+- pkg:deb/debian/rime-data-wubi@0.0~git20200908.f1876f0-3?arch=arm64
+- pkg:deb/debian/rime-data-wubi@0.0~git20200908.f1876f0-3?arch=armel
+- pkg:deb/debian/rime-data-wubi@0.0~git20200908.f1876f0-3?arch=armhf
+- pkg:deb/debian/rime-data-wubi@0.0~git20200908.f1876f0-3?arch=i386
+- pkg:deb/debian/rime-data-wubi@0.0~git20200908.f1876f0-3?arch=mips64el
+- pkg:deb/debian/rime-data-wubi@0.0~git20200908.f1876f0-3?arch=mipsel
+- pkg:deb/debian/rime-data-wubi@0.0~git20200908.f1876f0-3?arch=ppc64el
+- pkg:deb/debian/rime-data-wubi@0.0~git20200908.f1876f0-3?arch=s390x
+- pkg:deb/debian/rime-data-wubi@0.0~git20231025.152a0d3-1%2Bb1?arch=riscv64
+- pkg:deb/debian/rime-data-wubi@0.0~git20231025.152a0d3-1?arch=amd64
+- pkg:deb/debian/rime-data-wubi@0.0~git20231025.152a0d3-1?arch=arm64
+- pkg:deb/debian/rime-data-wubi@0.0~git20231025.152a0d3-1?arch=armel
+- pkg:deb/debian/rime-data-wubi@0.0~git20231025.152a0d3-1?arch=armhf
+- pkg:deb/debian/rime-data-wubi@0.0~git20231025.152a0d3-1?arch=i386
+- pkg:deb/debian/rime-data-wubi@0.0~git20231025.152a0d3-1?arch=ppc64el
+- pkg:deb/debian/rime-data-wubi@0.0~git20231025.152a0d3-1?arch=s390x

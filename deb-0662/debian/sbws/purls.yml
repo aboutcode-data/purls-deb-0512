@@ -1,0 +1,5 @@
+- pkg:deb/debian/sbws@1.2.0-1?arch=all
+- pkg:deb/debian/sbws@1.5.2-1.1?arch=all
+- pkg:deb/debian/sbws@1.8.1-1~bpo12%2B1?arch=all
+- pkg:deb/debian/sbws@1.9.0-2?arch=all
+- pkg:deb/debian/sbws@2.2.0-1?arch=all

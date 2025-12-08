@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-laspy@2.5.4-1?arch=all
+- pkg:deb/debian/python3-laspy@2.6.1-1?arch=all

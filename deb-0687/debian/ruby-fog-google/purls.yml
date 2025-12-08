@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-fog-google@1.11.0-1?arch=all
+- pkg:deb/debian/ruby-fog-google@1.15.0-3?arch=all
+- pkg:deb/debian/ruby-fog-google@1.19.0-3?arch=all

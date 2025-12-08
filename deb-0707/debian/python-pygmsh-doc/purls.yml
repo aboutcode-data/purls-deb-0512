@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-pygmsh-doc@7.1.17-2?arch=all
+- pkg:deb/debian/python-pygmsh-doc@7.1.17-8?arch=all
+- pkg:deb/debian/python-pygmsh-doc@7.1.8-1?arch=all

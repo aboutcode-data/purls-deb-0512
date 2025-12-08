@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-influxdb@0.2.3-2?arch=all
+- pkg:deb/debian/ruby-influxdb@0.8.1-2?arch=all

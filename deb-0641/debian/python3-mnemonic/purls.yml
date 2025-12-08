@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-mnemonic@0.19-1?arch=all
+- pkg:deb/debian/python3-mnemonic@0.19-2?arch=all
+- pkg:deb/debian/python3-mnemonic@0.21-2?arch=all
+- pkg:deb/debian/python3-mnemonic@0.21-2~bpo12%2B1?arch=all

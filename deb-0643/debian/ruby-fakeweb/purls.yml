@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-fakeweb@1.3.0%2Bgit20170806%2Bdfsg1-2?arch=all
+- pkg:deb/debian/ruby-fakeweb@1.3.0%2Bgit20170806%2Bdfsg1-3?arch=all
+- pkg:deb/debian/ruby-fakeweb@1.3.0%2Bgit20170806%2Bdfsg1-4?arch=all

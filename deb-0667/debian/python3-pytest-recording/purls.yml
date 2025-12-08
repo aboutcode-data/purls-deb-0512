@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pytest-recording@0.13.2-1?arch=all
+- pkg:deb/debian/python3-pytest-recording@0.13.4-1?arch=all

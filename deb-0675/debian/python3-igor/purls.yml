@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-igor@0.3-3?arch=all
+- pkg:deb/debian/python3-igor@0.3-4?arch=all

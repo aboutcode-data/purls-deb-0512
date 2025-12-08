@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-handlebars-assets@0.23.8%2Bdfsg-3?arch=all
+- pkg:deb/debian/ruby-handlebars-assets@0.23.9%2Bdfsg-1?arch=all

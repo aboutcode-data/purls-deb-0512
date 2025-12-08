@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-pycoast-doc@1.4.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/python-pycoast-doc@1.6.1%2Bdfsg-2?arch=all
+- pkg:deb/debian/python-pycoast-doc@1.7.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/python-pycoast-doc@1.7.1%2Bdfsg-2?arch=all

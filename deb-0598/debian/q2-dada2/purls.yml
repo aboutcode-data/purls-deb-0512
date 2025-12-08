@@ -1,0 +1,3 @@
+- pkg:deb/debian/q2-dada2@2020.11.1-3?arch=amd64
+- pkg:deb/debian/q2-dada2@2022.11.2-2?arch=amd64
+- pkg:deb/debian/q2-dada2@2024.5.0-1?arch=amd64

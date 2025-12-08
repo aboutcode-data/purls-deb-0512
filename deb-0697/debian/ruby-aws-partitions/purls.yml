@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-aws-partitions@1.1005.0-1?arch=all
+- pkg:deb/debian/ruby-aws-partitions@1.1177.0-1?arch=all
+- pkg:deb/debian/ruby-aws-partitions@1.354.0-2?arch=all
+- pkg:deb/debian/ruby-aws-partitions@1.653.0-3~deb12u1?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/python-gbulb-doc@0.6.1-0.1?arch=all
+- pkg:deb/debian/python-gbulb-doc@0.6.3-0.1?arch=all
+- pkg:deb/debian/python-gbulb-doc@0.6.6-1?arch=all
+- pkg:deb/debian/python-gbulb-doc@0.6.6-2?arch=all
+- pkg:deb/debian/python-gbulb-doc@0.6.6-3?arch=all

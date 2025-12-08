@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-vcr@6.0.0%2Breally5.0.0-1?arch=all
+- pkg:deb/debian/ruby-vcr@6.0.0%2Breally5.0.0-5?arch=all

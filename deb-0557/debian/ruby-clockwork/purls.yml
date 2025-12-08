@@ -1,0 +1,3 @@
+- pkg:deb/debian/ruby-clockwork@2.0.4-1?arch=all
+- pkg:deb/debian/ruby-clockwork@3.0.1-1?arch=all
+- pkg:deb/debian/ruby-clockwork@3.0.1-2?arch=all

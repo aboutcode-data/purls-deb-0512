@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-pysmi-doc@0.3.2-2?arch=all
+- pkg:deb/debian/python-pysmi-doc@0.3.2-3?arch=all
+- pkg:deb/debian/python-pysmi-doc@0.3.4-3?arch=all
+- pkg:deb/debian/python-pysmi-doc@0.3.4-4?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-static3@0.7.0-6.1?arch=all
+- pkg:deb/debian/python3-static3@0.7.0-8?arch=all

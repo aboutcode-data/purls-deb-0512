@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-aalib@0.4-2?arch=all
+- pkg:deb/debian/python3-aalib@0.4-3?arch=all
+- pkg:deb/debian/python3-aalib@0.4-4?arch=all

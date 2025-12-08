@@ -1,0 +1,3 @@
+- pkg:deb/debian/roundcube-core@1.4.15%2Bdfsg.1-1%2Bdeb11u4?arch=all
+- pkg:deb/debian/roundcube-core@1.6.11%2Bdfsg-1?arch=all
+- pkg:deb/debian/roundcube-core@1.6.5%2Bdfsg-1%2Bdeb12u5?arch=all

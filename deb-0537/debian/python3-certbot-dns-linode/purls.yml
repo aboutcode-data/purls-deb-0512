@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-certbot-dns-linode@1.7.0-1?arch=all
+- pkg:deb/debian/python3-certbot-dns-linode@2.1.0-1?arch=all
+- pkg:deb/debian/python3-certbot-dns-linode@4.0.0-1?arch=all

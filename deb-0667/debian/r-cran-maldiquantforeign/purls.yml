@@ -1,0 +1,3 @@
+- pkg:deb/debian/r-cran-maldiquantforeign@0.12-2?arch=all
+- pkg:deb/debian/r-cran-maldiquantforeign@0.13-1?arch=all
+- pkg:deb/debian/r-cran-maldiquantforeign@0.14.1-1?arch=all

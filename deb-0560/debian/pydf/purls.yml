@@ -1,0 +1,3 @@
+- pkg:deb/debian/pydf@12%2Bnmu1?arch=all
+- pkg:deb/debian/pydf@14%2Bgit20170320.5996c59-1?arch=all
+- pkg:deb/debian/pydf@14%2Breally-1?arch=all

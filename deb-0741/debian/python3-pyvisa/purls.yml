@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-pyvisa@1.11.3-2?arch=all
+- pkg:deb/debian/python3-pyvisa@1.11.3-3?arch=all
+- pkg:deb/debian/python3-pyvisa@1.14.1-1?arch=all

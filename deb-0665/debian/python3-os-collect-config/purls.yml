@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-os-collect-config@12.0.0-1?arch=all
+- pkg:deb/debian/python3-os-collect-config@12.0.0-2?arch=all
+- pkg:deb/debian/python3-os-collect-config@13.1.0-5?arch=all
+- pkg:deb/debian/python3-os-collect-config@14.0.1-1?arch=all

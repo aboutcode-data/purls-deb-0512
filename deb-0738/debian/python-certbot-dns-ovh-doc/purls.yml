@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-certbot-dns-ovh-doc@1.3.0-1?arch=all
+- pkg:deb/debian/python-certbot-dns-ovh-doc@2.1.0-1?arch=all
+- pkg:deb/debian/python-certbot-dns-ovh-doc@4.0.0-1?arch=all

@@ -1,0 +1,13 @@
+- pkg:deb/debian/librrd8@1.7.2-3%2Bb7?arch=amd64
+- pkg:deb/debian/librrd8@1.7.2-3%2Bb7?arch=arm64
+- pkg:deb/debian/librrd8@1.7.2-3%2Bb7?arch=armhf
+- pkg:deb/debian/librrd8@1.7.2-3%2Bb7?arch=i386
+- pkg:deb/debian/librrd8@1.7.2-4%2Bb8?arch=amd64
+- pkg:deb/debian/librrd8@1.7.2-4%2Bb8?arch=arm64
+- pkg:deb/debian/librrd8@1.7.2-4%2Bb8?arch=armel
+- pkg:deb/debian/librrd8@1.7.2-4%2Bb8?arch=armhf
+- pkg:deb/debian/librrd8@1.7.2-4%2Bb8?arch=i386
+- pkg:deb/debian/librrd8@1.7.2-4%2Bb8?arch=mips64el
+- pkg:deb/debian/librrd8@1.7.2-4%2Bb8?arch=mipsel
+- pkg:deb/debian/librrd8@1.7.2-4%2Bb8?arch=ppc64el
+- pkg:deb/debian/librrd8@1.7.2-4%2Bb8?arch=s390x

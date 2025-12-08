@@ -1,0 +1,10 @@
+- pkg:deb/debian/librust-repro-env-dev@0.4.3-2%2Bb1?arch=amd64
+- pkg:deb/debian/librust-repro-env-dev@0.4.3-2%2Bb1?arch=arm64
+- pkg:deb/debian/librust-repro-env-dev@0.4.3-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/librust-repro-env-dev@0.4.3-2%2Bb1?arch=riscv64
+- pkg:deb/debian/librust-repro-env-dev@0.4.3-2%2Bb1?arch=s390x
+- pkg:deb/debian/librust-repro-env-dev@0.4.3-3%2Bb1?arch=amd64
+- pkg:deb/debian/librust-repro-env-dev@0.4.3-3%2Bb1?arch=arm64
+- pkg:deb/debian/librust-repro-env-dev@0.4.3-3%2Bb1?arch=ppc64el
+- pkg:deb/debian/librust-repro-env-dev@0.4.3-3%2Bb1?arch=s390x
+- pkg:deb/debian/librust-repro-env-dev@0.4.3-3?arch=riscv64

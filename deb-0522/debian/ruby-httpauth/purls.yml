@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-httpauth@0.2.1%2Bgh-1.1?arch=all
+- pkg:deb/debian/ruby-httpauth@0.2.1%2Bgh-2?arch=all

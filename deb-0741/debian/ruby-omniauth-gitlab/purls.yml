@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-omniauth-gitlab@1.0.2-1?arch=all
+- pkg:deb/debian/ruby-omniauth-gitlab@4.1.0-1?arch=all

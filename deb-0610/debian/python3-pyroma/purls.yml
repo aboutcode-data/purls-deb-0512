@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pyroma@2.6b2-1?arch=all
+- pkg:deb/debian/python3-pyroma@5.0-1?arch=all

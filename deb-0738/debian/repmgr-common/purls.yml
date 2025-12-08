@@ -1,0 +1,4 @@
+- pkg:deb/debian/repmgr-common@5.2.0-2?arch=all
+- pkg:deb/debian/repmgr-common@5.3.3-2?arch=all
+- pkg:deb/debian/repmgr-common@5.5.0%2Bdebpgdg-1?arch=all
+- pkg:deb/debian/repmgr-common@5.5.0%2Bdebpgdg-3?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-ironicclient-doc@4.4.0-1?arch=all
+- pkg:deb/debian/python-ironicclient-doc@5.0.1-2?arch=all
+- pkg:deb/debian/python-ironicclient-doc@5.10.0-5?arch=all
+- pkg:deb/debian/python-ironicclient-doc@5.13.0-2?arch=all

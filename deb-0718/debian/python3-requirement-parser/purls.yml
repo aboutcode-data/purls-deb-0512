@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-requirement-parser@0.11.0-2?arch=all
+- pkg:deb/debian/python3-requirement-parser@0.2.0-1.1?arch=all

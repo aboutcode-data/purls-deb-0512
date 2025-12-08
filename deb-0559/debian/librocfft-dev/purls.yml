@@ -1,0 +1,5 @@
+- pkg:deb/debian/librocfft-dev@6.1.2-1%2Bb1?arch=arm64
+- pkg:deb/debian/librocfft-dev@6.1.2-1?arch=amd64
+- pkg:deb/debian/librocfft-dev@6.1.2-1?arch=ppc64el
+- pkg:deb/debian/librocfft-dev@6.4.3-1?arch=amd64
+- pkg:deb/debian/librocfft-dev@6.4.3-1?arch=arm64

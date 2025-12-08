@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-taskflow-doc@4.5.0-3?arch=all
+- pkg:deb/debian/python-taskflow-doc@5.0.0-3?arch=all
+- pkg:deb/debian/python-taskflow-doc@5.12.0-2?arch=all
+- pkg:deb/debian/python-taskflow-doc@6.0.2-2?arch=all

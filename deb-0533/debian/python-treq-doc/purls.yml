@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-treq-doc@18.6.0-0.2?arch=all
+- pkg:deb/debian/python-treq-doc@22.2.0-0.1?arch=all
+- pkg:deb/debian/python-treq-doc@24.9.1-1?arch=all
+- pkg:deb/debian/python-treq-doc@25.5.0-1?arch=all

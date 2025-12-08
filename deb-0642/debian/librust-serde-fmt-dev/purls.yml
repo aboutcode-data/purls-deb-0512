@@ -1,0 +1,3 @@
+- pkg:deb/debian/librust-serde-fmt-dev@1.0.1-2?arch=all
+- pkg:deb/debian/librust-serde-fmt-dev@1.0.3-4?arch=all
+- pkg:deb/debian/librust-serde-fmt-dev@1.1.0-1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/puppet-module-puppetlabs-concat@5.1.0-1?arch=all
+- pkg:deb/debian/puppet-module-puppetlabs-concat@7.3.1-2?arch=all

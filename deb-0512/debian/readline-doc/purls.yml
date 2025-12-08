@@ -1,0 +1,4 @@
+- pkg:deb/debian/readline-doc@8.1-1?arch=all
+- pkg:deb/debian/readline-doc@8.2-1.3?arch=all
+- pkg:deb/debian/readline-doc@8.2-6?arch=all
+- pkg:deb/debian/readline-doc@8.3-3?arch=all

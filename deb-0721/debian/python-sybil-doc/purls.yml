@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-sybil-doc@1.4.0-1?arch=all
+- pkg:deb/debian/python-sybil-doc@3.0.1-1?arch=all
+- pkg:deb/debian/python-sybil-doc@9.0.0-1?arch=all
+- pkg:deb/debian/python-sybil-doc@9.2.0-1?arch=all

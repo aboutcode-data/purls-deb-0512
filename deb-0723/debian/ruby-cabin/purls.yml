@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-cabin@0.8.1-1.1?arch=all
+- pkg:deb/debian/ruby-cabin@0.8.1-1?arch=all
+- pkg:deb/debian/ruby-cabin@0.8.1-2?arch=all
+- pkg:deb/debian/ruby-cabin@0.9.1-1?arch=all

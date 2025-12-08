@@ -1,0 +1,6 @@
+- pkg:deb/debian/librust-resvg-dev@0.45.1-1?arch=all
+- pkg:deb/debian/librust-resvg-dev@0.45.1-6?arch=all
+- pkg:deb/debian/librust-resvg-dev@0.8.0-4?arch=amd64
+- pkg:deb/debian/librust-resvg-dev@0.8.0-4?arch=arm64
+- pkg:deb/debian/librust-resvg-dev@0.8.0-4?arch=armhf
+- pkg:deb/debian/librust-resvg-dev@0.8.0-4?arch=i386

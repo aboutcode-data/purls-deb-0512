@@ -1,0 +1,6 @@
+- pkg:deb/debian/r-cran-psychometric@2.2-2?arch=amd64
+- pkg:deb/debian/r-cran-psychometric@2.2-2?arch=arm64
+- pkg:deb/debian/r-cran-psychometric@2.2-2?arch=armhf
+- pkg:deb/debian/r-cran-psychometric@2.2-2?arch=i386
+- pkg:deb/debian/r-cran-psychometric@2.3-1?arch=all
+- pkg:deb/debian/r-cran-psychometric@2.4-1?arch=all

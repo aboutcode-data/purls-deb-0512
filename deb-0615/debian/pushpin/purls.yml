@@ -1,0 +1,16 @@
+- pkg:deb/debian/pushpin@1.31.0-1?arch=amd64
+- pkg:deb/debian/pushpin@1.31.0-1?arch=arm64
+- pkg:deb/debian/pushpin@1.31.0-1?arch=armhf
+- pkg:deb/debian/pushpin@1.31.0-1?arch=i386
+- pkg:deb/debian/pushpin@1.36.0-2?arch=amd64
+- pkg:deb/debian/pushpin@1.36.0-2?arch=arm64
+- pkg:deb/debian/pushpin@1.36.0-2?arch=armel
+- pkg:deb/debian/pushpin@1.36.0-2?arch=armhf
+- pkg:deb/debian/pushpin@1.36.0-2?arch=i386
+- pkg:deb/debian/pushpin@1.41.0-2?arch=riscv64
+- pkg:deb/debian/pushpin@1.41.0-5?arch=amd64
+- pkg:deb/debian/pushpin@1.41.0-5?arch=arm64
+- pkg:deb/debian/pushpin@1.41.0-5?arch=armhf
+- pkg:deb/debian/pushpin@1.41.0-5?arch=i386
+- pkg:deb/debian/pushpin@1.41.0-5?arch=ppc64el
+- pkg:deb/debian/pushpin@1.41.0-5?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/ruby-factory-bot-rails@5.1.1-2?arch=all
+- pkg:deb/debian/ruby-factory-bot-rails@6.2.0-1?arch=all
+- pkg:deb/debian/ruby-factory-bot-rails@6.4.2-1?arch=all
+- pkg:deb/debian/ruby-factory-bot-rails@6.5.1-1?arch=all

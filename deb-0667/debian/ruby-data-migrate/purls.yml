@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-data-migrate@6.6.0-1?arch=all
+- pkg:deb/debian/ruby-data-migrate@6.7.0-1?arch=all

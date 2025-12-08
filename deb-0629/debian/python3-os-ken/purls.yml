@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-os-ken@1.2.0-2?arch=all
+- pkg:deb/debian/python3-os-ken@2.5.0-2?arch=all
+- pkg:deb/debian/python3-os-ken@3.0.1-2?arch=all
+- pkg:deb/debian/python3-os-ken@3.1.1-2?arch=all

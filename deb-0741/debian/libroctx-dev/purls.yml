@@ -1,0 +1,6 @@
+- pkg:deb/debian/libroctx-dev@5.7.1-1?arch=amd64
+- pkg:deb/debian/libroctx-dev@5.7.1-1?arch=arm64
+- pkg:deb/debian/libroctx-dev@5.7.1-1?arch=ppc64el
+- pkg:deb/debian/libroctx-dev@6.4.1-1?arch=amd64
+- pkg:deb/debian/libroctx-dev@6.4.1-1?arch=arm64
+- pkg:deb/debian/libroctx-dev@6.4.1-1?arch=ppc64el

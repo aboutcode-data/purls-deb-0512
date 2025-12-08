@@ -1,0 +1,13 @@
+- pkg:deb/debian/libsaclib0@2.2.7-2?arch=amd64
+- pkg:deb/debian/libsaclib0@2.2.7-2?arch=arm64
+- pkg:deb/debian/libsaclib0@2.2.7-2?arch=armhf
+- pkg:deb/debian/libsaclib0@2.2.7-2?arch=i386
+- pkg:deb/debian/libsaclib0@2.2.8-6?arch=amd64
+- pkg:deb/debian/libsaclib0@2.2.8-6?arch=arm64
+- pkg:deb/debian/libsaclib0@2.2.8-6?arch=armel
+- pkg:deb/debian/libsaclib0@2.2.8-6?arch=armhf
+- pkg:deb/debian/libsaclib0@2.2.8-6?arch=i386
+- pkg:deb/debian/libsaclib0@2.2.8-6?arch=mips64el
+- pkg:deb/debian/libsaclib0@2.2.8-6?arch=mipsel
+- pkg:deb/debian/libsaclib0@2.2.8-6?arch=ppc64el
+- pkg:deb/debian/libsaclib0@2.2.8-6?arch=s390x

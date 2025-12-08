@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-dmidecode-data@3.12.2-11?arch=all
+- pkg:deb/debian/python-dmidecode-data@3.12.2-13?arch=all
+- pkg:deb/debian/python-dmidecode-data@3.12.3-4?arch=all
+- pkg:deb/debian/python-dmidecode-data@3.12.3-5?arch=all
