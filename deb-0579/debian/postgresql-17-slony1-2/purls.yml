@@ -1,0 +1,5 @@
+- pkg:deb/debian/postgresql-17-slony1-2@2.2.11-6?arch=amd64
+- pkg:deb/debian/postgresql-17-slony1-2@2.2.11-6?arch=arm64
+- pkg:deb/debian/postgresql-17-slony1-2@2.2.11-6?arch=ppc64el
+- pkg:deb/debian/postgresql-17-slony1-2@2.2.11-6?arch=riscv64
+- pkg:deb/debian/postgresql-17-slony1-2@2.2.11-6?arch=s390x

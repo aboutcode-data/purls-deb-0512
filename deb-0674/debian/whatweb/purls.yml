@@ -1,0 +1,2 @@
+- pkg:deb/debian/whatweb@0.5.5-1?arch=all
+- pkg:deb/debian/whatweb@0.6.3-1?arch=all

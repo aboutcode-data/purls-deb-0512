@@ -1,0 +1,2 @@
+- pkg:deb/debian/tryton-modules-stock-lot-unit@6.0.1-3?arch=all
+- pkg:deb/debian/tryton-modules-stock-lot-unit@7.0.1-1?arch=all

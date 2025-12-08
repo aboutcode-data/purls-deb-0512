@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-snapcore-snapd-dev@2.49-1%2Bdeb11u2?arch=all
+- pkg:deb/debian/golang-github-snapcore-snapd-dev@2.57.6-1?arch=all
+- pkg:deb/debian/golang-github-snapcore-snapd-dev@2.68.3-3?arch=all
+- pkg:deb/debian/golang-github-snapcore-snapd-dev@2.71-3?arch=all

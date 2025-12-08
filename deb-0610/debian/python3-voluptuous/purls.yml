@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-voluptuous@0.11.7-2?arch=all
+- pkg:deb/debian/python3-voluptuous@0.12.2-1?arch=all
+- pkg:deb/debian/python3-voluptuous@0.14.2-1?arch=all
+- pkg:deb/debian/python3-voluptuous@0.15.2-2?arch=all

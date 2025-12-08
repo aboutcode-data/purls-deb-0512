@@ -1,0 +1,2 @@
+- pkg:deb/debian/storebackup@3.2.1-2?arch=all
+- pkg:deb/debian/storebackup@3.5.2-1?arch=all

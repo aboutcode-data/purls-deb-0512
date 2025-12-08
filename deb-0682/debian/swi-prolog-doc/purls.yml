@@ -1,0 +1,4 @@
+- pkg:deb/debian/swi-prolog-doc@8.2.4%2Bdfsg-1?arch=all
+- pkg:deb/debian/swi-prolog-doc@9.0.4%2Bdfsg-2?arch=all
+- pkg:deb/debian/swi-prolog-doc@9.2.9%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/swi-prolog-doc@9.2.9%2Bdfsg-1?arch=all

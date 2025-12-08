@@ -1,0 +1,4 @@
+- pkg:deb/debian/tryton-client-doc@5.0.33-1?arch=all
+- pkg:deb/debian/tryton-client-doc@6.0.26-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/tryton-client-doc@7.0.24-1?arch=all
+- pkg:deb/debian/tryton-client-doc@7.0.27-2?arch=all

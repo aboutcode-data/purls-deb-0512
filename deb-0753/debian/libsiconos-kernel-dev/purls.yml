@@ -1,0 +1,9 @@
+- pkg:deb/debian/libsiconos-kernel-dev@4.3.1%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libsiconos-kernel-dev@4.3.1%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/libsiconos-kernel-dev@4.4.0%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libsiconos-kernel-dev@4.4.0%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/libsiconos-kernel-dev@4.4.0%2Bdfsg-2?arch=ppc64el
+- pkg:deb/debian/libsiconos-kernel-dev@4.4.0%2Bdfsg-4?arch=riscv64
+- pkg:deb/debian/libsiconos-kernel-dev@4.4.0%2Bdfsg-5?arch=amd64
+- pkg:deb/debian/libsiconos-kernel-dev@4.4.0%2Bdfsg-5?arch=arm64
+- pkg:deb/debian/libsiconos-kernel-dev@4.4.0%2Bdfsg-5?arch=ppc64el

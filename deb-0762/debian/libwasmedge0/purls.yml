@@ -1,0 +1,2 @@
+- pkg:deb/debian/libwasmedge0@0.14.1%2Bdfsg-3.1?arch=amd64
+- pkg:deb/debian/libwasmedge0@0.14.1%2Bdfsg-3.1?arch=arm64

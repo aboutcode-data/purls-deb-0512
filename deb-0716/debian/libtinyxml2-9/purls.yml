@@ -1,0 +1,9 @@
+- pkg:deb/debian/libtinyxml2-9@9.0.0%2Bdfsg-3.1?arch=amd64
+- pkg:deb/debian/libtinyxml2-9@9.0.0%2Bdfsg-3.1?arch=arm64
+- pkg:deb/debian/libtinyxml2-9@9.0.0%2Bdfsg-3.1?arch=armel
+- pkg:deb/debian/libtinyxml2-9@9.0.0%2Bdfsg-3.1?arch=armhf
+- pkg:deb/debian/libtinyxml2-9@9.0.0%2Bdfsg-3.1?arch=i386
+- pkg:deb/debian/libtinyxml2-9@9.0.0%2Bdfsg-3.1?arch=mips64el
+- pkg:deb/debian/libtinyxml2-9@9.0.0%2Bdfsg-3.1?arch=mipsel
+- pkg:deb/debian/libtinyxml2-9@9.0.0%2Bdfsg-3.1?arch=ppc64el
+- pkg:deb/debian/libtinyxml2-9@9.0.0%2Bdfsg-3.1?arch=s390x

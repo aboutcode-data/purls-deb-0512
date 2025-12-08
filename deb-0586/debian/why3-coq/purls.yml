@@ -1,0 +1,4 @@
+- pkg:deb/debian/why3-coq@1.3.3-1%2Bb4?arch=amd64
+- pkg:deb/debian/why3-coq@1.3.3-1%2Bb4?arch=arm64
+- pkg:deb/debian/why3-coq@1.3.3-1%2Bb4?arch=armhf
+- pkg:deb/debian/why3-coq@1.3.3-1%2Bb4?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libyaml-cpp0.6@0.6.3-9?arch=amd64
+- pkg:deb/debian/libyaml-cpp0.6@0.6.3-9?arch=arm64
+- pkg:deb/debian/libyaml-cpp0.6@0.6.3-9?arch=armhf
+- pkg:deb/debian/libyaml-cpp0.6@0.6.3-9?arch=i386

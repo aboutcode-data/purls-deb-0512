@@ -1,0 +1,3 @@
+- pkg:deb/debian/libvalijson-dev@1.0%2Brepack-2?arch=all
+- pkg:deb/debian/libvalijson-dev@1.0.3%2Brepack-2?arch=all
+- pkg:deb/debian/libvalijson-dev@1.0.6%2Brepack-0.1?arch=all

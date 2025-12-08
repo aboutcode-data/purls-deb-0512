@@ -1,0 +1,2 @@
+- pkg:deb/debian/simple-whip-server@0.0~git20230201-1?arch=all
+- pkg:deb/debian/simple-whip-server@0.0~git20240308-1?arch=all

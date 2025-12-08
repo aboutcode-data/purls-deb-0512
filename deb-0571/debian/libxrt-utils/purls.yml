@@ -1,0 +1,6 @@
+- pkg:deb/debian/libxrt-utils@202210.2.13.466%2Bdfsg-8.2?arch=amd64
+- pkg:deb/debian/libxrt-utils@202210.2.13.466%2Bdfsg-8.2?arch=arm64
+- pkg:deb/debian/libxrt-utils@202210.2.13.466%2Bdfsg-8?arch=amd64
+- pkg:deb/debian/libxrt-utils@202210.2.13.466%2Bdfsg-8?arch=arm64
+- pkg:deb/debian/libxrt-utils@202610.2.21.21-4?arch=amd64
+- pkg:deb/debian/libxrt-utils@202610.2.21.21-4?arch=arm64

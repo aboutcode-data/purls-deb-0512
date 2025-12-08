@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnvidia-legacy-390xx-cuda1-i386@390.157-14?arch=i386
+- pkg:deb/debian/libnvidia-legacy-390xx-cuda1-i386@390.157-1~deb11u1?arch=i386

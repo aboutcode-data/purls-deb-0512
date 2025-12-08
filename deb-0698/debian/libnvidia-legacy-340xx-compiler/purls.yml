@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnvidia-legacy-340xx-compiler@340.108-26?arch=amd64
+- pkg:deb/debian/libnvidia-legacy-340xx-compiler@340.108-26?arch=i386

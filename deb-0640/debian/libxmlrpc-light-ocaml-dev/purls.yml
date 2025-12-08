@@ -1,0 +1,13 @@
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb5?arch=amd64
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb5?arch=arm64
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb5?arch=armhf
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb5?arch=i386
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb7?arch=armel
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb7?arch=mips64el
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb7?arch=mipsel
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb8?arch=amd64
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb8?arch=arm64
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb8?arch=armhf
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb8?arch=i386
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb8?arch=ppc64el
+- pkg:deb/debian/libxmlrpc-light-ocaml-dev@0.6.1-5%2Bb8?arch=s390x

@@ -1,0 +1,6 @@
+- pkg:deb/debian/yuzu@0-1335%2Bds-1%2Bdeb12u1?arch=amd64
+- pkg:deb/debian/yuzu@0-1335%2Bds-1%2Bdeb12u1?arch=arm64
+- pkg:deb/debian/yuzu@0-1734%2Bds-4?arch=amd64
+- pkg:deb/debian/yuzu@0-1734%2Bds-4?arch=arm64
+- pkg:deb/debian/yuzu@0-1734%2Bds-6?arch=arm64
+- pkg:deb/debian/yuzu@0-1734%2Bds-7?arch=amd64

@@ -1,0 +1,4 @@
+- pkg:deb/debian/vim-scripts@20210124.1?arch=all
+- pkg:deb/debian/vim-scripts@20210124.2?arch=all
+- pkg:deb/debian/vim-scripts@20210124.4?arch=all
+- pkg:deb/debian/vim-scripts@20210124.5%2Bnmu1?arch=all

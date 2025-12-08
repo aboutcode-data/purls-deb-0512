@@ -1,0 +1,4 @@
+- pkg:deb/debian/widelands-data@1.1-3?arch=all
+- pkg:deb/debian/widelands-data@1.2.1-3?arch=all
+- pkg:deb/debian/widelands-data@1.2.1-4?arch=all
+- pkg:deb/debian/widelands-data@21-1?arch=all

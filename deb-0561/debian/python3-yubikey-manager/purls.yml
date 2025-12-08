@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-yubikey-manager@4.0.0~a1-4?arch=all
+- pkg:deb/debian/python3-yubikey-manager@4.0.9-1?arch=all

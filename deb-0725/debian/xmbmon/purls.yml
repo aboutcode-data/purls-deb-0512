@@ -1,0 +1,6 @@
+- pkg:deb/debian/xmbmon@2.05-10?arch=amd64
+- pkg:deb/debian/xmbmon@2.05-10?arch=i386
+- pkg:deb/debian/xmbmon@2.05-12?arch=amd64
+- pkg:deb/debian/xmbmon@2.05-12?arch=i386
+- pkg:deb/debian/xmbmon@2.05-8%2Bb1?arch=amd64
+- pkg:deb/debian/xmbmon@2.05-8%2Bb1?arch=i386

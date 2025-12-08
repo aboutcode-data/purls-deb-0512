@@ -1,0 +1,2 @@
+- pkg:deb/debian/snowball-data@0%2B20210120-1?arch=all
+- pkg:deb/debian/snowball-data@0%2B20250506-1?arch=all

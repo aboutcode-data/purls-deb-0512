@@ -1,0 +1,4 @@
+- pkg:deb/debian/sqlite3-doc@3.34.1-3?arch=all
+- pkg:deb/debian/sqlite3-doc@3.40.1-2%2Bdeb12u2?arch=all
+- pkg:deb/debian/sqlite3-doc@3.46.1-7?arch=all
+- pkg:deb/debian/sqlite3-doc@3.46.1-8?arch=all

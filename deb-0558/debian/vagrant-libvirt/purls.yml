@@ -1,0 +1,3 @@
+- pkg:deb/debian/vagrant-libvirt@0.11.2-1?arch=all
+- pkg:deb/debian/vagrant-libvirt@0.12.2-4?arch=all
+- pkg:deb/debian/vagrant-libvirt@0.3.0-1?arch=all

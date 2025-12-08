@@ -1,0 +1,5 @@
+- pkg:deb/debian/x-loader-omap3-igepv2@1.5.1%2Bgit20110715%2Bfca7cd2-2%2Bb1?arch=armhf
+- pkg:deb/debian/x-loader-omap3-igepv2@1.5.1%2Bgit20110715%2Bfca7cd2-4?arch=armel
+- pkg:deb/debian/x-loader-omap3-igepv2@1.5.1%2Bgit20110715%2Bfca7cd2-4?arch=armhf
+- pkg:deb/debian/x-loader-omap3-igepv2@1.5.1%2Bgit20110715%2Bfca7cd2-7?arch=armel
+- pkg:deb/debian/x-loader-omap3-igepv2@1.5.1%2Bgit20110715%2Bfca7cd2-7?arch=armhf

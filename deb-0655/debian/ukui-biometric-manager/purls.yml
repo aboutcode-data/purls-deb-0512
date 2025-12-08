@@ -1,0 +1,6 @@
+- pkg:deb/debian/ukui-biometric-manager@1.0.1-1%2Bb1?arch=amd64
+- pkg:deb/debian/ukui-biometric-manager@1.0.1-1%2Bb1?arch=arm64
+- pkg:deb/debian/ukui-biometric-manager@1.0.3.1-1%2Bb3?arch=amd64
+- pkg:deb/debian/ukui-biometric-manager@1.0.3.1-1%2Bb4?arch=arm64
+- pkg:deb/debian/ukui-biometric-manager@1.0.3.1-1?arch=amd64
+- pkg:deb/debian/ukui-biometric-manager@1.0.3.1-1?arch=arm64

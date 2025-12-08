@@ -1,0 +1,2 @@
+- pkg:deb/debian/softhsm-common@2.6.1-2.1?arch=all
+- pkg:deb/debian/softhsm-common@2.6.1-2?arch=all

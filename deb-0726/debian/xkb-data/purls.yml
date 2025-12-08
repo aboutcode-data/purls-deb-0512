@@ -1,0 +1,4 @@
+- pkg:deb/debian/xkb-data@2.29-2?arch=all
+- pkg:deb/debian/xkb-data@2.35.1-1?arch=all
+- pkg:deb/debian/xkb-data@2.42-1?arch=all
+- pkg:deb/debian/xkb-data@2.44-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/sosi2osm@1.0.0-7?arch=amd64
+- pkg:deb/debian/sosi2osm@1.0.0-7?arch=arm64
+- pkg:deb/debian/sosi2osm@1.0.0-7?arch=armhf
+- pkg:deb/debian/sosi2osm@1.0.0-7?arch=i386

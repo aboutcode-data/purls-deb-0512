@@ -1,0 +1,3 @@
+- pkg:deb/debian/tirex-example-map@0.7.0-3?arch=all
+- pkg:deb/debian/tirex-example-map@0.7.1-3?arch=all
+- pkg:deb/debian/tirex-example-map@0.8.0%2Bds-1?arch=all

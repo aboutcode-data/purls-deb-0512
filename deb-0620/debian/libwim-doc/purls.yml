@@ -1,0 +1,3 @@
+- pkg:deb/debian/libwim-doc@1.13.3-1?arch=all
+- pkg:deb/debian/libwim-doc@1.13.6-1?arch=all
+- pkg:deb/debian/libwim-doc@1.14.4-1.1?arch=all

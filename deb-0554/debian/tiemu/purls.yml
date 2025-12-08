@@ -1,0 +1,13 @@
+- pkg:deb/debian/tiemu@3.04~git20110801-nogdb%2Bdfsg1-2%2Bb1?arch=amd64
+- pkg:deb/debian/tiemu@3.04~git20110801-nogdb%2Bdfsg1-2?arch=arm64
+- pkg:deb/debian/tiemu@3.04~git20110801-nogdb%2Bdfsg1-2?arch=armhf
+- pkg:deb/debian/tiemu@3.04~git20110801-nogdb%2Bdfsg1-2?arch=i386
+- pkg:deb/debian/tiemu@3.04~git20220826.cda2db4%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/tiemu@3.04~git20220826.cda2db4%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/tiemu@3.04~git20220826.cda2db4%2Bdfsg-2?arch=armel
+- pkg:deb/debian/tiemu@3.04~git20220826.cda2db4%2Bdfsg-2?arch=armhf
+- pkg:deb/debian/tiemu@3.04~git20220826.cda2db4%2Bdfsg-2?arch=i386
+- pkg:deb/debian/tiemu@3.04~git20220826.cda2db4%2Bdfsg-2?arch=mips64el
+- pkg:deb/debian/tiemu@3.04~git20220826.cda2db4%2Bdfsg-2?arch=mipsel
+- pkg:deb/debian/tiemu@3.04~git20220826.cda2db4%2Bdfsg-2?arch=ppc64el
+- pkg:deb/debian/tiemu@3.04~git20220826.cda2db4%2Bdfsg-2?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/twinkle-common@1.10.2%2Bdfsg-1?arch=all
+- pkg:deb/debian/twinkle-common@1.10.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/twinkle-common@1.10.3%2Bdfsg-1?arch=all
+- pkg:deb/debian/twinkle-common@1.10.3%2Bdfsg-2?arch=all

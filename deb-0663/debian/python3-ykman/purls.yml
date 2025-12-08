@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ykman@4.0.0~a1-4?arch=all
+- pkg:deb/debian/python3-ykman@4.0.9-1?arch=all
+- pkg:deb/debian/python3-ykman@5.6.1%2Brepack1-1?arch=all
+- pkg:deb/debian/python3-ykman@5.8.0-3?arch=all

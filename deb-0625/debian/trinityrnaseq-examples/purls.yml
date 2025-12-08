@@ -1,0 +1,9 @@
+- pkg:deb/debian/trinityrnaseq-examples@2.11.0%2Bdfsg-6?arch=all
+- pkg:deb/debian/trinityrnaseq-examples@2.15.2%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/trinityrnaseq-examples@2.15.2%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/trinityrnaseq-examples@2.15.2%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/trinityrnaseq-examples@2.15.2%2Bdfsg-1?arch=riscv64
+- pkg:deb/debian/trinityrnaseq-examples@2.15.2%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/trinityrnaseq-examples@2.15.2%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/trinityrnaseq-examples@2.15.2%2Bdfsg-2?arch=ppc64el
+- pkg:deb/debian/trinityrnaseq-examples@2.15.2%2Bdfsg-2?arch=riscv64

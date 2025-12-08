@@ -1,0 +1,17 @@
+- pkg:deb/debian/xpat2@1.07-20%2Bb1?arch=amd64
+- pkg:deb/debian/xpat2@1.07-20%2Bnmu3%2Bb1?arch=amd64
+- pkg:deb/debian/xpat2@1.07-20%2Bnmu3?arch=arm64
+- pkg:deb/debian/xpat2@1.07-20%2Bnmu3?arch=armel
+- pkg:deb/debian/xpat2@1.07-20%2Bnmu3?arch=armhf
+- pkg:deb/debian/xpat2@1.07-20%2Bnmu3?arch=i386
+- pkg:deb/debian/xpat2@1.07-20%2Bnmu3?arch=ppc64el
+- pkg:deb/debian/xpat2@1.07-20%2Bnmu3?arch=riscv64
+- pkg:deb/debian/xpat2@1.07-20%2Bnmu3?arch=s390x
+- pkg:deb/debian/xpat2@1.07-20?arch=arm64
+- pkg:deb/debian/xpat2@1.07-20?arch=armel
+- pkg:deb/debian/xpat2@1.07-20?arch=armhf
+- pkg:deb/debian/xpat2@1.07-20?arch=i386
+- pkg:deb/debian/xpat2@1.07-20?arch=mips64el
+- pkg:deb/debian/xpat2@1.07-20?arch=mipsel
+- pkg:deb/debian/xpat2@1.07-20?arch=ppc64el
+- pkg:deb/debian/xpat2@1.07-20?arch=s390x

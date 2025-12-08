@@ -1,0 +1,4 @@
+- pkg:deb/debian/emacs-common-non-dfsg@27.1%2B1-2?arch=all
+- pkg:deb/debian/emacs-common-non-dfsg@28.2%2B1-2?arch=all
+- pkg:deb/debian/emacs-common-non-dfsg@30.1%2B1-1?arch=all
+- pkg:deb/debian/emacs-common-non-dfsg@30.2%2B1-1?arch=all

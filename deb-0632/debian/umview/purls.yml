@@ -1,0 +1,2 @@
+- pkg:deb/debian/umview@0.8.2-3?arch=amd64
+- pkg:deb/debian/umview@0.8.2-3?arch=i386

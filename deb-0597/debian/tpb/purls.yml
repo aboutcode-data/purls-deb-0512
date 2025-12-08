@@ -1,0 +1,2 @@
+- pkg:deb/debian/tpb@0.6.4-11?arch=amd64
+- pkg:deb/debian/tpb@0.6.4-11?arch=i386

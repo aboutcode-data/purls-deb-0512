@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-zope.location@4.2-2?arch=all
+- pkg:deb/debian/python3-zope.location@5.1-1?arch=all
+- pkg:deb/debian/python3-zope.location@6.0-4?arch=all

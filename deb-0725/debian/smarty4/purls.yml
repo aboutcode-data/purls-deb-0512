@@ -1,0 +1,2 @@
+- pkg:deb/debian/smarty4@4.3.0-1%2Bdeb12u2?arch=all
+- pkg:deb/debian/smarty4@4.5.5-1?arch=all

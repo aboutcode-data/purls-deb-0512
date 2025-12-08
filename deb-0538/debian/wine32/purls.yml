@@ -1,0 +1,11 @@
+- pkg:deb/debian/wine32@10.0~repack-11?arch=armhf
+- pkg:deb/debian/wine32@10.0~repack-11?arch=i386
+- pkg:deb/debian/wine32@10.0~repack-12?arch=armhf
+- pkg:deb/debian/wine32@10.0~repack-12?arch=i386
+- pkg:deb/debian/wine32@10.0~repack-6?arch=armhf
+- pkg:deb/debian/wine32@10.0~repack-6?arch=i386
+- pkg:deb/debian/wine32@5.0.3-3?arch=armhf
+- pkg:deb/debian/wine32@5.0.3-3?arch=i386
+- pkg:deb/debian/wine32@8.0~repack-4?arch=armel
+- pkg:deb/debian/wine32@8.0~repack-4?arch=armhf
+- pkg:deb/debian/wine32@8.0~repack-4?arch=i386

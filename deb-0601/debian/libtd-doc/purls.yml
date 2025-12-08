@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtd-doc@1.8.38~git20241021.d321984%2Bdfsg-4?arch=all
+- pkg:deb/debian/libtd-doc@1.8.38~git20250919.369ee92%2Bdfsg-1?arch=all
+- pkg:deb/debian/libtd-doc@1.8.38~git20251126.f0d04d3%2Bdfsg-1?arch=all

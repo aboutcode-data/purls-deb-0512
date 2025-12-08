@@ -1,0 +1,15 @@
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb8?arch=amd64
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb8?arch=arm64
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb8?arch=armel
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb8?arch=armhf
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb8?arch=i386
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb8?arch=ppc64el
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb8?arch=riscv64
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb8?arch=s390x
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb9?arch=amd64
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb9?arch=arm64
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb9?arch=armhf
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb9?arch=i386
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb9?arch=ppc64el
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb9?arch=riscv64
+- pkg:deb/debian/tty-record@0.1.0%2Bgit20240821.2a020f5%2Bds-1%2Bb9?arch=s390x

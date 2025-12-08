@@ -1,0 +1,3 @@
+- pkg:deb/debian/libxenium-doc@0.0.2%2Bds-3?arch=all
+- pkg:deb/debian/libxenium-doc@0.0.2%2Bds-8?arch=all
+- pkg:deb/debian/libxenium-doc@0.0.2%2Bds-9?arch=all

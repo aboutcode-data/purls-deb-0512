@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-xmmsclient@0.8%2Bdfsg-21?arch=amd64
+- pkg:deb/debian/python3-xmmsclient@0.8%2Bdfsg-21?arch=arm64
+- pkg:deb/debian/python3-xmmsclient@0.8%2Bdfsg-21?arch=armhf
+- pkg:deb/debian/python3-xmmsclient@0.8%2Bdfsg-21?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/qweborf@0.17-3%2Bdeb11u1?arch=all
+- pkg:deb/debian/qweborf@0.19-2.1%2Bdeb12u1?arch=all
+- pkg:deb/debian/qweborf@1.5-1?arch=all
+- pkg:deb/debian/qweborf@1.6-1?arch=all

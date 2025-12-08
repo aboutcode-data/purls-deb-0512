@@ -1,0 +1,4 @@
+- pkg:deb/debian/libyaml-snake-java@1.28-1%2Bdeb11u2?arch=all
+- pkg:deb/debian/libyaml-snake-java@1.33-2?arch=all
+- pkg:deb/debian/libyaml-snake-java@2.0%2Bds%2Breally1.33-1?arch=all
+- pkg:deb/debian/libyaml-snake-java@2.5%2Bds-1?arch=all

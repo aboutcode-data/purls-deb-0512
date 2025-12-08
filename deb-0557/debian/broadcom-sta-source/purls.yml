@@ -1,0 +1,6 @@
+- pkg:deb/debian/broadcom-sta-source@6.30.223.271-17?arch=all
+- pkg:deb/debian/broadcom-sta-source@6.30.223.271-23?arch=all
+- pkg:deb/debian/broadcom-sta-source@6.30.223.271-26?arch=amd64
+- pkg:deb/debian/broadcom-sta-source@6.30.223.271-26?arch=i386
+- pkg:deb/debian/broadcom-sta-source@6.30.223.271-29?arch=amd64
+- pkg:deb/debian/broadcom-sta-source@6.30.223.271-29?arch=i386

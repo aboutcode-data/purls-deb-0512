@@ -1,0 +1,6 @@
+- pkg:deb/debian/wasi-libc@0.0~git20200731.215adc8-2?arch=all
+- pkg:deb/debian/wasi-libc@0.0~git20220510.9886d3d-2?arch=all
+- pkg:deb/debian/wasi-libc@0.0~git20240708.3f43ea9-2~bpo12%2B1?arch=all
+- pkg:deb/debian/wasi-libc@0.0~git20241209.574b88d-2?arch=all
+- pkg:deb/debian/wasi-libc@0.0~git20250726.3f7eb4c-2?arch=all
+- pkg:deb/debian/wasi-libc@0.0~git20250726.3f7eb4c-2~bpo13%2B1?arch=all

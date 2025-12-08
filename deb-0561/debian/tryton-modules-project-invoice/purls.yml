@@ -1,0 +1,3 @@
+- pkg:deb/debian/tryton-modules-project-invoice@5.0.2-1?arch=all
+- pkg:deb/debian/tryton-modules-project-invoice@6.0.4-2?arch=all
+- pkg:deb/debian/tryton-modules-project-invoice@7.0.3-3?arch=all

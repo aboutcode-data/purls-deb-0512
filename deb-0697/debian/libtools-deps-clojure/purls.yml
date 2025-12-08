@@ -1,0 +1,2 @@
+- pkg:deb/debian/libtools-deps-clojure@0.16.1264-3?arch=all
+- pkg:deb/debian/libtools-deps-clojure@0.21.1460-5?arch=all

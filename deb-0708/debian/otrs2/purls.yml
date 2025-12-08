@@ -1,0 +1,6 @@
+- pkg:deb/debian/otrs2@6.0.32-6?arch=all
+- pkg:deb/debian/otrs2@6.5.1-1?arch=all
+- pkg:deb/debian/otrs2@6.5.15-2?arch=all
+- pkg:deb/debian/otrs2@6.5.15-2~bpo12%2B1?arch=all
+- pkg:deb/debian/otrs2@6.5.18-1?arch=all
+- pkg:deb/debian/otrs2@6.5.18-1~bpo13%2B1?arch=all

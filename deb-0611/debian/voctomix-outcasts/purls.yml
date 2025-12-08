@@ -1,0 +1,4 @@
+- pkg:deb/debian/voctomix-outcasts@0.9.3-2?arch=all
+- pkg:deb/debian/voctomix-outcasts@1.0.0-1.1?arch=all
+- pkg:deb/debian/voctomix-outcasts@1.0.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/voctomix-outcasts@1.2.0-1?arch=all

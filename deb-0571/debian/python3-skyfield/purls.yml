@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-skyfield@1.45%2Bds-2?arch=all
+- pkg:deb/debian/python3-skyfield@1.53%2Bds-1?arch=all
+- pkg:deb/debian/python3-skyfield@1.53%2Bds-2?arch=all

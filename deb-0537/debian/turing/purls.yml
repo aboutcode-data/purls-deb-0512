@@ -1,0 +1,4 @@
+- pkg:deb/debian/turing@0.11-2?arch=all
+- pkg:deb/debian/turing@0.11-3?arch=all
+- pkg:deb/debian/turing@0.11~beta-3?arch=all
+- pkg:deb/debian/turing@0.11~beta-4?arch=all

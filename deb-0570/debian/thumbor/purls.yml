@@ -1,0 +1,6 @@
+- pkg:deb/debian/thumbor@7.7.7-4?arch=amd64
+- pkg:deb/debian/thumbor@7.7.7-4?arch=arm64
+- pkg:deb/debian/thumbor@7.7.7-4?arch=armhf
+- pkg:deb/debian/thumbor@7.7.7-4?arch=i386
+- pkg:deb/debian/thumbor@7.7.7-4?arch=ppc64el
+- pkg:deb/debian/thumbor@7.7.7-4?arch=riscv64

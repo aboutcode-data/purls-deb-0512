@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-six-doc@1.16.0-2?arch=all
+- pkg:deb/debian/python-six-doc@1.16.0-4?arch=all
+- pkg:deb/debian/python-six-doc@1.17.0-1?arch=all
+- pkg:deb/debian/python-six-doc@1.17.0-2?arch=all

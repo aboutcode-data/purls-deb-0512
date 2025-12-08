@@ -1,0 +1,5 @@
+- pkg:deb/debian/v4l2loopback-source@0.12.5-1?arch=all
+- pkg:deb/debian/v4l2loopback-source@0.12.7-2?arch=all
+- pkg:deb/debian/v4l2loopback-source@0.13.2-1~bpo12%2B1?arch=all
+- pkg:deb/debian/v4l2loopback-source@0.15.0-2?arch=all
+- pkg:deb/debian/v4l2loopback-source@0.15.2-1?arch=all

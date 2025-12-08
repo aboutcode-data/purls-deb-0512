@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-zarr@2.13.6%2Bds-1?arch=all
+- pkg:deb/debian/python3-zarr@2.6.1%2Bds-1?arch=all
+- pkg:deb/debian/python3-zarr@3.0.6-2?arch=all
+- pkg:deb/debian/python3-zarr@3.1.5-1?arch=all

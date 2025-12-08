@@ -1,0 +1,4 @@
+- pkg:deb/debian/sphinx-rtd-theme-common@0.5.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/sphinx-rtd-theme-common@1.2.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/sphinx-rtd-theme-common@3.0.2%2Bdfsg-2?arch=all
+- pkg:deb/debian/sphinx-rtd-theme-common@3.0.2%2Bdfsg-3?arch=all

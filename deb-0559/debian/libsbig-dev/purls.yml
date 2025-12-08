@@ -1,0 +1,6 @@
+- pkg:deb/debian/libsbig-dev@4.9.9-4?arch=amd64
+- pkg:deb/debian/libsbig-dev@4.9.9-4?arch=arm64
+- pkg:deb/debian/libsbig-dev@4.9.9-4?arch=armhf
+- pkg:deb/debian/libsbig-dev@4.9.9-7?arch=amd64
+- pkg:deb/debian/libsbig-dev@4.9.9-7?arch=arm64
+- pkg:deb/debian/libsbig-dev@4.9.9-7?arch=armhf

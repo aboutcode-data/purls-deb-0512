@@ -1,0 +1,2 @@
+- pkg:deb/debian/slic3r-prusa@2.3.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/slic3r-prusa@2.5.0%2Bdfsg-4?arch=all

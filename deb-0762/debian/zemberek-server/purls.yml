@@ -1,0 +1,2 @@
+- pkg:deb/debian/zemberek-server@0.7.1-12.3?arch=all
+- pkg:deb/debian/zemberek-server@0.7.1-12.4?arch=all

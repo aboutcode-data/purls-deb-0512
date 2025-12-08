@@ -1,0 +1,2 @@
+- pkg:deb/debian/wadc@3.0-1.1?arch=all
+- pkg:deb/debian/wadc@3.1-1?arch=all

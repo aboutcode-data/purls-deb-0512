@@ -1,0 +1,3 @@
+- pkg:deb/debian/stilts@3.4-2?arch=all
+- pkg:deb/debian/stilts@3.4.7-4?arch=all
+- pkg:deb/debian/stilts@3.5.2-1?arch=all

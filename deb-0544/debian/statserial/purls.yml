@@ -1,0 +1,11 @@
+- pkg:deb/debian/statserial@1.1-25%2Bb1?arch=amd64
+- pkg:deb/debian/statserial@1.1-25%2Bb1?arch=arm64
+- pkg:deb/debian/statserial@1.1-25%2Bb1?arch=riscv64
+- pkg:deb/debian/statserial@1.1-25?arch=arm64
+- pkg:deb/debian/statserial@1.1-25?arch=armel
+- pkg:deb/debian/statserial@1.1-25?arch=armhf
+- pkg:deb/debian/statserial@1.1-25?arch=i386
+- pkg:deb/debian/statserial@1.1-25?arch=mips64el
+- pkg:deb/debian/statserial@1.1-25?arch=mipsel
+- pkg:deb/debian/statserial@1.1-25?arch=ppc64el
+- pkg:deb/debian/statserial@1.1-25?arch=s390x

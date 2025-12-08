@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnvidia-tesla-418-ifr1@418.226.00-20?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-418-ifr1@418.226.00-20?arch=i386
+- pkg:deb/debian/libnvidia-tesla-418-ifr1@418.226.00-6~deb11u2?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-418-ifr1@418.226.00-6~deb11u2?arch=i386

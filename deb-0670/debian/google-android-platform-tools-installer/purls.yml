@@ -1,0 +1,3 @@
+- pkg:deb/debian/google-android-platform-tools-installer@33.0.3%2B1675172738?arch=amd64
+- pkg:deb/debian/google-android-platform-tools-installer@35.0.2%2B1743526702-1?arch=amd64
+- pkg:deb/debian/google-android-platform-tools-installer@36.0.0%2B1755725555-1?arch=amd64

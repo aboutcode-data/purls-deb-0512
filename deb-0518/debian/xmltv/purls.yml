@@ -1,0 +1,3 @@
+- pkg:deb/debian/xmltv@1.0.0-1?arch=all
+- pkg:deb/debian/xmltv@1.2.1-1?arch=all
+- pkg:deb/debian/xmltv@1.4.0-1?arch=all

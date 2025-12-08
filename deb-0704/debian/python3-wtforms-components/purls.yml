@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-wtforms-components@0.10.5-4?arch=all
+- pkg:deb/debian/python3-wtforms-components@0.11.0-2?arch=all

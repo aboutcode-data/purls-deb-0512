@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-sqlparse@0.4.1-1?arch=all
+- pkg:deb/debian/python3-sqlparse@0.4.2-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/python3-sqlparse@0.5.3-1?arch=all
+- pkg:deb/debian/python3-sqlparse@0.5.4-1?arch=all

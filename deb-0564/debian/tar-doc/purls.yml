@@ -1,0 +1,2 @@
+- pkg:deb/debian/tar-doc@1.34-1?arch=all
+- pkg:deb/debian/tar-doc@1.35-2?arch=all

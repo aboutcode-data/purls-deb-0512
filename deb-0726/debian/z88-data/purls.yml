@@ -1,0 +1,2 @@
+- pkg:deb/debian/z88-data@13.0.0%2Bdfsg2-6?arch=all
+- pkg:deb/debian/z88-data@15%2Bdfsg-1?arch=all

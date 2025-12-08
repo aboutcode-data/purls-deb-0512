@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-zzzeeksphinx@1.1.6-1?arch=all
+- pkg:deb/debian/python3-zzzeeksphinx@1.3.5-2?arch=all
+- pkg:deb/debian/python3-zzzeeksphinx@1.5.1-1?arch=all
+- pkg:deb/debian/python3-zzzeeksphinx@1.6.1-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/iraf-wcstools@3.9.6-1?arch=all
+- pkg:deb/debian/iraf-wcstools@3.9.7-1.1?arch=all
+- pkg:deb/debian/iraf-wcstools@3.9.7-1?arch=all
+- pkg:deb/debian/iraf-wcstools@3.9.7-2?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/libnvidia-pkcs11-openssl3@535.216.03-2~bpo12%2B1?arch=amd64
+- pkg:deb/debian/libnvidia-pkcs11-openssl3@535.247.01-1~deb12u1?arch=amd64
+- pkg:deb/debian/libnvidia-pkcs11-openssl3@550.163.01-2?arch=amd64
+- pkg:deb/debian/libnvidia-pkcs11-openssl3@550.163.01-4?arch=amd64
+- pkg:deb/debian/libnvidia-pkcs11-openssl3@550.163.01-4~bpo13%2B1?arch=amd64
+- pkg:deb/debian/libnvidia-pkcs11-openssl3@555.58.02-2?arch=amd64

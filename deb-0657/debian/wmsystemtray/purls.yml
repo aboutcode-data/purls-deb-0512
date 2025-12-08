@@ -1,0 +1,15 @@
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-2%2Bb1?arch=amd64
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-2%2Bb1?arch=arm64
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-2%2Bb1?arch=armhf
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-2%2Bb1?arch=i386
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-3%2Bb1?arch=arm64
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-3%2Bb1?arch=riscv64
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-3?arch=amd64
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-3?arch=arm64
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-3?arch=armel
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-3?arch=armhf
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-3?arch=i386
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-3?arch=mips64el
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-3?arch=mipsel
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-3?arch=ppc64el
+- pkg:deb/debian/wmsystemtray@1.4%2Bgit20150508-3?arch=s390x

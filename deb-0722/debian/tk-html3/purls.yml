@@ -1,0 +1,4 @@
+- pkg:deb/debian/tk-html3@3.0~fossil20110109-8?arch=amd64
+- pkg:deb/debian/tk-html3@3.0~fossil20110109-8?arch=arm64
+- pkg:deb/debian/tk-html3@3.0~fossil20110109-8?arch=armhf
+- pkg:deb/debian/tk-html3@3.0~fossil20110109-8?arch=i386

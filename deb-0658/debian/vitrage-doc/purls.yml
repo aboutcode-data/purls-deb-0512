@@ -1,0 +1,5 @@
+- pkg:deb/debian/vitrage-doc@14.0.0-4?arch=all
+- pkg:deb/debian/vitrage-doc@15.0.1-1?arch=all
+- pkg:deb/debian/vitrage-doc@15.0.1-2?arch=all
+- pkg:deb/debian/vitrage-doc@7.3.0-2?arch=all
+- pkg:deb/debian/vitrage-doc@9.0.0-3.1?arch=all

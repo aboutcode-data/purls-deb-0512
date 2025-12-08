@@ -1,0 +1,3 @@
+- pkg:deb/debian/surankco@0.0.r5%2Bdfsg-3?arch=all
+- pkg:deb/debian/surankco@0.0.r5%2Bdfsg-4?arch=all
+- pkg:deb/debian/surankco@0.0.r5%2Bdfsg-5?arch=all

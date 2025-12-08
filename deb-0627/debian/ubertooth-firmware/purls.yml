@@ -1,0 +1,4 @@
+- pkg:deb/debian/ubertooth-firmware@2018.12.R1-5.1?arch=all
+- pkg:deb/debian/ubertooth-firmware@2018.12.R1-5.3?arch=all
+- pkg:deb/debian/ubertooth-firmware@2018.12.R1-5.4?arch=all
+- pkg:deb/debian/ubertooth-firmware@2018.12.R1-5?arch=all

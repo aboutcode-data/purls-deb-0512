@@ -1,0 +1,4 @@
+- pkg:deb/debian/yubikey-luks@0.5.1%2B29.g5df2b95-6.1?arch=all
+- pkg:deb/debian/yubikey-luks@0.5.1%2B29.g5df2b95-6.3?arch=all
+- pkg:deb/debian/yubikey-luks@0.5.1%2B29.g5df2b95-6?arch=all
+- pkg:deb/debian/yubikey-luks@0.5.1%2B29.g5df2b95-7?arch=all

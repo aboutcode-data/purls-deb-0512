@@ -1,0 +1,3 @@
+- pkg:deb/debian/warmux-data@11.04.1%2Brepack2-4?arch=all
+- pkg:deb/debian/warmux-data@11.04.1%2Brepack2-5?arch=all
+- pkg:deb/debian/warmux-data@11.04.1%2Brepack2-6?arch=all

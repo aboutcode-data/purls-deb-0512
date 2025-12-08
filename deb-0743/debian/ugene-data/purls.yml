@@ -1,0 +1,3 @@
+- pkg:deb/debian/ugene-data@34.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/ugene-data@51.0%2Bdfsg-3?arch=all
+- pkg:deb/debian/ugene-data@52.1%2Bdfsg-1?arch=all

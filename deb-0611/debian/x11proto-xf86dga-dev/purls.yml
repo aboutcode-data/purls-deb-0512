@@ -1,0 +1,2 @@
+- pkg:deb/debian/x11proto-xf86dga-dev@2020.1-1?arch=all
+- pkg:deb/debian/x11proto-xf86dga-dev@2022.1-1?arch=all

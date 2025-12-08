@@ -1,0 +1,6 @@
+- pkg:deb/debian/caja-dropbox@1.24.0-1?arch=amd64
+- pkg:deb/debian/caja-dropbox@1.24.0-1?arch=i386
+- pkg:deb/debian/caja-dropbox@1.26.0-2?arch=amd64
+- pkg:deb/debian/caja-dropbox@1.26.0-2?arch=i386
+- pkg:deb/debian/caja-dropbox@1.26.0-4%2Bb1?arch=amd64
+- pkg:deb/debian/caja-dropbox@1.26.0-4%2Bb1?arch=i386

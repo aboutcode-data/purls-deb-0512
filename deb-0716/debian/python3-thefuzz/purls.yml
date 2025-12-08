@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-thefuzz@0.19.0-2?arch=all
+- pkg:deb/debian/python3-thefuzz@0.22.1-1?arch=all

@@ -1,0 +1,17 @@
+- pkg:deb/debian/wide-dhcpv6-client@20080615-23?arch=amd64
+- pkg:deb/debian/wide-dhcpv6-client@20080615-23?arch=arm64
+- pkg:deb/debian/wide-dhcpv6-client@20080615-23?arch=armel
+- pkg:deb/debian/wide-dhcpv6-client@20080615-23?arch=armhf
+- pkg:deb/debian/wide-dhcpv6-client@20080615-23?arch=i386
+- pkg:deb/debian/wide-dhcpv6-client@20080615-23?arch=mips64el
+- pkg:deb/debian/wide-dhcpv6-client@20080615-23?arch=mipsel
+- pkg:deb/debian/wide-dhcpv6-client@20080615-23?arch=ppc64el
+- pkg:deb/debian/wide-dhcpv6-client@20080615-23?arch=s390x
+- pkg:deb/debian/wide-dhcpv6-client@20080615-24?arch=amd64
+- pkg:deb/debian/wide-dhcpv6-client@20080615-24?arch=arm64
+- pkg:deb/debian/wide-dhcpv6-client@20080615-24?arch=armel
+- pkg:deb/debian/wide-dhcpv6-client@20080615-24?arch=armhf
+- pkg:deb/debian/wide-dhcpv6-client@20080615-24?arch=i386
+- pkg:deb/debian/wide-dhcpv6-client@20080615-24?arch=ppc64el
+- pkg:deb/debian/wide-dhcpv6-client@20080615-24?arch=riscv64
+- pkg:deb/debian/wide-dhcpv6-client@20080615-24?arch=s390x

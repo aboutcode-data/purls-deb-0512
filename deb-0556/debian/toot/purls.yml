@@ -1,0 +1,4 @@
+- pkg:deb/debian/toot@0.27.0-1?arch=all
+- pkg:deb/debian/toot@0.34.1-1?arch=all
+- pkg:deb/debian/toot@0.48.1?arch=all
+- pkg:deb/debian/toot@0.51.0-1?arch=all

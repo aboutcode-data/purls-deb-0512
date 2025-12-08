@@ -1,0 +1,10 @@
+- pkg:deb/debian/srst2@0.2.0-13?arch=amd64
+- pkg:deb/debian/srst2@0.2.0-13?arch=arm64
+- pkg:deb/debian/srst2@0.2.0-13?arch=ppc64el
+- pkg:deb/debian/srst2@0.2.0-13?arch=riscv64
+- pkg:deb/debian/srst2@0.2.0-8?arch=amd64
+- pkg:deb/debian/srst2@0.2.0-8?arch=arm64
+- pkg:deb/debian/srst2@0.2.0-9?arch=amd64
+- pkg:deb/debian/srst2@0.2.0-9?arch=arm64
+- pkg:deb/debian/srst2@0.2.0-9?arch=mips64el
+- pkg:deb/debian/srst2@0.2.0-9?arch=ppc64el

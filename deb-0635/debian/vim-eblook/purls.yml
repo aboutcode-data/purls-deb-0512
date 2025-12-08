@@ -1,0 +1,2 @@
+- pkg:deb/debian/vim-eblook@1.2.3%2Bgit20201111-3.1?arch=all
+- pkg:deb/debian/vim-eblook@1.4.0-1.1?arch=all

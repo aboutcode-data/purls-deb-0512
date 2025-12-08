@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-ubuntutools@0.183?arch=all
+- pkg:deb/debian/python3-ubuntutools@0.193?arch=all
+- pkg:deb/debian/python3-ubuntutools@0.206?arch=all
+- pkg:deb/debian/python3-ubuntutools@0.208?arch=all

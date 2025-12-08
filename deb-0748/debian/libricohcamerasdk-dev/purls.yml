@@ -1,0 +1,4 @@
+- pkg:deb/debian/libricohcamerasdk-dev@1.1.0-4?arch=amd64
+- pkg:deb/debian/libricohcamerasdk-dev@1.1.0-4?arch=armhf
+- pkg:deb/debian/libricohcamerasdk-dev@1.1.0-5?arch=amd64
+- pkg:deb/debian/libricohcamerasdk-dev@1.1.0-5?arch=armhf

@@ -1,0 +1,4 @@
+- pkg:deb/debian/voms-clients-java@3.3.2-1?arch=all
+- pkg:deb/debian/voms-clients-java@3.3.2-2?arch=all
+- pkg:deb/debian/voms-clients-java@3.3.5-1?arch=all
+- pkg:deb/debian/voms-clients-java@3.3.6-1?arch=all

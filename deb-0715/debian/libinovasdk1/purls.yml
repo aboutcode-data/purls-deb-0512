@@ -1,0 +1,6 @@
+- pkg:deb/debian/libinovasdk1@1.3.6-3?arch=amd64
+- pkg:deb/debian/libinovasdk1@1.3.6-3?arch=arm64
+- pkg:deb/debian/libinovasdk1@1.3.6-3?arch=i386
+- pkg:deb/debian/libinovasdk1@1.3.6-4?arch=amd64
+- pkg:deb/debian/libinovasdk1@1.3.6-4?arch=arm64
+- pkg:deb/debian/libinovasdk1@1.3.6-4?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/zhcon-data@0.2.6-18?arch=all
+- pkg:deb/debian/zhcon-data@0.2.6-19?arch=all
+- pkg:deb/debian/zhcon-data@0.2.6-20?arch=all
+- pkg:deb/debian/zhcon-data@0.2.6-21?arch=all

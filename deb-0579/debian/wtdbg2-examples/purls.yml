@@ -1,0 +1,4 @@
+- pkg:deb/debian/wtdbg2-examples@2.5-10?arch=all
+- pkg:deb/debian/wtdbg2-examples@2.5-11?arch=all
+- pkg:deb/debian/wtdbg2-examples@2.5-7?arch=all
+- pkg:deb/debian/wtdbg2-examples@2.5-9?arch=all

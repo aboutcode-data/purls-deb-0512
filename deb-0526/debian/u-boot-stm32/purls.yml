@@ -1,0 +1,4 @@
+- pkg:deb/debian/u-boot-stm32@2023.01%2Bdfsg-2%2Bdeb12u1?arch=armhf
+- pkg:deb/debian/u-boot-stm32@2023.01%2Bdfsg-2%2Bdeb12u2?arch=armhf
+- pkg:deb/debian/u-boot-stm32@2025.01-3%2Bb1?arch=armhf
+- pkg:deb/debian/u-boot-stm32@2025.01-3?arch=armhf

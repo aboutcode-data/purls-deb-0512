@@ -1,0 +1,4 @@
+- pkg:deb/debian/snek@1.12-1?arch=all
+- pkg:deb/debian/snek@1.13-1?arch=all
+- pkg:deb/debian/snek@1.5-1?arch=all
+- pkg:deb/debian/snek@1.9-1?arch=all

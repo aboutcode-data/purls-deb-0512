@@ -1,0 +1,4 @@
+- pkg:deb/debian/tryton-modules-stock-package-shipping@5.0.2-1?arch=all
+- pkg:deb/debian/tryton-modules-stock-package-shipping@6.0.1-1?arch=all
+- pkg:deb/debian/tryton-modules-stock-package-shipping@7.0.1-3?arch=all
+- pkg:deb/debian/tryton-modules-stock-package-shipping@7.0.2-1?arch=all

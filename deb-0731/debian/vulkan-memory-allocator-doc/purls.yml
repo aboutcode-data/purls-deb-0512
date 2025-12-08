@@ -1,0 +1,2 @@
+- pkg:deb/debian/vulkan-memory-allocator-doc@3.2.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/vulkan-memory-allocator-doc@3.3.0%2Bdfsg-1?arch=all

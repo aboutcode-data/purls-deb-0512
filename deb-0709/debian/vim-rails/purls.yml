@@ -1,0 +1,2 @@
+- pkg:deb/debian/vim-rails@4.5~20110829-2?arch=all
+- pkg:deb/debian/vim-rails@5.4-2?arch=all

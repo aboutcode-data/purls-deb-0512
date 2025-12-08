@@ -1,0 +1,4 @@
+- pkg:deb/debian/wireguard@1.0.20210223-1?arch=all
+- pkg:deb/debian/wireguard@1.0.20210914-1?arch=all
+- pkg:deb/debian/wireguard@1.0.20210914-3?arch=all
+- pkg:deb/debian/wireguard@1.0.20250521-1?arch=all

@@ -1,0 +1,8 @@
+- pkg:deb/debian/amd64-microcode@3.20240820.1~deb11u1?arch=amd64
+- pkg:deb/debian/amd64-microcode@3.20240820.1~deb11u1?arch=i386
+- pkg:deb/debian/amd64-microcode@3.20250311.1?arch=amd64
+- pkg:deb/debian/amd64-microcode@3.20250311.1?arch=i386
+- pkg:deb/debian/amd64-microcode@3.20250311.1~deb12u1?arch=amd64
+- pkg:deb/debian/amd64-microcode@3.20250311.1~deb12u1?arch=i386
+- pkg:deb/debian/amd64-microcode@3.20251202.1?arch=amd64
+- pkg:deb/debian/amd64-microcode@3.20251202.1?arch=i386

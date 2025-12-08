@@ -1,0 +1,5 @@
+- pkg:deb/debian/firmware-nvidia-tesla-535-gsp@535.216.03-3~deb12u1?arch=amd64
+- pkg:deb/debian/firmware-nvidia-tesla-535-gsp@535.274.02-1?arch=amd64
+- pkg:deb/debian/firmware-nvidia-tesla-535-gsp@535.274.02-1?arch=arm64
+- pkg:deb/debian/firmware-nvidia-tesla-535-gsp@535.274.02-1~deb13u1?arch=amd64
+- pkg:deb/debian/firmware-nvidia-tesla-535-gsp@535.274.02-1~deb13u1?arch=arm64

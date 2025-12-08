@@ -1,0 +1,4 @@
+- pkg:deb/debian/libavkys8@8.6.1%2Bdfsg-2.1?arch=amd64
+- pkg:deb/debian/libavkys8@8.6.1%2Bdfsg-2.1?arch=arm64
+- pkg:deb/debian/libavkys8@8.6.1%2Bdfsg-2.1?arch=armhf
+- pkg:deb/debian/libavkys8@8.6.1%2Bdfsg-2.1?arch=i386

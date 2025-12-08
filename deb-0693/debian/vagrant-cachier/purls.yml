@@ -1,0 +1,2 @@
+- pkg:deb/debian/vagrant-cachier@1.2.1%2Bgit20221205.7e885eb-1?arch=all
+- pkg:deb/debian/vagrant-cachier@1.2.1-3.1?arch=all

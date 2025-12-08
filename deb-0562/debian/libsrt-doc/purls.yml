@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsrt-doc@1.4.2-1.3?arch=all
+- pkg:deb/debian/libsrt-doc@1.5.1-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/libsrt-doc@1.5.4-1?arch=all
+- pkg:deb/debian/libsrt-doc@1.5.4-3?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/xserver-xorg-video-geode@2.11.20-6?arch=i386
+- pkg:deb/debian/xserver-xorg-video-geode@2.11.20-9?arch=i386
+- pkg:deb/debian/xserver-xorg-video-geode@2.18.1-6?arch=amd64
+- pkg:deb/debian/xserver-xorg-video-geode@2.18.1-6?arch=i386
+- pkg:deb/debian/xserver-xorg-video-geode@2.18.2-1?arch=amd64
+- pkg:deb/debian/xserver-xorg-video-geode@2.18.2-1?arch=i386

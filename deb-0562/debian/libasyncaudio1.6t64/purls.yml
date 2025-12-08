@@ -1,0 +1,15 @@
+- pkg:deb/debian/libasyncaudio1.6t64@24.02-5?arch=amd64
+- pkg:deb/debian/libasyncaudio1.6t64@24.02-5?arch=arm64
+- pkg:deb/debian/libasyncaudio1.6t64@24.02-5?arch=armel
+- pkg:deb/debian/libasyncaudio1.6t64@24.02-5?arch=armhf
+- pkg:deb/debian/libasyncaudio1.6t64@24.02-5?arch=i386
+- pkg:deb/debian/libasyncaudio1.6t64@24.02-5?arch=ppc64el
+- pkg:deb/debian/libasyncaudio1.6t64@24.02-5?arch=riscv64
+- pkg:deb/debian/libasyncaudio1.6t64@24.02-5?arch=s390x
+- pkg:deb/debian/libasyncaudio1.6t64@25.05.1-2?arch=amd64
+- pkg:deb/debian/libasyncaudio1.6t64@25.05.1-2?arch=arm64
+- pkg:deb/debian/libasyncaudio1.6t64@25.05.1-2?arch=armhf
+- pkg:deb/debian/libasyncaudio1.6t64@25.05.1-2?arch=i386
+- pkg:deb/debian/libasyncaudio1.6t64@25.05.1-2?arch=ppc64el
+- pkg:deb/debian/libasyncaudio1.6t64@25.05.1-2?arch=riscv64
+- pkg:deb/debian/libasyncaudio1.6t64@25.05.1-2?arch=s390x

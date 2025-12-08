@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsimgrid3.25@3.25%2Bdfsg-5?arch=amd64
+- pkg:deb/debian/libsimgrid3.25@3.25%2Bdfsg-5?arch=arm64
+- pkg:deb/debian/libsimgrid3.25@3.25%2Bdfsg-5?arch=armhf
+- pkg:deb/debian/libsimgrid3.25@3.25%2Bdfsg-5?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/xmlbeans@3.0.2-1?arch=all
+- pkg:deb/debian/xmlbeans@4.0.0-2?arch=all

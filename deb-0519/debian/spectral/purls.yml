@@ -1,0 +1,5 @@
+- pkg:deb/debian/spectral@0.0~git20210114.30028a2-2?arch=amd64
+- pkg:deb/debian/spectral@0.0~git20210114.30028a2-2?arch=arm64
+- pkg:deb/debian/spectral@0.0~git20210114.30028a2-2?arch=armhf
+- pkg:deb/debian/spectral@0.0~git20210114.30028a2-2?arch=i386
+- pkg:deb/debian/spectral@0.0~git20210114.30028a2-3?arch=all

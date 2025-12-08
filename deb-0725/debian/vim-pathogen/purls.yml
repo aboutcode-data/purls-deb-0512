@@ -1,0 +1,2 @@
+- pkg:deb/debian/vim-pathogen@2.4-5?arch=all
+- pkg:deb/debian/vim-pathogen@2.4-7?arch=all

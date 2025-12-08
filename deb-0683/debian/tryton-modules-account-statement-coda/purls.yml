@@ -1,0 +1,2 @@
+- pkg:deb/debian/tryton-modules-account-statement-coda@6.0.0-3?arch=all
+- pkg:deb/debian/tryton-modules-account-statement-coda@7.0.0-3?arch=all

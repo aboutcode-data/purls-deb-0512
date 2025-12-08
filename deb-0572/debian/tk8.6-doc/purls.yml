@@ -1,0 +1,4 @@
+- pkg:deb/debian/tk8.6-doc@8.6.11-2?arch=all
+- pkg:deb/debian/tk8.6-doc@8.6.13-2?arch=all
+- pkg:deb/debian/tk8.6-doc@8.6.16-1?arch=all
+- pkg:deb/debian/tk8.6-doc@8.6.17-1?arch=all

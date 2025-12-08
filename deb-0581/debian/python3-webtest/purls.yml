@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-webtest@2.0.35-1?arch=all
+- pkg:deb/debian/python3-webtest@3.0.0-2?arch=all
+- pkg:deb/debian/python3-webtest@3.0.4-1?arch=all
+- pkg:deb/debian/python3-webtest@3.0.7-1?arch=all

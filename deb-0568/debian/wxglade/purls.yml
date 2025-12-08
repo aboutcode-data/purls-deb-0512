@@ -1,0 +1,3 @@
+- pkg:deb/debian/wxglade@1.0.1-1?arch=all
+- pkg:deb/debian/wxglade@1.0.4-2?arch=all
+- pkg:deb/debian/wxglade@1.1.1%2Brepack-1?arch=all

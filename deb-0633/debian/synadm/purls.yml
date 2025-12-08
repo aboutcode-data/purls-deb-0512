@@ -1,0 +1,2 @@
+- pkg:deb/debian/synadm@0.38-1?arch=all
+- pkg:deb/debian/synadm@0.46-1?arch=all

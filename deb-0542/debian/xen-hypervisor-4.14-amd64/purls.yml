@@ -1,0 +1,2 @@
+- pkg:deb/debian/xen-hypervisor-4.14-amd64@4.14.6-1?arch=amd64
+- pkg:deb/debian/xen-hypervisor-4.14-amd64@4.14.6-1?arch=i386

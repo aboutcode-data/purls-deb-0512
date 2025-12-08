@@ -1,0 +1,4 @@
+- pkg:deb/debian/whichwayisup@0.7.9-10?arch=all
+- pkg:deb/debian/whichwayisup@0.7.9-11?arch=all
+- pkg:deb/debian/whichwayisup@0.7.9-8?arch=all
+- pkg:deb/debian/whichwayisup@0.7.9-9?arch=all

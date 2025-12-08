@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-xdebug-all-dev@3.2.0%2B3.1.6%2B2.9.8%2B2.8.1%2B2.5.5-3?arch=all
+- pkg:deb/debian/php-xdebug-all-dev@3.4.5-3?arch=all

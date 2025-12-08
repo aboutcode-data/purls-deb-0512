@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-sphinx-autobuild@0.7.1-2.1?arch=all
+- pkg:deb/debian/python3-sphinx-autobuild@2021.3.14-3?arch=all
+- pkg:deb/debian/python3-sphinx-autobuild@2024.10.03-1?arch=all
+- pkg:deb/debian/python3-sphinx-autobuild@2025.08.25-1?arch=all

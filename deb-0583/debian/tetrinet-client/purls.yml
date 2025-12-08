@@ -1,0 +1,17 @@
+- pkg:deb/debian/tetrinet-client@0.11%2BCVS20070911-2.1%2Bb1?arch=riscv64
+- pkg:deb/debian/tetrinet-client@0.11%2BCVS20070911-2.1?arch=amd64
+- pkg:deb/debian/tetrinet-client@0.11%2BCVS20070911-2.1?arch=arm64
+- pkg:deb/debian/tetrinet-client@0.11%2BCVS20070911-2.1?arch=armel
+- pkg:deb/debian/tetrinet-client@0.11%2BCVS20070911-2.1?arch=armhf
+- pkg:deb/debian/tetrinet-client@0.11%2BCVS20070911-2.1?arch=i386
+- pkg:deb/debian/tetrinet-client@0.11%2BCVS20070911-2.1?arch=mips64el
+- pkg:deb/debian/tetrinet-client@0.11%2BCVS20070911-2.1?arch=mipsel
+- pkg:deb/debian/tetrinet-client@0.11%2BCVS20070911-2.1?arch=ppc64el
+- pkg:deb/debian/tetrinet-client@0.11%2BCVS20070911-2.1?arch=s390x
+- pkg:deb/debian/tetrinet-client@0.11%2Bgit20080905.a98fcc1-1?arch=amd64
+- pkg:deb/debian/tetrinet-client@0.11%2Bgit20080905.a98fcc1-1?arch=arm64
+- pkg:deb/debian/tetrinet-client@0.11%2Bgit20080905.a98fcc1-1?arch=armhf
+- pkg:deb/debian/tetrinet-client@0.11%2Bgit20080905.a98fcc1-1?arch=i386
+- pkg:deb/debian/tetrinet-client@0.11%2Bgit20080905.a98fcc1-1?arch=ppc64el
+- pkg:deb/debian/tetrinet-client@0.11%2Bgit20080905.a98fcc1-1?arch=riscv64
+- pkg:deb/debian/tetrinet-client@0.11%2Bgit20080905.a98fcc1-1?arch=s390x

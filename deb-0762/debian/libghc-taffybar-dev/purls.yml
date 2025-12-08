@@ -1,0 +1,14 @@
+- pkg:deb/debian/libghc-taffybar-dev@3.2.2-2?arch=amd64
+- pkg:deb/debian/libghc-taffybar-dev@3.2.2-2?arch=arm64
+- pkg:deb/debian/libghc-taffybar-dev@3.2.2-2?arch=armhf
+- pkg:deb/debian/libghc-taffybar-dev@3.2.2-2?arch=i386
+- pkg:deb/debian/libghc-taffybar-dev@3.3.0-2%2Bb3?arch=mips64el
+- pkg:deb/debian/libghc-taffybar-dev@3.3.0-2%2Bb3?arch=ppc64el
+- pkg:deb/debian/libghc-taffybar-dev@3.3.0-2%2Bb3?arch=s390x
+- pkg:deb/debian/libghc-taffybar-dev@3.3.0-2%2Bb4?arch=amd64
+- pkg:deb/debian/libghc-taffybar-dev@3.3.0-2%2Bb4?arch=arm64
+- pkg:deb/debian/libghc-taffybar-dev@4.0.2-1%2Bb3?arch=ppc64el
+- pkg:deb/debian/libghc-taffybar-dev@4.0.2-1%2Bb3?arch=riscv64
+- pkg:deb/debian/libghc-taffybar-dev@4.0.2-1%2Bb3?arch=s390x
+- pkg:deb/debian/libghc-taffybar-dev@4.0.2-1%2Bb4?arch=amd64
+- pkg:deb/debian/libghc-taffybar-dev@4.0.2-1%2Bb4?arch=arm64

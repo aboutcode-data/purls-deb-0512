@@ -1,0 +1,6 @@
+- pkg:deb/debian/speech-dispatcher-doc-cs@0.10.2-2%2Bdeb11u2?arch=all
+- pkg:deb/debian/speech-dispatcher-doc-cs@0.11.4-2?arch=all
+- pkg:deb/debian/speech-dispatcher-doc-cs@0.12.0-5?arch=all
+- pkg:deb/debian/speech-dispatcher-doc-cs@0.12.0-5~bpo12%2B1?arch=all
+- pkg:deb/debian/speech-dispatcher-doc-cs@0.12.1-2?arch=all
+- pkg:deb/debian/speech-dispatcher-doc-cs@0.12.1-2~bpo13%2B1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/smplayer-l10n@20.6.0~ds0-1?arch=all
+- pkg:deb/debian/smplayer-l10n@22.7.0~ds0-1?arch=all
+- pkg:deb/debian/smplayer-l10n@24.5.0%2Bds-1?arch=all
+- pkg:deb/debian/smplayer-l10n@25.6.0%2Bds-1?arch=all

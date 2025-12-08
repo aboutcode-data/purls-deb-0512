@@ -1,0 +1,4 @@
+- pkg:deb/debian/tuxpaint-dev@0.9.23-1.1?arch=all
+- pkg:deb/debian/tuxpaint-dev@0.9.28-sdl2-1?arch=all
+- pkg:deb/debian/tuxpaint-dev@0.9.34-2?arch=all
+- pkg:deb/debian/tuxpaint-dev@0.9.35-1?arch=all

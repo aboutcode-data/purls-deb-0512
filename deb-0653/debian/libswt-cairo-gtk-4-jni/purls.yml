@@ -1,0 +1,12 @@
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.17.0-1?arch=amd64
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.17.0-1?arch=arm64
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.26.0-1?arch=amd64
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.26.0-1?arch=arm64
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.26.0-1?arch=mips64el
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.26.0-1?arch=ppc64el
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.26.0-1?arch=s390x
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.29.0-1?arch=amd64
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.29.0-1?arch=arm64
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.29.0-1?arch=ppc64el
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.29.0-1?arch=riscv64
+- pkg:deb/debian/libswt-cairo-gtk-4-jni@4.29.0-1?arch=s390x

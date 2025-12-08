@@ -1,0 +1,2 @@
+- pkg:deb/debian/youtube-dl@2021.06.06-1?arch=all
+- pkg:deb/debian/youtube-dl@2021.12.17-2?arch=all

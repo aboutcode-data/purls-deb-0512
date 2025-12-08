@@ -1,0 +1,3 @@
+- pkg:deb/debian/ufo-filters-doc@0.16.0.159.g483ce16-1?arch=all
+- pkg:deb/debian/ufo-filters-doc@0.17.0.76.g691aa0e%2Bdfsg1-2?arch=all
+- pkg:deb/debian/ufo-filters-doc@0.17.0.76.g691aa0e%2Bdfsg1-2~bpo12%2B1?arch=all

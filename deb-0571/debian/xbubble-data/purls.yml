@@ -1,0 +1,4 @@
+- pkg:deb/debian/xbubble-data@0.5.11.2-3.4?arch=all
+- pkg:deb/debian/xbubble-data@0.5.11.2-3.5?arch=all
+- pkg:deb/debian/xbubble-data@0.5.11.2-4?arch=all
+- pkg:deb/debian/xbubble-data@0.5.11.2-5?arch=all

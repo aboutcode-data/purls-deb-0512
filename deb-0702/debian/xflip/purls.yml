@@ -1,0 +1,9 @@
+- pkg:deb/debian/xflip@1.01-28?arch=amd64
+- pkg:deb/debian/xflip@1.01-28?arch=arm64
+- pkg:deb/debian/xflip@1.01-28?arch=armel
+- pkg:deb/debian/xflip@1.01-28?arch=armhf
+- pkg:deb/debian/xflip@1.01-28?arch=i386
+- pkg:deb/debian/xflip@1.01-28?arch=mips64el
+- pkg:deb/debian/xflip@1.01-28?arch=mipsel
+- pkg:deb/debian/xflip@1.01-28?arch=ppc64el
+- pkg:deb/debian/xflip@1.01-28?arch=s390x

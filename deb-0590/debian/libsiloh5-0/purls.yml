@@ -1,0 +1,13 @@
+- pkg:deb/debian/libsiloh5-0@4.10.2.real-9?arch=amd64
+- pkg:deb/debian/libsiloh5-0@4.10.2.real-9?arch=arm64
+- pkg:deb/debian/libsiloh5-0@4.10.2.real-9?arch=armhf
+- pkg:deb/debian/libsiloh5-0@4.10.2.real-9?arch=i386
+- pkg:deb/debian/libsiloh5-0@4.11-3%2Bb2?arch=amd64
+- pkg:deb/debian/libsiloh5-0@4.11-3%2Bb2?arch=arm64
+- pkg:deb/debian/libsiloh5-0@4.11-3%2Bb2?arch=armel
+- pkg:deb/debian/libsiloh5-0@4.11-3%2Bb2?arch=armhf
+- pkg:deb/debian/libsiloh5-0@4.11-3%2Bb2?arch=i386
+- pkg:deb/debian/libsiloh5-0@4.11-3%2Bb2?arch=mips64el
+- pkg:deb/debian/libsiloh5-0@4.11-3%2Bb2?arch=mipsel
+- pkg:deb/debian/libsiloh5-0@4.11-3%2Bb2?arch=ppc64el
+- pkg:deb/debian/libsiloh5-0@4.11-3%2Bb2?arch=s390x

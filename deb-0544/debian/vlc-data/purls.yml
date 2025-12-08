@@ -1,0 +1,5 @@
+- pkg:deb/debian/vlc-data@3.0.21-0%2Bdeb11u1?arch=all
+- pkg:deb/debian/vlc-data@3.0.21-0%2Bdeb12u1?arch=all
+- pkg:deb/debian/vlc-data@3.0.21-10?arch=all
+- pkg:deb/debian/vlc-data@3.0.22-1?arch=all
+- pkg:deb/debian/vlc-data@3.0.22~rc2-1?arch=all

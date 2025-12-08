@@ -1,0 +1,4 @@
+- pkg:deb/debian/golang-github-yggdrasil-network-yggdrasil-go-dev@0.4.7-1?arch=all
+- pkg:deb/debian/golang-github-yggdrasil-network-yggdrasil-go-dev@0.5.12-1~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-yggdrasil-network-yggdrasil-go-dev@0.5.12-2?arch=all
+- pkg:deb/debian/golang-github-yggdrasil-network-yggdrasil-go-dev@0.5.12-5?arch=all

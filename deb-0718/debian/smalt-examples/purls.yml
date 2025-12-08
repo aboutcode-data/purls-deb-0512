@@ -1,0 +1,3 @@
+- pkg:deb/debian/smalt-examples@0.7.6-12?arch=all
+- pkg:deb/debian/smalt-examples@0.7.6-13?arch=all
+- pkg:deb/debian/smalt-examples@0.7.6-9?arch=all

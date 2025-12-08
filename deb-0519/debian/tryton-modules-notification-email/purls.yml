@@ -1,0 +1,3 @@
+- pkg:deb/debian/tryton-modules-notification-email@5.0.4-1?arch=all
+- pkg:deb/debian/tryton-modules-notification-email@6.0.3-2?arch=all
+- pkg:deb/debian/tryton-modules-notification-email@7.0.0-3?arch=all

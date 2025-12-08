@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmkl-tbb-thread@2020.4.304-2?arch=amd64
+- pkg:deb/debian/libmkl-tbb-thread@2020.4.304-2?arch=i386
