@@ -1,0 +1,3 @@
+- pkg:deb/debian/finalcif@113%2Bdfsg-2?arch=all
+- pkg:deb/debian/finalcif@137%2Bdfsg-4?arch=all
+- pkg:deb/debian/finalcif@156%2Bdfsg-1?arch=all

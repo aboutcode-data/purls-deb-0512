@@ -1,0 +1,7 @@
+- pkg:deb/debian/cpuid@20201006-1?arch=amd64
+- pkg:deb/debian/cpuid@20201006-1?arch=i386
+- pkg:deb/debian/cpuid@20230120-1?arch=amd64
+- pkg:deb/debian/cpuid@20230120-1?arch=i386
+- pkg:deb/debian/cpuid@20250316-1?arch=amd64
+- pkg:deb/debian/cpuid@20250316-1?arch=i386
+- pkg:deb/debian/cpuid@20250513-1?arch=amd64

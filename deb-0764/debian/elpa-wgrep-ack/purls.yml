@@ -1,0 +1,3 @@
+- pkg:deb/debian/elpa-wgrep-ack@2.3.2%2B9.gf0ef9bf-2?arch=all
+- pkg:deb/debian/elpa-wgrep-ack@3.0.0%2B20.g208b9d0-2?arch=all
+- pkg:deb/debian/elpa-wgrep-ack@3.0.0-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/check-pgbackrest@1.9-2?arch=all
+- pkg:deb/debian/check-pgbackrest@2.3-1?arch=all
+- pkg:deb/debian/check-pgbackrest@2.4-1?arch=all

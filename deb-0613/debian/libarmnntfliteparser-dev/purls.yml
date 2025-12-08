@@ -1,0 +1,16 @@
+- pkg:deb/debian/libarmnntfliteparser-dev@20.08-12?arch=amd64
+- pkg:deb/debian/libarmnntfliteparser-dev@20.08-12?arch=arm64
+- pkg:deb/debian/libarmnntfliteparser-dev@20.08-12?arch=armhf
+- pkg:deb/debian/libarmnntfliteparser-dev@20.08-12?arch=i386
+- pkg:deb/debian/libarmnntfliteparser-dev@20.08-12?arch=mips64el
+- pkg:deb/debian/libarmnntfliteparser-dev@20.08-12?arch=mipsel
+- pkg:deb/debian/libarmnntfliteparser-dev@20.08-12?arch=ppc64el
+- pkg:deb/debian/libarmnntfliteparser-dev@20.08-9?arch=amd64
+- pkg:deb/debian/libarmnntfliteparser-dev@20.08-9?arch=arm64
+- pkg:deb/debian/libarmnntfliteparser-dev@20.08-9?arch=armhf
+- pkg:deb/debian/libarmnntfliteparser-dev@20.08-9?arch=i386
+- pkg:deb/debian/libarmnntfliteparser-dev@23.08-5?arch=amd64
+- pkg:deb/debian/libarmnntfliteparser-dev@23.08-5?arch=arm64
+- pkg:deb/debian/libarmnntfliteparser-dev@23.08-5?arch=armhf
+- pkg:deb/debian/libarmnntfliteparser-dev@23.08-5?arch=i386
+- pkg:deb/debian/libarmnntfliteparser-dev@23.08-5?arch=ppc64el

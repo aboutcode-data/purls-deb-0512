@@ -1,0 +1,2 @@
+- pkg:deb/debian/nvidia-settings-tesla-535@535.247.01-2?arch=amd64
+- pkg:deb/debian/nvidia-settings-tesla-535@535.247.01-2?arch=arm64

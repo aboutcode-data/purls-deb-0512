@@ -1,0 +1,3 @@
+- pkg:deb/debian/capistrano@3.16.0-1?arch=all
+- pkg:deb/debian/capistrano@3.17.2-1?arch=all
+- pkg:deb/debian/capistrano@3.19.2-1?arch=all

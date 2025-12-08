@@ -1,0 +1,10 @@
+- pkg:deb/debian/bumblebee-nvidia@3.2.1-27?arch=amd64
+- pkg:deb/debian/bumblebee-nvidia@3.2.1-27?arch=arm64
+- pkg:deb/debian/bumblebee-nvidia@3.2.1-27?arch=armhf
+- pkg:deb/debian/bumblebee-nvidia@3.2.1-27?arch=i386
+- pkg:deb/debian/bumblebee-nvidia@3.2.1-29?arch=amd64
+- pkg:deb/debian/bumblebee-nvidia@3.2.1-29?arch=arm64
+- pkg:deb/debian/bumblebee-nvidia@3.2.1-29?arch=ppc64el
+- pkg:deb/debian/bumblebee-nvidia@3.2.1-31?arch=ppc64el
+- pkg:deb/debian/bumblebee-nvidia@3.2.1-32?arch=amd64
+- pkg:deb/debian/bumblebee-nvidia@3.2.1-32?arch=arm64

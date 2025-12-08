@@ -1,0 +1,2 @@
+- pkg:deb/debian/dh-ros@0.11.1?arch=all
+- pkg:deb/debian/dh-ros@0.14.2?arch=all

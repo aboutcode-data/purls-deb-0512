@@ -1,0 +1,3 @@
+- pkg:deb/debian/beast2-mcmc-examples@2.6.3%2Bdfsg-2?arch=all
+- pkg:deb/debian/beast2-mcmc-examples@2.7.3%2Bdfsg-1?arch=all
+- pkg:deb/debian/beast2-mcmc-examples@2.7.6%2Bdfsg-1?arch=all

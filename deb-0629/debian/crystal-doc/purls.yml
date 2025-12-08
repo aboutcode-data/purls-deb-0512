@@ -1,0 +1,3 @@
+- pkg:deb/debian/crystal-doc@1.14.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/crystal-doc@1.18.2%2Bdfsg-1?arch=all
+- pkg:deb/debian/crystal-doc@1.6.0%2Bdfsg-3?arch=all

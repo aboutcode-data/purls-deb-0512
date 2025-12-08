@@ -1,0 +1,3 @@
+- pkg:deb/debian/bluefish-data@2.2.12-1.1?arch=all
+- pkg:deb/debian/bluefish-data@2.2.17-1?arch=all
+- pkg:deb/debian/bluefish-data@2.2.19-1?arch=all

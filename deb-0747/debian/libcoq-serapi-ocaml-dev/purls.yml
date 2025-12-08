@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcoq-serapi-ocaml-dev@8.20.0%2B0.20.0-1%2Bb4?arch=amd64
+- pkg:deb/debian/libcoq-serapi-ocaml-dev@8.20.0%2B0.20.0-1%2Bb4?arch=arm64
+- pkg:deb/debian/libcoq-serapi-ocaml-dev@8.20.0%2B0.20.0-1%2Bb4?arch=ppc64el
+- pkg:deb/debian/libcoq-serapi-ocaml-dev@8.20.0%2B0.20.0-1%2Bb4?arch=riscv64

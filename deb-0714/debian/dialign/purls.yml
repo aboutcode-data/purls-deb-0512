@@ -1,0 +1,17 @@
+- pkg:deb/debian/dialign@2.2.1-11?arch=amd64
+- pkg:deb/debian/dialign@2.2.1-11?arch=arm64
+- pkg:deb/debian/dialign@2.2.1-11?arch=armel
+- pkg:deb/debian/dialign@2.2.1-11?arch=armhf
+- pkg:deb/debian/dialign@2.2.1-11?arch=i386
+- pkg:deb/debian/dialign@2.2.1-11?arch=mips64el
+- pkg:deb/debian/dialign@2.2.1-11?arch=mipsel
+- pkg:deb/debian/dialign@2.2.1-11?arch=ppc64el
+- pkg:deb/debian/dialign@2.2.1-11?arch=s390x
+- pkg:deb/debian/dialign@2.2.1-13%2Bb1?arch=arm64
+- pkg:deb/debian/dialign@2.2.1-13?arch=amd64
+- pkg:deb/debian/dialign@2.2.1-13?arch=armel
+- pkg:deb/debian/dialign@2.2.1-13?arch=armhf
+- pkg:deb/debian/dialign@2.2.1-13?arch=i386
+- pkg:deb/debian/dialign@2.2.1-13?arch=ppc64el
+- pkg:deb/debian/dialign@2.2.1-13?arch=riscv64
+- pkg:deb/debian/dialign@2.2.1-13?arch=s390x

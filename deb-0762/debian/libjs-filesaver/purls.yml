@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjs-filesaver@2.0.2%2Bdfsg-3?arch=all
+- pkg:deb/debian/libjs-filesaver@2.0.4%2Bdfsg%2B~2.0.5-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libcdd-doc@094l-2?arch=all
+- pkg:deb/debian/libcdd-doc@094m-1.1?arch=all
+- pkg:deb/debian/libcdd-doc@094m-1?arch=all

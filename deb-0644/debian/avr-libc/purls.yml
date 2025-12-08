@@ -1,0 +1,3 @@
+- pkg:deb/debian/avr-libc@2.0.0%2BAtmel3.6.2-1.1?arch=all
+- pkg:deb/debian/avr-libc@2.0.0%2BAtmel3.6.2-3?arch=all
+- pkg:deb/debian/avr-libc@2.2.1-1?arch=all

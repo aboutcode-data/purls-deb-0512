@@ -1,0 +1,8 @@
+- pkg:deb/debian/libdar64-6000t64@2.7.17-1%2Bb8?arch=amd64
+- pkg:deb/debian/libdar64-6000t64@2.7.17-1%2Bb8?arch=arm64
+- pkg:deb/debian/libdar64-6000t64@2.7.17-1%2Bb8?arch=armel
+- pkg:deb/debian/libdar64-6000t64@2.7.17-1%2Bb8?arch=armhf
+- pkg:deb/debian/libdar64-6000t64@2.7.17-1%2Bb8?arch=i386
+- pkg:deb/debian/libdar64-6000t64@2.7.17-1%2Bb8?arch=ppc64el
+- pkg:deb/debian/libdar64-6000t64@2.7.17-1%2Bb8?arch=riscv64
+- pkg:deb/debian/libdar64-6000t64@2.7.17-1%2Bb8?arch=s390x

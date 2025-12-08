@@ -1,0 +1,2 @@
+- pkg:deb/debian/fasttrack-archive-keyring@2020.12.19?arch=all
+- pkg:deb/debian/fasttrack-archive-keyring@2025.02.16?arch=all

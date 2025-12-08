@@ -1,0 +1,4 @@
+- pkg:deb/debian/designate-tempest-plugin@0.14.0-1?arch=all
+- pkg:deb/debian/designate-tempest-plugin@0.25.0-2?arch=all
+- pkg:deb/debian/designate-tempest-plugin@0.26.0-2?arch=all
+- pkg:deb/debian/designate-tempest-plugin@0.9.0-2?arch=all

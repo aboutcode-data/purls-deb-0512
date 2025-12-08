@@ -1,0 +1,3 @@
+- pkg:deb/debian/cxref-doc@1.6e-3.1?arch=all
+- pkg:deb/debian/cxref-doc@1.6e-5?arch=all
+- pkg:deb/debian/cxref-doc@1.6e-9?arch=all

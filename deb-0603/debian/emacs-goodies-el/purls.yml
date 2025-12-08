@@ -1,0 +1,3 @@
+- pkg:deb/debian/emacs-goodies-el@42.3?arch=all
+- pkg:deb/debian/emacs-goodies-el@42.4?arch=all
+- pkg:deb/debian/emacs-goodies-el@42.5?arch=all

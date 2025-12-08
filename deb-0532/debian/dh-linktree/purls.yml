@@ -1,0 +1,2 @@
+- pkg:deb/debian/dh-linktree@0.8?arch=all
+- pkg:deb/debian/dh-linktree@0.9?arch=all

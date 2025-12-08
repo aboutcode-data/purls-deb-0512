@@ -1,0 +1,4 @@
+- pkg:deb/debian/wdanish@1.6.36-11.1?arch=all
+- pkg:deb/debian/wdanish@1.6.36-14?arch=all
+- pkg:deb/debian/wdanish@1.6.36-17?arch=all
+- pkg:deb/debian/wdanish@1.6.36-18?arch=all

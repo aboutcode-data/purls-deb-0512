@@ -1,0 +1,2 @@
+- pkg:deb/debian/code-saturne-doc@6.0.2-2?arch=all
+- pkg:deb/debian/code-saturne-doc@7.0.2%2Brepack-1~exp1?arch=all

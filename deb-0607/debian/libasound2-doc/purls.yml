@@ -1,0 +1,4 @@
+- pkg:deb/debian/libasound2-doc@1.2.14-1?arch=all
+- pkg:deb/debian/libasound2-doc@1.2.14-2?arch=all
+- pkg:deb/debian/libasound2-doc@1.2.4-1.1?arch=all
+- pkg:deb/debian/libasound2-doc@1.2.8-1?arch=all

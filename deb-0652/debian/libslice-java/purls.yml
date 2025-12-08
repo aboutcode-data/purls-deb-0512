@@ -1,0 +1,3 @@
+- pkg:deb/debian/libslice-java@0.10-2.1?arch=all
+- pkg:deb/debian/libslice-java@0.10-2?arch=all
+- pkg:deb/debian/libslice-java@0.16-1?arch=all

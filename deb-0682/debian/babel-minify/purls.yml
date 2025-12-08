@@ -1,0 +1,2 @@
+- pkg:deb/debian/babel-minify@0.5.0-3?arch=all
+- pkg:deb/debian/babel-minify@0.5.2%2Bdfsg%2B~cs5.2.9-9?arch=all

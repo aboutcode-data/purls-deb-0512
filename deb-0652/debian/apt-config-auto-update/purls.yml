@@ -1,0 +1,2 @@
+- pkg:deb/debian/apt-config-auto-update@2.1%2Bnmu1?arch=all
+- pkg:deb/debian/apt-config-auto-update@2.2?arch=all

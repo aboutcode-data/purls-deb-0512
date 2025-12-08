@@ -1,0 +1,4 @@
+- pkg:deb/debian/bluez-test-scripts@5.55-3.1%2Bdeb11u1?arch=all
+- pkg:deb/debian/bluez-test-scripts@5.66-1%2Bdeb12u2?arch=all
+- pkg:deb/debian/bluez-test-scripts@5.82-1.1?arch=all
+- pkg:deb/debian/bluez-test-scripts@5.84-1?arch=all

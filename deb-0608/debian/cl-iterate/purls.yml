@@ -1,0 +1,4 @@
+- pkg:deb/debian/cl-iterate@20180228-1.1?arch=all
+- pkg:deb/debian/cl-iterate@20210519.gitb0f9a9c-1?arch=all
+- pkg:deb/debian/cl-iterate@20231229.git26cf129-2?arch=all
+- pkg:deb/debian/cl-iterate@20250703.gitd27d7ff-1?arch=all

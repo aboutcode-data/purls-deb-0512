@@ -1,0 +1,2 @@
+- pkg:deb/debian/libarmnn-gpuacc-backend33@23.08-5?arch=arm64
+- pkg:deb/debian/libarmnn-gpuacc-backend33@23.08-5?arch=armhf

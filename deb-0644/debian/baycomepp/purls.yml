@@ -1,0 +1,6 @@
+- pkg:deb/debian/baycomepp@0.10-15%2Bb1?arch=amd64
+- pkg:deb/debian/baycomepp@0.10-15?arch=i386
+- pkg:deb/debian/baycomepp@0.10-17%2Bb1?arch=amd64
+- pkg:deb/debian/baycomepp@0.10-17%2Bb1?arch=i386
+- pkg:deb/debian/baycomepp@0.10-18?arch=amd64
+- pkg:deb/debian/baycomepp@0.10-18?arch=i386

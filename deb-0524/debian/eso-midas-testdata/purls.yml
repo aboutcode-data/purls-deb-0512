@@ -1,0 +1,4 @@
+- pkg:deb/debian/eso-midas-testdata@19.02pl1.1-6?arch=all
+- pkg:deb/debian/eso-midas-testdata@22.02pl1.0-2?arch=all
+- pkg:deb/debian/eso-midas-testdata@23.02pl1.0-3?arch=all
+- pkg:deb/debian/eso-midas-testdata@25.05pl1.1-2?arch=all

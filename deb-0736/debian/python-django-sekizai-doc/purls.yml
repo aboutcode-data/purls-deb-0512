@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-django-sekizai-doc@2.0.0-2?arch=all
+- pkg:deb/debian/python-django-sekizai-doc@4.0.0-3?arch=all
+- pkg:deb/debian/python-django-sekizai-doc@4.1.0-1?arch=all

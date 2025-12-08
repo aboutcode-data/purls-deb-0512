@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-closql@1.0.4-2?arch=all
+- pkg:deb/debian/elpa-closql@1.2.1-3?arch=all
+- pkg:deb/debian/elpa-closql@2.2.1-1?arch=all
+- pkg:deb/debian/elpa-closql@2.3.2-1?arch=all

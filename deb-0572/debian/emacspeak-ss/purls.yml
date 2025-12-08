@@ -1,0 +1,15 @@
+- pkg:deb/debian/emacspeak-ss@1.12.1-8?arch=amd64
+- pkg:deb/debian/emacspeak-ss@1.12.1-8?arch=arm64
+- pkg:deb/debian/emacspeak-ss@1.12.1-8?arch=armhf
+- pkg:deb/debian/emacspeak-ss@1.12.1-8?arch=i386
+- pkg:deb/debian/emacspeak-ss@1.12.1-9%2Bb1?arch=arm64
+- pkg:deb/debian/emacspeak-ss@1.12.1-9%2Bb1?arch=riscv64
+- pkg:deb/debian/emacspeak-ss@1.12.1-9?arch=amd64
+- pkg:deb/debian/emacspeak-ss@1.12.1-9?arch=arm64
+- pkg:deb/debian/emacspeak-ss@1.12.1-9?arch=armel
+- pkg:deb/debian/emacspeak-ss@1.12.1-9?arch=armhf
+- pkg:deb/debian/emacspeak-ss@1.12.1-9?arch=i386
+- pkg:deb/debian/emacspeak-ss@1.12.1-9?arch=mips64el
+- pkg:deb/debian/emacspeak-ss@1.12.1-9?arch=mipsel
+- pkg:deb/debian/emacspeak-ss@1.12.1-9?arch=ppc64el
+- pkg:deb/debian/emacspeak-ss@1.12.1-9?arch=s390x

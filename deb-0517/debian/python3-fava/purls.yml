@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-fava@1.18-1?arch=all
+- pkg:deb/debian/python3-fava@1.30.2%2Bdfsg-1?arch=all

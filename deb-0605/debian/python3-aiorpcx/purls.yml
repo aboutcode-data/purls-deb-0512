@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-aiorpcx@0.18.5-1?arch=all
+- pkg:deb/debian/python3-aiorpcx@0.22.1-2?arch=all
+- pkg:deb/debian/python3-aiorpcx@0.24-1?arch=all
+- pkg:deb/debian/python3-aiorpcx@0.25.0-1?arch=all

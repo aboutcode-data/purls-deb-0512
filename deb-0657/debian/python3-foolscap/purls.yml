@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-foolscap@21.7.0-4?arch=all
+- pkg:deb/debian/python3-foolscap@24.9.0-3?arch=all

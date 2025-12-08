@@ -1,0 +1,5 @@
+- pkg:deb/debian/apache2-doc@2.4.62-1~deb11u1?arch=all
+- pkg:deb/debian/apache2-doc@2.4.65-1~deb12u1?arch=all
+- pkg:deb/debian/apache2-doc@2.4.65-2?arch=all
+- pkg:deb/debian/apache2-doc@2.4.65-3?arch=all
+- pkg:deb/debian/apache2-doc@2.4.66-2?arch=all

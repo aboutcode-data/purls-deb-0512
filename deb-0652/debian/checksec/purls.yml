@@ -1,0 +1,2 @@
+- pkg:deb/debian/checksec@2.4.0-1?arch=all
+- pkg:deb/debian/checksec@2.6.0-2?arch=all

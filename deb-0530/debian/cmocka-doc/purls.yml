@@ -1,0 +1,4 @@
+- pkg:deb/debian/cmocka-doc@1.1.5-2.1?arch=all
+- pkg:deb/debian/cmocka-doc@1.1.5-2?arch=all
+- pkg:deb/debian/cmocka-doc@1.1.7-3?arch=all
+- pkg:deb/debian/cmocka-doc@1.1.8-1?arch=all

@@ -1,0 +1,7 @@
+- pkg:deb/debian/apt-eatmydata@0~exp2?arch=amd64
+- pkg:deb/debian/apt-eatmydata@0~exp2?arch=arm64
+- pkg:deb/debian/apt-eatmydata@0~exp2?arch=armhf
+- pkg:deb/debian/apt-eatmydata@0~exp2?arch=i386
+- pkg:deb/debian/apt-eatmydata@0~exp2?arch=ppc64el
+- pkg:deb/debian/apt-eatmydata@0~exp2?arch=s390x
+- pkg:deb/debian/apt-eatmydata@1?arch=all

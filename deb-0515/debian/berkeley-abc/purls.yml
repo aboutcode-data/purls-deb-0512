@@ -1,0 +1,13 @@
+- pkg:deb/debian/berkeley-abc@1.01%2B20191006git52a8ebb%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/berkeley-abc@1.01%2B20191006git52a8ebb%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/berkeley-abc@1.01%2B20191006git52a8ebb%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/berkeley-abc@1.01%2B20191006git52a8ebb%2Bdfsg-1?arch=i386
+- pkg:deb/debian/berkeley-abc@1.01%2B20221019git70cb339%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/berkeley-abc@1.01%2B20221019git70cb339%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/berkeley-abc@1.01%2B20221019git70cb339%2Bdfsg-4?arch=armel
+- pkg:deb/debian/berkeley-abc@1.01%2B20221019git70cb339%2Bdfsg-4?arch=armhf
+- pkg:deb/debian/berkeley-abc@1.01%2B20221019git70cb339%2Bdfsg-4?arch=i386
+- pkg:deb/debian/berkeley-abc@1.01%2B20221019git70cb339%2Bdfsg-4?arch=mips64el
+- pkg:deb/debian/berkeley-abc@1.01%2B20221019git70cb339%2Bdfsg-4?arch=mipsel
+- pkg:deb/debian/berkeley-abc@1.01%2B20221019git70cb339%2Bdfsg-4?arch=ppc64el
+- pkg:deb/debian/berkeley-abc@1.01%2B20221019git70cb339%2Bdfsg-4?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/pkg-r-autopkgtest@20210303?arch=all
+- pkg:deb/debian/pkg-r-autopkgtest@20230121?arch=all
+- pkg:deb/debian/pkg-r-autopkgtest@20241218?arch=all
+- pkg:deb/debian/pkg-r-autopkgtest@20250812?arch=all

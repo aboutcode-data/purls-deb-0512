@@ -1,0 +1,4 @@
+- pkg:deb/debian/crawl-common@0.26.1-1?arch=all
+- pkg:deb/debian/crawl-common@0.28.0-1.1?arch=all
+- pkg:deb/debian/crawl-common@0.33.1-3?arch=all
+- pkg:deb/debian/crawl-common@0.33.1-3~bpo13%2B1?arch=all

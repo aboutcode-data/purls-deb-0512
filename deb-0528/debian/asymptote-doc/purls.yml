@@ -1,0 +1,4 @@
+- pkg:deb/debian/asymptote-doc@2.69%2Bds-1?arch=all
+- pkg:deb/debian/asymptote-doc@2.85%2Bds-1?arch=all
+- pkg:deb/debian/asymptote-doc@3.02%2Bds-1?arch=all
+- pkg:deb/debian/asymptote-doc@3.05%2Bds-2?arch=all

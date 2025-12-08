@@ -1,0 +1,16 @@
+- pkg:deb/debian/clc-intercal@1.00-3?arch=amd64
+- pkg:deb/debian/clc-intercal@1.00-3?arch=arm64
+- pkg:deb/debian/clc-intercal@1.00-3?arch=armel
+- pkg:deb/debian/clc-intercal@1.00-3?arch=armhf
+- pkg:deb/debian/clc-intercal@1.00-3?arch=i386
+- pkg:deb/debian/clc-intercal@1.00-3?arch=ppc64el
+- pkg:deb/debian/clc-intercal@1.00-3?arch=riscv64
+- pkg:deb/debian/clc-intercal@1.00-3?arch=s390x
+- pkg:deb/debian/clc-intercal@1.00-4?arch=amd64
+- pkg:deb/debian/clc-intercal@1.00-4?arch=arm64
+- pkg:deb/debian/clc-intercal@1.00-4?arch=armhf
+- pkg:deb/debian/clc-intercal@1.00-4?arch=i386
+- pkg:deb/debian/clc-intercal@1.00-4?arch=ppc64el
+- pkg:deb/debian/clc-intercal@1.00-4?arch=riscv64
+- pkg:deb/debian/clc-intercal@1.00-4?arch=s390x
+- pkg:deb/debian/clc-intercal@1.0~4pre1.-94.-2-5.1?arch=all

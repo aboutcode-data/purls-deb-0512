@@ -1,0 +1,4 @@
+- pkg:deb/debian/android-libcrypto-utils@10.0.0%2Br36-7?arch=amd64
+- pkg:deb/debian/android-libcrypto-utils@10.0.0%2Br36-7?arch=arm64
+- pkg:deb/debian/android-libcrypto-utils@10.0.0%2Br36-7?arch=armhf
+- pkg:deb/debian/android-libcrypto-utils@10.0.0%2Br36-7?arch=i386

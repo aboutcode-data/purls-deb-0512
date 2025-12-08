@@ -1,0 +1,14 @@
+- pkg:deb/debian/nvidia-modprobe@470.182.03-1?arch=amd64
+- pkg:deb/debian/nvidia-modprobe@470.182.03-1?arch=arm64
+- pkg:deb/debian/nvidia-modprobe@470.182.03-1?arch=armhf
+- pkg:deb/debian/nvidia-modprobe@470.182.03-1?arch=i386
+- pkg:deb/debian/nvidia-modprobe@535.161.07-1~deb12u1?arch=amd64
+- pkg:deb/debian/nvidia-modprobe@535.161.07-1~deb12u1?arch=arm64
+- pkg:deb/debian/nvidia-modprobe@535.161.07-1~deb12u1?arch=armhf
+- pkg:deb/debian/nvidia-modprobe@535.161.07-1~deb12u1?arch=i386
+- pkg:deb/debian/nvidia-modprobe@535.161.07-1~deb12u1?arch=ppc64el
+- pkg:deb/debian/nvidia-modprobe@570.133.07-1?arch=amd64
+- pkg:deb/debian/nvidia-modprobe@570.133.07-1?arch=arm64
+- pkg:deb/debian/nvidia-modprobe@570.133.07-1?arch=armhf
+- pkg:deb/debian/nvidia-modprobe@570.133.07-1?arch=i386
+- pkg:deb/debian/nvidia-modprobe@570.133.07-1?arch=ppc64el

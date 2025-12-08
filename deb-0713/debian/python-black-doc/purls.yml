@@ -1,0 +1,4 @@
+- pkg:deb/debian/python-black-doc@20.8b1-4?arch=all
+- pkg:deb/debian/python-black-doc@23.1.0-1?arch=all
+- pkg:deb/debian/python-black-doc@25.1.0-3?arch=all
+- pkg:deb/debian/python-black-doc@25.11.0-1?arch=all

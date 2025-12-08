@@ -1,0 +1,3 @@
+- pkg:deb/debian/epoptes-client@21.02-1?arch=all
+- pkg:deb/debian/epoptes-client@23.01-1?arch=all
+- pkg:deb/debian/epoptes-client@23.08-2?arch=all

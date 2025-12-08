@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-ebib@2.15.4-3?arch=all
+- pkg:deb/debian/elpa-ebib@2.39.3-1?arch=all
+- pkg:deb/debian/elpa-ebib@2.49.1-1?arch=all
+- pkg:deb/debian/elpa-ebib@2.51.1-2?arch=all

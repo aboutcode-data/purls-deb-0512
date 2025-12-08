@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-custodia@0.6.0-5.2?arch=all
+- pkg:deb/debian/python3-custodia@0.6.0-5?arch=all

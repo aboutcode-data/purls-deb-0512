@@ -1,0 +1,3 @@
+- pkg:deb/debian/fonts-sil-padauk@4.000-1?arch=all
+- pkg:deb/debian/fonts-sil-padauk@5.000-3?arch=all
+- pkg:deb/debian/fonts-sil-padauk@5.001-1?arch=all

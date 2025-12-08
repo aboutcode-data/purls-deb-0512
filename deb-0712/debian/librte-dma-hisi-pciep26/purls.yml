@@ -1,0 +1,2 @@
+- pkg:deb/debian/librte-dma-hisi-pciep26@25.11-1?arch=amd64
+- pkg:deb/debian/librte-dma-hisi-pciep26@25.11-1?arch=arm64

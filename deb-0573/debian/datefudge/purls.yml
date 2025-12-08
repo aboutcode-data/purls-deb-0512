@@ -1,0 +1,17 @@
+- pkg:deb/debian/datefudge@1.24?arch=amd64
+- pkg:deb/debian/datefudge@1.24?arch=arm64
+- pkg:deb/debian/datefudge@1.24?arch=armel
+- pkg:deb/debian/datefudge@1.24?arch=armhf
+- pkg:deb/debian/datefudge@1.24?arch=i386
+- pkg:deb/debian/datefudge@1.24?arch=mips64el
+- pkg:deb/debian/datefudge@1.24?arch=mipsel
+- pkg:deb/debian/datefudge@1.24?arch=ppc64el
+- pkg:deb/debian/datefudge@1.24?arch=s390x
+- pkg:deb/debian/datefudge@1.27?arch=amd64
+- pkg:deb/debian/datefudge@1.27?arch=arm64
+- pkg:deb/debian/datefudge@1.27?arch=armel
+- pkg:deb/debian/datefudge@1.27?arch=armhf
+- pkg:deb/debian/datefudge@1.27?arch=i386
+- pkg:deb/debian/datefudge@1.27?arch=ppc64el
+- pkg:deb/debian/datefudge@1.27?arch=riscv64
+- pkg:deb/debian/datefudge@1.27?arch=s390x

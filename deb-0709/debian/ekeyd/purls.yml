@@ -1,0 +1,17 @@
+- pkg:deb/debian/ekeyd@1.1.5-6.2?arch=amd64
+- pkg:deb/debian/ekeyd@1.1.5-6.2?arch=arm64
+- pkg:deb/debian/ekeyd@1.1.5-6.2?arch=armel
+- pkg:deb/debian/ekeyd@1.1.5-6.2?arch=armhf
+- pkg:deb/debian/ekeyd@1.1.5-6.2?arch=i386
+- pkg:deb/debian/ekeyd@1.1.5-6.2?arch=mips64el
+- pkg:deb/debian/ekeyd@1.1.5-6.2?arch=mipsel
+- pkg:deb/debian/ekeyd@1.1.5-6.2?arch=ppc64el
+- pkg:deb/debian/ekeyd@1.1.5-6.2?arch=s390x
+- pkg:deb/debian/ekeyd@1.1.5-8?arch=amd64
+- pkg:deb/debian/ekeyd@1.1.5-8?arch=arm64
+- pkg:deb/debian/ekeyd@1.1.5-8?arch=armel
+- pkg:deb/debian/ekeyd@1.1.5-8?arch=armhf
+- pkg:deb/debian/ekeyd@1.1.5-8?arch=i386
+- pkg:deb/debian/ekeyd@1.1.5-8?arch=ppc64el
+- pkg:deb/debian/ekeyd@1.1.5-8?arch=riscv64
+- pkg:deb/debian/ekeyd@1.1.5-8?arch=s390x

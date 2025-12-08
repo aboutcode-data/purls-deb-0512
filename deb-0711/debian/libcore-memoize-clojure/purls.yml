@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcore-memoize-clojure@0.7.1-1?arch=all
+- pkg:deb/debian/libcore-memoize-clojure@1.0.257-1?arch=all

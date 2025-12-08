@@ -1,0 +1,5 @@
+- pkg:deb/debian/pcp-pmda-bpftune@0.0~git20250723.5966387-1%2Bb1?arch=amd64
+- pkg:deb/debian/pcp-pmda-bpftune@0.0~git20250723.5966387-1%2Bb1?arch=arm64
+- pkg:deb/debian/pcp-pmda-bpftune@0.0~git20251206.4bcc284-1?arch=amd64
+- pkg:deb/debian/pcp-pmda-bpftune@0.0~git20251206.4bcc284-1?arch=arm64
+- pkg:deb/debian/pcp-pmda-bpftune@0.0~git20251206.4bcc284-1?arch=i386

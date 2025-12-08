@@ -1,0 +1,2 @@
+- pkg:deb/debian/games-adventure@4?arch=all
+- pkg:deb/debian/games-adventure@5?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/dia-common@0.97.3%2Bgit20160930-9?arch=all
+- pkg:deb/debian/dia-common@0.97.3%2Bgit20220525-5?arch=all
+- pkg:deb/debian/dia-common@0.98%2Bgit20250126-2?arch=all
+- pkg:deb/debian/dia-common@0.98%2Bgit20250827-2?arch=all

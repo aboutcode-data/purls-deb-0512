@@ -1,0 +1,17 @@
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-3?arch=amd64
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-3?arch=arm64
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-3?arch=armel
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-3?arch=armhf
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-3?arch=i386
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-3?arch=mips64el
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-3?arch=mipsel
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-3?arch=ppc64el
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-3?arch=s390x
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-4%2Bb2?arch=arm64
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-4?arch=amd64
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-4?arch=armel
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-4?arch=armhf
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-4?arch=i386
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-4?arch=ppc64el
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-4?arch=riscv64
+- pkg:deb/debian/dvbstream@0.6%2Bcvs20090621-4?arch=s390x

@@ -1,0 +1,4 @@
+- pkg:deb/debian/android-sdk-common@28.0.2%2B12?arch=all
+- pkg:deb/debian/android-sdk-common@28.0.2%2B3?arch=all
+- pkg:deb/debian/android-sdk-common@28.0.2%2B8?arch=all
+- pkg:deb/debian/android-sdk-common@28.0.2%2B9?arch=all

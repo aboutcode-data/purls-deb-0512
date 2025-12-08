@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcaja-extension-doc@1.24.0-1?arch=all
+- pkg:deb/debian/libcaja-extension-doc@1.26.1-1%2Bdeb12u1?arch=all
+- pkg:deb/debian/libcaja-extension-doc@1.26.4-1?arch=all
+- pkg:deb/debian/libcaja-extension-doc@1.26.4-2?arch=all

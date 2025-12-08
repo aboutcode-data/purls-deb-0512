@@ -1,0 +1,3 @@
+- pkg:deb/debian/fio-examples@3.33-3?arch=all
+- pkg:deb/debian/fio-examples@3.39-1?arch=all
+- pkg:deb/debian/fio-examples@3.41-2?arch=all

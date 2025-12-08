@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-ufl@2024.2.0-3?arch=all
+- pkg:deb/debian/python3-ufl@2025.2.0.post0-1exp1?arch=all

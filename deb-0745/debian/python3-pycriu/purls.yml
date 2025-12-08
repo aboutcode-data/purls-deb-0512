@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pycriu@4.1.1-1?arch=all
+- pkg:deb/debian/python3-pycriu@4.2-1?arch=all

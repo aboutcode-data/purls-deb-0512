@@ -1,0 +1,2 @@
+- pkg:deb/debian/libc6-dev-loong64-cross@2.41-11cross1?arch=all
+- pkg:deb/debian/libc6-dev-loong64-cross@2.42-4cross1?arch=all

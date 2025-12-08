@@ -1,0 +1,15 @@
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-11?arch=amd64
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-11?arch=arm64
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-11?arch=armhf
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-11?arch=i386
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-11?arch=ppc64el
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-11?arch=riscv64
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-11?arch=s390x
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-7?arch=amd64
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-7?arch=arm64
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-7?arch=armel
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-7?arch=armhf
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-7?arch=i386
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-7?arch=ppc64el
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-7?arch=riscv64
+- pkg:deb/debian/libdolfinx-real0.9@0.9.0-7?arch=s390x

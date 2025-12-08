@@ -1,0 +1,2 @@
+- pkg:deb/debian/libddogleg-java@0.17%2Bds-2?arch=all
+- pkg:deb/debian/libddogleg-java@0.22%2Bds-1?arch=all

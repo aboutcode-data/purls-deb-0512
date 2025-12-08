@@ -1,0 +1,4 @@
+- pkg:deb/debian/biber@2.16-1?arch=all
+- pkg:deb/debian/biber@2.18-1?arch=all
+- pkg:deb/debian/biber@2.20-2?arch=all
+- pkg:deb/debian/biber@2.21-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/compiz@0.8.18-2?arch=all
+- pkg:deb/debian/compiz@0.8.18-5?arch=all
+- pkg:deb/debian/compiz@0.8.18-8?arch=all
+- pkg:deb/debian/compiz@0.8.18-9?arch=all

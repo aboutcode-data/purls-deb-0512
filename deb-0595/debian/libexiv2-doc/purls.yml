@@ -1,0 +1,4 @@
+- pkg:deb/debian/libexiv2-doc@0.27.3-3%2Bdeb11u2?arch=all
+- pkg:deb/debian/libexiv2-doc@0.27.6-1?arch=all
+- pkg:deb/debian/libexiv2-doc@0.28.5%2Bdfsg-1?arch=all
+- pkg:deb/debian/libexiv2-doc@0.28.7%2Bdfsg-2?arch=all

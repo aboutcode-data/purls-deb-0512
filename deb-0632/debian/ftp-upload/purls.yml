@@ -1,0 +1,2 @@
+- pkg:deb/debian/ftp-upload@1.6-2?arch=all
+- pkg:deb/debian/ftp-upload@1.6-4?arch=all

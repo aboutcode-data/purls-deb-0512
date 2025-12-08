@@ -1,0 +1,12 @@
+- pkg:deb/debian/bagel@1.2.2-2?arch=amd64
+- pkg:deb/debian/bagel@1.2.2-2?arch=arm64
+- pkg:deb/debian/bagel@1.2.2-6?arch=amd64
+- pkg:deb/debian/bagel@1.2.2-6?arch=arm64
+- pkg:deb/debian/bagel@1.2.2-6?arch=mips64el
+- pkg:deb/debian/bagel@1.2.2-6?arch=ppc64el
+- pkg:deb/debian/bagel@1.2.2-6?arch=s390x
+- pkg:deb/debian/bagel@1.2.2-8?arch=amd64
+- pkg:deb/debian/bagel@1.2.2-8?arch=arm64
+- pkg:deb/debian/bagel@1.2.2-8?arch=ppc64el
+- pkg:deb/debian/bagel@1.2.2-8?arch=riscv64
+- pkg:deb/debian/bagel@1.2.2-8?arch=s390x

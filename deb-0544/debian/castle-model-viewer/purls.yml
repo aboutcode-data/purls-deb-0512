@@ -1,0 +1,6 @@
+- pkg:deb/debian/castle-model-viewer@5.2.0-3?arch=amd64
+- pkg:deb/debian/castle-model-viewer@5.2.0-3?arch=arm64
+- pkg:deb/debian/castle-model-viewer@5.2.0-3?arch=armel
+- pkg:deb/debian/castle-model-viewer@5.2.0-3?arch=armhf
+- pkg:deb/debian/castle-model-viewer@5.2.0-3?arch=i386
+- pkg:deb/debian/castle-model-viewer@5.2.0-3?arch=ppc64el

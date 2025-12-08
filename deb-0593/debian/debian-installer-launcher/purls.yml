@@ -1,0 +1,4 @@
+- pkg:deb/debian/debian-installer-launcher@38?arch=all
+- pkg:deb/debian/debian-installer-launcher@39?arch=all
+- pkg:deb/debian/debian-installer-launcher@44?arch=all
+- pkg:deb/debian/debian-installer-launcher@45?arch=all

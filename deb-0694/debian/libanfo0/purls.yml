@@ -1,0 +1,4 @@
+- pkg:deb/debian/libanfo0@0.98-8?arch=amd64
+- pkg:deb/debian/libanfo0@0.98-8?arch=arm64
+- pkg:deb/debian/libanfo0@0.98-8?arch=armhf
+- pkg:deb/debian/libanfo0@0.98-8?arch=i386

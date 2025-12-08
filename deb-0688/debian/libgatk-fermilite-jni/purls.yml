@@ -1,0 +1,9 @@
+- pkg:deb/debian/libgatk-fermilite-jni@1.2.1%2Bdfsg-2%2Bb1?arch=riscv64
+- pkg:deb/debian/libgatk-fermilite-jni@1.2.1%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/libgatk-fermilite-jni@1.2.1%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/libgatk-fermilite-jni@1.2.1%2Bdfsg-2?arch=armel
+- pkg:deb/debian/libgatk-fermilite-jni@1.2.1%2Bdfsg-2?arch=armhf
+- pkg:deb/debian/libgatk-fermilite-jni@1.2.1%2Bdfsg-2?arch=i386
+- pkg:deb/debian/libgatk-fermilite-jni@1.2.1%2Bdfsg-2?arch=mips64el
+- pkg:deb/debian/libgatk-fermilite-jni@1.2.1%2Bdfsg-2?arch=mipsel
+- pkg:deb/debian/libgatk-fermilite-jni@1.2.1%2Bdfsg-2?arch=ppc64el

@@ -1,0 +1,8 @@
+- pkg:deb/debian/libgambit4t64@4.9.3-1.4?arch=amd64
+- pkg:deb/debian/libgambit4t64@4.9.3-1.4?arch=arm64
+- pkg:deb/debian/libgambit4t64@4.9.3-1.4?arch=armel
+- pkg:deb/debian/libgambit4t64@4.9.3-1.4?arch=armhf
+- pkg:deb/debian/libgambit4t64@4.9.3-1.4?arch=i386
+- pkg:deb/debian/libgambit4t64@4.9.3-1.4?arch=ppc64el
+- pkg:deb/debian/libgambit4t64@4.9.3-1.4?arch=riscv64
+- pkg:deb/debian/libgambit4t64@4.9.3-1.4?arch=s390x

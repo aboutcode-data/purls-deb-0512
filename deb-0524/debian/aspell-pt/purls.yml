@@ -1,0 +1,2 @@
+- pkg:deb/debian/aspell-pt@1.10?arch=all
+- pkg:deb/debian/aspell-pt@1.8%2Bnmu1?arch=all

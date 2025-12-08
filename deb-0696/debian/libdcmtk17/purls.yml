@@ -1,0 +1,9 @@
+- pkg:deb/debian/libdcmtk17@3.6.7-9~deb12u3?arch=amd64
+- pkg:deb/debian/libdcmtk17@3.6.7-9~deb12u3?arch=arm64
+- pkg:deb/debian/libdcmtk17@3.6.7-9~deb12u3?arch=armel
+- pkg:deb/debian/libdcmtk17@3.6.7-9~deb12u3?arch=armhf
+- pkg:deb/debian/libdcmtk17@3.6.7-9~deb12u3?arch=i386
+- pkg:deb/debian/libdcmtk17@3.6.7-9~deb12u3?arch=mips64el
+- pkg:deb/debian/libdcmtk17@3.6.7-9~deb12u3?arch=mipsel
+- pkg:deb/debian/libdcmtk17@3.6.7-9~deb12u3?arch=ppc64el
+- pkg:deb/debian/libdcmtk17@3.6.7-9~deb12u3?arch=s390x

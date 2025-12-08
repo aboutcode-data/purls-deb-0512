@@ -1,0 +1,3 @@
+- pkg:deb/debian/libapache-pom-java@18-1?arch=all
+- pkg:deb/debian/libapache-pom-java@29-2?arch=all
+- pkg:deb/debian/libapache-pom-java@33-2?arch=all

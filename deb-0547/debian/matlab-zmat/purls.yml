@@ -1,0 +1,4 @@
+- pkg:deb/debian/matlab-zmat@0.9.8%2Bds-3?arch=all
+- pkg:deb/debian/matlab-zmat@0.9.8%2Bds-8?arch=all
+- pkg:deb/debian/matlab-zmat@0.9.9%2Bds.1-4?arch=all
+- pkg:deb/debian/matlab-zmat@0.9.9%2Bds.1-6?arch=all

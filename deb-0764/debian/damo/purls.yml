@@ -1,0 +1,2 @@
+- pkg:deb/debian/damo@2.8.3-1?arch=all
+- pkg:deb/debian/damo@3.0.7-1?arch=all

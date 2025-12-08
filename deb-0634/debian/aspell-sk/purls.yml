@@ -1,0 +1,3 @@
+- pkg:deb/debian/aspell-sk@2.04%2Bds.1?arch=all
+- pkg:deb/debian/aspell-sk@2.04%2Bds.3?arch=all
+- pkg:deb/debian/aspell-sk@25.2.3-1%2B2.04%2Bds.9?arch=all

@@ -1,0 +1,7 @@
+- pkg:deb/debian/exim4@4.94.2-7%2Bdeb11u3?arch=all
+- pkg:deb/debian/exim4@4.96-15%2Bdeb12u7?arch=all
+- pkg:deb/debian/exim4@4.98.2-1?arch=all
+- pkg:deb/debian/exim4@4.98.2-1~bpo12%2B1?arch=all
+- pkg:deb/debian/exim4@4.99-4?arch=all
+- pkg:deb/debian/exim4@4.99-4~bpo13%2B1?arch=all
+- pkg:deb/debian/exim4@4.99-6?arch=all

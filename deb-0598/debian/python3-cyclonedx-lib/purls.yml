@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-cyclonedx-lib@11.5.0-1?arch=all
+- pkg:deb/debian/python3-cyclonedx-lib@9.1.0-2?arch=all

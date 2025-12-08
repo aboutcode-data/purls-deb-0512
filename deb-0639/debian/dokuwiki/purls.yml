@@ -1,0 +1,7 @@
+- pkg:deb/debian/dokuwiki@0.0.20180422.a-2.1?arch=all
+- pkg:deb/debian/dokuwiki@0.0.20220731.a-2?arch=all
+- pkg:deb/debian/dokuwiki@2024-02-06b%2Bdfsg-9?arch=all
+- pkg:deb/debian/dokuwiki@2025-05-14.b%2Bdfsg-1?arch=all
+- pkg:deb/debian/dokuwiki@2025-05-14.b%2Bdfsg-2?arch=all
+- pkg:deb/debian/dokuwiki@2025-05-14.b%2Bdfsg-3?arch=all
+- pkg:deb/debian/dokuwiki@2025-05-14.b%2Bdfsg-4?arch=all

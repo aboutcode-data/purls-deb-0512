@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-blazar-dashboard@13.0.0-2?arch=all
+- pkg:deb/debian/python3-blazar-dashboard@14.0.0-1?arch=all

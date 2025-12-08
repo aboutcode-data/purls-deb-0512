@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-django-polymodels@1.8.0-1?arch=all
+- pkg:deb/debian/python3-django-polymodels@1.8.1-1?arch=all

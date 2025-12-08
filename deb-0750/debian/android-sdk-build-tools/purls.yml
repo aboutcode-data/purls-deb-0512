@@ -1,0 +1,17 @@
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B12?arch=amd64
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B12?arch=arm64
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B12?arch=armel
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B12?arch=armhf
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B12?arch=i386
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B3?arch=amd64
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B3?arch=arm64
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B3?arch=armhf
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B3?arch=i386
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B8?arch=ppc64el
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B9?arch=amd64
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B9?arch=arm64
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B9?arch=armel
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B9?arch=armhf
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B9?arch=i386
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B9?arch=mips64el
+- pkg:deb/debian/android-sdk-build-tools@29.0.3%2B9?arch=mipsel

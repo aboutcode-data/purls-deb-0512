@@ -1,0 +1,8 @@
+- pkg:deb/debian/libgauche-0.98-0@0.9.15-p2%2B20241205-4?arch=amd64
+- pkg:deb/debian/libgauche-0.98-0@0.9.15-p2%2B20241205-4?arch=arm64
+- pkg:deb/debian/libgauche-0.98-0@0.9.15-p2%2B20241205-4?arch=armel
+- pkg:deb/debian/libgauche-0.98-0@0.9.15-p2%2B20241205-4?arch=armhf
+- pkg:deb/debian/libgauche-0.98-0@0.9.15-p2%2B20241205-4?arch=i386
+- pkg:deb/debian/libgauche-0.98-0@0.9.15-p2%2B20241205-4?arch=ppc64el
+- pkg:deb/debian/libgauche-0.98-0@0.9.15-p2%2B20241205-4?arch=riscv64
+- pkg:deb/debian/libgauche-0.98-0@0.9.15-p2%2B20241205-4?arch=s390x

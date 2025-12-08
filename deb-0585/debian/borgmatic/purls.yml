@@ -1,0 +1,4 @@
+- pkg:deb/debian/borgmatic@1.5.12-2?arch=all
+- pkg:deb/debian/borgmatic@1.7.7-1?arch=all
+- pkg:deb/debian/borgmatic@1.9.14-0.1?arch=all
+- pkg:deb/debian/borgmatic@2.0.11-2?arch=all

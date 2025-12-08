@@ -1,0 +1,17 @@
+- pkg:deb/debian/bottlerocket@0.05b3-18?arch=amd64
+- pkg:deb/debian/bottlerocket@0.05b3-18?arch=arm64
+- pkg:deb/debian/bottlerocket@0.05b3-18?arch=armel
+- pkg:deb/debian/bottlerocket@0.05b3-18?arch=armhf
+- pkg:deb/debian/bottlerocket@0.05b3-18?arch=i386
+- pkg:deb/debian/bottlerocket@0.05b3-18?arch=mips64el
+- pkg:deb/debian/bottlerocket@0.05b3-18?arch=mipsel
+- pkg:deb/debian/bottlerocket@0.05b3-18?arch=ppc64el
+- pkg:deb/debian/bottlerocket@0.05b3-18?arch=s390x
+- pkg:deb/debian/bottlerocket@0.05b3-22?arch=amd64
+- pkg:deb/debian/bottlerocket@0.05b3-22?arch=arm64
+- pkg:deb/debian/bottlerocket@0.05b3-22?arch=armel
+- pkg:deb/debian/bottlerocket@0.05b3-22?arch=armhf
+- pkg:deb/debian/bottlerocket@0.05b3-22?arch=i386
+- pkg:deb/debian/bottlerocket@0.05b3-22?arch=ppc64el
+- pkg:deb/debian/bottlerocket@0.05b3-22?arch=riscv64
+- pkg:deb/debian/bottlerocket@0.05b3-22?arch=s390x

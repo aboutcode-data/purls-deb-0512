@@ -1,0 +1,5 @@
+- pkg:deb/debian/ganeti-doc@3.0.2-1~deb11u1?arch=all
+- pkg:deb/debian/ganeti-doc@3.0.2-3?arch=all
+- pkg:deb/debian/ganeti-doc@3.1.0~rc2-3?arch=all
+- pkg:deb/debian/ganeti-doc@3.1.0~rc2-3~bpo12%2B1?arch=all
+- pkg:deb/debian/ganeti-doc@3.1.0~rc2-4?arch=all

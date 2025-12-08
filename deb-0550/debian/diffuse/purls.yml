@@ -1,0 +1,3 @@
+- pkg:deb/debian/diffuse@0.6.0-2?arch=all
+- pkg:deb/debian/diffuse@0.7.7-1?arch=all
+- pkg:deb/debian/diffuse@0.9.0-1?arch=all

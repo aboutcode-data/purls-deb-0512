@@ -1,0 +1,3 @@
+- pkg:deb/debian/fakechroot@2.19-3.3?arch=all
+- pkg:deb/debian/fakechroot@2.20.1%2Bds-15?arch=all
+- pkg:deb/debian/fakechroot@2.20.1%2Bds-18?arch=all

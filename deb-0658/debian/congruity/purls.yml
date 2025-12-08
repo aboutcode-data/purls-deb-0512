@@ -1,0 +1,2 @@
+- pkg:deb/debian/congruity@20-1?arch=all
+- pkg:deb/debian/congruity@21-1?arch=all

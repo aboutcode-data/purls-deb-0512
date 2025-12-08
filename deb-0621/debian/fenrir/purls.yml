@@ -1,0 +1,4 @@
+- pkg:deb/debian/fenrir@1.9.5-2?arch=all
+- pkg:deb/debian/fenrir@1.9.5-5?arch=all
+- pkg:deb/debian/fenrir@2025.0.2.26-1?arch=all
+- pkg:deb/debian/fenrir@2025.0.7.16-1?arch=all

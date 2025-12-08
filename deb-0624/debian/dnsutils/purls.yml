@@ -1,0 +1,5 @@
+- pkg:deb/debian/dnsutils@9.16.50-1~deb11u2?arch=all
+- pkg:deb/debian/dnsutils@9.18.33-1~deb12u2?arch=all
+- pkg:deb/debian/dnsutils@9.18.41-1~deb12u1?arch=all
+- pkg:deb/debian/dnsutils@9.20.4-4?arch=all
+- pkg:deb/debian/dnsutils@9.21.3-1?arch=all

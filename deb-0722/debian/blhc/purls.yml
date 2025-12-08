@@ -1,0 +1,3 @@
+- pkg:deb/debian/blhc@0.12-2?arch=all
+- pkg:deb/debian/blhc@0.13-5?arch=all
+- pkg:deb/debian/blhc@0.14%2Bgit20240421.5d2c338-2?arch=all

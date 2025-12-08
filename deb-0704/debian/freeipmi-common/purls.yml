@@ -1,0 +1,5 @@
+- pkg:deb/debian/freeipmi-common@1.6.10-1?arch=all
+- pkg:deb/debian/freeipmi-common@1.6.13-2~bpo12%2B1?arch=all
+- pkg:deb/debian/freeipmi-common@1.6.15-1?arch=all
+- pkg:deb/debian/freeipmi-common@1.6.16-1?arch=all
+- pkg:deb/debian/freeipmi-common@1.6.6-4%2Bdeb11u1?arch=all

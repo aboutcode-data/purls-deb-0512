@@ -1,0 +1,3 @@
+- pkg:deb/debian/dart-doc@6.12.1%2Bdfsg4-12?arch=all
+- pkg:deb/debian/dart-doc@6.13.2%2Bds-3?arch=all
+- pkg:deb/debian/dart-doc@6.9.5-3?arch=all

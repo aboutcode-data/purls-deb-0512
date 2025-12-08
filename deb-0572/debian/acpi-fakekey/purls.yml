@@ -1,0 +1,6 @@
+- pkg:deb/debian/acpi-fakekey@0.143-5.1?arch=amd64
+- pkg:deb/debian/acpi-fakekey@0.143-5.1?arch=i386
+- pkg:deb/debian/acpi-fakekey@0.143-5.2?arch=amd64
+- pkg:deb/debian/acpi-fakekey@0.143-5.2?arch=i386
+- pkg:deb/debian/acpi-fakekey@0.143-5?arch=amd64
+- pkg:deb/debian/acpi-fakekey@0.143-5?arch=i386

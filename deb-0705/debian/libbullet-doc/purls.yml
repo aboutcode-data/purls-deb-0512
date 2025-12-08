@@ -1,0 +1,6 @@
+- pkg:deb/debian/libbullet-doc@3.06%2Bdfsg-4?arch=all
+- pkg:deb/debian/libbullet-doc@3.24%2Bdfsg-2.1?arch=all
+- pkg:deb/debian/libbullet-doc@3.24%2Bdfsg-2?arch=all
+- pkg:deb/debian/libbullet-doc@3.24%2Bdfsg-3?arch=all
+- pkg:deb/debian/libbullet-doc@3.24%2Bdfsg-4?arch=all
+- pkg:deb/debian/libbullet-doc@3.24%2Bdfsg-5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-torch-cuda@2.6.0%2Bdfsg-7%2Bb1?arch=amd64
+- pkg:deb/debian/python3-torch-cuda@2.6.0%2Bdfsg-7%2Bb1?arch=arm64

@@ -1,0 +1,5 @@
+- pkg:deb/debian/far2l-data@2.6.5~beta%2Bds-3?arch=all
+- pkg:deb/debian/far2l-data@2.6.5~beta%2Bds-3~bpo12%2B1?arch=all
+- pkg:deb/debian/far2l-data@2.7.0~beta%2Bds-1?arch=all
+- pkg:deb/debian/far2l-data@2.7.0~beta%2Bds-1~bpo13%2B1?arch=all
+- pkg:deb/debian/far2l-data@2.7.0~beta%2Bds-2?arch=all

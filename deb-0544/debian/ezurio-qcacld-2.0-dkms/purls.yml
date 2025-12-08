@@ -1,0 +1,4 @@
+- pkg:deb/debian/ezurio-qcacld-2.0-dkms@0.0~git20240408.aa96a9f%2Bdfsg-3~bpo12%2B1?arch=all
+- pkg:deb/debian/ezurio-qcacld-2.0-dkms@0.0~git20240408.aa96a9f%2Bdfsg-5?arch=all
+- pkg:deb/debian/ezurio-qcacld-2.0-dkms@0.0~git20240408.aa96a9f%2Bdfsg-8?arch=all
+- pkg:deb/debian/ezurio-qcacld-2.0-dkms@0.0~git20240408.aa96a9f%2Bdfsg-8~bpo13%2B1?arch=all

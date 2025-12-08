@@ -1,0 +1,3 @@
+- pkg:deb/debian/debug-me-server@1.20200820-1?arch=all
+- pkg:deb/debian/debug-me-server@1.20220324-1?arch=all
+- pkg:deb/debian/debug-me-server@1.20221231-2.1?arch=all

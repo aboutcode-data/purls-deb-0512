@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdolfinx-complex2019.2@2019.2.0~git20210130.c14cb0a-5?arch=amd64
+- pkg:deb/debian/libdolfinx-complex2019.2@2019.2.0~git20210130.c14cb0a-5?arch=arm64
+- pkg:deb/debian/libdolfinx-complex2019.2@2019.2.0~git20210130.c14cb0a-5?arch=armhf
+- pkg:deb/debian/libdolfinx-complex2019.2@2019.2.0~git20210130.c14cb0a-5?arch=i386

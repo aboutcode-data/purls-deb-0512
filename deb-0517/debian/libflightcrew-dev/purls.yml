@@ -1,0 +1,2 @@
+- pkg:deb/debian/libflightcrew-dev@0.9.3%2Bdfsg-1?arch=all
+- pkg:deb/debian/libflightcrew-dev@0.9.3%2Bdfsg-2.1?arch=all

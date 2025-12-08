@@ -1,0 +1,4 @@
+- pkg:deb/debian/bist@0.5.2-1.2?arch=amd64
+- pkg:deb/debian/bist@0.5.2-1.2?arch=arm64
+- pkg:deb/debian/bist@0.5.2-1.2?arch=armhf
+- pkg:deb/debian/bist@0.5.2-1.2?arch=i386

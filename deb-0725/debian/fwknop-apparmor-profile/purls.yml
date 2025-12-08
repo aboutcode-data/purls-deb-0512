@@ -1,0 +1,3 @@
+- pkg:deb/debian/fwknop-apparmor-profile@2.6.10-12?arch=all
+- pkg:deb/debian/fwknop-apparmor-profile@2.6.10-16?arch=all
+- pkg:deb/debian/fwknop-apparmor-profile@2.6.11-2?arch=all

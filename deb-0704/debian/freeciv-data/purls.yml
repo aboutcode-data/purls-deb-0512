@@ -1,0 +1,4 @@
+- pkg:deb/debian/freeciv-data@2.6.3-1?arch=all
+- pkg:deb/debian/freeciv-data@3.0.6-1?arch=all
+- pkg:deb/debian/freeciv-data@3.1.4%2Bds-2?arch=all
+- pkg:deb/debian/freeciv-data@3.2.1%2Bds-1?arch=all

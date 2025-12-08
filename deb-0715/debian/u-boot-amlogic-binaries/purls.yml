@@ -1,0 +1,2 @@
+- pkg:deb/debian/u-boot-amlogic-binaries@2025.01-3%2Bb1?arch=arm64
+- pkg:deb/debian/u-boot-amlogic-binaries@2025.01-3?arch=arm64

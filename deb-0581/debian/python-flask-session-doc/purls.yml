@@ -1,0 +1,2 @@
+- pkg:deb/debian/python-flask-session-doc@0.3.2-3?arch=all
+- pkg:deb/debian/python-flask-session-doc@0.8.0-1?arch=all

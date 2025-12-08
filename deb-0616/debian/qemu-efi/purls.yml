@@ -1,0 +1,2 @@
+- pkg:deb/debian/qemu-efi@2020.11-2%2Bdeb11u2?arch=all
+- pkg:deb/debian/qemu-efi@2022.11-6%2Bdeb12u2?arch=all

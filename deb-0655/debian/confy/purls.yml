@@ -1,0 +1,2 @@
+- pkg:deb/debian/confy@0.6.3-2?arch=all
+- pkg:deb/debian/confy@0.8.0-1?arch=all

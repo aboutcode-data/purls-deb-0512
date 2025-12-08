@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-cherrypy3-doc@18.10.0-1?arch=all
+- pkg:deb/debian/python-cherrypy3-doc@18.8.0-2?arch=all
+- pkg:deb/debian/python-cherrypy3-doc@8.9.1-8?arch=all

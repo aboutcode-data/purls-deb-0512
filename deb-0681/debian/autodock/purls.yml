@@ -1,0 +1,15 @@
+- pkg:deb/debian/autodock@4.2.6-8?arch=amd64
+- pkg:deb/debian/autodock@4.2.6-8?arch=arm64
+- pkg:deb/debian/autodock@4.2.6-8?arch=armhf
+- pkg:deb/debian/autodock@4.2.6-8?arch=i386
+- pkg:deb/debian/autodock@4.2.6-9%2Bb2?arch=arm64
+- pkg:deb/debian/autodock@4.2.6-9%2Bb2?arch=riscv64
+- pkg:deb/debian/autodock@4.2.6-9?arch=amd64
+- pkg:deb/debian/autodock@4.2.6-9?arch=arm64
+- pkg:deb/debian/autodock@4.2.6-9?arch=armel
+- pkg:deb/debian/autodock@4.2.6-9?arch=armhf
+- pkg:deb/debian/autodock@4.2.6-9?arch=i386
+- pkg:deb/debian/autodock@4.2.6-9?arch=mips64el
+- pkg:deb/debian/autodock@4.2.6-9?arch=mipsel
+- pkg:deb/debian/autodock@4.2.6-9?arch=ppc64el
+- pkg:deb/debian/autodock@4.2.6-9?arch=s390x

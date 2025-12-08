@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-ecasound@2.9.3-2?arch=all
+- pkg:deb/debian/ruby-ecasound@2.9.3-4?arch=all

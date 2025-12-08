@@ -1,0 +1,4 @@
+- pkg:deb/debian/developers-reference-ru@11.0.21?arch=all
+- pkg:deb/debian/developers-reference-ru@12.18?arch=all
+- pkg:deb/debian/developers-reference-ru@13.20?arch=all
+- pkg:deb/debian/developers-reference-ru@14.2?arch=all

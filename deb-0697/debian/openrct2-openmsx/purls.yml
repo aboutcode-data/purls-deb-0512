@@ -1,0 +1,4 @@
+- pkg:deb/debian/openrct2-openmsx@1.6-1?arch=all
+- pkg:deb/debian/openrct2-openmsx@1.6-1~bpo12%2B1?arch=all
+- pkg:deb/debian/openrct2-openmsx@1.6.1-1?arch=all
+- pkg:deb/debian/openrct2-openmsx@1.6.1-1~bpo13%2B1?arch=all

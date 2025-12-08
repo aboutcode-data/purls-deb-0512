@@ -1,0 +1,3 @@
+- pkg:deb/debian/blobandconquer-data@1.11-dfsg%2B20-1.3?arch=all
+- pkg:deb/debian/blobandconquer-data@1.11-dfsg%2B20-2?arch=all
+- pkg:deb/debian/blobandconquer-data@1.11-dfsg%2B20-5?arch=all

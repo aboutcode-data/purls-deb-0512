@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-debbundle-acorn@8.0.5%2Bds%2B~cs19.19.27-3?arch=all
+- pkg:deb/debian/node-debbundle-acorn@8.8.1%2Bds%2B~cs25.17.7-2?arch=all

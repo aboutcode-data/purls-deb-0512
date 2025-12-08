@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcgal-demo@5.2-3?arch=all
+- pkg:deb/debian/libcgal-demo@5.5.1-2?arch=all
+- pkg:deb/debian/libcgal-demo@6.0.1-1?arch=all
+- pkg:deb/debian/libcgal-demo@6.1-1?arch=all

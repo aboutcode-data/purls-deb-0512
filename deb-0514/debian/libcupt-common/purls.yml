@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcupt-common@2.10.4%2Bnmu1?arch=all
+- pkg:deb/debian/libcupt-common@2.10.4%2Bnmu2?arch=all

@@ -1,0 +1,15 @@
+- pkg:deb/debian/bsdiff@4.3-22?arch=amd64
+- pkg:deb/debian/bsdiff@4.3-22?arch=arm64
+- pkg:deb/debian/bsdiff@4.3-22?arch=armhf
+- pkg:deb/debian/bsdiff@4.3-22?arch=i386
+- pkg:deb/debian/bsdiff@4.3-23%2Bb1?arch=arm64
+- pkg:deb/debian/bsdiff@4.3-23%2Bb2?arch=riscv64
+- pkg:deb/debian/bsdiff@4.3-23?arch=amd64
+- pkg:deb/debian/bsdiff@4.3-23?arch=arm64
+- pkg:deb/debian/bsdiff@4.3-23?arch=armel
+- pkg:deb/debian/bsdiff@4.3-23?arch=armhf
+- pkg:deb/debian/bsdiff@4.3-23?arch=i386
+- pkg:deb/debian/bsdiff@4.3-23?arch=mips64el
+- pkg:deb/debian/bsdiff@4.3-23?arch=mipsel
+- pkg:deb/debian/bsdiff@4.3-23?arch=ppc64el
+- pkg:deb/debian/bsdiff@4.3-23?arch=s390x

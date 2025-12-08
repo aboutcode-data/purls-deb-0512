@@ -1,0 +1,14 @@
+- pkg:deb/debian/libcctbx0@2022.9%2Bds2%2B~3.11.2%2Bds1-6%2Bb1?arch=amd64
+- pkg:deb/debian/libcctbx0@2022.9%2Bds2%2B~3.11.2%2Bds1-6%2Bb1?arch=arm64
+- pkg:deb/debian/libcctbx0@2022.9%2Bds2%2B~3.11.2%2Bds1-6%2Bb1?arch=ppc64el
+- pkg:deb/debian/libcctbx0@2022.9%2Bds2%2B~3.11.2%2Bds1-6%2Bb1?arch=s390x
+- pkg:deb/debian/libcctbx0@2024.10%2Bds2%2B~3.22.1%2Bds1-5?arch=amd64
+- pkg:deb/debian/libcctbx0@2024.10%2Bds2%2B~3.22.1%2Bds1-5?arch=arm64
+- pkg:deb/debian/libcctbx0@2024.10%2Bds2%2B~3.22.1%2Bds1-5?arch=ppc64el
+- pkg:deb/debian/libcctbx0@2024.10%2Bds2%2B~3.22.1%2Bds1-5?arch=riscv64
+- pkg:deb/debian/libcctbx0@2024.10%2Bds2%2B~3.22.1%2Bds1-5?arch=s390x
+- pkg:deb/debian/libcctbx0@2025.2%2Bds2%2B~3.23.0%2Bds1-1?arch=amd64
+- pkg:deb/debian/libcctbx0@2025.2%2Bds2%2B~3.23.0%2Bds1-1?arch=arm64
+- pkg:deb/debian/libcctbx0@2025.2%2Bds2%2B~3.23.0%2Bds1-1?arch=ppc64el
+- pkg:deb/debian/libcctbx0@2025.2%2Bds2%2B~3.23.0%2Bds1-1?arch=riscv64
+- pkg:deb/debian/libcctbx0@2025.2%2Bds2%2B~3.23.0%2Bds1-1?arch=s390x

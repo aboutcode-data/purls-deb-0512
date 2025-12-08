@@ -1,0 +1,2 @@
+- pkg:deb/debian/apt-file@3.2.2?arch=all
+- pkg:deb/debian/apt-file@3.3?arch=all

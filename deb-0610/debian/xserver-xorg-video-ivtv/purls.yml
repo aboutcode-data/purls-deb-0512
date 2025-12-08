@@ -1,0 +1,5 @@
+- pkg:deb/debian/xserver-xorg-video-ivtv@1.1.2-2%2Bb6?arch=amd64
+- pkg:deb/debian/xserver-xorg-video-ivtv@1.1.2-2%2Bb6?arch=i386
+- pkg:deb/debian/xserver-xorg-video-ivtv@1.1.2-2%2Bb7?arch=amd64
+- pkg:deb/debian/xserver-xorg-video-ivtv@1.1.2-2%2Bb7?arch=i386
+- pkg:deb/debian/xserver-xorg-video-ivtv@1.1.2-2%2Bb7?arch=mipsel

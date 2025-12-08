@@ -1,0 +1,4 @@
+- pkg:deb/debian/libbabl-doc@0.1.114-2?arch=all
+- pkg:deb/debian/libbabl-doc@0.1.116-1?arch=all
+- pkg:deb/debian/libbabl-doc@0.1.82-1?arch=all
+- pkg:deb/debian/libbabl-doc@0.1.98-1?arch=all

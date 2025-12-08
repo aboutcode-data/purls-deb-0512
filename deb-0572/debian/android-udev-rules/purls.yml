@@ -1,0 +1,2 @@
+- pkg:deb/debian/android-udev-rules@0~20250314%2Bds-5?arch=all
+- pkg:deb/debian/android-udev-rules@0~20250314%2Bds-5~bpo12%2B1?arch=all

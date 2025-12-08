@@ -1,0 +1,4 @@
+- pkg:deb/debian/cadvisor@0.38.7%2Bds1-2%2Bb7?arch=amd64
+- pkg:deb/debian/cadvisor@0.38.7%2Bds1-2%2Bb7?arch=arm64
+- pkg:deb/debian/cadvisor@0.38.7%2Bds1-2%2Bb7?arch=armhf
+- pkg:deb/debian/cadvisor@0.38.7%2Bds1-2%2Bb7?arch=i386

@@ -1,0 +1,2 @@
+- pkg:deb/debian/widevine-installer@0.0~git20240811.eab8c66-3?arch=arm64
+- pkg:deb/debian/widevine-installer@0.0~git20240811.eab8c66-3~bpo13%2B1?arch=arm64

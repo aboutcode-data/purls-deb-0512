@@ -1,0 +1,2 @@
+- pkg:deb/debian/libautomaton-java@1.11-8%2Bdfsg1-1.1?arch=all
+- pkg:deb/debian/libautomaton-java@1.12-4%2Bdfsg-2?arch=all

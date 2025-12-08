@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-flake8-comprehensions@3.10.1-2?arch=all
+- pkg:deb/debian/python3-flake8-comprehensions@3.16.0-1?arch=all

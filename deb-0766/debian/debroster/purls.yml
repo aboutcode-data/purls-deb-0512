@@ -1,0 +1,2 @@
+- pkg:deb/debian/debroster@1.18%2Bnmu1?arch=all
+- pkg:deb/debian/debroster@1.19?arch=all

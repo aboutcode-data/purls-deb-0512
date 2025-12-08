@@ -1,0 +1,11 @@
+- pkg:deb/debian/apostrophe@2.6.3-4?arch=amd64
+- pkg:deb/debian/apostrophe@2.6.3-4?arch=arm64
+- pkg:deb/debian/apostrophe@2.6.3-4?arch=armel
+- pkg:deb/debian/apostrophe@2.6.3-4?arch=armhf
+- pkg:deb/debian/apostrophe@2.6.3-4?arch=i386
+- pkg:deb/debian/apostrophe@2.6.3-4?arch=mips64el
+- pkg:deb/debian/apostrophe@2.6.3-4?arch=mipsel
+- pkg:deb/debian/apostrophe@2.6.3-4?arch=ppc64el
+- pkg:deb/debian/apostrophe@2.6.3-4?arch=s390x
+- pkg:deb/debian/apostrophe@3.2-3?arch=all
+- pkg:deb/debian/apostrophe@3.4-1?arch=all

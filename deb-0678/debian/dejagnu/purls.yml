@@ -1,0 +1,4 @@
+- pkg:deb/debian/dejagnu@1.6.2-1?arch=all
+- pkg:deb/debian/dejagnu@1.6.3-1.1?arch=all
+- pkg:deb/debian/dejagnu@1.6.3-1?arch=all
+- pkg:deb/debian/dejagnu@1.6.3-2?arch=all

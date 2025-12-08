@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-aiocomelit@1.0.0-1?arch=all
+- pkg:deb/debian/python3-aiocomelit@1.1.2-1?arch=all
+- pkg:deb/debian/python3-aiocomelit@2.0.0-1?arch=all

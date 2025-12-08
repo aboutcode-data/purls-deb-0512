@@ -1,0 +1,3 @@
+- pkg:deb/debian/gap-factint@1.6.3%2Bds-1?arch=all
+- pkg:deb/debian/gap-factint@1.6.3%2Bds-2?arch=all
+- pkg:deb/debian/gap-factint@1.6.3%2Bds-3?arch=all

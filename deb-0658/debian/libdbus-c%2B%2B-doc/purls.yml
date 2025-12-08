@@ -1,0 +1,3 @@
+- pkg:deb/debian/libdbus-c%2B%2B-doc@0.9.0-11?arch=all
+- pkg:deb/debian/libdbus-c%2B%2B-doc@0.9.0-15?arch=all
+- pkg:deb/debian/libdbus-c%2B%2B-doc@0.9.0-8.2?arch=all

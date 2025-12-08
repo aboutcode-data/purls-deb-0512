@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdcontainers0@0.8.0~alpha.16-1%2Bb4?arch=armhf
+- pkg:deb/debian/libdcontainers0@0.8.0~alpha.16-1%2Bb5?arch=amd64
+- pkg:deb/debian/libdcontainers0@0.8.0~alpha.16-1%2Bb5?arch=arm64
+- pkg:deb/debian/libdcontainers0@0.8.0~alpha.16-1%2Bb5?arch=i386

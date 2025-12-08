@@ -1,0 +1,6 @@
+- pkg:deb/debian/cde@0.1%2Bgit9-g551e54d-1.2?arch=amd64
+- pkg:deb/debian/cde@0.1%2Bgit9-g551e54d-1.2?arch=i386
+- pkg:deb/debian/cde@0.1%2Bgit9-g551e54d-2?arch=amd64
+- pkg:deb/debian/cde@0.1%2Bgit9-g551e54d-2?arch=i386
+- pkg:deb/debian/cde@0.1%2Bgit9-g551e54d-3?arch=amd64
+- pkg:deb/debian/cde@0.1%2Bgit9-g551e54d-3?arch=i386

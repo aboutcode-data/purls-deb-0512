@@ -1,0 +1,13 @@
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-2%2Bb3?arch=amd64
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-2%2Bb3?arch=i386
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-4%2Bb1?arch=amd64
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-4%2Bb1?arch=i386
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-8%2Bb1?arch=amd64
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-8%2Bb1?arch=arm64
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-8%2Bb1?arch=i386
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-8%2Bb1?arch=ppc64el
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-8?arch=amd64
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-8?arch=arm64
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-8?arch=i386
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-8?arch=ppc64el
+- pkg:deb/debian/python3-pbconsensuscore@1.1.1%2Bdfsg-8?arch=riscv64

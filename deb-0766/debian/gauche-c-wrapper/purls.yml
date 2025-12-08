@@ -1,0 +1,12 @@
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-12?arch=amd64
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-12?arch=arm64
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-12?arch=armhf
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-12?arch=i386
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-18?arch=amd64
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-18?arch=arm64
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-18?arch=armel
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-18?arch=armhf
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-18?arch=i386
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-18?arch=ppc64el
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-18?arch=riscv64
+- pkg:deb/debian/gauche-c-wrapper@0.6.1-18?arch=s390x

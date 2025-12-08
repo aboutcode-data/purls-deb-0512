@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcryptominisat5-5.8@5.8.0%2Bdfsg1-1%2Bb3?arch=amd64
+- pkg:deb/debian/libcryptominisat5-5.8@5.8.0%2Bdfsg1-1%2Bb3?arch=arm64
+- pkg:deb/debian/libcryptominisat5-5.8@5.8.0%2Bdfsg1-1%2Bb3?arch=armhf
+- pkg:deb/debian/libcryptominisat5-5.8@5.8.0%2Bdfsg1-1%2Bb3?arch=i386

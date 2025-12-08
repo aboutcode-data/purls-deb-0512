@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-autopep8@1.5.5-1?arch=all
+- pkg:deb/debian/python3-autopep8@2.0.1-1?arch=all
+- pkg:deb/debian/python3-autopep8@2.3.2-1?arch=all
+- pkg:deb/debian/python3-autopep8@2.3.2-2?arch=all

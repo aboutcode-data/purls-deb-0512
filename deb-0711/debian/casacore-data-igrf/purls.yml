@@ -1,0 +1,2 @@
+- pkg:deb/debian/casacore-data-igrf@12-1?arch=all
+- pkg:deb/debian/casacore-data-igrf@12-2?arch=all

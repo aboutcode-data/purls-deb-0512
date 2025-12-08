@@ -1,0 +1,7 @@
+- pkg:deb/debian/libdolfinx-real0.10@0.10.0.post3-1exp5?arch=amd64
+- pkg:deb/debian/libdolfinx-real0.10@0.10.0.post3-1exp5?arch=arm64
+- pkg:deb/debian/libdolfinx-real0.10@0.10.0.post3-1exp5?arch=armhf
+- pkg:deb/debian/libdolfinx-real0.10@0.10.0.post3-1exp5?arch=i386
+- pkg:deb/debian/libdolfinx-real0.10@0.10.0.post3-1exp5?arch=ppc64el
+- pkg:deb/debian/libdolfinx-real0.10@0.10.0.post3-1exp5?arch=riscv64
+- pkg:deb/debian/libdolfinx-real0.10@0.10.0.post3-1exp5?arch=s390x

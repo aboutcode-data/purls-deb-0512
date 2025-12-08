@@ -1,0 +1,4 @@
+- pkg:deb/debian/designate-zone-manager@11.0.0-2?arch=all
+- pkg:deb/debian/designate-zone-manager@15.0.0-4?arch=all
+- pkg:deb/debian/designate-zone-manager@20.0.0-2?arch=all
+- pkg:deb/debian/designate-zone-manager@21.0.0-1?arch=all

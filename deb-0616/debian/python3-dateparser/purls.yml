@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-dateparser@1.0.0-1?arch=all
+- pkg:deb/debian/python3-dateparser@1.1.6-1?arch=all
+- pkg:deb/debian/python3-dateparser@1.2.1-1?arch=all
+- pkg:deb/debian/python3-dateparser@1.2.2-1?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/etm@3.2.30-1.1?arch=all
+- pkg:deb/debian/etm@3.2.30-4?arch=all
+- pkg:deb/debian/etm@3.2.39-1?arch=all
+- pkg:deb/debian/etm@3.2.39-2?arch=all

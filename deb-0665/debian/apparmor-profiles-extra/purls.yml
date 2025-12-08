@@ -1,0 +1,2 @@
+- pkg:deb/debian/apparmor-profiles-extra@1.34?arch=all
+- pkg:deb/debian/apparmor-profiles-extra@1.35?arch=all

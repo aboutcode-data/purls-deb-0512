@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-dials@3.12.1%2Bdfsg3-5?arch=amd64
+- pkg:deb/debian/python3-dials@3.25.0%2Bdfsg3-3?arch=amd64

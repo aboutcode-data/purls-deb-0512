@@ -1,0 +1,4 @@
+- pkg:deb/debian/bazel-bootstrap-data@3.5.1%2Bds-3?arch=all
+- pkg:deb/debian/bazel-bootstrap-data@4.2.3%2Bds-11.1?arch=all
+- pkg:deb/debian/bazel-bootstrap-data@4.2.3%2Bds-11?arch=all
+- pkg:deb/debian/bazel-bootstrap-data@4.2.3%2Bds-9?arch=all

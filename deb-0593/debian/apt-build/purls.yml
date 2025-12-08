@@ -1,0 +1,17 @@
+- pkg:deb/debian/apt-build@0.12.49?arch=amd64
+- pkg:deb/debian/apt-build@0.12.49?arch=arm64
+- pkg:deb/debian/apt-build@0.12.49?arch=armel
+- pkg:deb/debian/apt-build@0.12.49?arch=armhf
+- pkg:deb/debian/apt-build@0.12.49?arch=i386
+- pkg:deb/debian/apt-build@0.12.49?arch=mips64el
+- pkg:deb/debian/apt-build@0.12.49?arch=mipsel
+- pkg:deb/debian/apt-build@0.12.49?arch=ppc64el
+- pkg:deb/debian/apt-build@0.12.49?arch=s390x
+- pkg:deb/debian/apt-build@0.12.51?arch=amd64
+- pkg:deb/debian/apt-build@0.12.51?arch=arm64
+- pkg:deb/debian/apt-build@0.12.51?arch=armel
+- pkg:deb/debian/apt-build@0.12.51?arch=armhf
+- pkg:deb/debian/apt-build@0.12.51?arch=i386
+- pkg:deb/debian/apt-build@0.12.51?arch=ppc64el
+- pkg:deb/debian/apt-build@0.12.51?arch=riscv64
+- pkg:deb/debian/apt-build@0.12.51?arch=s390x

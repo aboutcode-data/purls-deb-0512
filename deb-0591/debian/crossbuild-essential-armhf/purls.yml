@@ -1,0 +1,2 @@
+- pkg:deb/debian/crossbuild-essential-armhf@12.12?arch=all
+- pkg:deb/debian/crossbuild-essential-armhf@12.9?arch=all

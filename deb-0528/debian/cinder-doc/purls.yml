@@ -1,0 +1,5 @@
+- pkg:deb/debian/cinder-doc@17.0.1-1%2Bdeb11u1?arch=all
+- pkg:deb/debian/cinder-doc@21.3.1-1~deb12u1?arch=all
+- pkg:deb/debian/cinder-doc@26.0.0-2?arch=all
+- pkg:deb/debian/cinder-doc@27.0.0-3?arch=all
+- pkg:deb/debian/cinder-doc@27.0.0-4?arch=all

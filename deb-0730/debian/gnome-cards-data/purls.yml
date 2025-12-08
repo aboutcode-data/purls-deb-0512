@@ -1,0 +1,5 @@
+- pkg:deb/debian/gnome-cards-data@3.22.23-1?arch=all
+- pkg:deb/debian/gnome-cards-data@3.22.35-1?arch=all
+- pkg:deb/debian/gnome-cards-data@3.22.35-2?arch=all
+- pkg:deb/debian/gnome-cards-data@3.22.35-3?arch=all
+- pkg:deb/debian/gnome-cards-data@3.22.9-1?arch=all

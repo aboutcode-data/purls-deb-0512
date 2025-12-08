@@ -1,0 +1,4 @@
+- pkg:deb/debian/calligrastage-data@25.04.2%2Bdfsg-1?arch=all
+- pkg:deb/debian/calligrastage-data@25.11.90-1?arch=all
+- pkg:deb/debian/calligrastage-data@3.2.1%2Bdfsg-2?arch=all
+- pkg:deb/debian/calligrastage-data@3.2.1%2Bdfsg-6?arch=all

@@ -1,0 +1,15 @@
+- pkg:deb/debian/libcwiid1t64@0.6.91-11?arch=amd64
+- pkg:deb/debian/libcwiid1t64@0.6.91-11?arch=arm64
+- pkg:deb/debian/libcwiid1t64@0.6.91-11?arch=armel
+- pkg:deb/debian/libcwiid1t64@0.6.91-11?arch=armhf
+- pkg:deb/debian/libcwiid1t64@0.6.91-11?arch=i386
+- pkg:deb/debian/libcwiid1t64@0.6.91-11?arch=ppc64el
+- pkg:deb/debian/libcwiid1t64@0.6.91-11?arch=riscv64
+- pkg:deb/debian/libcwiid1t64@0.6.91-11?arch=s390x
+- pkg:deb/debian/libcwiid1t64@0.6.91-12?arch=amd64
+- pkg:deb/debian/libcwiid1t64@0.6.91-12?arch=arm64
+- pkg:deb/debian/libcwiid1t64@0.6.91-12?arch=armhf
+- pkg:deb/debian/libcwiid1t64@0.6.91-12?arch=i386
+- pkg:deb/debian/libcwiid1t64@0.6.91-12?arch=ppc64el
+- pkg:deb/debian/libcwiid1t64@0.6.91-12?arch=riscv64
+- pkg:deb/debian/libcwiid1t64@0.6.91-12?arch=s390x

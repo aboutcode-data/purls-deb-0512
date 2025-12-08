@@ -1,0 +1,6 @@
+- pkg:deb/debian/dgit@10.7%2Bdeb12u3?arch=all
+- pkg:deb/debian/dgit@12.15?arch=all
+- pkg:deb/debian/dgit@12.15~bpo12%2B1?arch=all
+- pkg:deb/debian/dgit@13.17?arch=all
+- pkg:deb/debian/dgit@13.17~bpo13%2B1?arch=all
+- pkg:deb/debian/dgit@9.13?arch=all

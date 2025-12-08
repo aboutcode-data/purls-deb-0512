@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-findpython@0.2.4-1?arch=all
+- pkg:deb/debian/python3-findpython@0.6.2-1?arch=all
+- pkg:deb/debian/python3-findpython@0.7.1-1?arch=all
