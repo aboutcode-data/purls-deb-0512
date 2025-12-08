@@ -1,0 +1,4 @@
+- pkg:deb/debian/loggerhead-doc@1.19~bzr511-1?arch=all
+- pkg:deb/debian/loggerhead-doc@2.0.1%2Bbzr541%2Bds-2?arch=all
+- pkg:deb/debian/loggerhead-doc@2.0.1%2Bbzr548-1?arch=all
+- pkg:deb/debian/loggerhead-doc@2.0.3-2?arch=all

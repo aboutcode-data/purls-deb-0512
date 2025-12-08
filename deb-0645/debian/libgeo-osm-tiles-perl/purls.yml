@@ -1,0 +1,2 @@
+- pkg:deb/debian/libgeo-osm-tiles-perl@0.04-5?arch=all
+- pkg:deb/debian/libgeo-osm-tiles-perl@0.04-7?arch=all

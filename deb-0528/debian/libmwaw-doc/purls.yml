@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmwaw-doc@0.3.17-1?arch=all
+- pkg:deb/debian/libmwaw-doc@0.3.21-1?arch=all
+- pkg:deb/debian/libmwaw-doc@0.3.22-1?arch=all

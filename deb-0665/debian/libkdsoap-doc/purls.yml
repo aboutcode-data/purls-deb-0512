@@ -1,0 +1,4 @@
+- pkg:deb/debian/libkdsoap-doc@1.9.1%2Bdfsg-2?arch=all
+- pkg:deb/debian/libkdsoap-doc@1.9.1%2Bdfsg-5?arch=all
+- pkg:deb/debian/libkdsoap-doc@2.2.0%2Bdfsg-3?arch=all
+- pkg:deb/debian/libkdsoap-doc@2.2.0%2Bdfsg-4?arch=all

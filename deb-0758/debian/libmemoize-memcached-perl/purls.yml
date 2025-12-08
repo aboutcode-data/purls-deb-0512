@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmemoize-memcached-perl@0.04-1?arch=all
+- pkg:deb/debian/libmemoize-memcached-perl@0.04-2?arch=all

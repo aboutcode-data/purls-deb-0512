@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-imexam-doc@0.9.1-1?arch=all
+- pkg:deb/debian/python-imexam-doc@0.9.1-4?arch=all
+- pkg:deb/debian/python-imexam-doc@0.9.1-6?arch=all

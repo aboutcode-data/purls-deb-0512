@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgpod-doc@0.8.3-16?arch=all
+- pkg:deb/debian/libgpod-doc@0.8.3-17?arch=all
+- pkg:deb/debian/libgpod-doc@0.8.3-22?arch=all
+- pkg:deb/debian/libgpod-doc@0.8.3-23?arch=all

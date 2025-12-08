@@ -1,0 +1,4 @@
+- pkg:deb/debian/lua-busted@2.0.0-1?arch=all
+- pkg:deb/debian/lua-busted@2.1.1-1?arch=all
+- pkg:deb/debian/lua-busted@2.2.0-1?arch=all
+- pkg:deb/debian/lua-busted@2.2.0-3?arch=all

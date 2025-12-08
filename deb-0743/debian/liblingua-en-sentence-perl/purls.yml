@@ -1,0 +1,3 @@
+- pkg:deb/debian/liblingua-en-sentence-perl@0.31-1.1?arch=all
+- pkg:deb/debian/liblingua-en-sentence-perl@0.33-2?arch=all
+- pkg:deb/debian/liblingua-en-sentence-perl@0.34-1?arch=all

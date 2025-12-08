@@ -1,0 +1,2 @@
+- pkg:deb/debian/lua-doc@3.0.1%2Bgitdb9e868-1.1?arch=all
+- pkg:deb/debian/lua-doc@3.0.1%2Bgitdb9e868-2?arch=all

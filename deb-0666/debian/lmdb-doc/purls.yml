@@ -1,0 +1,2 @@
+- pkg:deb/debian/lmdb-doc@0.9.24-1?arch=all
+- pkg:deb/debian/lmdb-doc@0.9.31-1?arch=all

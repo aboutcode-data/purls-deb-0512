@@ -1,0 +1,4 @@
+- pkg:deb/debian/libhsqldb1.8.0-java@1.8.0.10%2Bdfsg-10%2Bdeb11u1?arch=all
+- pkg:deb/debian/libhsqldb1.8.0-java@1.8.0.10%2Bdfsg-11%2Bdeb12u1?arch=all
+- pkg:deb/debian/libhsqldb1.8.0-java@1.8.0.10%2Bdfsg-12.1%2Bdeb13u1?arch=all
+- pkg:deb/debian/libhsqldb1.8.0-java@1.8.0.10%2Bdfsg-14?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/lua-dkjson@2.5-3?arch=all
+- pkg:deb/debian/lua-dkjson@2.6-2?arch=all
+- pkg:deb/debian/lua-dkjson@2.8-1?arch=all
+- pkg:deb/debian/lua-dkjson@2.8-2?arch=all

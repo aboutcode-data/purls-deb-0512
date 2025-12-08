@@ -1,0 +1,3 @@
+- pkg:deb/debian/libinline-perl@0.86-1?arch=all
+- pkg:deb/debian/libinline-perl@0.86-2?arch=all
+- pkg:deb/debian/libinline-perl@0.87-1?arch=all

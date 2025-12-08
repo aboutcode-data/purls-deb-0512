@@ -1,0 +1,2 @@
+- pkg:deb/debian/libejml-java@0.38%2Bds-1?arch=all
+- pkg:deb/debian/libejml-java@0.41%2Bds-2?arch=all

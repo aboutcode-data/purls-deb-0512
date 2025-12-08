@@ -1,0 +1,6 @@
+- pkg:deb/debian/libllvmlibc-21-dev@21.1.6-2?arch=amd64
+- pkg:deb/debian/libllvmlibc-21-dev@21.1.6-2?arch=arm64
+- pkg:deb/debian/libllvmlibc-21-dev@21.1.6-2?arch=armhf
+- pkg:deb/debian/libllvmlibc-21-dev@21.1.6-3?arch=amd64
+- pkg:deb/debian/libllvmlibc-21-dev@21.1.6-3?arch=arm64
+- pkg:deb/debian/libllvmlibc-21-dev@21.1.6-3?arch=armhf

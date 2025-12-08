@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjdepend-java@2.10-1?arch=all
+- pkg:deb/debian/libjdepend-java@2.9.1-2?arch=all

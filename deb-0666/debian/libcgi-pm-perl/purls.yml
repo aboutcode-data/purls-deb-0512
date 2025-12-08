@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcgi-pm-perl@4.51-1?arch=all
+- pkg:deb/debian/libcgi-pm-perl@4.55-1?arch=all
+- pkg:deb/debian/libcgi-pm-perl@4.68-1?arch=all
+- pkg:deb/debian/libcgi-pm-perl@4.71-1?arch=all

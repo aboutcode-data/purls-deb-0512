@@ -1,0 +1,3 @@
+- pkg:deb/debian/lib3mf-doc@1.8.1%2Bds-4?arch=all
+- pkg:deb/debian/lib3mf-doc@1.8.1%2Bds-5?arch=all
+- pkg:deb/debian/lib3mf-doc@1.8.1%2Bds-6?arch=all

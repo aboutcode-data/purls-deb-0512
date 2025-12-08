@@ -1,0 +1,4 @@
+- pkg:deb/debian/libio-socket-ssl-perl@2.069-1?arch=all
+- pkg:deb/debian/libio-socket-ssl-perl@2.081-2?arch=all
+- pkg:deb/debian/libio-socket-ssl-perl@2.089-1?arch=all
+- pkg:deb/debian/libio-socket-ssl-perl@2.095-1?arch=all

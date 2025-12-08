@@ -1,0 +1,7 @@
+- pkg:deb/debian/libcaes-dev@0~20240413-1%2Bb2?arch=amd64
+- pkg:deb/debian/libcaes-dev@0~20240413-1%2Bb2?arch=arm64
+- pkg:deb/debian/libcaes-dev@0~20240413-1%2Bb2?arch=armel
+- pkg:deb/debian/libcaes-dev@0~20240413-1%2Bb2?arch=armhf
+- pkg:deb/debian/libcaes-dev@0~20240413-1%2Bb2?arch=i386
+- pkg:deb/debian/libcaes-dev@0~20240413-1%2Bb2?arch=riscv64
+- pkg:deb/debian/libcaes-dev@0~20240413-1%2Bb2?arch=s390x

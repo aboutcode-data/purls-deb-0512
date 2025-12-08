@@ -1,0 +1,15 @@
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-4?arch=amd64
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-4?arch=arm64
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-4?arch=armel
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-4?arch=armhf
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-4?arch=i386
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-4?arch=ppc64el
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-4?arch=riscv64
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-4?arch=s390x
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-5?arch=amd64
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-5?arch=arm64
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-5?arch=armhf
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-5?arch=i386
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-5?arch=ppc64el
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-5?arch=riscv64
+- pkg:deb/debian/gir1.2-dmap-4.0@3.9.13-5?arch=s390x

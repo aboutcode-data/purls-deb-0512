@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmoox-log-any-perl@0.004004-1.1?arch=all
+- pkg:deb/debian/libmoox-log-any-perl@0.004004-2?arch=all
+- pkg:deb/debian/libmoox-log-any-perl@0.004004-3?arch=all
+- pkg:deb/debian/libmoox-log-any-perl@0.004004-4?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnetsds-perl@1.301-3.1?arch=all
+- pkg:deb/debian/libnetsds-perl@1.301-4?arch=all

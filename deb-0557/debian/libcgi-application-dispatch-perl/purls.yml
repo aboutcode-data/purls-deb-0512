@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcgi-application-dispatch-perl@3.12-2.1?arch=all
+- pkg:deb/debian/libcgi-application-dispatch-perl@3.12-3?arch=all

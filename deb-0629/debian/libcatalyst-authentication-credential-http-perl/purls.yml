@@ -1,0 +1,4 @@
+- pkg:deb/debian/libcatalyst-authentication-credential-http-perl@1.018-1?arch=all
+- pkg:deb/debian/libcatalyst-authentication-credential-http-perl@1.018-2?arch=all
+- pkg:deb/debian/libcatalyst-authentication-credential-http-perl@1.018-3?arch=all
+- pkg:deb/debian/libcatalyst-authentication-credential-http-perl@1.019-1?arch=all

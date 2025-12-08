@@ -1,0 +1,4 @@
+- pkg:deb/debian/icinga2-common@2.12.3-1?arch=all
+- pkg:deb/debian/icinga2-common@2.13.6-2%2Bdeb12u2?arch=all
+- pkg:deb/debian/icinga2-common@2.14.6-1?arch=all
+- pkg:deb/debian/icinga2-common@2.15.1-1?arch=all

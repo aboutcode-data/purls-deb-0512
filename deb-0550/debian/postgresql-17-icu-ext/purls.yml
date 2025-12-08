@@ -1,0 +1,10 @@
+- pkg:deb/debian/postgresql-17-icu-ext@1.10.0-1?arch=amd64
+- pkg:deb/debian/postgresql-17-icu-ext@1.10.0-1?arch=arm64
+- pkg:deb/debian/postgresql-17-icu-ext@1.10.0-1?arch=ppc64el
+- pkg:deb/debian/postgresql-17-icu-ext@1.10.0-1?arch=riscv64
+- pkg:deb/debian/postgresql-17-icu-ext@1.10.0-1?arch=s390x
+- pkg:deb/debian/postgresql-17-icu-ext@1.9.0-1%2Bb1?arch=arm64
+- pkg:deb/debian/postgresql-17-icu-ext@1.9.0-1%2Bb1?arch=ppc64el
+- pkg:deb/debian/postgresql-17-icu-ext@1.9.0-1%2Bb1?arch=riscv64
+- pkg:deb/debian/postgresql-17-icu-ext@1.9.0-1%2Bb1?arch=s390x
+- pkg:deb/debian/postgresql-17-icu-ext@1.9.0-1%2Bb2?arch=amd64

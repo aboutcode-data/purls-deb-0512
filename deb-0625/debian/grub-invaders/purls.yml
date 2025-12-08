@@ -1,0 +1,4 @@
+- pkg:deb/debian/grub-invaders@1.0.0-15?arch=amd64
+- pkg:deb/debian/grub-invaders@1.0.0-15?arch=i386
+- pkg:deb/debian/grub-invaders@1.0.0-19?arch=amd64
+- pkg:deb/debian/grub-invaders@1.0.0-19?arch=i386

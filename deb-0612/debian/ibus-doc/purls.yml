@@ -1,0 +1,4 @@
+- pkg:deb/debian/ibus-doc@1.5.23-2?arch=all
+- pkg:deb/debian/ibus-doc@1.5.27-5?arch=all
+- pkg:deb/debian/ibus-doc@1.5.31-1~bpo12%2B1?arch=all
+- pkg:deb/debian/ibus-doc@1.5.32-2?arch=all

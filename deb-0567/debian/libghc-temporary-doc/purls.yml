@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-temporary-doc@1.3-2?arch=all
+- pkg:deb/debian/libghc-temporary-doc@1.3-3?arch=all
+- pkg:deb/debian/libghc-temporary-doc@1.3-5?arch=all

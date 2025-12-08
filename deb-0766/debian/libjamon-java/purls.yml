@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjamon-java@2.7-7?arch=all
+- pkg:deb/debian/libjamon-java@2.7-8?arch=all

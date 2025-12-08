@@ -1,0 +1,3 @@
+- pkg:deb/debian/kernel-wedge@2.104?arch=all
+- pkg:deb/debian/kernel-wedge@2.105~bpo12%2B1?arch=all
+- pkg:deb/debian/kernel-wedge@2.106?arch=all

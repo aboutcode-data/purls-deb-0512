@@ -1,0 +1,8 @@
+- pkg:deb/debian/libghc-termonad-prof@4.0.0.1-1?arch=amd64
+- pkg:deb/debian/libghc-termonad-prof@4.0.0.1-1?arch=armhf
+- pkg:deb/debian/libghc-termonad-prof@4.5.0.0-2%2Bb2?arch=riscv64
+- pkg:deb/debian/libghc-termonad-prof@4.5.0.0-2%2Bb3?arch=amd64
+- pkg:deb/debian/libghc-termonad-prof@4.5.0.0-2%2Bb3?arch=arm64
+- pkg:deb/debian/libghc-termonad-prof@4.5.0.0-2%2Bb3?arch=ppc64el
+- pkg:deb/debian/libghc-termonad-prof@4.5.0.0-2%2Bb3?arch=s390x
+- pkg:deb/debian/libghc-termonad-prof@4.5.0.0-2%2Bb4?arch=i386

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdevel-bt-perl@0.06-4%2Bb6?arch=amd64
+- pkg:deb/debian/libdevel-bt-perl@0.06-4%2Bb6?arch=arm64
+- pkg:deb/debian/libdevel-bt-perl@0.06-4%2Bb6?arch=armhf
+- pkg:deb/debian/libdevel-bt-perl@0.06-4%2Bb6?arch=i386

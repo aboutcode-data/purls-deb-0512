@@ -1,0 +1,3 @@
+- pkg:deb/debian/libconfig-model-tkui-perl@1.373-1?arch=all
+- pkg:deb/debian/libconfig-model-tkui-perl@1.376-1?arch=all
+- pkg:deb/debian/libconfig-model-tkui-perl@1.379-1?arch=all

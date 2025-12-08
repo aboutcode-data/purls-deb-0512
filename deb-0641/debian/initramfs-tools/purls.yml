@@ -1,0 +1,4 @@
+- pkg:deb/debian/initramfs-tools@0.140?arch=all
+- pkg:deb/debian/initramfs-tools@0.142%2Bdeb12u3?arch=all
+- pkg:deb/debian/initramfs-tools@0.148.3?arch=all
+- pkg:deb/debian/initramfs-tools@0.150?arch=all

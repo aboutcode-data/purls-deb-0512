@@ -1,0 +1,3 @@
+- pkg:deb/debian/libcommons-logging-java@1.2-2?arch=all
+- pkg:deb/debian/libcommons-logging-java@1.2-3?arch=all
+- pkg:deb/debian/libcommons-logging-java@1.3.0-2?arch=all

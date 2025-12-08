@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmfx1@21.1.0-1?arch=amd64
+- pkg:deb/debian/libmfx1@22.5.4-1?arch=amd64

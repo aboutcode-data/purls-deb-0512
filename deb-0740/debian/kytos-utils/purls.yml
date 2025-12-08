@@ -1,0 +1,2 @@
+- pkg:deb/debian/kytos-utils@2019.2-3?arch=all
+- pkg:deb/debian/kytos-utils@2019.2-4?arch=all

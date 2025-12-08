@@ -1,0 +1,3 @@
+- pkg:deb/debian/libdata-parsebinary-perl@0.31~dfsg-1.1?arch=all
+- pkg:deb/debian/libdata-parsebinary-perl@0.31~dfsg-2?arch=all
+- pkg:deb/debian/libdata-parsebinary-perl@0.31~dfsg-4?arch=all

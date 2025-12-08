@@ -1,0 +1,4 @@
+- pkg:deb/debian/link-grammar-dictionaries-en@5.12.0~dfsg-2?arch=all
+- pkg:deb/debian/link-grammar-dictionaries-en@5.12.5~dfsg-1?arch=all
+- pkg:deb/debian/link-grammar-dictionaries-en@5.13.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/link-grammar-dictionaries-en@5.8.1-1?arch=all

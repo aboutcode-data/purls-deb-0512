@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-hatchling@1.12.2-1?arch=all
+- pkg:deb/debian/python3-hatchling@1.27.0-1?arch=all
+- pkg:deb/debian/python3-hatchling@1.27.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/python3-hatchling@1.28.0-1?arch=all

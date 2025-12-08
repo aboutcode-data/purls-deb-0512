@@ -1,0 +1,9 @@
+- pkg:deb/debian/libdumb1@0.9.3-6%2Bb3?arch=amd64
+- pkg:deb/debian/libdumb1@0.9.3-6%2Bb3?arch=arm64
+- pkg:deb/debian/libdumb1@0.9.3-6%2Bb3?arch=armel
+- pkg:deb/debian/libdumb1@0.9.3-6%2Bb3?arch=armhf
+- pkg:deb/debian/libdumb1@0.9.3-6%2Bb3?arch=i386
+- pkg:deb/debian/libdumb1@0.9.3-6%2Bb3?arch=mips64el
+- pkg:deb/debian/libdumb1@0.9.3-6%2Bb3?arch=mipsel
+- pkg:deb/debian/libdumb1@0.9.3-6%2Bb3?arch=ppc64el
+- pkg:deb/debian/libdumb1@0.9.3-6%2Bb3?arch=s390x

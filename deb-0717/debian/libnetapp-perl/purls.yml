@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnetapp-perl@500.002-2?arch=all
+- pkg:deb/debian/libnetapp-perl@500.002-3?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjdeb-java@1.8-1?arch=all
+- pkg:deb/debian/libjdeb-java@1.9-1?arch=all

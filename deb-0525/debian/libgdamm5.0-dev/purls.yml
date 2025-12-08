@@ -1,0 +1,9 @@
+- pkg:deb/debian/libgdamm5.0-dev@4.99.11-3?arch=amd64
+- pkg:deb/debian/libgdamm5.0-dev@4.99.11-3?arch=arm64
+- pkg:deb/debian/libgdamm5.0-dev@4.99.11-3?arch=armel
+- pkg:deb/debian/libgdamm5.0-dev@4.99.11-3?arch=armhf
+- pkg:deb/debian/libgdamm5.0-dev@4.99.11-3?arch=i386
+- pkg:deb/debian/libgdamm5.0-dev@4.99.11-3?arch=mips64el
+- pkg:deb/debian/libgdamm5.0-dev@4.99.11-3?arch=mipsel
+- pkg:deb/debian/libgdamm5.0-dev@4.99.11-3?arch=ppc64el
+- pkg:deb/debian/libgdamm5.0-dev@4.99.11-3?arch=s390x

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libdigest-hmac-perl@1.03%2Bdfsg-2.1?arch=all
+- pkg:deb/debian/libdigest-hmac-perl@1.04%2Bdfsg-2?arch=all
+- pkg:deb/debian/libdigest-hmac-perl@1.05%2Bdfsg-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libjffi-java@1.2.7-11?arch=all
+- pkg:deb/debian/libjffi-java@1.3.13%2Bds-1?arch=all
+- pkg:deb/debian/libjffi-java@1.3.9%2Bds-6?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libdist-zilla-plugin-test-perl-critic-perl@3.001-2?arch=all
+- pkg:deb/debian/libdist-zilla-plugin-test-perl-critic-perl@3.001-3?arch=all
+- pkg:deb/debian/libdist-zilla-plugin-test-perl-critic-perl@3.004-1?arch=all
+- pkg:deb/debian/libdist-zilla-plugin-test-perl-critic-perl@3.005-1?arch=all

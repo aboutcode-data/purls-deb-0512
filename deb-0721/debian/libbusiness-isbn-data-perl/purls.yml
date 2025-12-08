@@ -1,0 +1,5 @@
+- pkg:deb/debian/libbusiness-isbn-data-perl@20210112.001-1?arch=all
+- pkg:deb/debian/libbusiness-isbn-data-perl@20210112.006-2?arch=all
+- pkg:deb/debian/libbusiness-isbn-data-perl@20250418.001-1?arch=all
+- pkg:deb/debian/libbusiness-isbn-data-perl@20251101.001-1?arch=all
+- pkg:deb/debian/libbusiness-isbn-data-perl@20251205.001-1?arch=all

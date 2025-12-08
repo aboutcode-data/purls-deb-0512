@@ -1,0 +1,2 @@
+- pkg:deb/debian/libdex-doc@0.10.0-1?arch=all
+- pkg:deb/debian/libdex-doc@1.0.0-1?arch=all

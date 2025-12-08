@@ -1,0 +1,4 @@
+- pkg:deb/debian/kodi-repository-kodi@19.1%2Bdfsg2-2%2Bdeb11u1?arch=all
+- pkg:deb/debian/kodi-repository-kodi@20.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/kodi-repository-kodi@21.2%2Bdfsg-4?arch=all
+- pkg:deb/debian/kodi-repository-kodi@21.3%2Bdfsg-1?arch=all

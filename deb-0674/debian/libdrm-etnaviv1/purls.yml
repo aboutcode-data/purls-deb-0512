@@ -1,0 +1,10 @@
+- pkg:deb/debian/libdrm-etnaviv1@2.4.104-1?arch=arm64
+- pkg:deb/debian/libdrm-etnaviv1@2.4.104-1?arch=armhf
+- pkg:deb/debian/libdrm-etnaviv1@2.4.114-1%2Bb1?arch=arm64
+- pkg:deb/debian/libdrm-etnaviv1@2.4.114-1%2Bb1?arch=armhf
+- pkg:deb/debian/libdrm-etnaviv1@2.4.123-1~bpo12%2B1?arch=arm64
+- pkg:deb/debian/libdrm-etnaviv1@2.4.123-1~bpo12%2B1?arch=armhf
+- pkg:deb/debian/libdrm-etnaviv1@2.4.124-2?arch=arm64
+- pkg:deb/debian/libdrm-etnaviv1@2.4.124-2?arch=armhf
+- pkg:deb/debian/libdrm-etnaviv1@2.4.129-1?arch=arm64
+- pkg:deb/debian/libdrm-etnaviv1@2.4.129-1?arch=armhf

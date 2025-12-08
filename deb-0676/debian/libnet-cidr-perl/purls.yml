@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnet-cidr-perl@0.20-1?arch=all
+- pkg:deb/debian/libnet-cidr-perl@0.21-2?arch=all
+- pkg:deb/debian/libnet-cidr-perl@0.25-1?arch=all
+- pkg:deb/debian/libnet-cidr-perl@0.27-1?arch=all

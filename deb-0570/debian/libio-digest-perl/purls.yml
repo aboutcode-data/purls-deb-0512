@@ -1,0 +1,3 @@
+- pkg:deb/debian/libio-digest-perl@0.11-1.1?arch=all
+- pkg:deb/debian/libio-digest-perl@0.11-4?arch=all
+- pkg:deb/debian/libio-digest-perl@0.11-5?arch=all

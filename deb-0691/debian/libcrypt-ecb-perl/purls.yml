@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcrypt-ecb-perl@2.22-1?arch=all
+- pkg:deb/debian/libcrypt-ecb-perl@2.23-1?arch=all

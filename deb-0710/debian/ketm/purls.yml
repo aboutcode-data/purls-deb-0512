@@ -1,0 +1,17 @@
+- pkg:deb/debian/ketm@0.0.6-25?arch=amd64
+- pkg:deb/debian/ketm@0.0.6-25?arch=arm64
+- pkg:deb/debian/ketm@0.0.6-25?arch=armel
+- pkg:deb/debian/ketm@0.0.6-25?arch=armhf
+- pkg:deb/debian/ketm@0.0.6-25?arch=i386
+- pkg:deb/debian/ketm@0.0.6-25?arch=mips64el
+- pkg:deb/debian/ketm@0.0.6-25?arch=mipsel
+- pkg:deb/debian/ketm@0.0.6-25?arch=ppc64el
+- pkg:deb/debian/ketm@0.0.6-25?arch=s390x
+- pkg:deb/debian/ketm@0.0.6-27?arch=amd64
+- pkg:deb/debian/ketm@0.0.6-27?arch=arm64
+- pkg:deb/debian/ketm@0.0.6-27?arch=armel
+- pkg:deb/debian/ketm@0.0.6-27?arch=armhf
+- pkg:deb/debian/ketm@0.0.6-27?arch=i386
+- pkg:deb/debian/ketm@0.0.6-27?arch=ppc64el
+- pkg:deb/debian/ketm@0.0.6-27?arch=riscv64
+- pkg:deb/debian/ketm@0.0.6-27?arch=s390x

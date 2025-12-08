@@ -1,0 +1,4 @@
+- pkg:deb/debian/libodsstream-doc@0.7.11-1?arch=all
+- pkg:deb/debian/libodsstream-doc@0.9.1-2?arch=all
+- pkg:deb/debian/libodsstream-doc@0.9.15-1?arch=all
+- pkg:deb/debian/libodsstream-doc@0.9.7-1?arch=all

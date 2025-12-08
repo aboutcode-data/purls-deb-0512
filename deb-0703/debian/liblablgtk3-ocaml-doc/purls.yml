@@ -1,0 +1,3 @@
+- pkg:deb/debian/liblablgtk3-ocaml-doc@3.1.1%2Bofficial-1?arch=all
+- pkg:deb/debian/liblablgtk3-ocaml-doc@3.1.3-1?arch=all
+- pkg:deb/debian/liblablgtk3-ocaml-doc@3.1.5-1?arch=all

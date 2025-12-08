@@ -1,0 +1,3 @@
+- pkg:deb/debian/libgnt-doc@2.14.1-1?arch=all
+- pkg:deb/debian/libgnt-doc@2.14.3-2?arch=all
+- pkg:deb/debian/libgnt-doc@2.14.4-1.2?arch=all

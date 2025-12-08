@@ -1,0 +1,3 @@
+- pkg:deb/debian/lxqt-core@30?arch=all
+- pkg:deb/debian/lxqt-core@31?arch=all
+- pkg:deb/debian/lxqt-core@33.2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/lincity-ng-data@2.12.0-2?arch=all
+- pkg:deb/debian/lincity-ng-data@2.9~git20150314-4?arch=all
+- pkg:deb/debian/lincity-ng-data@2.9~git20150314-5?arch=all

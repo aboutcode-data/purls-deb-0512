@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcpuid17@0.7.1%2Brepack1-0.2?arch=amd64
+- pkg:deb/debian/libcpuid17@0.7.1%2Brepack1-0.2?arch=i386

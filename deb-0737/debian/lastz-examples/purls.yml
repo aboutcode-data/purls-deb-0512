@@ -1,0 +1,3 @@
+- pkg:deb/debian/lastz-examples@1.04.03-4?arch=all
+- pkg:deb/debian/lastz-examples@1.04.22-2?arch=all
+- pkg:deb/debian/lastz-examples@1.04.52-1?arch=all

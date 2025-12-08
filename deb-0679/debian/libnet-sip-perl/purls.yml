@@ -1,0 +1,5 @@
+- pkg:deb/debian/libnet-sip-perl@0.828-1?arch=all
+- pkg:deb/debian/libnet-sip-perl@0.835-1?arch=all
+- pkg:deb/debian/libnet-sip-perl@0.838-1?arch=all
+- pkg:deb/debian/libnet-sip-perl@0.839-1?arch=all
+- pkg:deb/debian/libnet-sip-perl@0.840-1?arch=all

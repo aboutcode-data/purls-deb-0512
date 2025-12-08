@@ -1,0 +1,2 @@
+- pkg:deb/debian/libauthen-simple-kerberos-perl@0.1-5.1?arch=all
+- pkg:deb/debian/libauthen-simple-kerberos-perl@0.1-6?arch=all

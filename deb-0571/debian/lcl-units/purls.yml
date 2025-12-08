@@ -1,0 +1,15 @@
+- pkg:deb/debian/lcl-units@2.0.10%2Bdfsg-4?arch=all
+- pkg:deb/debian/lcl-units@2.2.6%2Bdfsg2-2?arch=all
+- pkg:deb/debian/lcl-units@3.0%2Bdfsg1-8~bpo12%2B1?arch=mipsel
+- pkg:deb/debian/lcl-units@3.6%2Bdfsg1-4~bpo12%2B1?arch=amd64
+- pkg:deb/debian/lcl-units@3.6%2Bdfsg1-4~bpo12%2B1?arch=arm64
+- pkg:deb/debian/lcl-units@3.6%2Bdfsg1-4~bpo12%2B1?arch=armel
+- pkg:deb/debian/lcl-units@3.6%2Bdfsg1-4~bpo12%2B1?arch=armhf
+- pkg:deb/debian/lcl-units@3.6%2Bdfsg1-4~bpo12%2B1?arch=i386
+- pkg:deb/debian/lcl-units@3.6%2Bdfsg1-4~bpo12%2B1?arch=ppc64el
+- pkg:deb/debian/lcl-units@4.0%2Bdfsg-3%2Bb1?arch=amd64
+- pkg:deb/debian/lcl-units@4.0%2Bdfsg-3%2Bb1?arch=arm64
+- pkg:deb/debian/lcl-units@4.0%2Bdfsg-3%2Bb1?arch=armel
+- pkg:deb/debian/lcl-units@4.0%2Bdfsg-3%2Bb1?arch=armhf
+- pkg:deb/debian/lcl-units@4.0%2Bdfsg-3%2Bb1?arch=i386
+- pkg:deb/debian/lcl-units@4.0%2Bdfsg-3%2Bb1?arch=ppc64el

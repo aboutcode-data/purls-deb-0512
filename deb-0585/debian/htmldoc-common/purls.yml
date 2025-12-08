@@ -1,0 +1,4 @@
+- pkg:deb/debian/htmldoc-common@1.9.11-4%2Bdeb11u3?arch=all
+- pkg:deb/debian/htmldoc-common@1.9.16-1?arch=all
+- pkg:deb/debian/htmldoc-common@1.9.20-1?arch=all
+- pkg:deb/debian/htmldoc-common@1.9.21-1?arch=all

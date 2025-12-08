@@ -1,0 +1,4 @@
+- pkg:deb/debian/liece@2.0%2B0.20030527cvs-12?arch=all
+- pkg:deb/debian/liece@2.0%2B0.20030527cvs-13?arch=all
+- pkg:deb/debian/liece@2.0%2B0.20030527cvs-15?arch=all
+- pkg:deb/debian/liece@2.0%2B0.20030527cvs-16?arch=all

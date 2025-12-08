@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmojolicious-plugin-cgi-perl@0.40-1?arch=all
+- pkg:deb/debian/libmojolicious-plugin-cgi-perl@0.40-2?arch=all

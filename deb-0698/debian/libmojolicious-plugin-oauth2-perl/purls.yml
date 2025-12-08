@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmojolicious-plugin-oauth2-perl@1.59-2?arch=all
+- pkg:deb/debian/libmojolicious-plugin-oauth2-perl@2.02-1?arch=all

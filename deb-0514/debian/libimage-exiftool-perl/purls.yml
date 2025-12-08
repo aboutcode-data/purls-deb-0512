@@ -1,0 +1,4 @@
+- pkg:deb/debian/libimage-exiftool-perl@12.16%2Bdfsg-2?arch=all
+- pkg:deb/debian/libimage-exiftool-perl@12.57%2Bdfsg-1?arch=all
+- pkg:deb/debian/libimage-exiftool-perl@13.25%2Bdfsg-1?arch=all
+- pkg:deb/debian/libimage-exiftool-perl@13.36%2Bdfsg-1?arch=all

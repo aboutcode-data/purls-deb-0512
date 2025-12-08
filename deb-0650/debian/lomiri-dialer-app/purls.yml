@@ -1,0 +1,9 @@
+- pkg:deb/debian/lomiri-dialer-app@2.0.0-4%2Bb1?arch=riscv64
+- pkg:deb/debian/lomiri-dialer-app@2.0.0-4%2Bb2?arch=riscv64
+- pkg:deb/debian/lomiri-dialer-app@2.0.0-4?arch=amd64
+- pkg:deb/debian/lomiri-dialer-app@2.0.0-4?arch=arm64
+- pkg:deb/debian/lomiri-dialer-app@2.0.0-4?arch=armel
+- pkg:deb/debian/lomiri-dialer-app@2.0.0-4?arch=armhf
+- pkg:deb/debian/lomiri-dialer-app@2.0.0-4?arch=i386
+- pkg:deb/debian/lomiri-dialer-app@2.0.0-4?arch=ppc64el
+- pkg:deb/debian/lomiri-dialer-app@2.0.0-4?arch=s390x

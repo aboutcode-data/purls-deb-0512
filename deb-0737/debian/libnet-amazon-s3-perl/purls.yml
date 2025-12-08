@@ -1,0 +1,4 @@
+- pkg:deb/debian/libnet-amazon-s3-perl@0.97-1?arch=all
+- pkg:deb/debian/libnet-amazon-s3-perl@0.991-1?arch=all
+- pkg:deb/debian/libnet-amazon-s3-perl@0.991-2?arch=all
+- pkg:deb/debian/libnet-amazon-s3-perl@0.992-1?arch=all

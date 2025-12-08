@@ -1,0 +1,2 @@
+- pkg:deb/debian/libclass-dbi-mysql-perl@1.00-4.1?arch=all
+- pkg:deb/debian/libclass-dbi-mysql-perl@1.00-5?arch=all

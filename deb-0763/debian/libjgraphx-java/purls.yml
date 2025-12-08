@@ -1,0 +1,4 @@
+- pkg:deb/debian/libjgraphx-java@2.1.0.7-2?arch=all
+- pkg:deb/debian/libjgraphx-java@2.1.0.7-3?arch=all
+- pkg:deb/debian/libjgraphx-java@2.1.0.7-5?arch=all
+- pkg:deb/debian/libjgraphx-java@2.1.0.7-6?arch=all

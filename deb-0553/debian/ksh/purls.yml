@@ -1,0 +1,6 @@
+- pkg:deb/debian/ksh@2020.0.0%2Breally93u%2B20120801-9?arch=amd64
+- pkg:deb/debian/ksh@2020.0.0%2Breally93u%2B20120801-9?arch=arm64
+- pkg:deb/debian/ksh@2020.0.0%2Breally93u%2B20120801-9?arch=armhf
+- pkg:deb/debian/ksh@2020.0.0%2Breally93u%2B20120801-9?arch=i386
+- pkg:deb/debian/ksh@20230128?arch=all
+- pkg:deb/debian/ksh@20240113-1.0.10-2?arch=all

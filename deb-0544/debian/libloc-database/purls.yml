@@ -1,0 +1,2 @@
+- pkg:deb/debian/libloc-database@0~20221029-1?arch=all
+- pkg:deb/debian/libloc-database@0~20250326~0345-1?arch=all

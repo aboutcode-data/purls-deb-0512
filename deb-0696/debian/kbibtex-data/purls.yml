@@ -1,0 +1,3 @@
+- pkg:deb/debian/kbibtex-data@0.10.0-4?arch=all
+- pkg:deb/debian/kbibtex-data@0.9.90-1.1?arch=all
+- pkg:deb/debian/kbibtex-data@0.9.90-1?arch=all

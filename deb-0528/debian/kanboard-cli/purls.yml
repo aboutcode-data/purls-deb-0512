@@ -1,0 +1,2 @@
+- pkg:deb/debian/kanboard-cli@0.0.2-1.1?arch=all
+- pkg:deb/debian/kanboard-cli@0.0.2-3?arch=all

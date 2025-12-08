@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgpg-error-mingw-w64-dev@1.38-2?arch=all
+- pkg:deb/debian/libgpg-error-mingw-w64-dev@1.46-1?arch=all
+- pkg:deb/debian/libgpg-error-mingw-w64-dev@1.51-4?arch=all
+- pkg:deb/debian/libgpg-error-mingw-w64-dev@1.56-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/libanydata-perl@0.12-1.1?arch=all
+- pkg:deb/debian/libanydata-perl@0.12-2?arch=all
+- pkg:deb/debian/libanydata-perl@0.12-3?arch=all
+- pkg:deb/debian/libanydata-perl@0.12-4?arch=all

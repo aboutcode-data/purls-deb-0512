@@ -1,0 +1,4 @@
+- pkg:deb/debian/libopkele-dev@2.0.4%2Bgit20140305.9651b55-4?arch=amd64
+- pkg:deb/debian/libopkele-dev@2.0.4%2Bgit20140305.9651b55-4?arch=arm64
+- pkg:deb/debian/libopkele-dev@2.0.4%2Bgit20140305.9651b55-4?arch=armhf
+- pkg:deb/debian/libopkele-dev@2.0.4%2Bgit20140305.9651b55-4?arch=i386

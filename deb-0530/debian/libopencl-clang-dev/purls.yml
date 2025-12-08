@@ -1,0 +1,2 @@
+- pkg:deb/debian/libopencl-clang-dev@11.0.0-1?arch=amd64
+- pkg:deb/debian/libopencl-clang-dev@11.0.0-1?arch=i386

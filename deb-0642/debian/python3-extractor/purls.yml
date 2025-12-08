@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-extractor@0.6-13?arch=all
+- pkg:deb/debian/python3-extractor@0.6-16?arch=all

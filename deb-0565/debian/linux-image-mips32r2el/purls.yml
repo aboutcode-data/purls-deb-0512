@@ -1,0 +1,2 @@
+- pkg:deb/debian/linux-image-mips32r2el@6.1.148-1?arch=mipsel
+- pkg:deb/debian/linux-image-mips32r2el@6.1.158-1?arch=mipsel

@@ -1,0 +1,2 @@
+- pkg:deb/debian/khronos-api@4.6%2Bgit20180514-2?arch=all
+- pkg:deb/debian/khronos-api@4.6%2Bgit20220505-1?arch=all

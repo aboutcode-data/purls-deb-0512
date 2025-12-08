@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblbfgs0-dbg@1.10-6%2Bb11?arch=amd64
+- pkg:deb/debian/liblbfgs0-dbg@1.10-6%2Bb11?arch=arm64
+- pkg:deb/debian/liblbfgs0-dbg@1.10-6%2Bb11?arch=armhf
+- pkg:deb/debian/liblbfgs0-dbg@1.10-6%2Bb11?arch=i386

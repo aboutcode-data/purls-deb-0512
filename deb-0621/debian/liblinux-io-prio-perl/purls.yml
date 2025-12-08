@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblinux-io-prio-perl@0.03-2.1?arch=all
+- pkg:deb/debian/liblinux-io-prio-perl@0.03-4?arch=all
+- pkg:deb/debian/liblinux-io-prio-perl@0.03-5?arch=all
+- pkg:deb/debian/liblinux-io-prio-perl@0.03-6?arch=all

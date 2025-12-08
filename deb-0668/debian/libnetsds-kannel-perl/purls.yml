@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnetsds-kannel-perl@1.300-6.1?arch=all
+- pkg:deb/debian/libnetsds-kannel-perl@1.300-7?arch=all

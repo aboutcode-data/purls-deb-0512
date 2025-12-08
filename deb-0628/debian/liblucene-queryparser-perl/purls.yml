@@ -1,0 +1,2 @@
+- pkg:deb/debian/liblucene-queryparser-perl@1.04-3?arch=all
+- pkg:deb/debian/liblucene-queryparser-perl@1.04-6?arch=all

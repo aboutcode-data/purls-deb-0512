@@ -1,0 +1,15 @@
+- pkg:deb/debian/idba@1.1.3-7?arch=amd64
+- pkg:deb/debian/idba@1.1.3-7?arch=arm64
+- pkg:deb/debian/idba@1.1.3-7?arch=armhf
+- pkg:deb/debian/idba@1.1.3-7?arch=i386
+- pkg:deb/debian/idba@1.1.3-8%2Bb1?arch=arm64
+- pkg:deb/debian/idba@1.1.3-8%2Bb1?arch=riscv64
+- pkg:deb/debian/idba@1.1.3-8?arch=amd64
+- pkg:deb/debian/idba@1.1.3-8?arch=arm64
+- pkg:deb/debian/idba@1.1.3-8?arch=armel
+- pkg:deb/debian/idba@1.1.3-8?arch=armhf
+- pkg:deb/debian/idba@1.1.3-8?arch=i386
+- pkg:deb/debian/idba@1.1.3-8?arch=mips64el
+- pkg:deb/debian/idba@1.1.3-8?arch=mipsel
+- pkg:deb/debian/idba@1.1.3-8?arch=ppc64el
+- pkg:deb/debian/idba@1.1.3-8?arch=s390x

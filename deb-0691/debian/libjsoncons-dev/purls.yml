@@ -1,0 +1,3 @@
+- pkg:deb/debian/libjsoncons-dev@1.3.2-1?arch=all
+- pkg:deb/debian/libjsoncons-dev@1.4.0-1?arch=all
+- pkg:deb/debian/libjsoncons-dev@1.4.3-2?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmodem-vgetty-perl@0.03-2.1?arch=all
+- pkg:deb/debian/libmodem-vgetty-perl@0.03-4?arch=all
+- pkg:deb/debian/libmodem-vgetty-perl@0.03-5?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/jets3t@0.8.1%2Bdfsg-4?arch=all
+- pkg:deb/debian/jets3t@0.8.1%2Bdfsg-5?arch=all

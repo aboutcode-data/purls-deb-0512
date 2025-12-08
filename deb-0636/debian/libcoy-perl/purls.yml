@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcoy-perl@0.06-10?arch=all
+- pkg:deb/debian/libcoy-perl@0.06-9?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjansson-doc@2.13.1-1.1?arch=all
+- pkg:deb/debian/libjansson-doc@2.14-2?arch=all

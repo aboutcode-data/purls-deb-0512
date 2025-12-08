@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmoosex-app-perl@1.41-2?arch=all
+- pkg:deb/debian/libmoosex-app-perl@1.42-2?arch=all
+- pkg:deb/debian/libmoosex-app-perl@1.43-1?arch=all

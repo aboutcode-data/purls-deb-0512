@@ -1,0 +1,16 @@
+- pkg:deb/debian/id-utils@4.6.28-20200521ss15dab%2Bb1?arch=amd64
+- pkg:deb/debian/id-utils@4.6.28-20200521ss15dab?arch=arm64
+- pkg:deb/debian/id-utils@4.6.28-20200521ss15dab?arch=armel
+- pkg:deb/debian/id-utils@4.6.28-20200521ss15dab?arch=armhf
+- pkg:deb/debian/id-utils@4.6.28-20200521ss15dab?arch=i386
+- pkg:deb/debian/id-utils@4.6.28-20200521ss15dab?arch=mips64el
+- pkg:deb/debian/id-utils@4.6.28-20200521ss15dab?arch=mipsel
+- pkg:deb/debian/id-utils@4.6.28-20200521ss15dab?arch=ppc64el
+- pkg:deb/debian/id-utils@4.6.28-20200521ss15dab?arch=s390x
+- pkg:deb/debian/id-utils@4.6.28-20250503ss15da?arch=amd64
+- pkg:deb/debian/id-utils@4.6.28-20250503ss15da?arch=arm64
+- pkg:deb/debian/id-utils@4.6.28-20250503ss15da?arch=armhf
+- pkg:deb/debian/id-utils@4.6.28-20250503ss15da?arch=i386
+- pkg:deb/debian/id-utils@4.6.28-20250503ss15da?arch=ppc64el
+- pkg:deb/debian/id-utils@4.6.28-20250503ss15da?arch=riscv64
+- pkg:deb/debian/id-utils@4.6.28-20250503ss15da?arch=s390x

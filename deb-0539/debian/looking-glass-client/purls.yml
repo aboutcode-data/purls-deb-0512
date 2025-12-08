@@ -1,0 +1,2 @@
+- pkg:deb/debian/looking-glass-client@0%2Bb1-5?arch=amd64
+- pkg:deb/debian/looking-glass-client@0%2Bb7%2Bds1-1?arch=amd64

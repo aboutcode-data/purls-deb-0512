@@ -1,0 +1,3 @@
+- pkg:deb/debian/libhttp-dav-perl@0.49-2?arch=all
+- pkg:deb/debian/libhttp-dav-perl@0.49-3?arch=all
+- pkg:deb/debian/libhttp-dav-perl@0.50-1?arch=all

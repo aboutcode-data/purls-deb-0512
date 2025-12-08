@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjs-jquery-hotkeys@0.2.0-1?arch=all
+- pkg:deb/debian/libjs-jquery-hotkeys@0~20130707%2Bgit2d51e3a9%2Bdfsg-2.1?arch=all

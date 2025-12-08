@@ -1,0 +1,2 @@
+- pkg:deb/debian/libipc-pubsub-perl@0.29-2?arch=all
+- pkg:deb/debian/libipc-pubsub-perl@0.29-4?arch=all

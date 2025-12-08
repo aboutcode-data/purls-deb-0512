@@ -1,0 +1,3 @@
+- pkg:deb/debian/kmer-examples@0~20150903%2Br2013-10?arch=all
+- pkg:deb/debian/kmer-examples@0~20150903%2Br2013-8?arch=all
+- pkg:deb/debian/kmer-examples@0~20150903%2Br2013-9?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-void-doc@0.7.3-2?arch=all
+- pkg:deb/debian/libghc-void-doc@0.7.3-3?arch=all
+- pkg:deb/debian/libghc-void-doc@0.7.3-5?arch=all

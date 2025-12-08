@@ -1,0 +1,2 @@
+- pkg:deb/debian/lua-mmdb@0.1-1.1?arch=all
+- pkg:deb/debian/lua-mmdb@0.2-2?arch=all

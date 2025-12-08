@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnet-ip-minimal-perl@0.06-1.1?arch=all
+- pkg:deb/debian/libnet-ip-minimal-perl@0.06-2?arch=all

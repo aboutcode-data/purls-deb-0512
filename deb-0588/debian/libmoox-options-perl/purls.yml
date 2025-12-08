@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmoox-options-perl@4.103-3?arch=all
+- pkg:deb/debian/libmoox-options-perl@4.103-4?arch=all
+- pkg:deb/debian/libmoox-options-perl@4.103-5?arch=all

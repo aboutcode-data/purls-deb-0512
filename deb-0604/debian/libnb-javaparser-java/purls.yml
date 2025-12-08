@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnb-javaparser-java@9%2B2018-1?arch=all
+- pkg:deb/debian/libnb-javaparser-java@9%2B2018-2?arch=all

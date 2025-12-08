@@ -1,0 +1,3 @@
+- pkg:deb/debian/heimdal-docs@7.7.0%2Bdfsg-2%2Bdeb11u3?arch=all
+- pkg:deb/debian/heimdal-docs@7.8.git20221117.28daf24%2Bdfsg-2?arch=all
+- pkg:deb/debian/heimdal-docs@7.8.git20221117.28daf24%2Bdfsg-9?arch=all

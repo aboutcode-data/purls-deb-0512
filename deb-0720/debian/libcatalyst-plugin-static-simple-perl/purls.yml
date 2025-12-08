@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcatalyst-plugin-static-simple-perl@0.36-1?arch=all
+- pkg:deb/debian/libcatalyst-plugin-static-simple-perl@0.37-1?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/python3-libhfst@3.15.1-2%2Bb5?arch=amd64
+- pkg:deb/debian/python3-libhfst@3.15.1-2%2Bb5?arch=arm64
+- pkg:deb/debian/python3-libhfst@3.15.1-2%2Bb5?arch=armhf
+- pkg:deb/debian/python3-libhfst@3.15.1-2%2Bb5?arch=i386
+- pkg:deb/debian/python3-libhfst@3.16.0-5?arch=all
+- pkg:deb/debian/python3-libhfst@3.16.2-1?arch=all

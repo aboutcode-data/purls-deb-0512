@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjs-qunit@1.23.1~dfsg-1?arch=all
+- pkg:deb/debian/libjs-qunit@1.23.1~dfsg-3.2?arch=all

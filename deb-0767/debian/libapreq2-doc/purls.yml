@@ -1,0 +1,4 @@
+- pkg:deb/debian/libapreq2-doc@2.13-7%2Bdeb11u1?arch=all
+- pkg:deb/debian/libapreq2-doc@2.17-3~bpo12%2B1?arch=all
+- pkg:deb/debian/libapreq2-doc@2.17-7?arch=all
+- pkg:deb/debian/libapreq2-doc@2.17-8?arch=all

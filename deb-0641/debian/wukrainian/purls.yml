@@ -1,0 +1,2 @@
+- pkg:deb/debian/wukrainian@1.7.1-2?arch=all
+- pkg:deb/debian/wukrainian@1.8.0%2Bdfsg-1?arch=all

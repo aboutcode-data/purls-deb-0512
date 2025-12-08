@@ -1,0 +1,4 @@
+- pkg:deb/debian/i7z@0.27.2%2Bgit2013.10.12-g5023138-7?arch=amd64
+- pkg:deb/debian/i7z@0.27.2%2Bgit2013.10.12-g5023138-7?arch=i386
+- pkg:deb/debian/i7z@0.27.2%2Bgit2013.10.12-g5023138-8?arch=amd64
+- pkg:deb/debian/i7z@0.27.2%2Bgit2013.10.12-g5023138-8?arch=i386

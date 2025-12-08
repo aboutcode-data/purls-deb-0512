@@ -1,0 +1,3 @@
+- pkg:deb/debian/libcatmandu-perl@1.2012-2?arch=all
+- pkg:deb/debian/libcatmandu-perl@1.2020-1?arch=all
+- pkg:deb/debian/libcatmandu-perl@1.2024-1?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/linklint@2.3.5-5.2?arch=all
+- pkg:deb/debian/linklint@2.3.5-5.3?arch=all
+- pkg:deb/debian/linklint@2.3.5-8?arch=all

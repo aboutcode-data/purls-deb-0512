@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-jquery-ui@1.12.1%2Bdfsg-8%2Bdeb11u2?arch=all
+- pkg:deb/debian/node-jquery-ui@1.13.2%2Bdfsg-1?arch=all

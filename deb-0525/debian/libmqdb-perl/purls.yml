@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmqdb-perl@0.954-2?arch=all
+- pkg:deb/debian/libmqdb-perl@0.954-3?arch=all

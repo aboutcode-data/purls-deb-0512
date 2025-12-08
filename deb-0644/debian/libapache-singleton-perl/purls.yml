@@ -1,0 +1,2 @@
+- pkg:deb/debian/libapache-singleton-perl@0.17-1?arch=all
+- pkg:deb/debian/libapache-singleton-perl@0.17-2?arch=all

@@ -1,0 +1,7 @@
+- pkg:deb/debian/libpolly-dev@21.1.6-68?arch=amd64
+- pkg:deb/debian/libpolly-dev@21.1.6-68?arch=arm64
+- pkg:deb/debian/libpolly-dev@21.1.6-68?arch=armhf
+- pkg:deb/debian/libpolly-dev@21.1.6-68?arch=i386
+- pkg:deb/debian/libpolly-dev@21.1.6-68?arch=ppc64el
+- pkg:deb/debian/libpolly-dev@21.1.6-68?arch=riscv64
+- pkg:deb/debian/libpolly-dev@21.1.6-68?arch=s390x

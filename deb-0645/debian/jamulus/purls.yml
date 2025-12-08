@@ -1,0 +1,16 @@
+- pkg:deb/debian/jamulus@3.6.2%2Bdfsg1-3?arch=amd64
+- pkg:deb/debian/jamulus@3.6.2%2Bdfsg1-3?arch=arm64
+- pkg:deb/debian/jamulus@3.6.2%2Bdfsg1-3?arch=armhf
+- pkg:deb/debian/jamulus@3.6.2%2Bdfsg1-3?arch=i386
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-1%2Bb1?arch=amd64
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-1%2Bb1?arch=armhf
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-1%2Bb1?arch=i386
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-1%2Bb2?arch=arm64
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-1?arch=armhf
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-1?arch=i386
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-2?arch=amd64
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-2?arch=arm64
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-2?arch=armhf
+- pkg:deb/debian/jamulus@3.9.1%2Bdfsg-2?arch=i386

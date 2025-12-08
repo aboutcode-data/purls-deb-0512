@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgweather-4-common@4.2.0-2?arch=all
+- pkg:deb/debian/libgweather-4-common@4.4.4-1?arch=all
+- pkg:deb/debian/libgweather-4-common@4.4.4-3?arch=all
+- pkg:deb/debian/libgweather-4-common@4.4.4-4?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-transformers-base-doc@0.4.5.2-3?arch=all
+- pkg:deb/debian/libghc-transformers-base-doc@0.4.6-1?arch=all
+- pkg:deb/debian/libghc-transformers-base-doc@0.4.6-3?arch=all

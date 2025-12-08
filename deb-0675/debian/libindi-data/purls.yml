@@ -1,0 +1,5 @@
+- pkg:deb/debian/libindi-data@1.8.8%2Bdfsg-1?arch=all
+- pkg:deb/debian/libindi-data@1.9.9%2Bdfsg-2?arch=all
+- pkg:deb/debian/libindi-data@1.9.9%2Bdfsg-3?arch=all
+- pkg:deb/debian/libindi-data@1.9.9%2Bdfsg-5?arch=all
+- pkg:deb/debian/libindi-data@2.1.6%2Bdfsg-1?arch=all

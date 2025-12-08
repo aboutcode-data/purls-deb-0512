@@ -1,0 +1,5 @@
+- pkg:deb/debian/kgb-bot@1.58-1.1?arch=all
+- pkg:deb/debian/kgb-bot@1.58-1?arch=all
+- pkg:deb/debian/kgb-bot@1.61-1?arch=all
+- pkg:deb/debian/kgb-bot@1.62-2?arch=all
+- pkg:deb/debian/kgb-bot@1.62-2~bpo13%2B1?arch=all

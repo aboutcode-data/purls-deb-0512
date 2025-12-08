@@ -1,0 +1,4 @@
+- pkg:deb/debian/linux-source-6.12@6.12.43-1?arch=all
+- pkg:deb/debian/linux-source-6.12@6.12.43-1~bpo12%2B1?arch=all
+- pkg:deb/debian/linux-source-6.12@6.12.57-1?arch=all
+- pkg:deb/debian/linux-source-6.12@6.12.57-1~bpo12%2B1?arch=all

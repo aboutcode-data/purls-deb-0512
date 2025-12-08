@@ -1,0 +1,2 @@
+- pkg:deb/debian/libnet-smtpauth-perl@0.08-4.1?arch=all
+- pkg:deb/debian/libnet-smtpauth-perl@0.08-6?arch=all

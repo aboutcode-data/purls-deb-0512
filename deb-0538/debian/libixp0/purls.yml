@@ -1,0 +1,4 @@
+- pkg:deb/debian/libixp0@0.6~20121202%2Bhg148-5?arch=amd64
+- pkg:deb/debian/libixp0@0.6~20121202%2Bhg148-5?arch=arm64
+- pkg:deb/debian/libixp0@0.6~20121202%2Bhg148-5?arch=armhf
+- pkg:deb/debian/libixp0@0.6~20121202%2Bhg148-5?arch=i386

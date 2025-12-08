@@ -1,0 +1,4 @@
+- pkg:deb/debian/libminc2-5.2.0@2.4.03-3?arch=amd64
+- pkg:deb/debian/libminc2-5.2.0@2.4.03-3?arch=arm64
+- pkg:deb/debian/libminc2-5.2.0@2.4.03-3?arch=armhf
+- pkg:deb/debian/libminc2-5.2.0@2.4.03-3?arch=i386

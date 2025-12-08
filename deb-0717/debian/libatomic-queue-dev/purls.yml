@@ -1,0 +1,10 @@
+- pkg:deb/debian/libatomic-queue-dev@0.0%2Bgit20201108.d9d66b6-2?arch=amd64
+- pkg:deb/debian/libatomic-queue-dev@0.0%2Bgit20220518.83774a2-1?arch=amd64
+- pkg:deb/debian/libatomic-queue-dev@1.6.5-2?arch=amd64
+- pkg:deb/debian/libatomic-queue-dev@1.7.1-1?arch=amd64
+- pkg:deb/debian/libatomic-queue-dev@1.7.1-1?arch=arm64
+- pkg:deb/debian/libatomic-queue-dev@1.7.1-1?arch=armhf
+- pkg:deb/debian/libatomic-queue-dev@1.7.1-1?arch=i386
+- pkg:deb/debian/libatomic-queue-dev@1.7.1-1?arch=ppc64el
+- pkg:deb/debian/libatomic-queue-dev@1.7.1-1?arch=riscv64
+- pkg:deb/debian/libatomic-queue-dev@1.7.1-1?arch=s390x

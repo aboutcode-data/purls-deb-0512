@@ -1,0 +1,2 @@
+- pkg:deb/debian/hp-search-mac@0.1.4%2Bnmu1?arch=all
+- pkg:deb/debian/hp-search-mac@0.1.5.2?arch=all

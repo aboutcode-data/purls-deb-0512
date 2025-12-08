@@ -1,0 +1,2 @@
+- pkg:deb/debian/libjsch-java@0.1.55-1?arch=all
+- pkg:deb/debian/libjsch-java@0.2.19-1?arch=all

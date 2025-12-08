@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmail-authenticationresults-perl@2.20210112-1?arch=all
+- pkg:deb/debian/libmail-authenticationresults-perl@2.20230112-1?arch=all
+- pkg:deb/debian/libmail-authenticationresults-perl@2.20231031-1?arch=all
+- pkg:deb/debian/libmail-authenticationresults-perl@2.20250709-1?arch=all

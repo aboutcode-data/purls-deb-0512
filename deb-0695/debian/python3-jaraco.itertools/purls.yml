@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-jaraco.itertools@2.0.1-4?arch=all
+- pkg:deb/debian/python3-jaraco.itertools@2.0.1-5?arch=all
+- pkg:deb/debian/python3-jaraco.itertools@6.4.1-2?arch=all
+- pkg:deb/debian/python3-jaraco.itertools@6.4.3-1?arch=all

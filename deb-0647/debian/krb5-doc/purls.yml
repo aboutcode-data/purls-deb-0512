@@ -1,0 +1,4 @@
+- pkg:deb/debian/krb5-doc@1.18.3-6%2Bdeb11u5?arch=all
+- pkg:deb/debian/krb5-doc@1.20.1-2%2Bdeb12u4?arch=all
+- pkg:deb/debian/krb5-doc@1.21.3-5?arch=all
+- pkg:deb/debian/krb5-doc@1.22.1-2?arch=all

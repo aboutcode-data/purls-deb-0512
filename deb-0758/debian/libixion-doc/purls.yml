@@ -1,0 +1,5 @@
+- pkg:deb/debian/libixion-doc@0.16.1-2?arch=all
+- pkg:deb/debian/libixion-doc@0.17.0-3?arch=all
+- pkg:deb/debian/libixion-doc@0.19.0-7?arch=all
+- pkg:deb/debian/libixion-doc@0.20.0-5?arch=all
+- pkg:deb/debian/libixion-doc@0.20.0-5~bpo13%2B1?arch=all

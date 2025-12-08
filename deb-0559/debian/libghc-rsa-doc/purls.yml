@@ -1,0 +1,3 @@
+- pkg:deb/debian/libghc-rsa-doc@2.4.1-1?arch=all
+- pkg:deb/debian/libghc-rsa-doc@2.4.1-2?arch=all
+- pkg:deb/debian/libghc-rsa-doc@2.4.1-4?arch=all

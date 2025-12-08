@@ -1,0 +1,2 @@
+- pkg:deb/debian/libmail-imapclient-perl@3.42-1?arch=all
+- pkg:deb/debian/libmail-imapclient-perl@3.43-1?arch=all

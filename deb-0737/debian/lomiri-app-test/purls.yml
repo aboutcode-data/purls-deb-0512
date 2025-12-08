@@ -1,0 +1,4 @@
+- pkg:deb/debian/lomiri-app-test@0.0.90-7?arch=amd64
+- pkg:deb/debian/lomiri-app-test@0.0.90-7?arch=arm64
+- pkg:deb/debian/lomiri-app-test@0.0.90-7?arch=armhf
+- pkg:deb/debian/lomiri-app-test@0.0.90-7?arch=i386

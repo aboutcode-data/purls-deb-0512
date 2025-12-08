@@ -1,0 +1,4 @@
+- pkg:deb/debian/libmodern-perl-perl@1.20200211-1?arch=all
+- pkg:deb/debian/libmodern-perl-perl@1.20230106-1?arch=all
+- pkg:deb/debian/libmodern-perl-perl@1.20241001-1?arch=all
+- pkg:deb/debian/libmodern-perl-perl@1.20250607-1?arch=all

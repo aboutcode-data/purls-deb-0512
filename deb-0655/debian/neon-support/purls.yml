@@ -1,0 +1,4 @@
+- pkg:deb/debian/neon-support@15.1?arch=armhf
+- pkg:deb/debian/neon-support@27?arch=armel
+- pkg:deb/debian/neon-support@27?arch=armhf
+- pkg:deb/debian/neon-support@6?arch=armhf

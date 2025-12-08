@@ -1,0 +1,2 @@
+- pkg:deb/debian/liblwp-authen-oauth2-perl@0.18-1?arch=all
+- pkg:deb/debian/liblwp-authen-oauth2-perl@0.20-1?arch=all

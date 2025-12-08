@@ -1,0 +1,4 @@
+- pkg:deb/debian/kup-client@0.3.6-2.1?arch=all
+- pkg:deb/debian/kup-client@0.3.6-2?arch=all
+- pkg:deb/debian/kup-client@0.3.6-4?arch=all
+- pkg:deb/debian/kup-client@0.3.6-6?arch=all

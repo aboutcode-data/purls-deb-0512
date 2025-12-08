@@ -1,0 +1,13 @@
+- pkg:deb/debian/libdv4@1.0.0-13?arch=amd64
+- pkg:deb/debian/libdv4@1.0.0-13?arch=arm64
+- pkg:deb/debian/libdv4@1.0.0-13?arch=armhf
+- pkg:deb/debian/libdv4@1.0.0-13?arch=i386
+- pkg:deb/debian/libdv4@1.0.0-15?arch=amd64
+- pkg:deb/debian/libdv4@1.0.0-15?arch=arm64
+- pkg:deb/debian/libdv4@1.0.0-15?arch=armel
+- pkg:deb/debian/libdv4@1.0.0-15?arch=armhf
+- pkg:deb/debian/libdv4@1.0.0-15?arch=i386
+- pkg:deb/debian/libdv4@1.0.0-15?arch=mips64el
+- pkg:deb/debian/libdv4@1.0.0-15?arch=mipsel
+- pkg:deb/debian/libdv4@1.0.0-15?arch=ppc64el
+- pkg:deb/debian/libdv4@1.0.0-15?arch=s390x

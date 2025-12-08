@@ -1,0 +1,2 @@
+- pkg:deb/debian/lxsession-data@0.5.5-2?arch=all
+- pkg:deb/debian/lxsession-data@0.5.6-2?arch=all

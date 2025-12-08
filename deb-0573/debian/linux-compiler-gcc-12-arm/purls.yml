@@ -1,0 +1,4 @@
+- pkg:deb/debian/linux-compiler-gcc-12-arm@6.1.148-1?arch=armel
+- pkg:deb/debian/linux-compiler-gcc-12-arm@6.1.148-1?arch=armhf
+- pkg:deb/debian/linux-compiler-gcc-12-arm@6.1.158-1?arch=armel
+- pkg:deb/debian/linux-compiler-gcc-12-arm@6.1.158-1?arch=armhf

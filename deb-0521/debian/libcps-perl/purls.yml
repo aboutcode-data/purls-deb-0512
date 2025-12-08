@@ -1,0 +1,2 @@
+- pkg:deb/debian/libcps-perl@0.19-1?arch=all
+- pkg:deb/debian/libcps-perl@0.19-2?arch=all

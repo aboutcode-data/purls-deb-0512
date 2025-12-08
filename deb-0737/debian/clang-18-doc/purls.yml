@@ -1,0 +1,2 @@
+- pkg:deb/debian/clang-18-doc@18.1.8-18?arch=all
+- pkg:deb/debian/clang-18-doc@18.1.8-20?arch=all

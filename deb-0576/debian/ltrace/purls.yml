@@ -1,0 +1,11 @@
+- pkg:deb/debian/ltrace@0.7.3-6.1?arch=amd64
+- pkg:deb/debian/ltrace@0.7.3-6.1?arch=i386
+- pkg:deb/debian/ltrace@0.7.3-6.4?arch=amd64
+- pkg:deb/debian/ltrace@0.7.3-6.4?arch=i386
+- pkg:deb/debian/ltrace@0.7.3-6.4?arch=s390x
+- pkg:deb/debian/ltrace@0.7.91~git20230705.8eabf68-4%2Bb1?arch=amd64
+- pkg:deb/debian/ltrace@0.7.91~git20230705.8eabf68-4?arch=arm64
+- pkg:deb/debian/ltrace@0.7.91~git20230705.8eabf68-4?arch=i386
+- pkg:deb/debian/ltrace@0.7.91~git20230705.8eabf68-4?arch=ppc64el
+- pkg:deb/debian/ltrace@0.7.91~git20230705.8eabf68-4?arch=riscv64
+- pkg:deb/debian/ltrace@0.7.91~git20230705.8eabf68-4?arch=s390x

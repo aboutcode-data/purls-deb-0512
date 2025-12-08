@@ -1,0 +1,10 @@
+- pkg:deb/debian/libaqbanking-data@6.2.10-1?arch=all
+- pkg:deb/debian/libaqbanking-data@6.5.3-1?arch=all
+- pkg:deb/debian/libaqbanking-data@6.6.0-1?arch=all
+- pkg:deb/debian/libaqbanking-data@6.6.0-1~bpo12%2B1?arch=all
+- pkg:deb/debian/libaqbanking-data@6.7.11beta-1~bpo12%2B1?arch=all
+- pkg:deb/debian/libaqbanking-data@6.7.11beta-1~bpo13%2B1?arch=all
+- pkg:deb/debian/libaqbanking-data@6.7.14beta-1?arch=all
+- pkg:deb/debian/libaqbanking-data@6.7.14beta-1~bpo12%2B1?arch=all
+- pkg:deb/debian/libaqbanking-data@6.7.14beta-1~bpo13%2B1?arch=all
+- pkg:deb/debian/libaqbanking-data@6.7.16beta-1?arch=all

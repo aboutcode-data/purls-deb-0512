@@ -1,0 +1,17 @@
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2%2Bb3?arch=armel
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2%2Bb3?arch=ppc64el
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2%2Bb3?arch=s390x
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2%2Bb4?arch=amd64
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2%2Bb4?arch=arm64
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2%2Bb4?arch=armhf
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2%2Bb4?arch=i386
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2%2Bb4?arch=riscv64
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2?arch=amd64
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2?arch=arm64
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2?arch=armel
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2?arch=armhf
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2?arch=i386
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2?arch=mips64el
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2?arch=mipsel
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2?arch=ppc64el
+- pkg:deb/debian/liboverload-filecheck-perl@0.013-2?arch=s390x

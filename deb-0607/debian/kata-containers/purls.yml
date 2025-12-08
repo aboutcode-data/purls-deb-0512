@@ -1,0 +1,4 @@
+- pkg:deb/debian/kata-containers@2.4.0~alpha0%2Bds1-1?arch=amd64
+- pkg:deb/debian/kata-containers@2.4.0~alpha0%2Bds1-1?arch=arm64
+- pkg:deb/debian/kata-containers@2.4.0~alpha0%2Bds1-1?arch=ppc64el
+- pkg:deb/debian/kata-containers@2.4.0~alpha0%2Bds1-1?arch=s390x

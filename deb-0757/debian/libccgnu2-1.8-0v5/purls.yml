@@ -1,0 +1,4 @@
+- pkg:deb/debian/libccgnu2-1.8-0v5@1.8.1-10?arch=amd64
+- pkg:deb/debian/libccgnu2-1.8-0v5@1.8.1-10?arch=arm64
+- pkg:deb/debian/libccgnu2-1.8-0v5@1.8.1-10?arch=armhf
+- pkg:deb/debian/libccgnu2-1.8-0v5@1.8.1-10?arch=i386

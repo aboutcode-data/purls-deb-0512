@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-jupyterlab-pygments@0.1.2-5?arch=all
+- pkg:deb/debian/python3-jupyterlab-pygments@0.2.2-3?arch=all

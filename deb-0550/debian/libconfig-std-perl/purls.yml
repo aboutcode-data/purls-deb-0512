@@ -1,0 +1,3 @@
+- pkg:deb/debian/libconfig-std-perl@0.903-1?arch=all
+- pkg:deb/debian/libconfig-std-perl@0.903-3?arch=all
+- pkg:deb/debian/libconfig-std-perl@0.903-4?arch=all

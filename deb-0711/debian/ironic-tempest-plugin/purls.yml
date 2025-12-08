@@ -1,0 +1,4 @@
+- pkg:deb/debian/ironic-tempest-plugin@2.1.0-2?arch=all
+- pkg:deb/debian/ironic-tempest-plugin@2.13.0-2?arch=all
+- pkg:deb/debian/ironic-tempest-plugin@2.15.0-2?arch=all
+- pkg:deb/debian/ironic-tempest-plugin@2.5.0-1?arch=all

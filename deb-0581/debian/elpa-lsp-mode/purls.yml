@@ -1,0 +1,3 @@
+- pkg:deb/debian/elpa-lsp-mode@7.0.1-2?arch=all
+- pkg:deb/debian/elpa-lsp-mode@8.0.0-5?arch=all
+- pkg:deb/debian/elpa-lsp-mode@9.0.0-2?arch=all

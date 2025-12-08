@@ -1,0 +1,4 @@
+- pkg:deb/debian/idzebra-2.0-doc@2.2.2-1?arch=all
+- pkg:deb/debian/idzebra-2.0-doc@2.2.7-1?arch=all
+- pkg:deb/debian/idzebra-2.0-doc@2.2.8-1?arch=all
+- pkg:deb/debian/idzebra-2.0-doc@2.2.8-2?arch=all

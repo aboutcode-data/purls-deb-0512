@@ -1,0 +1,8 @@
+- pkg:deb/debian/libhfsp0t64@1.0.4-19?arch=amd64
+- pkg:deb/debian/libhfsp0t64@1.0.4-19?arch=arm64
+- pkg:deb/debian/libhfsp0t64@1.0.4-19?arch=armel
+- pkg:deb/debian/libhfsp0t64@1.0.4-19?arch=armhf
+- pkg:deb/debian/libhfsp0t64@1.0.4-19?arch=i386
+- pkg:deb/debian/libhfsp0t64@1.0.4-19?arch=ppc64el
+- pkg:deb/debian/libhfsp0t64@1.0.4-19?arch=riscv64
+- pkg:deb/debian/libhfsp0t64@1.0.4-19?arch=s390x

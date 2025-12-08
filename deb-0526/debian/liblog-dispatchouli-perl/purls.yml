@@ -1,0 +1,4 @@
+- pkg:deb/debian/liblog-dispatchouli-perl@2.022-1?arch=all
+- pkg:deb/debian/liblog-dispatchouli-perl@3.002-1?arch=all
+- pkg:deb/debian/liblog-dispatchouli-perl@3.009-1?arch=all
+- pkg:deb/debian/liblog-dispatchouli-perl@3.013-1?arch=all

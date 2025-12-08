@@ -1,0 +1,13 @@
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb14?arch=amd64
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb14?arch=arm64
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb14?arch=armhf
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb14?arch=i386
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb16?arch=amd64
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb16?arch=arm64
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb16?arch=armel
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb16?arch=armhf
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb16?arch=i386
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb16?arch=mips64el
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb16?arch=mipsel
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb16?arch=ppc64el
+- pkg:deb/debian/liblorene-debian1@0.0.0~cvs20161116%2Bdfsg-1%2Bb16?arch=s390x

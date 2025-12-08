@@ -1,0 +1,2 @@
+- pkg:deb/debian/libhttp-server-simple-perl@0.52-1.1?arch=all
+- pkg:deb/debian/libhttp-server-simple-perl@0.52-2?arch=all

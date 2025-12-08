@@ -1,0 +1,2 @@
+- pkg:deb/debian/libdnf1@0.55.2-6?arch=all
+- pkg:deb/debian/libdnf1@0.69.0-2?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/nautilus-kdeconnect@20.12.3-2?arch=all
+- pkg:deb/debian/nautilus-kdeconnect@22.12.3-1?arch=all
+- pkg:deb/debian/nautilus-kdeconnect@25.04.2-1%2Bdeb13u1?arch=all
+- pkg:deb/debian/nautilus-kdeconnect@25.04.2-1?arch=all
+- pkg:deb/debian/nautilus-kdeconnect@25.11.80%2Bgit20251121.7090b106-1?arch=all

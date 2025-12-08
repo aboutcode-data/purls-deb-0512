@@ -1,0 +1,4 @@
+- pkg:deb/debian/libio-compress-perl@2.101-1?arch=all
+- pkg:deb/debian/libio-compress-perl@2.204-1?arch=all
+- pkg:deb/debian/libio-compress-perl@2.213-1?arch=all
+- pkg:deb/debian/libio-compress-perl@2.214-1?arch=all

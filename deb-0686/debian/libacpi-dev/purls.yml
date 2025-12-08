@@ -1,0 +1,4 @@
+- pkg:deb/debian/libacpi-dev@0.2-7%2Bb1?arch=arm64
+- pkg:deb/debian/libacpi-dev@0.2-7?arch=amd64
+- pkg:deb/debian/libacpi-dev@0.2-7?arch=arm64
+- pkg:deb/debian/libacpi-dev@0.2-7?arch=i386

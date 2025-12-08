@@ -1,0 +1,6 @@
+- pkg:deb/debian/libunwind-20-dev@20.1.8-1?arch=amd64
+- pkg:deb/debian/libunwind-20-dev@20.1.8-1?arch=arm64
+- pkg:deb/debian/libunwind-20-dev@20.1.8-1?arch=armhf
+- pkg:deb/debian/libunwind-20-dev@20.1.8-1?arch=i386
+- pkg:deb/debian/libunwind-20-dev@20.1.8-1?arch=ppc64el
+- pkg:deb/debian/libunwind-20-dev@20.1.8-1?arch=riscv64

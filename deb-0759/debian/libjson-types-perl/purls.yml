@@ -1,0 +1,4 @@
+- pkg:deb/debian/libjson-types-perl@0.05-1.1?arch=all
+- pkg:deb/debian/libjson-types-perl@0.05-3?arch=all
+- pkg:deb/debian/libjson-types-perl@0.05-4?arch=all
+- pkg:deb/debian/libjson-types-perl@0.05-5?arch=all
