@@ -26,3 +26,4 @@
 - pkg:deb/debian/libcv-bridge-dev@1.16.2%2Bds-4%2Bb1?arch=ppc64el
 - pkg:deb/debian/libcv-bridge-dev@1.16.2%2Bds-4%2Bb1?arch=s390x
 - pkg:deb/debian/libcv-bridge-dev@1.16.2%2Bds-4?arch=riscv64
+- pkg:deb/debian/libcv-bridge-dev@1.16.2%2Bds-5?arch=loong64

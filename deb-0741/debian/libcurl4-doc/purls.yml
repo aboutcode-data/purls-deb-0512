@@ -5,3 +5,5 @@
 - pkg:deb/debian/libcurl4-doc@8.16.0-4~bpo13%2B1?arch=all
 - pkg:deb/debian/libcurl4-doc@8.17.0-3?arch=all
 - pkg:deb/debian/libcurl4-doc@8.18.0~rc1-1%2Bexp1?arch=all
+- pkg:deb/debian/libcurl4-doc@8.19.0~rc2-1?arch=all
+- pkg:deb/debian/libcurl4-doc@8.19.0~rc2-2?arch=all

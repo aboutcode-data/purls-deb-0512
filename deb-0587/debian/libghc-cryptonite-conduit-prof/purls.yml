@@ -19,3 +19,11 @@
 - pkg:deb/debian/libghc-cryptonite-conduit-prof@0.2.2-8%2Bb2?arch=armel
 - pkg:deb/debian/libghc-cryptonite-conduit-prof@0.2.2-8%2Bb2?arch=armhf
 - pkg:deb/debian/libghc-cryptonite-conduit-prof@0.2.2-8%2Bb3?arch=i386
+- pkg:deb/debian/libghc-cryptonite-conduit-prof@0.2.2-9?arch=amd64
+- pkg:deb/debian/libghc-cryptonite-conduit-prof@0.2.2-9?arch=arm64
+- pkg:deb/debian/libghc-cryptonite-conduit-prof@0.2.2-9?arch=armhf
+- pkg:deb/debian/libghc-cryptonite-conduit-prof@0.2.2-9?arch=i386
+- pkg:deb/debian/libghc-cryptonite-conduit-prof@0.2.2-9?arch=loong64
+- pkg:deb/debian/libghc-cryptonite-conduit-prof@0.2.2-9?arch=ppc64el
+- pkg:deb/debian/libghc-cryptonite-conduit-prof@0.2.2-9?arch=riscv64
+- pkg:deb/debian/libghc-cryptonite-conduit-prof@0.2.2-9?arch=s390x

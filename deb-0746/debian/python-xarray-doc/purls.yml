@@ -3,3 +3,5 @@
 - pkg:deb/debian/python-xarray-doc@2025.03.1-8?arch=all
 - pkg:deb/debian/python-xarray-doc@2025.10.1-1?arch=all
 - pkg:deb/debian/python-xarray-doc@2025.11.0-1?arch=all
+- pkg:deb/debian/python-xarray-doc@2026.01.0-2?arch=all
+- pkg:deb/debian/python-xarray-doc@2026.02.0-1?arch=all

@@ -4,3 +4,5 @@
 - pkg:deb/debian/libglide3@2002.04.10ds1-21?arch=i386
 - pkg:deb/debian/libglide3@2002.04.10ds1-24?arch=amd64
 - pkg:deb/debian/libglide3@2002.04.10ds1-24?arch=i386
+- pkg:deb/debian/libglide3@2002.04.10ds1-25?arch=amd64
+- pkg:deb/debian/libglide3@2002.04.10ds1-25?arch=i386

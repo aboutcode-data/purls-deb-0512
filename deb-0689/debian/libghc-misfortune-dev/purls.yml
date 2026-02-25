@@ -18,3 +18,4 @@
 - pkg:deb/debian/libghc-misfortune-dev@0.1.2.1-5?arch=ppc64el
 - pkg:deb/debian/libghc-misfortune-dev@0.1.2.1-5?arch=riscv64
 - pkg:deb/debian/libghc-misfortune-dev@0.1.2.1-5?arch=s390x
+- pkg:deb/debian/libghc-misfortune-dev@0.1.2.1-6?arch=loong64

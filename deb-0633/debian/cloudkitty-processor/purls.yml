@@ -3,3 +3,4 @@
 - pkg:deb/debian/cloudkitty-processor@22.0.0-2?arch=all
 - pkg:deb/debian/cloudkitty-processor@23.0.0-1?arch=all
 - pkg:deb/debian/cloudkitty-processor@23.0.0-2?arch=all
+- pkg:deb/debian/cloudkitty-processor@23.0.0-4?arch=all

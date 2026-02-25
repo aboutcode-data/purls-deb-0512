@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-binary-install-dev@0.4.1%2Bds-4?arch=all
+- pkg:deb/debian/librust-binary-install-dev@0.4.1%2Bds-5?arch=all

@@ -3,4 +3,7 @@
 - pkg:deb/debian/dgit@12.15~bpo12%2B1?arch=all
 - pkg:deb/debian/dgit@13.17?arch=all
 - pkg:deb/debian/dgit@13.17~bpo13%2B1?arch=all
+- pkg:deb/debian/dgit@14.8?arch=all
+- pkg:deb/debian/dgit@14.8~bpo13%2B1?arch=all
+- pkg:deb/debian/dgit@14.9?arch=all
 - pkg:deb/debian/dgit@9.13?arch=all

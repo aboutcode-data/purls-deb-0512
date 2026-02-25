@@ -3,3 +3,4 @@
 - pkg:deb/debian/openrct2-data@0.4.29%2Bds-1?arch=all
 - pkg:deb/debian/openrct2-data@0.4.29%2Bds-1~bpo13%2B1?arch=all
 - pkg:deb/debian/openrct2-data@0.4.3%2Bds-1?arch=all
+- pkg:deb/debian/openrct2-data@0.4.31%2Bds-1~bpo13%2B1?arch=all

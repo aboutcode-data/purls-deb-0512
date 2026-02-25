@@ -13,3 +13,4 @@
 - pkg:deb/debian/mongoose@5.8.1%2Bdfsg-2?arch=i386
 - pkg:deb/debian/mongoose@7.10.1%2Bdfsg-1?arch=all
 - pkg:deb/debian/mongoose@7.11.0%2Bdfsg-2?arch=all
+- pkg:deb/debian/mongoose@7.12.2%2Bdfsg-1?arch=all

@@ -1,2 +1,3 @@
+- pkg:deb/debian/python-django-structlog-doc@10.0.0-1?arch=all
 - pkg:deb/debian/python-django-structlog-doc@9.0.1-1?arch=all
 - pkg:deb/debian/python-django-structlog-doc@9.1.1-1?arch=all

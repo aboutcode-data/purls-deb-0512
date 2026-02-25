@@ -13,3 +13,4 @@
 - pkg:deb/debian/librust-auth-git2%2Blog-dev@0.5.8-3?arch=ppc64el
 - pkg:deb/debian/librust-auth-git2%2Blog-dev@0.5.8-3?arch=riscv64
 - pkg:deb/debian/librust-auth-git2%2Blog-dev@0.5.8-3?arch=s390x
+- pkg:deb/debian/librust-auth-git2%2Blog-dev@0.5.8-5?arch=all

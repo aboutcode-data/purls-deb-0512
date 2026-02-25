@@ -2,3 +2,4 @@
 - pkg:deb/debian/python3-manila@15.1.0-2?arch=all
 - pkg:deb/debian/python3-manila@20.0.0-3?arch=all
 - pkg:deb/debian/python3-manila@21.0.0-1?arch=all
+- pkg:deb/debian/python3-manila@21.0.0-2?arch=all

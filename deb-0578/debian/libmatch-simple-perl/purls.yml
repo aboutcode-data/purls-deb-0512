@@ -1,3 +1,4 @@
 - pkg:deb/debian/libmatch-simple-perl@0.010-1.1?arch=all
 - pkg:deb/debian/libmatch-simple-perl@0.010-3?arch=all
 - pkg:deb/debian/libmatch-simple-perl@0.012-1?arch=all
+- pkg:deb/debian/libmatch-simple-perl@0.012-2?arch=all

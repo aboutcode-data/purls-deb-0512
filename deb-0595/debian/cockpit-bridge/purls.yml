@@ -15,3 +15,5 @@
 - pkg:deb/debian/cockpit-bridge@337-1~bpo12%2B1?arch=all
 - pkg:deb/debian/cockpit-bridge@352-1?arch=all
 - pkg:deb/debian/cockpit-bridge@352-1~bpo13%2B1?arch=all
+- pkg:deb/debian/cockpit-bridge@356-1?arch=all
+- pkg:deb/debian/cockpit-bridge@356-1~bpo13%2B1?arch=all

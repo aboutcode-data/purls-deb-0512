@@ -6,3 +6,7 @@
 - pkg:deb/debian/libgxccd@1.0%2B20221224111636-3?arch=arm64
 - pkg:deb/debian/libgxccd@1.0%2B20221224111636-3?arch=armhf
 - pkg:deb/debian/libgxccd@1.0%2B20221224111636-3?arch=i386
+- pkg:deb/debian/libgxccd@1.0%2B20221224111636-4?arch=amd64
+- pkg:deb/debian/libgxccd@1.0%2B20221224111636-4?arch=arm64
+- pkg:deb/debian/libgxccd@1.0%2B20221224111636-4?arch=armhf
+- pkg:deb/debian/libgxccd@1.0%2B20221224111636-4?arch=i386

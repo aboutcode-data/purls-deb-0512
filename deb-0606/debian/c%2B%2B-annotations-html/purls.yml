@@ -2,3 +2,4 @@
 - pkg:deb/debian/c%2B%2B-annotations-html@12.2.0-2?arch=all
 - pkg:deb/debian/c%2B%2B-annotations-html@13.02.01-1?arch=all
 - pkg:deb/debian/c%2B%2B-annotations-html@13.02.02-1?arch=all
+- pkg:deb/debian/c%2B%2B-annotations-html@13.04.01-1?arch=all

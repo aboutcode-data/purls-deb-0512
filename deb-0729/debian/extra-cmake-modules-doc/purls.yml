@@ -2,3 +2,5 @@
 - pkg:deb/debian/extra-cmake-modules-doc@5.78.0-3?arch=all
 - pkg:deb/debian/extra-cmake-modules-doc@6.13.0-1?arch=all
 - pkg:deb/debian/extra-cmake-modules-doc@6.20.0-1?arch=all
+- pkg:deb/debian/extra-cmake-modules-doc@6.22.0-1?arch=all
+- pkg:deb/debian/extra-cmake-modules-doc@6.23.0-1?arch=all

@@ -1,1 +1,2 @@
 - pkg:deb/debian/fonts-gr-framework@0.73.14%2Bdfsg-1?arch=all
+- pkg:deb/debian/fonts-gr-framework@0.73.22%2Bdfsg-2?arch=all

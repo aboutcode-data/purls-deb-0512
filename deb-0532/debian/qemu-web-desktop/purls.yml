@@ -8,3 +8,7 @@
 - pkg:deb/debian/qemu-web-desktop@25.04.05%2Bds1-1?arch=arm64
 - pkg:deb/debian/qemu-web-desktop@25.04.05%2Bds1-1?arch=ppc64el
 - pkg:deb/debian/qemu-web-desktop@25.04.05%2Bds1-1?arch=riscv64
+- pkg:deb/debian/qemu-web-desktop@26.02.08%2Bds1-2?arch=amd64
+- pkg:deb/debian/qemu-web-desktop@26.02.08%2Bds1-2?arch=arm64
+- pkg:deb/debian/qemu-web-desktop@26.02.08%2Bds1-2~bpo13%2B1?arch=amd64
+- pkg:deb/debian/qemu-web-desktop@26.02.08%2Bds1-2~bpo13%2B1?arch=arm64

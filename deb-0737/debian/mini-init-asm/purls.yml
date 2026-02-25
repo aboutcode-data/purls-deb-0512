@@ -1,0 +1,2 @@
+- pkg:deb/debian/mini-init-asm@0.3.1%2Bds-2?arch=amd64
+- pkg:deb/debian/mini-init-asm@0.3.1%2Bds-2?arch=arm64

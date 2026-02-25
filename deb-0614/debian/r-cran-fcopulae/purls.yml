@@ -12,3 +12,8 @@
 - pkg:deb/debian/r-cran-fcopulae@4022.85-1?arch=mipsel
 - pkg:deb/debian/r-cran-fcopulae@4022.85-1?arch=ppc64el
 - pkg:deb/debian/r-cran-fcopulae@4022.85-1?arch=s390x
+- pkg:deb/debian/r-cran-fcopulae@4052.86-1?arch=amd64
+- pkg:deb/debian/r-cran-fcopulae@4052.86-1?arch=arm64
+- pkg:deb/debian/r-cran-fcopulae@4052.86-1?arch=loong64
+- pkg:deb/debian/r-cran-fcopulae@4052.86-1?arch=ppc64el
+- pkg:deb/debian/r-cran-fcopulae@4052.86-1?arch=riscv64

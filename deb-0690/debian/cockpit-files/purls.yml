@@ -1,0 +1,2 @@
+- pkg:deb/debian/cockpit-files@36-1?arch=all
+- pkg:deb/debian/cockpit-files@36-1~bpo13%2B1?arch=all

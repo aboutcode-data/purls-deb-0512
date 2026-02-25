@@ -7,6 +7,10 @@
 - pkg:deb/debian/libhwloc-contrib-plugins@2.12.2-2?arch=arm64
 - pkg:deb/debian/libhwloc-contrib-plugins@2.12.2-2~bpo13%2B1?arch=amd64
 - pkg:deb/debian/libhwloc-contrib-plugins@2.12.2-2~bpo13%2B1?arch=arm64
+- pkg:deb/debian/libhwloc-contrib-plugins@2.13.0-2?arch=amd64
+- pkg:deb/debian/libhwloc-contrib-plugins@2.13.0-2?arch=arm64
+- pkg:deb/debian/libhwloc-contrib-plugins@2.13.0-2~bpo13%2B1?arch=amd64
+- pkg:deb/debian/libhwloc-contrib-plugins@2.13.0-2~bpo13%2B1?arch=arm64
 - pkg:deb/debian/libhwloc-contrib-plugins@2.4.1%2Bdfsg-2?arch=amd64
 - pkg:deb/debian/libhwloc-contrib-plugins@2.4.1%2Bdfsg-2?arch=arm64
 - pkg:deb/debian/libhwloc-contrib-plugins@2.9.0-1?arch=amd64

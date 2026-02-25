@@ -1,3 +1,4 @@
 - pkg:deb/debian/extrepo@0.11?arch=all
 - pkg:deb/debian/extrepo@0.14?arch=all
+- pkg:deb/debian/extrepo@0.15?arch=all
 - pkg:deb/debian/extrepo@0.8?arch=all

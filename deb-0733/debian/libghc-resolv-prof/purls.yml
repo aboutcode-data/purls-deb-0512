@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-resolv-prof@0.2.0.2-2?arch=ppc64el
 - pkg:deb/debian/libghc-resolv-prof@0.2.0.2-2?arch=riscv64
 - pkg:deb/debian/libghc-resolv-prof@0.2.0.2-2?arch=s390x
+- pkg:deb/debian/libghc-resolv-prof@0.2.0.3-2?arch=loong64

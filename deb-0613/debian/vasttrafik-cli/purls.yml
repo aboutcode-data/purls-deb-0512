@@ -1,1 +1,2 @@
 - pkg:deb/debian/vasttrafik-cli@1.13-2?arch=all
+- pkg:deb/debian/vasttrafik-cli@1.14-1?arch=all

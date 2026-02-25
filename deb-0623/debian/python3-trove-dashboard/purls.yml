@@ -2,3 +2,4 @@
 - pkg:deb/debian/python3-trove-dashboard@19.0.0-1?arch=all
 - pkg:deb/debian/python3-trove-dashboard@24.0.0-1?arch=all
 - pkg:deb/debian/python3-trove-dashboard@25.0.0-1?arch=all
+- pkg:deb/debian/python3-trove-dashboard@25.0.0-2?arch=all

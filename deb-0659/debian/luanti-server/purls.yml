@@ -5,3 +5,9 @@
 - pkg:deb/debian/luanti-server@5.10.0%2Bdfsg-5?arch=i386
 - pkg:deb/debian/luanti-server@5.10.0%2Bdfsg-5?arch=riscv64
 - pkg:deb/debian/luanti-server@5.10.0%2Bdfsg-5?arch=s390x
+- pkg:deb/debian/luanti-server@5.14.0%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/luanti-server@5.14.0%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/luanti-server@5.14.0%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/luanti-server@5.14.0%2Bdfsg-3?arch=loong64
+- pkg:deb/debian/luanti-server@5.14.0%2Bdfsg-3?arch=riscv64
+- pkg:deb/debian/luanti-server@5.14.0%2Bdfsg-3?arch=s390x

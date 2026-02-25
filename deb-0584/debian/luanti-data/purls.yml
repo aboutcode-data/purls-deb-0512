@@ -1,1 +1,2 @@
 - pkg:deb/debian/luanti-data@5.10.0%2Bdfsg-5?arch=all
+- pkg:deb/debian/luanti-data@5.14.0%2Bdfsg-3?arch=all

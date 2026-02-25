@@ -13,6 +13,7 @@
 - pkg:deb/debian/okular-backend-odt@25.11.90-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/okular-backend-odt@25.11.90-1%2Bb1?arch=riscv64
 - pkg:deb/debian/okular-backend-odt@25.11.90-1%2Bb1?arch=s390x
+- pkg:deb/debian/okular-backend-odt@25.11.90-1?arch=loong64
 - pkg:deb/debian/okular-backend-odt@3.2.1%2Bdfsg-2%2Bb5?arch=amd64
 - pkg:deb/debian/okular-backend-odt@3.2.1%2Bdfsg-2%2Bb5?arch=arm64
 - pkg:deb/debian/okular-backend-odt@3.2.1%2Bdfsg-2%2Bb5?arch=armhf

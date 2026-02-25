@@ -2,3 +2,4 @@
 - pkg:deb/debian/charliecloud@0.31-1?arch=all
 - pkg:deb/debian/charliecloud@0.38-3?arch=all
 - pkg:deb/debian/charliecloud@0.42-3?arch=all
+- pkg:deb/debian/charliecloud@0.43-2?arch=all

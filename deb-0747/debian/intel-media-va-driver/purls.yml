@@ -6,3 +6,5 @@
 - pkg:deb/debian/intel-media-va-driver@25.2.3%2Bdfsg1-1?arch=i386
 - pkg:deb/debian/intel-media-va-driver@25.4.2%2Bdfsg1-1?arch=amd64
 - pkg:deb/debian/intel-media-va-driver@25.4.2%2Bdfsg1-1?arch=i386
+- pkg:deb/debian/intel-media-va-driver@26.1.2%2Bdfsg1-1?arch=amd64
+- pkg:deb/debian/intel-media-va-driver@26.1.2%2Bdfsg1-1?arch=i386

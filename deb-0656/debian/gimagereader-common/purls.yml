@@ -1,3 +1,4 @@
 - pkg:deb/debian/gimagereader-common@3.4.1-1?arch=all
 - pkg:deb/debian/gimagereader-common@3.4.2-7?arch=all
 - pkg:deb/debian/gimagereader-common@3.4.3-1?arch=all
+- pkg:deb/debian/gimagereader-common@3.4.3-2?arch=all

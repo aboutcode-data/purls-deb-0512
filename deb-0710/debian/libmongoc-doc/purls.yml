@@ -2,3 +2,4 @@
 - pkg:deb/debian/libmongoc-doc@1.23.1-1%2Bdeb12u1?arch=all
 - pkg:deb/debian/libmongoc-doc@1.30.4-1?arch=all
 - pkg:deb/debian/libmongoc-doc@2.2.0-1?arch=all
+- pkg:deb/debian/libmongoc-doc@2.2.2-1?arch=all

@@ -1,2 +1,3 @@
 - pkg:deb/debian/libkitinerary-data@24.12.3-1?arch=all
 - pkg:deb/debian/libkitinerary-data@25.08.3-2?arch=all
+- pkg:deb/debian/libkitinerary-data@25.12.1-3?arch=all

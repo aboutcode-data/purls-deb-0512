@@ -26,3 +26,4 @@
 - pkg:deb/debian/mpg123@1.33.3-1?arch=ppc64el
 - pkg:deb/debian/mpg123@1.33.3-1?arch=riscv64
 - pkg:deb/debian/mpg123@1.33.3-1?arch=s390x
+- pkg:deb/debian/mpg123@1.33.3-2%2Bb1?arch=loong64

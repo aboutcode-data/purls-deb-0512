@@ -26,3 +26,11 @@
 - pkg:deb/debian/libdlrestrictions-dev@0.19.1?arch=ppc64el
 - pkg:deb/debian/libdlrestrictions-dev@0.19.1?arch=riscv64
 - pkg:deb/debian/libdlrestrictions-dev@0.19.1?arch=s390x
+- pkg:deb/debian/libdlrestrictions-dev@0.20.0?arch=amd64
+- pkg:deb/debian/libdlrestrictions-dev@0.20.0?arch=arm64
+- pkg:deb/debian/libdlrestrictions-dev@0.20.0?arch=armhf
+- pkg:deb/debian/libdlrestrictions-dev@0.20.0?arch=i386
+- pkg:deb/debian/libdlrestrictions-dev@0.20.0?arch=loong64
+- pkg:deb/debian/libdlrestrictions-dev@0.20.0?arch=ppc64el
+- pkg:deb/debian/libdlrestrictions-dev@0.20.0?arch=riscv64
+- pkg:deb/debian/libdlrestrictions-dev@0.20.0?arch=s390x

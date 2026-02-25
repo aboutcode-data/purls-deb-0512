@@ -26,3 +26,5 @@
 - pkg:deb/debian/libmorsmall-ocaml-dev@0.3.0-8%2Bb14?arch=ppc64el
 - pkg:deb/debian/libmorsmall-ocaml-dev@0.3.0-8%2Bb14?arch=riscv64
 - pkg:deb/debian/libmorsmall-ocaml-dev@0.3.0-8%2Bb14?arch=s390x
+- pkg:deb/debian/libmorsmall-ocaml-dev@0.3.0-8%2Bb17?arch=amd64
+- pkg:deb/debian/libmorsmall-ocaml-dev@0.3.0-8%2Bb17?arch=arm64

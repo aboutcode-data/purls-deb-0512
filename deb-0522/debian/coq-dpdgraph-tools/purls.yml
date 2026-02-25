@@ -9,3 +9,5 @@
 - pkg:deb/debian/coq-dpdgraph-tools@1.0%2B8.20-1%2Bb4?arch=ppc64el
 - pkg:deb/debian/coq-dpdgraph-tools@1.0%2B8.20-1%2Bb4?arch=riscv64
 - pkg:deb/debian/coq-dpdgraph-tools@1.0%2B8.20-1%2Bb4?arch=s390x
+- pkg:deb/debian/coq-dpdgraph-tools@1.0%2B8.20-1%2Bb6?arch=amd64
+- pkg:deb/debian/coq-dpdgraph-tools@1.0%2B8.20-1%2Bb6?arch=arm64

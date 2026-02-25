@@ -19,3 +19,11 @@
 - pkg:deb/debian/unace@1.2b-24?arch=ppc64el
 - pkg:deb/debian/unace@1.2b-24?arch=riscv64
 - pkg:deb/debian/unace@1.2b-24?arch=s390x
+- pkg:deb/debian/unace@1.2b-25?arch=amd64
+- pkg:deb/debian/unace@1.2b-25?arch=arm64
+- pkg:deb/debian/unace@1.2b-25?arch=armhf
+- pkg:deb/debian/unace@1.2b-25?arch=i386
+- pkg:deb/debian/unace@1.2b-25?arch=loong64
+- pkg:deb/debian/unace@1.2b-25?arch=ppc64el
+- pkg:deb/debian/unace@1.2b-25?arch=riscv64
+- pkg:deb/debian/unace@1.2b-25?arch=s390x

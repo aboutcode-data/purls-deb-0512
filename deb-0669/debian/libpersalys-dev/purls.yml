@@ -13,3 +13,4 @@
 - pkg:deb/debian/libpersalys-dev@18.1%2Bds-1?arch=ppc64el
 - pkg:deb/debian/libpersalys-dev@18.1%2Bds-1?arch=riscv64
 - pkg:deb/debian/libpersalys-dev@18.1%2Bds-1?arch=s390x
+- pkg:deb/debian/libpersalys-dev@19.1%2Bds-2?arch=loong64

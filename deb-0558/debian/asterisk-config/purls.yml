@@ -1,3 +1,4 @@
 - pkg:deb/debian/asterisk-config@16.28.0~dfsg-0%2Bdeb11u3?arch=all
 - pkg:deb/debian/asterisk-config@16.28.0~dfsg-0%2Bdeb11u4?arch=all
 - pkg:deb/debian/asterisk-config@22.7.0~dfsg%2B~cs6.15.60671435-1?arch=all
+- pkg:deb/debian/asterisk-config@22.8.2%2Bdfsg%2B~cs6.15.60671435-1?arch=all

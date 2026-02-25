@@ -2,3 +2,4 @@
 - pkg:deb/debian/fp-ide@3.2.2%2Bdfsg-20?arch=all
 - pkg:deb/debian/fp-ide@3.2.2%2Bdfsg-34~bpo12%2B1?arch=all
 - pkg:deb/debian/fp-ide@3.2.2%2Bdfsg-46?arch=all
+- pkg:deb/debian/fp-ide@3.2.2%2Bdfsg-48?arch=all

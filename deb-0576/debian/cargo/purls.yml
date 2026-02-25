@@ -35,3 +35,5 @@
 - pkg:deb/debian/cargo@1.90.0%2Bdfsg1-1~bpo13%2B2?arch=i386
 - pkg:deb/debian/cargo@1.90.0%2Bdfsg1-1~bpo13%2B2?arch=ppc64el
 - pkg:deb/debian/cargo@1.90.0%2Bdfsg1-1~bpo13%2B2?arch=s390x
+- pkg:deb/debian/cargo@1.92.0%2Bdfsg1-1~exp1?arch=loong64
+- pkg:deb/debian/cargo@1.92.0%2Bdfsg1-1~exp1?arch=riscv64

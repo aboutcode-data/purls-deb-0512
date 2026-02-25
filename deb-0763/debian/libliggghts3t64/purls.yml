@@ -13,3 +13,4 @@
 - pkg:deb/debian/libliggghts3t64@3.8.0%2Brepack1-14%2Bb1?arch=ppc64el
 - pkg:deb/debian/libliggghts3t64@3.8.0%2Brepack1-14%2Bb1?arch=riscv64
 - pkg:deb/debian/libliggghts3t64@3.8.0%2Brepack1-14%2Bb1?arch=s390x
+- pkg:deb/debian/libliggghts3t64@3.8.0%2Brepack1-14?arch=loong64

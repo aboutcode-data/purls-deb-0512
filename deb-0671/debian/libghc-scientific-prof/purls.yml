@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-scientific-prof@0.3.7.0-3?arch=ppc64el
 - pkg:deb/debian/libghc-scientific-prof@0.3.7.0-3?arch=riscv64
 - pkg:deb/debian/libghc-scientific-prof@0.3.7.0-3?arch=s390x
+- pkg:deb/debian/libghc-scientific-prof@0.3.8.0-1?arch=loong64

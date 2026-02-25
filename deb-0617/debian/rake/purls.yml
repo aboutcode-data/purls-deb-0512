@@ -1,3 +1,4 @@
 - pkg:deb/debian/rake@13.0.3-1?arch=all
 - pkg:deb/debian/rake@13.0.6-3?arch=all
 - pkg:deb/debian/rake@13.2.1-1?arch=all
+- pkg:deb/debian/rake@13.3.1-1?arch=all

@@ -20,3 +20,12 @@
 - pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u5?arch=mipsel
 - pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u5?arch=ppc64el
 - pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u5?arch=s390x
+- pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u8?arch=amd64
+- pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u8?arch=arm64
+- pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u8?arch=armel
+- pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u8?arch=armhf
+- pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u8?arch=i386
+- pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u8?arch=mips64el
+- pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u8?arch=mipsel
+- pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u8?arch=ppc64el
+- pkg:deb/debian/libgimp2.0-dev@2.10.34-1%2Bdeb12u8?arch=s390x

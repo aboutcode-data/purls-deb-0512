@@ -13,3 +13,4 @@
 - pkg:deb/debian/libmfem-dev@4.8%2Bds-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libmfem-dev@4.8%2Bds-1%2Bb1?arch=riscv64
 - pkg:deb/debian/libmfem-dev@4.8%2Bds-1%2Bb1?arch=s390x
+- pkg:deb/debian/libmfem-dev@4.9%2Bds-2?arch=loong64

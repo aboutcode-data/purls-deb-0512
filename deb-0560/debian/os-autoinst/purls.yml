@@ -48,3 +48,4 @@
 - pkg:deb/debian/os-autoinst@5.1764330105.c5cfd48b-1?arch=ppc64el
 - pkg:deb/debian/os-autoinst@5.1764330105.c5cfd48b-1?arch=riscv64
 - pkg:deb/debian/os-autoinst@5.1764330105.c5cfd48b-1?arch=s390x
+- pkg:deb/debian/os-autoinst@5.1768577300.b85e4864-1?arch=loong64

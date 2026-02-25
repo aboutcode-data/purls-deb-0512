@@ -4,3 +4,7 @@
 - pkg:deb/debian/liborcus-doc@0.20.2-2?arch=all
 - pkg:deb/debian/liborcus-doc@0.20.2-2~bpo13%2B1?arch=all
 - pkg:deb/debian/liborcus-doc@0.21.0-1?arch=all
+- pkg:deb/debian/liborcus-doc@0.21.0-4?arch=all
+- pkg:deb/debian/liborcus-doc@0.21.0-4~bpo13%2B1?arch=all
+- pkg:deb/debian/liborcus-doc@0.21.0-5?arch=all
+- pkg:deb/debian/liborcus-doc@0.21.0-6?arch=all

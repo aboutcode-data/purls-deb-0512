@@ -19,3 +19,4 @@
 - pkg:deb/debian/librust-proptest-dev@1.6.0-1?arch=ppc64el
 - pkg:deb/debian/librust-proptest-dev@1.6.0-1?arch=riscv64
 - pkg:deb/debian/librust-proptest-dev@1.6.0-1?arch=s390x
+- pkg:deb/debian/librust-proptest-dev@1.9.0-1%2Bb1?arch=loong64

@@ -20,3 +20,11 @@
 - pkg:deb/debian/btm@0.11.4%2B~0%2B20250330%2B~0.30.0~beta0%2B~0.37.2%2B~0.3.4-1?arch=ppc64el
 - pkg:deb/debian/btm@0.11.4%2B~0%2B20250330%2B~0.30.0~beta0%2B~0.37.2%2B~0.3.4-1?arch=riscv64
 - pkg:deb/debian/btm@0.11.4%2B~0%2B20250330%2B~0.30.0~beta0%2B~0.37.2%2B~0.3.4-1?arch=s390x
+- pkg:deb/debian/btm@0.12.3%2B~0%2B20250330%2B~0.30.0%2B~0.37.2%2B~0.3.5-6?arch=amd64
+- pkg:deb/debian/btm@0.12.3%2B~0%2B20250330%2B~0.30.0%2B~0.37.2%2B~0.3.5-6?arch=arm64
+- pkg:deb/debian/btm@0.12.3%2B~0%2B20250330%2B~0.30.0%2B~0.37.2%2B~0.3.5-6?arch=armhf
+- pkg:deb/debian/btm@0.12.3%2B~0%2B20250330%2B~0.30.0%2B~0.37.2%2B~0.3.5-6?arch=i386
+- pkg:deb/debian/btm@0.12.3%2B~0%2B20250330%2B~0.30.0%2B~0.37.2%2B~0.3.5-6?arch=loong64
+- pkg:deb/debian/btm@0.12.3%2B~0%2B20250330%2B~0.30.0%2B~0.37.2%2B~0.3.5-6?arch=ppc64el
+- pkg:deb/debian/btm@0.12.3%2B~0%2B20250330%2B~0.30.0%2B~0.37.2%2B~0.3.5-6?arch=riscv64
+- pkg:deb/debian/btm@0.12.3%2B~0%2B20250330%2B~0.30.0%2B~0.37.2%2B~0.3.5-6?arch=s390x

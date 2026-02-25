@@ -9,6 +9,7 @@
 - pkg:deb/debian/fenicsx-performance-tests@0.10.0-1exp1%2Bb1?arch=riscv64
 - pkg:deb/debian/fenicsx-performance-tests@0.10.0-1exp1?arch=amd64
 - pkg:deb/debian/fenicsx-performance-tests@0.10.0-1exp1?arch=s390x
+- pkg:deb/debian/fenicsx-performance-tests@0.10.0-2?arch=loong64
 - pkg:deb/debian/fenicsx-performance-tests@0.5.0~git20220731.821823b-1%2Bb1?arch=amd64
 - pkg:deb/debian/fenicsx-performance-tests@0.5.0~git20220731.821823b-1%2Bb1?arch=arm64
 - pkg:deb/debian/fenicsx-performance-tests@0.5.0~git20220731.821823b-1%2Bb1?arch=armel

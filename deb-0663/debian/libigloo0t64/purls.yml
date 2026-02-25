@@ -13,3 +13,5 @@
 - pkg:deb/debian/libigloo0t64@0.9.4-1?arch=ppc64el
 - pkg:deb/debian/libigloo0t64@0.9.4-1?arch=riscv64
 - pkg:deb/debian/libigloo0t64@0.9.4-1?arch=s390x
+- pkg:deb/debian/libigloo0t64@0.9.5-1~bpo13%2B1?arch=riscv64
+- pkg:deb/debian/libigloo0t64@0.9.5-1~bpo13%2B1?arch=s390x

@@ -2,3 +2,4 @@
 - pkg:deb/debian/libcpan-perl-releases-perl@5.20230220-1?arch=all
 - pkg:deb/debian/libcpan-perl-releases-perl@5.20250422-1?arch=all
 - pkg:deb/debian/libcpan-perl-releases-perl@5.20251120-1?arch=all
+- pkg:deb/debian/libcpan-perl-releases-perl@5.20260220-1?arch=all

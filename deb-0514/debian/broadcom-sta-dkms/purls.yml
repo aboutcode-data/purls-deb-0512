@@ -4,3 +4,7 @@
 - pkg:deb/debian/broadcom-sta-dkms@6.30.223.271-26?arch=i386
 - pkg:deb/debian/broadcom-sta-dkms@6.30.223.271-29?arch=amd64
 - pkg:deb/debian/broadcom-sta-dkms@6.30.223.271-29?arch=i386
+- pkg:deb/debian/broadcom-sta-dkms@6.30.223.271-29~bpo12%2B1?arch=amd64
+- pkg:deb/debian/broadcom-sta-dkms@6.30.223.271-29~bpo12%2B1?arch=i386
+- pkg:deb/debian/broadcom-sta-dkms@6.30.223.271-29~bpo13%2B2?arch=amd64
+- pkg:deb/debian/broadcom-sta-dkms@6.30.223.271-29~bpo13%2B2?arch=i386

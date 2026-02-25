@@ -19,3 +19,5 @@
 - pkg:deb/debian/ocaml-ulex@1.2-3%2Bb3?arch=ppc64el
 - pkg:deb/debian/ocaml-ulex@1.2-3%2Bb3?arch=riscv64
 - pkg:deb/debian/ocaml-ulex@1.2-3%2Bb3?arch=s390x
+- pkg:deb/debian/ocaml-ulex@1.2-3%2Bb5?arch=amd64
+- pkg:deb/debian/ocaml-ulex@1.2-3%2Bb5?arch=arm64

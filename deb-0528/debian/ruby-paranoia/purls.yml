@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-paranoia@2.4.3-1?arch=all
 - pkg:deb/debian/ruby-paranoia@3.0.0-1?arch=all
 - pkg:deb/debian/ruby-paranoia@3.0.1-1?arch=all
+- pkg:deb/debian/ruby-paranoia@3.1.0-1?arch=all

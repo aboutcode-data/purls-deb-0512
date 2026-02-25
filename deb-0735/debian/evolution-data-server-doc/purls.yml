@@ -4,3 +4,4 @@
 - pkg:deb/debian/evolution-data-server-doc@3.56.2-4?arch=all
 - pkg:deb/debian/evolution-data-server-doc@3.56.2-5?arch=all
 - pkg:deb/debian/evolution-data-server-doc@3.56.2-6?arch=all
+- pkg:deb/debian/evolution-data-server-doc@3.56.2-8?arch=all

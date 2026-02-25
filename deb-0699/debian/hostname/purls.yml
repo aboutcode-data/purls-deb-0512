@@ -11,6 +11,7 @@
 - pkg:deb/debian/hostname@3.23?arch=arm64
 - pkg:deb/debian/hostname@3.23?arch=armhf
 - pkg:deb/debian/hostname@3.23?arch=i386
+- pkg:deb/debian/hostname@3.25%2Bb1?arch=loong64
 - pkg:deb/debian/hostname@3.25?arch=amd64
 - pkg:deb/debian/hostname@3.25?arch=arm64
 - pkg:deb/debian/hostname@3.25?arch=armel

@@ -26,3 +26,4 @@
 - pkg:deb/debian/orthanc-gdcm@1.8%2Bdfsg-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/orthanc-gdcm@1.8%2Bdfsg-2%2Bb1?arch=riscv64
 - pkg:deb/debian/orthanc-gdcm@1.8%2Bdfsg-2%2Bb1?arch=s390x
+- pkg:deb/debian/orthanc-gdcm@1.8%2Bdfsg-2?arch=loong64

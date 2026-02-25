@@ -1,3 +1,6 @@
 - pkg:deb/debian/libnvidia-legacy-340xx-fbc1@340.108-26?arch=amd64
 - pkg:deb/debian/libnvidia-legacy-340xx-fbc1@340.108-26?arch=armhf
 - pkg:deb/debian/libnvidia-legacy-340xx-fbc1@340.108-26?arch=i386
+- pkg:deb/debian/libnvidia-legacy-340xx-fbc1@340.108-27?arch=amd64
+- pkg:deb/debian/libnvidia-legacy-340xx-fbc1@340.108-27?arch=armhf
+- pkg:deb/debian/libnvidia-legacy-340xx-fbc1@340.108-27?arch=i386

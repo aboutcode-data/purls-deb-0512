@@ -1,1 +1,2 @@
 - pkg:deb/debian/ruby-sdoc@1.1.0-1?arch=all
+- pkg:deb/debian/ruby-sdoc@2.6.5-1?arch=all

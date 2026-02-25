@@ -3,3 +3,4 @@
 - pkg:deb/debian/proj-data@9.6.0-1?arch=all
 - pkg:deb/debian/proj-data@9.7.0-1?arch=all
 - pkg:deb/debian/proj-data@9.7.1-1?arch=all
+- pkg:deb/debian/proj-data@9.8.0~rc1-1~exp1?arch=all

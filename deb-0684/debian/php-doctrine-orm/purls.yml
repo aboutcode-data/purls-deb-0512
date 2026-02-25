@@ -2,3 +2,4 @@
 - pkg:deb/debian/php-doctrine-orm@2.8.1%2Bdfsg-3?arch=all
 - pkg:deb/debian/php-doctrine-orm@3.3.3%2Bdfsg-1?arch=all
 - pkg:deb/debian/php-doctrine-orm@3.5.8%2Bdfsg-1?arch=all
+- pkg:deb/debian/php-doctrine-orm@3.6.2%2Bdfsg-2?arch=all

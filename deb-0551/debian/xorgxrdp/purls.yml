@@ -12,6 +12,13 @@
 - pkg:deb/debian/xorgxrdp@0.10.4-2?arch=ppc64el
 - pkg:deb/debian/xorgxrdp@0.10.4-2?arch=riscv64
 - pkg:deb/debian/xorgxrdp@0.10.4-2?arch=s390x
+- pkg:deb/debian/xorgxrdp@0.10.5-2?arch=amd64
+- pkg:deb/debian/xorgxrdp@0.10.5-2?arch=arm64
+- pkg:deb/debian/xorgxrdp@0.10.5-2?arch=armhf
+- pkg:deb/debian/xorgxrdp@0.10.5-2?arch=loong64
+- pkg:deb/debian/xorgxrdp@0.10.5-2?arch=ppc64el
+- pkg:deb/debian/xorgxrdp@0.10.5-2?arch=riscv64
+- pkg:deb/debian/xorgxrdp@0.10.5-2?arch=s390x
 - pkg:deb/debian/xorgxrdp@0.2.12-1%2Bdeb11u1?arch=amd64
 - pkg:deb/debian/xorgxrdp@0.2.12-1%2Bdeb11u1?arch=arm64
 - pkg:deb/debian/xorgxrdp@0.2.12-1%2Bdeb11u1?arch=armhf

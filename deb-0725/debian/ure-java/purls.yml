@@ -14,10 +14,17 @@
 - pkg:deb/debian/ure-java@25.8.3-1~bpo13%2B1?arch=arm64
 - pkg:deb/debian/ure-java@25.8.3-1~bpo13%2B1?arch=i386
 - pkg:deb/debian/ure-java@25.8.3-1~bpo13%2B1?arch=riscv64
+- pkg:deb/debian/ure-java@26.2.0-1~bpo13%2B1?arch=amd64
+- pkg:deb/debian/ure-java@26.2.0-1~bpo13%2B1?arch=arm64
+- pkg:deb/debian/ure-java@26.2.0-1~bpo13%2B1?arch=i386
 - pkg:deb/debian/ure-java@26.2.0~alpha1-3?arch=riscv64
 - pkg:deb/debian/ure-java@26.2.0~beta1-1?arch=amd64
 - pkg:deb/debian/ure-java@26.2.0~beta1-1?arch=arm64
 - pkg:deb/debian/ure-java@26.2.0~beta1-1?arch=i386
+- pkg:deb/debian/ure-java@26.2.1~rc2-1?arch=amd64
+- pkg:deb/debian/ure-java@26.2.1~rc2-1?arch=arm64
+- pkg:deb/debian/ure-java@26.2.1~rc2-1?arch=i386
+- pkg:deb/debian/ure-java@26.2.1~rc2-1?arch=loong64
 - pkg:deb/debian/ure-java@7.4.7-1%2Bdeb12u9?arch=amd64
 - pkg:deb/debian/ure-java@7.4.7-1%2Bdeb12u9?arch=arm64
 - pkg:deb/debian/ure-java@7.4.7-1%2Bdeb12u9?arch=armel

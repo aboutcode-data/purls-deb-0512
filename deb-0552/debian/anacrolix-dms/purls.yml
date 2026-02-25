@@ -26,3 +26,11 @@
 - pkg:deb/debian/anacrolix-dms@1.5.0-2%2Bb4?arch=mipsel
 - pkg:deb/debian/anacrolix-dms@1.5.0-2%2Bb4?arch=ppc64el
 - pkg:deb/debian/anacrolix-dms@1.5.0-2%2Bb4?arch=s390x
+- pkg:deb/debian/anacrolix-dms@1.6.0-2?arch=amd64
+- pkg:deb/debian/anacrolix-dms@1.6.0-2?arch=arm64
+- pkg:deb/debian/anacrolix-dms@1.6.0-2?arch=armhf
+- pkg:deb/debian/anacrolix-dms@1.6.0-2?arch=i386
+- pkg:deb/debian/anacrolix-dms@1.6.0-2?arch=loong64
+- pkg:deb/debian/anacrolix-dms@1.6.0-2?arch=ppc64el
+- pkg:deb/debian/anacrolix-dms@1.6.0-2?arch=riscv64
+- pkg:deb/debian/anacrolix-dms@1.6.0-2?arch=s390x

@@ -19,3 +19,4 @@
 - pkg:deb/debian/dictionaryreader.app@0%2B20080616%2Bdfsg-3%2Bb2?arch=ppc64el
 - pkg:deb/debian/dictionaryreader.app@0%2B20080616%2Bdfsg-3%2Bb2?arch=riscv64
 - pkg:deb/debian/dictionaryreader.app@0%2B20080616%2Bdfsg-3%2Bb2?arch=s390x
+- pkg:deb/debian/dictionaryreader.app@0%2B20080616%2Bdfsg-3?arch=loong64

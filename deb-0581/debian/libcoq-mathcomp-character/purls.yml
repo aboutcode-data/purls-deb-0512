@@ -9,9 +9,15 @@
 - pkg:deb/debian/libcoq-mathcomp-character@2.3.0-1%2Bb13?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-character@2.3.0-1%2Bb13?arch=ppc64el
 - pkg:deb/debian/libcoq-mathcomp-character@2.3.0-1%2Bb13?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-character@2.3.0-1%2Bb17?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-character@2.3.0-1%2Bb17?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-character@2.3.0-1%2Bb6?arch=riscv64
 - pkg:deb/debian/libcoq-mathcomp-character@2.3.0-1%2Bb7?arch=amd64
 - pkg:deb/debian/libcoq-mathcomp-character@2.3.0-1%2Bb7?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-character@2.3.0-1%2Bb7?arch=ppc64el
 - pkg:deb/debian/libcoq-mathcomp-character@2.3.0-1%2Bb7?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-character@2.5.0-2%2Bb1?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-character@2.5.0-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-character@2.5.0-2%2Bb1?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-character@2.5.0-2%2Bb2?arch=amd64
 - pkg:deb/debian/libcoq-mathcomp-character@2.5.0-2?arch=amd64

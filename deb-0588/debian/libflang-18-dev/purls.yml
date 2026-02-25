@@ -6,6 +6,10 @@
 - pkg:deb/debian/libflang-18-dev@18.1.8-20%2Bb1?arch=arm64
 - pkg:deb/debian/libflang-18-dev@18.1.8-20%2Bb1?arch=ppc64el
 - pkg:deb/debian/libflang-18-dev@18.1.8-20%2Bb1?arch=riscv64
+- pkg:deb/debian/libflang-18-dev@18.1.8-20%2Bb3?arch=amd64
+- pkg:deb/debian/libflang-18-dev@18.1.8-20%2Bb3?arch=arm64
+- pkg:deb/debian/libflang-18-dev@18.1.8-20%2Bb3?arch=ppc64el
+- pkg:deb/debian/libflang-18-dev@18.1.8-20%2Bb3?arch=riscv64
 - pkg:deb/debian/libflang-18-dev@18.1.8-20?arch=amd64
 - pkg:deb/debian/libflang-18-dev@18.1.8-20?arch=arm64
 - pkg:deb/debian/libflang-18-dev@18.1.8-20?arch=ppc64el

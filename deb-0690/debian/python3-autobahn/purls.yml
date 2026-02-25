@@ -3,3 +3,4 @@
 - pkg:deb/debian/python3-autobahn@23.1.2%2Bdfsg1-2?arch=all
 - pkg:deb/debian/python3-autobahn@24.4.2%2Bdfsg1-3?arch=all
 - pkg:deb/debian/python3-autobahn@24.4.2%2Bdfsg1-4?arch=all
+- pkg:deb/debian/python3-autobahn@24.4.2%2Bdfsg1-5?arch=all

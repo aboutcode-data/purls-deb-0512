@@ -1,3 +1,4 @@
+- pkg:deb/debian/libmarkup-lwt-ocaml@1.0.3-1%2Bb10?arch=amd64
 - pkg:deb/debian/libmarkup-lwt-ocaml@1.0.3-1%2Bb4?arch=arm64
 - pkg:deb/debian/libmarkup-lwt-ocaml@1.0.3-1%2Bb4?arch=armel
 - pkg:deb/debian/libmarkup-lwt-ocaml@1.0.3-1%2Bb4?arch=armhf
@@ -13,3 +14,4 @@
 - pkg:deb/debian/libmarkup-lwt-ocaml@1.0.3-1%2Bb6?arch=riscv64
 - pkg:deb/debian/libmarkup-lwt-ocaml@1.0.3-1%2Bb6?arch=s390x
 - pkg:deb/debian/libmarkup-lwt-ocaml@1.0.3-1%2Bb7?arch=amd64
+- pkg:deb/debian/libmarkup-lwt-ocaml@1.0.3-1%2Bb9?arch=arm64

@@ -1,3 +1,4 @@
 - pkg:deb/debian/r-cran-taxize@0.10.0-1?arch=all
+- pkg:deb/debian/r-cran-taxize@0.10.1-1?arch=all
 - pkg:deb/debian/r-cran-taxize@0.9.100-1?arch=all
 - pkg:deb/debian/r-cran-taxize@0.9.99-1?arch=all

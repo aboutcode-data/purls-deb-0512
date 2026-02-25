@@ -14,3 +14,10 @@
 - pkg:deb/debian/xtrs@4.9d-2.1?arch=i386
 - pkg:deb/debian/xtrs@4.9d-2.1?arch=ppc64el
 - pkg:deb/debian/xtrs@4.9d-2.1?arch=s390x
+- pkg:deb/debian/xtrs@4.9d-3?arch=amd64
+- pkg:deb/debian/xtrs@4.9d-3?arch=arm64
+- pkg:deb/debian/xtrs@4.9d-3?arch=armhf
+- pkg:deb/debian/xtrs@4.9d-3?arch=i386
+- pkg:deb/debian/xtrs@4.9d-3?arch=loong64
+- pkg:deb/debian/xtrs@4.9d-3?arch=ppc64el
+- pkg:deb/debian/xtrs@4.9d-3?arch=s390x

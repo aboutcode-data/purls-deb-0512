@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-color@1.8-3?arch=all
 - pkg:deb/debian/ruby-color@1.8-4?arch=all
 - pkg:deb/debian/ruby-color@2.1.1-1?arch=all
+- pkg:deb/debian/ruby-color@2.2.0-1?arch=all

@@ -15,6 +15,7 @@
 - pkg:deb/debian/oggvideotools@0.9.1-7.1?arch=arm64
 - pkg:deb/debian/oggvideotools@0.9.1-7.1?arch=armhf
 - pkg:deb/debian/oggvideotools@0.9.1-7.1?arch=i386
+- pkg:deb/debian/oggvideotools@0.9.1-7.1?arch=loong64
 - pkg:deb/debian/oggvideotools@0.9.1-7.1?arch=ppc64el
 - pkg:deb/debian/oggvideotools@0.9.1-7.1?arch=riscv64
 - pkg:deb/debian/oggvideotools@0.9.1-7?arch=amd64

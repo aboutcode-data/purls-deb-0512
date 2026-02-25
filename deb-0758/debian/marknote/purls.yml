@@ -13,3 +13,5 @@
 - pkg:deb/debian/marknote@1.3.0-5?arch=ppc64el
 - pkg:deb/debian/marknote@1.3.0-5?arch=riscv64
 - pkg:deb/debian/marknote@1.3.0-5?arch=s390x
+- pkg:deb/debian/marknote@1.4.1-1?arch=loong64
+- pkg:deb/debian/marknote@1.4.1-1?arch=riscv64

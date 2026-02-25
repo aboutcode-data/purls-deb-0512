@@ -18,3 +18,11 @@
 - pkg:deb/debian/atfs@1.4pl6-16.1?arch=ppc64el
 - pkg:deb/debian/atfs@1.4pl6-16.1?arch=riscv64
 - pkg:deb/debian/atfs@1.4pl6-16.1?arch=s390x
+- pkg:deb/debian/atfs@1.4pl6-17?arch=amd64
+- pkg:deb/debian/atfs@1.4pl6-17?arch=arm64
+- pkg:deb/debian/atfs@1.4pl6-17?arch=armhf
+- pkg:deb/debian/atfs@1.4pl6-17?arch=i386
+- pkg:deb/debian/atfs@1.4pl6-17?arch=loong64
+- pkg:deb/debian/atfs@1.4pl6-17?arch=ppc64el
+- pkg:deb/debian/atfs@1.4pl6-17?arch=riscv64
+- pkg:deb/debian/atfs@1.4pl6-17?arch=s390x

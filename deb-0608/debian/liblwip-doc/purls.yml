@@ -2,3 +2,4 @@
 - pkg:deb/debian/liblwip-doc@2.1.3%2Bdfsg1-2?arch=all
 - pkg:deb/debian/liblwip-doc@2.2.1%2Bdfsg1-1?arch=all
 - pkg:deb/debian/liblwip-doc@2.2.1%2Bdfsg1-2?arch=all
+- pkg:deb/debian/liblwip-doc@2.2.1%2Bdfsg1-4?arch=all

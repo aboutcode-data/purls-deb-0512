@@ -13,3 +13,10 @@
 - pkg:deb/debian/libghc-futhark-dev@0.25.32-2?arch=ppc64el
 - pkg:deb/debian/libghc-futhark-dev@0.25.32-2?arch=riscv64
 - pkg:deb/debian/libghc-futhark-dev@0.25.32-2?arch=s390x
+- pkg:deb/debian/libghc-futhark-dev@0.25.32-3?arch=amd64
+- pkg:deb/debian/libghc-futhark-dev@0.25.32-3?arch=arm64
+- pkg:deb/debian/libghc-futhark-dev@0.25.32-3?arch=armhf
+- pkg:deb/debian/libghc-futhark-dev@0.25.32-3?arch=i386
+- pkg:deb/debian/libghc-futhark-dev@0.25.32-3?arch=ppc64el
+- pkg:deb/debian/libghc-futhark-dev@0.25.32-3?arch=riscv64
+- pkg:deb/debian/libghc-futhark-dev@0.25.32-3?arch=s390x

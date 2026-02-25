@@ -2,3 +2,4 @@
 - pkg:deb/debian/m4-doc@1.4.19-3?arch=all
 - pkg:deb/debian/m4-doc@1.4.19-8?arch=all
 - pkg:deb/debian/m4-doc@1.4.20-2?arch=all
+- pkg:deb/debian/m4-doc@1.4.21-1?arch=all

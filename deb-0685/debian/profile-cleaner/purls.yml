@@ -1,1 +1,2 @@
 - pkg:deb/debian/profile-cleaner@2.45-3?arch=all
+- pkg:deb/debian/profile-cleaner@2.46-1?arch=all

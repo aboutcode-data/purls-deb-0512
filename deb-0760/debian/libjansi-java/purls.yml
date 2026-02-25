@@ -1,3 +1,4 @@
 - pkg:deb/debian/libjansi-java@1.18-1?arch=all
 - pkg:deb/debian/libjansi-java@2.4.0-2?arch=all
 - pkg:deb/debian/libjansi-java@2.4.1-2?arch=all
+- pkg:deb/debian/libjansi-java@2.4.2-1?arch=all

@@ -1,3 +1,4 @@
 - pkg:deb/debian/libapp-cpants-lint-perl@0.05-5.1?arch=all
 - pkg:deb/debian/libapp-cpants-lint-perl@0.05-6?arch=all
 - pkg:deb/debian/libapp-cpants-lint-perl@0.05-7?arch=all
+- pkg:deb/debian/libapp-cpants-lint-perl@0.05-8?arch=all

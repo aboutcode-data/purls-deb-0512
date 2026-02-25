@@ -21,3 +21,15 @@
 - pkg:deb/debian/libopenmpi-dev@5.0.9-1?arch=ppc64el
 - pkg:deb/debian/libopenmpi-dev@5.0.9-1?arch=riscv64
 - pkg:deb/debian/libopenmpi-dev@5.0.9-1?arch=s390x
+- pkg:deb/debian/libopenmpi-dev@5.0.9-3?arch=amd64
+- pkg:deb/debian/libopenmpi-dev@5.0.9-3?arch=arm64
+- pkg:deb/debian/libopenmpi-dev@5.0.9-3?arch=loong64
+- pkg:deb/debian/libopenmpi-dev@5.0.9-3?arch=ppc64el
+- pkg:deb/debian/libopenmpi-dev@5.0.9-3?arch=riscv64
+- pkg:deb/debian/libopenmpi-dev@5.0.9-3?arch=s390x
+- pkg:deb/debian/libopenmpi-dev@5.0.9-4?arch=amd64
+- pkg:deb/debian/libopenmpi-dev@5.0.9-4?arch=arm64
+- pkg:deb/debian/libopenmpi-dev@5.0.9-4?arch=loong64
+- pkg:deb/debian/libopenmpi-dev@5.0.9-4?arch=ppc64el
+- pkg:deb/debian/libopenmpi-dev@5.0.9-4?arch=riscv64
+- pkg:deb/debian/libopenmpi-dev@5.0.9-4?arch=s390x

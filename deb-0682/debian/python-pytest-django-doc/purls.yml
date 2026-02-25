@@ -1,1 +1,2 @@
 - pkg:deb/debian/python-pytest-django-doc@4.11.1-2?arch=all
+- pkg:deb/debian/python-pytest-django-doc@4.12.0-1?arch=all

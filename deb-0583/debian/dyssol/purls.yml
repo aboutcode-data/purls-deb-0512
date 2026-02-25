@@ -15,6 +15,7 @@
 - pkg:deb/debian/dyssol@1.4.0-2?arch=ppc64el
 - pkg:deb/debian/dyssol@1.4.0-2?arch=riscv64
 - pkg:deb/debian/dyssol@1.4.0-2?arch=s390x
+- pkg:deb/debian/dyssol@1.5.0-1.1?arch=loong64
 - pkg:deb/debian/dyssol@1.5.0-1?arch=amd64
 - pkg:deb/debian/dyssol@1.5.0-1?arch=arm64
 - pkg:deb/debian/dyssol@1.5.0-1?arch=armhf

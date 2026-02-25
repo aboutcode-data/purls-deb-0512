@@ -1,1 +1,2 @@
 - pkg:deb/debian/linux-headers-mips64r6el@6.12.57-1~bpo12%2B1?arch=mips64el
+- pkg:deb/debian/linux-headers-mips64r6el@6.12.73-1~bpo12%2B1?arch=mips64el

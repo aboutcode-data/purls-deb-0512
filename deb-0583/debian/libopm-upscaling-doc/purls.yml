@@ -2,3 +2,4 @@
 - pkg:deb/debian/libopm-upscaling-doc@2024.10%2Bds-1?arch=all
 - pkg:deb/debian/libopm-upscaling-doc@2025.04%2Bds-1?arch=all
 - pkg:deb/debian/libopm-upscaling-doc@2025.10%2Bds-1?arch=all
+- pkg:deb/debian/libopm-upscaling-doc@2025.10%2Bds-2?arch=all

@@ -1,0 +1,8 @@
+- pkg:deb/debian/libmigraphx-c-dev@7.1.1-1?arch=amd64
+- pkg:deb/debian/libmigraphx-c-dev@7.1.1-1?arch=arm64
+- pkg:deb/debian/libmigraphx-c-dev@7.1.1-1?arch=loong64
+- pkg:deb/debian/libmigraphx-c-dev@7.1.1-1?arch=ppc64el
+- pkg:deb/debian/libmigraphx-c-dev@7.1.1-2?arch=amd64
+- pkg:deb/debian/libmigraphx-c-dev@7.1.1-2?arch=arm64
+- pkg:deb/debian/libmigraphx-c-dev@7.1.1-2?arch=loong64
+- pkg:deb/debian/libmigraphx-c-dev@7.1.1-2?arch=ppc64el

@@ -1,3 +1,4 @@
 - pkg:deb/debian/kallisto-examples@0.46.2%2Bdfsg-2?arch=all
 - pkg:deb/debian/kallisto-examples@0.48.0%2Bdfsg-3?arch=all
 - pkg:deb/debian/kallisto-examples@0.48.0%2Bdfsg-4?arch=all
+- pkg:deb/debian/kallisto-examples@0.51.1%2Bdfsg-1?arch=all

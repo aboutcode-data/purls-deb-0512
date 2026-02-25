@@ -1,0 +1,2 @@
+- pkg:deb/debian/libstd-rust-1.92@1.92.0%2Bdfsg1-1~exp1?arch=loong64
+- pkg:deb/debian/libstd-rust-1.92@1.92.0%2Bdfsg1-1~exp1?arch=riscv64

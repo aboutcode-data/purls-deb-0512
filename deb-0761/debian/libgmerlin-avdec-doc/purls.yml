@@ -1,4 +1,5 @@
 - pkg:deb/debian/libgmerlin-avdec-doc@1.2.0~dfsg-11?arch=all
+- pkg:deb/debian/libgmerlin-avdec-doc@2.0.0%2Bds-2?arch=all
 - pkg:deb/debian/libgmerlin-avdec-doc@2.0.0~svn6298~dfsg0-3?arch=all
 - pkg:deb/debian/libgmerlin-avdec-doc@2.0.0~svn6298~dfsg0-5?arch=all
 - pkg:deb/debian/libgmerlin-avdec-doc@2.0.0~svn6298~dfsg0-7?arch=all

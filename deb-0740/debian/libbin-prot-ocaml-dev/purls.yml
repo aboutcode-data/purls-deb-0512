@@ -26,3 +26,5 @@
 - pkg:deb/debian/libbin-prot-ocaml-dev@0.17.0-2%2Bb6?arch=ppc64el
 - pkg:deb/debian/libbin-prot-ocaml-dev@0.17.0-2%2Bb6?arch=riscv64
 - pkg:deb/debian/libbin-prot-ocaml-dev@0.17.0-2%2Bb6?arch=s390x
+- pkg:deb/debian/libbin-prot-ocaml-dev@0.17.0-2%2Bb8?arch=amd64
+- pkg:deb/debian/libbin-prot-ocaml-dev@0.17.0-2%2Bb9?arch=arm64

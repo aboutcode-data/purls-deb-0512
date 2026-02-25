@@ -26,3 +26,5 @@
 - pkg:deb/debian/liblambda-term-ocaml@3.3.2-2%2Bb2?arch=ppc64el
 - pkg:deb/debian/liblambda-term-ocaml@3.3.2-2%2Bb2?arch=riscv64
 - pkg:deb/debian/liblambda-term-ocaml@3.3.2-2%2Bb2?arch=s390x
+- pkg:deb/debian/liblambda-term-ocaml@3.3.2-2%2Bb6?arch=amd64
+- pkg:deb/debian/liblambda-term-ocaml@3.3.2-2%2Bb7?arch=arm64

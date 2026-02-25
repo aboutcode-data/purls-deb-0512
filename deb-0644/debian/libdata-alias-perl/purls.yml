@@ -15,3 +15,4 @@
 - pkg:deb/debian/libdata-alias-perl@1.28-1?arch=mipsel
 - pkg:deb/debian/libdata-alias-perl@1.28-1?arch=ppc64el
 - pkg:deb/debian/libdata-alias-perl@1.28-1?arch=s390x
+- pkg:deb/debian/libdata-alias-perl@1.29-1?arch=loong64

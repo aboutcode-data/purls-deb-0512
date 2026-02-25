@@ -11,5 +11,7 @@
 - pkg:deb/debian/libmdx-ocaml@2.5.1-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libmdx-ocaml@2.5.1-1%2Bb1?arch=s390x
 - pkg:deb/debian/libmdx-ocaml@2.5.1-1%2Bb2?arch=riscv64
+- pkg:deb/debian/libmdx-ocaml@2.5.1-1%2Bb5?arch=amd64
+- pkg:deb/debian/libmdx-ocaml@2.5.1-1%2Bb5?arch=arm64
 - pkg:deb/debian/libmdx-ocaml@2.5.1-1?arch=armhf
 - pkg:deb/debian/libmdx-ocaml@2.5.1-1?arch=i386

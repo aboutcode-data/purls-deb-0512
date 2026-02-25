@@ -5,6 +5,12 @@
 - pkg:deb/debian/mono-devel@6.14.1%2Bds2-1?arch=i386
 - pkg:deb/debian/mono-devel@6.14.1%2Bds2-1?arch=ppc64el
 - pkg:deb/debian/mono-devel@6.14.1%2Bds2-1?arch=s390x
+- pkg:deb/debian/mono-devel@6.14.1%2Bds2-2?arch=amd64
+- pkg:deb/debian/mono-devel@6.14.1%2Bds2-2?arch=arm64
+- pkg:deb/debian/mono-devel@6.14.1%2Bds2-2?arch=armhf
+- pkg:deb/debian/mono-devel@6.14.1%2Bds2-2?arch=i386
+- pkg:deb/debian/mono-devel@6.14.1%2Bds2-2?arch=ppc64el
+- pkg:deb/debian/mono-devel@6.14.1%2Bds2-2?arch=s390x
 - pkg:deb/debian/mono-devel@6.8.0.105%2Bdfsg-3.3%2Bdeb12u1?arch=all
 - pkg:deb/debian/mono-devel@6.8.0.105%2Bdfsg-3.3?arch=all
 - pkg:deb/debian/mono-devel@6.8.0.105%2Bdfsg-3.3~deb11u1?arch=all

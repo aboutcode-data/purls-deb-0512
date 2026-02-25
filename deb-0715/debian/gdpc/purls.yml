@@ -8,3 +8,11 @@
 - pkg:deb/debian/gdpc@2.2.5-16%2Bb1?arch=ppc64el
 - pkg:deb/debian/gdpc@2.2.5-16%2Bb2?arch=arm64
 - pkg:deb/debian/gdpc@2.2.5-16%2Bb2?arch=riscv64
+- pkg:deb/debian/gdpc@2.2.5-19?arch=amd64
+- pkg:deb/debian/gdpc@2.2.5-19?arch=arm64
+- pkg:deb/debian/gdpc@2.2.5-19?arch=armhf
+- pkg:deb/debian/gdpc@2.2.5-19?arch=i386
+- pkg:deb/debian/gdpc@2.2.5-19?arch=loong64
+- pkg:deb/debian/gdpc@2.2.5-19?arch=ppc64el
+- pkg:deb/debian/gdpc@2.2.5-19?arch=riscv64
+- pkg:deb/debian/gdpc@2.2.5-19?arch=s390x

@@ -6,3 +6,5 @@
 - pkg:deb/debian/libcrunch-ocaml@4.0.0-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libcrunch-ocaml@4.0.0-1%2Bb1?arch=riscv64
 - pkg:deb/debian/libcrunch-ocaml@4.0.0-1%2Bb1?arch=s390x
+- pkg:deb/debian/libcrunch-ocaml@4.0.0-1%2Bb3?arch=amd64
+- pkg:deb/debian/libcrunch-ocaml@4.0.0-1%2Bb3?arch=arm64

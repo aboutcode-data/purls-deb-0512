@@ -19,6 +19,8 @@
 - pkg:deb/debian/libfpath-ocaml@0.7.3-3%2Bb4?arch=ppc64el
 - pkg:deb/debian/libfpath-ocaml@0.7.3-3%2Bb4?arch=s390x
 - pkg:deb/debian/libfpath-ocaml@0.7.3-3%2Bb5?arch=riscv64
+- pkg:deb/debian/libfpath-ocaml@0.7.3-4%2Bb2?arch=amd64
+- pkg:deb/debian/libfpath-ocaml@0.7.3-4%2Bb2?arch=arm64
 - pkg:deb/debian/libfpath-ocaml@0.7.3-4?arch=amd64
 - pkg:deb/debian/libfpath-ocaml@0.7.3-4?arch=arm64
 - pkg:deb/debian/libfpath-ocaml@0.7.3-4?arch=armhf

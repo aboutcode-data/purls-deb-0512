@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-simplenote@2.1.4-1.1?arch=all
+- pkg:deb/debian/python3-simplenote@2.1.4-2?arch=all

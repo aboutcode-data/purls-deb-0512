@@ -2,3 +2,4 @@
 - pkg:deb/debian/groonga-server-http@15.0.4%2Bdfsg-2?arch=all
 - pkg:deb/debian/groonga-server-http@15.2.0%2Bdfsg-1?arch=all
 - pkg:deb/debian/groonga-server-http@15.2.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/groonga-server-http@16.0.0%2Bdfsg-1?arch=all

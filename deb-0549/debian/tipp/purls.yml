@@ -1,2 +1,4 @@
 - pkg:deb/debian/tipp@1.0%2Bdfsg-3?arch=amd64
 - pkg:deb/debian/tipp@1.0%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/tipp@1.0%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/tipp@1.0%2Bdfsg-4?arch=arm64

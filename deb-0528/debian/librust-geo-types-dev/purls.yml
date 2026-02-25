@@ -1,3 +1,4 @@
+- pkg:deb/debian/librust-geo-types-dev@0.7.11-2%2Bb1?arch=loong64
 - pkg:deb/debian/librust-geo-types-dev@0.7.11-2%2Bb2?arch=amd64
 - pkg:deb/debian/librust-geo-types-dev@0.7.11-2%2Bb2?arch=arm64
 - pkg:deb/debian/librust-geo-types-dev@0.7.11-2%2Bb2?arch=armel

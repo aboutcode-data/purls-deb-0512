@@ -15,6 +15,7 @@
 - pkg:deb/debian/gr-rds@3.10-1%2Bb7?arch=mipsel
 - pkg:deb/debian/gr-rds@3.10-1%2Bb7?arch=ppc64el
 - pkg:deb/debian/gr-rds@3.10-1%2Bb7?arch=s390x
+- pkg:deb/debian/gr-rds@3.10-1?arch=loong64
 - pkg:deb/debian/gr-rds@3.8.0.0.f1c584a-3%2Bb5?arch=amd64
 - pkg:deb/debian/gr-rds@3.8.0.0.f1c584a-3%2Bb5?arch=arm64
 - pkg:deb/debian/gr-rds@3.8.0.0.f1c584a-3%2Bb5?arch=armhf

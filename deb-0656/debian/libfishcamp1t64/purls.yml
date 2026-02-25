@@ -2,3 +2,7 @@
 - pkg:deb/debian/libfishcamp1t64@1.2%2B20220607003151-3?arch=arm64
 - pkg:deb/debian/libfishcamp1t64@1.2%2B20220607003151-3?arch=armhf
 - pkg:deb/debian/libfishcamp1t64@1.2%2B20220607003151-3?arch=i386
+- pkg:deb/debian/libfishcamp1t64@1.2%2B20220607003151-4?arch=amd64
+- pkg:deb/debian/libfishcamp1t64@1.2%2B20220607003151-4?arch=arm64
+- pkg:deb/debian/libfishcamp1t64@1.2%2B20220607003151-4?arch=armhf
+- pkg:deb/debian/libfishcamp1t64@1.2%2B20220607003151-4?arch=i386

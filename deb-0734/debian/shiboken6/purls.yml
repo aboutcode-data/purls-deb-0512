@@ -1,2 +1,3 @@
+- pkg:deb/debian/shiboken6@6.10.2-2?arch=all
 - pkg:deb/debian/shiboken6@6.8.2.1-4?arch=all
 - pkg:deb/debian/shiboken6@6.9.2-2?arch=all

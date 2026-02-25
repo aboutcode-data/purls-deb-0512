@@ -1,4 +1,5 @@
 - pkg:deb/debian/python3-placement@13.0.0-1?arch=all
 - pkg:deb/debian/python3-placement@14.0.0-1?arch=all
+- pkg:deb/debian/python3-placement@14.0.0-2?arch=all
 - pkg:deb/debian/python3-placement@4.0.0-1?arch=all
 - pkg:deb/debian/python3-placement@8.0.0-2?arch=all

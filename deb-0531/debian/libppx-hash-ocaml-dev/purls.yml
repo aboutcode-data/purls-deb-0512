@@ -14,6 +14,8 @@
 - pkg:deb/debian/libppx-hash-ocaml-dev@0.17.0-1%2Bb10?arch=ppc64el
 - pkg:deb/debian/libppx-hash-ocaml-dev@0.17.0-1%2Bb10?arch=riscv64
 - pkg:deb/debian/libppx-hash-ocaml-dev@0.17.0-1%2Bb10?arch=s390x
+- pkg:deb/debian/libppx-hash-ocaml-dev@0.17.0-1%2Bb12?arch=amd64
+- pkg:deb/debian/libppx-hash-ocaml-dev@0.17.0-1%2Bb12?arch=arm64
 - pkg:deb/debian/libppx-hash-ocaml-dev@0.17.0-1%2Bb8?arch=amd64
 - pkg:deb/debian/libppx-hash-ocaml-dev@0.17.0-1%2Bb8?arch=arm64
 - pkg:deb/debian/libppx-hash-ocaml-dev@0.17.0-1%2Bb8?arch=armel

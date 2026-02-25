@@ -1,1 +1,2 @@
 - pkg:deb/debian/pioneers-data@15.6-1?arch=all
+- pkg:deb/debian/pioneers-data@15.6-3?arch=all

@@ -5,3 +5,4 @@
 - pkg:deb/debian/librust-sha256%2Btokio-dev@1.6.0-4?arch=ppc64el
 - pkg:deb/debian/librust-sha256%2Btokio-dev@1.6.0-4?arch=riscv64
 - pkg:deb/debian/librust-sha256%2Btokio-dev@1.6.0-4?arch=s390x
+- pkg:deb/debian/librust-sha256%2Btokio-dev@1.6.0-6?arch=all

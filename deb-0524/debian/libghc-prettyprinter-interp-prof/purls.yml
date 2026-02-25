@@ -6,3 +6,4 @@
 - pkg:deb/debian/libghc-prettyprinter-interp-prof@0.2.0.0-3?arch=ppc64el
 - pkg:deb/debian/libghc-prettyprinter-interp-prof@0.2.0.0-3?arch=riscv64
 - pkg:deb/debian/libghc-prettyprinter-interp-prof@0.2.0.0-3?arch=s390x
+- pkg:deb/debian/libghc-prettyprinter-interp-prof@0.2.0.0-4?arch=loong64

@@ -1,3 +1,4 @@
 - pkg:deb/debian/librime-data@0.38.20190120-1?arch=all
 - pkg:deb/debian/librime-data@0.38.20210909-3?arch=all
 - pkg:deb/debian/librime-data@0.38.20210909-4?arch=all
+- pkg:deb/debian/librime-data@0.39%2Bdebian-1?arch=all

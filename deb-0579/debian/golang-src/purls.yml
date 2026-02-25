@@ -5,3 +5,4 @@
 - pkg:deb/debian/golang-src@1.19~1?arch=all
 - pkg:deb/debian/golang-src@1.23~2~bpo12%2B1?arch=all
 - pkg:deb/debian/golang-src@1.24~2?arch=all
+- pkg:deb/debian/golang-src@1.26~1?arch=all

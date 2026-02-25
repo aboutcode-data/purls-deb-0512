@@ -2,6 +2,7 @@
 - pkg:deb/debian/debianutils@4.11.2?arch=arm64
 - pkg:deb/debian/debianutils@4.11.2?arch=armhf
 - pkg:deb/debian/debianutils@4.11.2?arch=i386
+- pkg:deb/debian/debianutils@5.23.2%2Bb1?arch=loong64
 - pkg:deb/debian/debianutils@5.23.2?arch=amd64
 - pkg:deb/debian/debianutils@5.23.2?arch=arm64
 - pkg:deb/debian/debianutils@5.23.2?arch=armel

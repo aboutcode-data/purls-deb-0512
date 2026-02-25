@@ -26,3 +26,5 @@
 - pkg:deb/debian/liblwt-log-ocaml-dev@1.1.2-4%2Bb16?arch=ppc64el
 - pkg:deb/debian/liblwt-log-ocaml-dev@1.1.2-4%2Bb16?arch=s390x
 - pkg:deb/debian/liblwt-log-ocaml-dev@1.1.2-4%2Bb17?arch=riscv64
+- pkg:deb/debian/liblwt-log-ocaml-dev@1.1.2-4%2Bb19?arch=amd64
+- pkg:deb/debian/liblwt-log-ocaml-dev@1.1.2-4%2Bb19?arch=arm64

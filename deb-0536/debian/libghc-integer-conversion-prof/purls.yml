@@ -6,3 +6,4 @@
 - pkg:deb/debian/libghc-integer-conversion-prof@0.1.0.1-2?arch=ppc64el
 - pkg:deb/debian/libghc-integer-conversion-prof@0.1.0.1-2?arch=riscv64
 - pkg:deb/debian/libghc-integer-conversion-prof@0.1.0.1-2?arch=s390x
+- pkg:deb/debian/libghc-integer-conversion-prof@0.1.1-2?arch=loong64

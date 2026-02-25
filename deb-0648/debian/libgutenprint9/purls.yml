@@ -16,3 +16,8 @@
 - pkg:deb/debian/libgutenprint9@5.3.4.20220624T01008808d602-4?arch=ppc64el
 - pkg:deb/debian/libgutenprint9@5.3.4.20220624T01008808d602-4?arch=riscv64
 - pkg:deb/debian/libgutenprint9@5.3.4.20220624T01008808d602-4?arch=s390x
+- pkg:deb/debian/libgutenprint9@5.3.6-2026-02-01T02-18-9b0bdf87-1?arch=amd64
+- pkg:deb/debian/libgutenprint9@5.3.6-2026-02-01T02-18-9b0bdf87-1?arch=arm64
+- pkg:deb/debian/libgutenprint9@5.3.6-2026-02-01T02-18-9b0bdf87-1?arch=loong64
+- pkg:deb/debian/libgutenprint9@5.3.6-2026-02-01T02-18-9b0bdf87-1?arch=ppc64el
+- pkg:deb/debian/libgutenprint9@5.3.6-2026-02-01T02-18-9b0bdf87-1?arch=riscv64

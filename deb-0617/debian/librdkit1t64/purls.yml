@@ -6,3 +6,7 @@
 - pkg:deb/debian/librdkit1t64@202503.6-2?arch=amd64
 - pkg:deb/debian/librdkit1t64@202503.6-2?arch=arm64
 - pkg:deb/debian/librdkit1t64@202503.6-2?arch=ppc64el
+- pkg:deb/debian/librdkit1t64@202503.6-4?arch=amd64
+- pkg:deb/debian/librdkit1t64@202503.6-4?arch=arm64
+- pkg:deb/debian/librdkit1t64@202503.6-4?arch=ppc64el
+- pkg:deb/debian/librdkit1t64@202503.6-4?arch=riscv64

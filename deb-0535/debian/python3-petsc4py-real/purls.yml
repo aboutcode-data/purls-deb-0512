@@ -3,3 +3,4 @@
 - pkg:deb/debian/python3-petsc4py-real@3.22.4-1?arch=all
 - pkg:deb/debian/python3-petsc4py-real@3.22.4-2?arch=all
 - pkg:deb/debian/python3-petsc4py-real@3.24.1-2?arch=all
+- pkg:deb/debian/python3-petsc4py-real@3.24.4-1?arch=all

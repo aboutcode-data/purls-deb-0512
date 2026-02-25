@@ -33,3 +33,10 @@
 - pkg:deb/debian/libdlt-dev@2.18.8-6?arch=mipsel
 - pkg:deb/debian/libdlt-dev@2.18.8-6?arch=ppc64el
 - pkg:deb/debian/libdlt-dev@2.18.8-6?arch=s390x
+- pkg:deb/debian/libdlt-dev@3.0.0-4?arch=amd64
+- pkg:deb/debian/libdlt-dev@3.0.0-4?arch=arm64
+- pkg:deb/debian/libdlt-dev@3.0.0-4?arch=armhf
+- pkg:deb/debian/libdlt-dev@3.0.0-4?arch=i386
+- pkg:deb/debian/libdlt-dev@3.0.0-4?arch=ppc64el
+- pkg:deb/debian/libdlt-dev@3.0.0-4?arch=riscv64
+- pkg:deb/debian/libdlt-dev@3.0.0-4?arch=s390x

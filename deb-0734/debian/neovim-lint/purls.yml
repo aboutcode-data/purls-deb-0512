@@ -1,0 +1,2 @@
+- pkg:deb/debian/neovim-lint@0.5%2B20260107-1?arch=all
+- pkg:deb/debian/neovim-lint@0.5%2B20260107-2?arch=all

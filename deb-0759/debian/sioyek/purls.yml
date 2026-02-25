@@ -22,3 +22,4 @@
 - pkg:deb/debian/sioyek@2.0.0%2Bdfsg-5.1%2Bb2?arch=ppc64el
 - pkg:deb/debian/sioyek@2.0.0%2Bdfsg-5.1%2Bb2?arch=riscv64
 - pkg:deb/debian/sioyek@2.0.0%2Bdfsg-5.1%2Bb2?arch=s390x
+- pkg:deb/debian/sioyek@2.0.0%2Bdfsg-5.1?arch=loong64

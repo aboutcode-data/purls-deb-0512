@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-opentelemetry-semantic-conventions@1.38.0-2?arch=all
+- pkg:deb/debian/python3-opentelemetry-semantic-conventions@1.39.1-2?arch=all

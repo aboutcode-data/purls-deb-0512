@@ -9,6 +9,7 @@
 - pkg:deb/debian/dash@0.5.12%2Bgit20240518%2Bf47009f9a76e-2?arch=ppc64el
 - pkg:deb/debian/dash@0.5.12%2Bgit20240518%2Bf47009f9a76e-2?arch=riscv64
 - pkg:deb/debian/dash@0.5.12%2Bgit20240518%2Bf47009f9a76e-2?arch=s390x
+- pkg:deb/debian/dash@0.5.12-12%2Bb1?arch=loong64
 - pkg:deb/debian/dash@0.5.12-12?arch=amd64
 - pkg:deb/debian/dash@0.5.12-12?arch=arm64
 - pkg:deb/debian/dash@0.5.12-12?arch=armel

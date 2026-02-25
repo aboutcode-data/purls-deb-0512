@@ -1,1 +1,2 @@
 - pkg:deb/debian/spdx-licenses@3.21-1?arch=all
+- pkg:deb/debian/spdx-licenses@3.27.0%2Bds-1?arch=all

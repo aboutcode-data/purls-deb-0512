@@ -19,6 +19,7 @@
 - pkg:deb/debian/librust-backtrace-dev@0.3.74-3?arch=ppc64el
 - pkg:deb/debian/librust-backtrace-dev@0.3.74-3?arch=riscv64
 - pkg:deb/debian/librust-backtrace-dev@0.3.74-3?arch=s390x
+- pkg:deb/debian/librust-backtrace-dev@0.3.75-2%2Bb1?arch=loong64
 - pkg:deb/debian/librust-backtrace-dev@0.3.75-2?arch=amd64
 - pkg:deb/debian/librust-backtrace-dev@0.3.75-2?arch=arm64
 - pkg:deb/debian/librust-backtrace-dev@0.3.75-2?arch=armhf

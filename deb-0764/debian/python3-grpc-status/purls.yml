@@ -1,2 +1,3 @@
 - pkg:deb/debian/python3-grpc-status@1.71.0-1?arch=all
 - pkg:deb/debian/python3-grpc-status@1.76.0-1?arch=all
+- pkg:deb/debian/python3-grpc-status@1.78.0-1?arch=all

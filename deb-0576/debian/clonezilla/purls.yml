@@ -1,5 +1,6 @@
 - pkg:deb/debian/clonezilla@3.35.2-3?arch=all
 - pkg:deb/debian/clonezilla@5.13.10-1?arch=all
 - pkg:deb/debian/clonezilla@5.13.9-1?arch=all
+- pkg:deb/debian/clonezilla@5.15.4-1?arch=all
 - pkg:deb/debian/clonezilla@5.3.17-2?arch=all
 - pkg:deb/debian/clonezilla@5.9.9-1?arch=all

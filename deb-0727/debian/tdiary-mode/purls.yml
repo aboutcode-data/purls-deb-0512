@@ -1,3 +1,4 @@
 - pkg:deb/debian/tdiary-mode@5.1.5-1?arch=all
 - pkg:deb/debian/tdiary-mode@5.2.3-1?arch=all
 - pkg:deb/debian/tdiary-mode@5.3.0-2?arch=all
+- pkg:deb/debian/tdiary-mode@5.4.0-1?arch=all

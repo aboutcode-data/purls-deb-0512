@@ -1,2 +1,3 @@
 - pkg:deb/debian/futhark-doc@0.25.27-1?arch=all
 - pkg:deb/debian/futhark-doc@0.25.32-2?arch=all
+- pkg:deb/debian/futhark-doc@0.25.32-3?arch=all

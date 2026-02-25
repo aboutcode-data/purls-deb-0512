@@ -19,3 +19,5 @@
 - pkg:deb/debian/libfindlib-ocaml@1.9.8-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libfindlib-ocaml@1.9.8-1%2Bb1?arch=riscv64
 - pkg:deb/debian/libfindlib-ocaml@1.9.8-1%2Bb1?arch=s390x
+- pkg:deb/debian/libfindlib-ocaml@1.9.8-1%2Bb3?arch=amd64
+- pkg:deb/debian/libfindlib-ocaml@1.9.8-1%2Bb3?arch=arm64

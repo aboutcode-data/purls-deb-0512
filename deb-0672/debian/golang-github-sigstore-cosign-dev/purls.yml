@@ -1,1 +1,2 @@
 - pkg:deb/debian/golang-github-sigstore-cosign-dev@2.5.0-2?arch=all
+- pkg:deb/debian/golang-github-sigstore-cosign-dev@2.6.2-1?arch=all

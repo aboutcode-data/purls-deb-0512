@@ -19,3 +19,4 @@
 - pkg:deb/debian/libghc-crypto-cipher-tests-dev@0.0.11-14?arch=ppc64el
 - pkg:deb/debian/libghc-crypto-cipher-tests-dev@0.0.11-14?arch=riscv64
 - pkg:deb/debian/libghc-crypto-cipher-tests-dev@0.0.11-14?arch=s390x
+- pkg:deb/debian/libghc-crypto-cipher-tests-dev@0.0.11-15?arch=loong64

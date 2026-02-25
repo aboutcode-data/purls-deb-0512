@@ -1,4 +1,8 @@
 - pkg:deb/debian/libx32stdc%2B%2B6-15-dbg@15.2.0-10?arch=amd64
 - pkg:deb/debian/libx32stdc%2B%2B6-15-dbg@15.2.0-10?arch=i386
+- pkg:deb/debian/libx32stdc%2B%2B6-15-dbg@15.2.0-13?arch=amd64
+- pkg:deb/debian/libx32stdc%2B%2B6-15-dbg@15.2.0-13?arch=i386
+- pkg:deb/debian/libx32stdc%2B%2B6-15-dbg@15.2.0-14?arch=amd64
+- pkg:deb/debian/libx32stdc%2B%2B6-15-dbg@15.2.0-14?arch=i386
 - pkg:deb/debian/libx32stdc%2B%2B6-15-dbg@15.2.0-9?arch=amd64
 - pkg:deb/debian/libx32stdc%2B%2B6-15-dbg@15.2.0-9?arch=i386
