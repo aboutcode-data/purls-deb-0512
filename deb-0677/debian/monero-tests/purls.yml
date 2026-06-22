@@ -32,3 +32,5 @@
 - pkg:deb/debian/monero-tests@0.18.4.5%2B~0%2B20200826-1?arch=i386
 - pkg:deb/debian/monero-tests@0.18.4.5%2B~0%2B20200826-1?arch=ppc64el
 - pkg:deb/debian/monero-tests@0.18.4.5%2B~0%2B20200826-1?arch=s390x
+- pkg:deb/debian/monero-tests@0.18.5.0%2B~0%2B20260428-2~exp?arch=loong64
+- pkg:deb/debian/monero-tests@0.18.5.0%2B~0%2B20260428-2~exp?arch=s390x
