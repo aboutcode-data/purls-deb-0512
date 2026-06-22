@@ -18,6 +18,7 @@
 - pkg:deb/debian/libdtkwidget5-bin@5.7.12-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/libdtkwidget5-bin@5.7.12-1%2Bb2?arch=riscv64
 - pkg:deb/debian/libdtkwidget5-bin@5.7.12-1%2Bb2?arch=s390x
+- pkg:deb/debian/libdtkwidget5-bin@5.7.12-1%2Bb4?arch=riscv64
 - pkg:deb/debian/libdtkwidget5-bin@5.7.12-1?arch=amd64
 - pkg:deb/debian/libdtkwidget5-bin@5.7.12-1?arch=arm64
 - pkg:deb/debian/libdtkwidget5-bin@5.7.12-1?arch=armel

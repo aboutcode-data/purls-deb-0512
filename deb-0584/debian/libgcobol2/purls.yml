@@ -4,3 +4,4 @@
 - pkg:deb/debian/libgcobol2@16-20260217-1?arch=amd64
 - pkg:deb/debian/libgcobol2@16-20260217-1?arch=arm64
 - pkg:deb/debian/libgcobol2@16-20260217-1?arch=ppc64el
+- pkg:deb/debian/libgcobol2@16.1.0-2?arch=riscv64
