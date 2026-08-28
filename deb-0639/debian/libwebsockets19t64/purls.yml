@@ -13,3 +13,4 @@
 - pkg:deb/debian/libwebsockets19t64@4.3.5-3?arch=ppc64el
 - pkg:deb/debian/libwebsockets19t64@4.3.5-3?arch=riscv64
 - pkg:deb/debian/libwebsockets19t64@4.3.5-3?arch=s390x
+- pkg:deb/debian/libwebsockets19t64@4.3.5-6?arch=riscv64
