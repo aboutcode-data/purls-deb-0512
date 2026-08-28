@@ -15,3 +15,10 @@
 - pkg:deb/debian/libccrtp-dev@2.0.9-4.1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libccrtp-dev@2.0.9-4.1%2Bb1?arch=riscv64
 - pkg:deb/debian/libccrtp-dev@2.0.9-4.1%2Bb1?arch=s390x
+- pkg:deb/debian/libccrtp-dev@2.0.9-8?arch=amd64
+- pkg:deb/debian/libccrtp-dev@2.0.9-8?arch=arm64
+- pkg:deb/debian/libccrtp-dev@2.0.9-8?arch=armhf
+- pkg:deb/debian/libccrtp-dev@2.0.9-8?arch=i386
+- pkg:deb/debian/libccrtp-dev@2.0.9-8?arch=loong64
+- pkg:deb/debian/libccrtp-dev@2.0.9-8?arch=ppc64el
+- pkg:deb/debian/libccrtp-dev@2.0.9-8?arch=riscv64
