@@ -5,3 +5,4 @@
 - pkg:deb/debian/yt-dlp@2025.11.12-1~bpo13%2B1?arch=all
 - pkg:deb/debian/yt-dlp@2026.01.31-1~bpo13%2B1?arch=all
 - pkg:deb/debian/yt-dlp@2026.02.21-1?arch=all
+- pkg:deb/debian/yt-dlp@2026.08.19-1~bpo13%2B1?arch=all
