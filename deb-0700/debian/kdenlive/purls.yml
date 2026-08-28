@@ -34,3 +34,4 @@
 - pkg:deb/debian/kdenlive@25.12.2-1?arch=ppc64el
 - pkg:deb/debian/kdenlive@25.12.2-1?arch=riscv64
 - pkg:deb/debian/kdenlive@25.12.2-1?arch=s390x
+- pkg:deb/debian/kdenlive@26.08.0-1?arch=riscv64

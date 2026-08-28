@@ -1,3 +1,4 @@
+- pkg:deb/debian/kubectx@0.11.0-2?arch=riscv64
 - pkg:deb/debian/kubectx@0.9.3-1?arch=all
 - pkg:deb/debian/kubectx@0.9.5-2%2Bb10?arch=amd64
 - pkg:deb/debian/kubectx@0.9.5-2%2Bb10?arch=arm64
