@@ -2,3 +2,4 @@
 - pkg:deb/debian/bible-kjv-text@4.38?arch=all
 - pkg:deb/debian/bible-kjv-text@4.39?arch=all
 - pkg:deb/debian/bible-kjv-text@4.41?arch=all
+- pkg:deb/debian/bible-kjv-text@4.44?arch=all

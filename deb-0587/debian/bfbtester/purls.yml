@@ -19,3 +19,4 @@
 - pkg:deb/debian/bfbtester@2.0.1-7.4?arch=ppc64el
 - pkg:deb/debian/bfbtester@2.0.1-7.4?arch=riscv64
 - pkg:deb/debian/bfbtester@2.0.1-7.4?arch=s390x
+- pkg:deb/debian/bfbtester@2.1.0-1?arch=riscv64
