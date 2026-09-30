@@ -10,6 +10,11 @@
 - pkg:deb/debian/gcl@2.6.14-19?arch=ppc64el
 - pkg:deb/debian/gcl@2.6.14-19?arch=riscv64
 - pkg:deb/debian/gcl@2.6.14-19?arch=s390x
+- pkg:deb/debian/gcl@2.6.14-24?arch=amd64
+- pkg:deb/debian/gcl@2.6.14-24?arch=arm64
+- pkg:deb/debian/gcl@2.6.14-24?arch=armhf
+- pkg:deb/debian/gcl@2.6.14-24?arch=i386
+- pkg:deb/debian/gcl@2.6.14-24?arch=ppc64el
 - pkg:deb/debian/gcl@2.6.14-4?arch=amd64
 - pkg:deb/debian/gcl@2.6.14-4?arch=arm64
 - pkg:deb/debian/gcl@2.6.14-4?arch=armel
