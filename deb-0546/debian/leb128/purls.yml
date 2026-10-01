@@ -13,3 +13,8 @@
 - pkg:deb/debian/leb128@0.2.5-1%2Bb6?arch=ppc64el
 - pkg:deb/debian/leb128@0.2.5-1%2Bb6?arch=riscv64
 - pkg:deb/debian/leb128@0.2.5-1%2Bb6?arch=s390x
+- pkg:deb/debian/leb128@0.2.5-1%2Bb9?arch=arm64
+- pkg:deb/debian/leb128@0.2.5-1%2Bb9?arch=armhf
+- pkg:deb/debian/leb128@0.2.5-1%2Bb9?arch=loong64
+- pkg:deb/debian/leb128@0.2.5-1%2Bb9?arch=ppc64el
+- pkg:deb/debian/leb128@0.2.5-1%2Bb9?arch=s390x
