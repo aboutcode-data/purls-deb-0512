@@ -24,3 +24,6 @@
 - pkg:deb/debian/r-cran-uwot@0.2.4-1?arch=loong64
 - pkg:deb/debian/r-cran-uwot@0.2.4-1?arch=ppc64el
 - pkg:deb/debian/r-cran-uwot@0.2.4-1?arch=riscv64
+- pkg:deb/debian/r-cran-uwot@0.2.5-1?arch=arm64
+- pkg:deb/debian/r-cran-uwot@0.2.5-1?arch=loong64
+- pkg:deb/debian/r-cran-uwot@0.2.5-1?arch=ppc64el
