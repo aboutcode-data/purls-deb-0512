@@ -33,3 +33,4 @@
 - pkg:deb/debian/dlt-viewer-dev@2.29.0~beta1.alpha6-dfsg-2?arch=ppc64el
 - pkg:deb/debian/dlt-viewer-dev@2.29.0~beta1.alpha6-dfsg-2?arch=riscv64
 - pkg:deb/debian/dlt-viewer-dev@2.29.0~beta1.alpha6-dfsg-2?arch=s390x
+- pkg:deb/debian/dlt-viewer-dev@2.31.0%2Bdfsg-3?arch=s390x
