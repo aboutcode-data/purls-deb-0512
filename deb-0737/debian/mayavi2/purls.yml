@@ -13,3 +13,5 @@
 - pkg:deb/debian/mayavi2@4.8.0-2?arch=s390x
 - pkg:deb/debian/mayavi2@4.8.3-1?arch=amd64
 - pkg:deb/debian/mayavi2@4.8.3-1?arch=arm64
+- pkg:deb/debian/mayavi2@4.9.0-1?arch=loong64
+- pkg:deb/debian/mayavi2@4.9.0-1?arch=ppc64el
