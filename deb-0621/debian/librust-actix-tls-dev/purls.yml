@@ -5,3 +5,4 @@
 - pkg:deb/debian/librust-actix-tls-dev@3.4.0-1?arch=ppc64el
 - pkg:deb/debian/librust-actix-tls-dev@3.4.0-1?arch=riscv64
 - pkg:deb/debian/librust-actix-tls-dev@3.4.0-1?arch=s390x
+- pkg:deb/debian/librust-actix-tls-dev@3.6.1%2Bds-1?arch=i386

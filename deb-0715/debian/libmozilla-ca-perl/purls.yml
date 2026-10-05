@@ -1,1 +1,2 @@
 - pkg:deb/debian/libmozilla-ca-perl@20250202-1?arch=all
+- pkg:deb/debian/libmozilla-ca-perl@20260813-1?arch=all
