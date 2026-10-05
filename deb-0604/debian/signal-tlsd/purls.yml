@@ -1,0 +1,2 @@
+- pkg:deb/debian/signal-tlsd@0.1.4-1%2Bb2?arch=loong64
+- pkg:deb/debian/signal-tlsd@0.1.4-1%2Bb2?arch=s390x
