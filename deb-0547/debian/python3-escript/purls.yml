@@ -19,3 +19,4 @@
 - pkg:deb/debian/python3-escript@5.6-4%2Bb3?arch=mipsel
 - pkg:deb/debian/python3-escript@5.6-4%2Bb3?arch=ppc64el
 - pkg:deb/debian/python3-escript@5.6-4%2Bb3?arch=s390x
+- pkg:deb/debian/python3-escript@6.1.1-1%2Bb2?arch=arm64
