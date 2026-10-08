@@ -11,6 +11,8 @@
 - pkg:deb/debian/libheaptrack@1.4.0-2?arch=mipsel
 - pkg:deb/debian/libheaptrack@1.4.0-2?arch=ppc64el
 - pkg:deb/debian/libheaptrack@1.4.0-2?arch=s390x
+- pkg:deb/debian/libheaptrack@1.5.0%2Bdfsg1%2Bgit20260219.f16e8d3-2%2Bb2?arch=amd64
+- pkg:deb/debian/libheaptrack@1.5.0%2Bdfsg1%2Bgit20260219.f16e8d3-2%2Bb2?arch=riscv64
 - pkg:deb/debian/libheaptrack@1.5.0%2Bdfsg1-5?arch=amd64
 - pkg:deb/debian/libheaptrack@1.5.0%2Bdfsg1-5?arch=arm64
 - pkg:deb/debian/libheaptrack@1.5.0%2Bdfsg1-5?arch=armel

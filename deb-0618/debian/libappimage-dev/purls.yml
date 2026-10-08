@@ -22,3 +22,6 @@
 - pkg:deb/debian/libappimage-dev@1.0.4-5-6?arch=ppc64el
 - pkg:deb/debian/libappimage-dev@1.0.4-5-6?arch=riscv64
 - pkg:deb/debian/libappimage-dev@1.0.4-5-6?arch=s390x
+- pkg:deb/debian/libappimage-dev@1.0.4-5-7%2Bb2?arch=arm64
+- pkg:deb/debian/libappimage-dev@1.0.4-5-7%2Bb2?arch=armhf
+- pkg:deb/debian/libappimage-dev@1.0.4-5-7%2Bb2?arch=riscv64
