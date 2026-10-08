@@ -6,3 +6,4 @@
 - pkg:deb/debian/libpagmo9t64@2.19.1-1?arch=ppc64el
 - pkg:deb/debian/libpagmo9t64@2.19.1-1?arch=riscv64
 - pkg:deb/debian/libpagmo9t64@2.19.1-1?arch=s390x
+- pkg:deb/debian/libpagmo9t64@2.19.1-4%2Bb1?arch=loong64

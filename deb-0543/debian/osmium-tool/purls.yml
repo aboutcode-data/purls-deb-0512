@@ -25,3 +25,4 @@
 - pkg:deb/debian/osmium-tool@1.18.0-1~bpo12%2B1?arch=mips64el
 - pkg:deb/debian/osmium-tool@1.18.0-1~bpo12%2B1?arch=mipsel
 - pkg:deb/debian/osmium-tool@1.18.0-1~bpo12%2B1?arch=ppc64el
+- pkg:deb/debian/osmium-tool@1.19.1-1%2Bb1?arch=loong64

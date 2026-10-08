@@ -14,3 +14,4 @@
 - pkg:deb/debian/libpapilo-dev@2.4.4%2Bds-1?arch=ppc64el
 - pkg:deb/debian/libpapilo-dev@2.4.4%2Bds-1?arch=riscv64
 - pkg:deb/debian/libpapilo-dev@2.4.4%2Bds-1?arch=s390x
+- pkg:deb/debian/libpapilo-dev@3.0.1%2Bds1-2%2Bb1?arch=loong64

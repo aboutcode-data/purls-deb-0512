@@ -26,3 +26,4 @@
 - pkg:deb/debian/orthanc-postgresql@5.0%2Bdfsg-5%2Bb1?arch=ppc64el
 - pkg:deb/debian/orthanc-postgresql@5.0%2Bdfsg-5%2Bb1?arch=s390x
 - pkg:deb/debian/orthanc-postgresql@5.0%2Bdfsg-5?arch=riscv64
+- pkg:deb/debian/orthanc-postgresql@5.0%2Bdfsg-7%2Bb2?arch=loong64

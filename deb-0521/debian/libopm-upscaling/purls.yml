@@ -18,3 +18,4 @@
 - pkg:deb/debian/libopm-upscaling@2025.10%2Bds-2?arch=loong64
 - pkg:deb/debian/libopm-upscaling@2025.10%2Bds-2?arch=ppc64el
 - pkg:deb/debian/libopm-upscaling@2025.10%2Bds-2?arch=riscv64
+- pkg:deb/debian/libopm-upscaling@2026.04%2Bds-1~exp1%2Bb1?arch=arm64
