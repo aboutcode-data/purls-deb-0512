@@ -13,6 +13,8 @@
 - pkg:deb/debian/python3-matplotlib@3.10.7%2Bdfsg1-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-matplotlib@3.10.7%2Bdfsg1-1%2Bb1?arch=riscv64
 - pkg:deb/debian/python3-matplotlib@3.10.7%2Bdfsg1-1%2Bb1?arch=s390x
+- pkg:deb/debian/python3-matplotlib@3.10.9%2Bdfsg1-2?arch=amd64
+- pkg:deb/debian/python3-matplotlib@3.10.9%2Bdfsg1-2?arch=armhf
 - pkg:deb/debian/python3-matplotlib@3.3.4-1?arch=amd64
 - pkg:deb/debian/python3-matplotlib@3.3.4-1?arch=arm64
 - pkg:deb/debian/python3-matplotlib@3.3.4-1?arch=armhf

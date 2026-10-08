@@ -25,6 +25,7 @@
 - pkg:deb/debian/nix-bin@2.32.5%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/nix-bin@2.32.5%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/nix-bin@2.32.5%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/nix-bin@2.34.8%2Bdfsg-1%2Bb1?arch=loong64
 - pkg:deb/debian/nix-bin@2.8.0-1.1%2Bb1?arch=amd64
 - pkg:deb/debian/nix-bin@2.8.0-1.1?arch=arm64
 - pkg:deb/debian/nix-bin@2.8.0-1.1?arch=armel

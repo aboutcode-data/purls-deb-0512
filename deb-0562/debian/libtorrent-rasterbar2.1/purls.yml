@@ -1,0 +1,3 @@
+- pkg:deb/debian/libtorrent-rasterbar2.1@2.1.2-1%2Bb1?arch=arm64
+- pkg:deb/debian/libtorrent-rasterbar2.1@2.1.2-1%2Bb1?arch=armhf
+- pkg:deb/debian/libtorrent-rasterbar2.1@2.1.2-1%2Bb1?arch=s390x
