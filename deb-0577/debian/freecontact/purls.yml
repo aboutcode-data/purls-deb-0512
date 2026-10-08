@@ -17,6 +17,8 @@
 - pkg:deb/debian/freecontact@1.0.21-16?arch=ppc64el
 - pkg:deb/debian/freecontact@1.0.21-16?arch=riscv64
 - pkg:deb/debian/freecontact@1.0.21-16?arch=s390x
+- pkg:deb/debian/freecontact@1.0.21-19%2Bb1?arch=amd64
+- pkg:deb/debian/freecontact@1.0.21-19%2Bb1?arch=riscv64
 - pkg:deb/debian/freecontact@1.0.21-9?arch=amd64
 - pkg:deb/debian/freecontact@1.0.21-9?arch=arm64
 - pkg:deb/debian/freecontact@1.0.21-9?arch=armhf

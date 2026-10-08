@@ -6,6 +6,7 @@
 - pkg:deb/debian/dspdfviewer@1.15.1%2Bgit20230427.d432d8d-1?arch=ppc64el
 - pkg:deb/debian/dspdfviewer@1.15.1%2Bgit20230427.d432d8d-1?arch=riscv64
 - pkg:deb/debian/dspdfviewer@1.15.1%2Bgit20230427.d432d8d-1?arch=s390x
+- pkg:deb/debian/dspdfviewer@1.15.1%2Bgit20230427.d432d8d-2%2Bb2?arch=riscv64
 - pkg:deb/debian/dspdfviewer@1.15.1%2Bgit20230427.d432d8d-2?arch=amd64
 - pkg:deb/debian/dspdfviewer@1.15.1%2Bgit20230427.d432d8d-2?arch=arm64
 - pkg:deb/debian/dspdfviewer@1.15.1%2Bgit20230427.d432d8d-2?arch=armhf
