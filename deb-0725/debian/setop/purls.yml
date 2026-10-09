@@ -19,3 +19,4 @@
 - pkg:deb/debian/setop@0.1-1%2Bb8?arch=ppc64el
 - pkg:deb/debian/setop@0.1-1%2Bb8?arch=s390x
 - pkg:deb/debian/setop@0.1-1%2Bb9?arch=armhf
+- pkg:deb/debian/setop@0.2-1%2Bb1?arch=s390x

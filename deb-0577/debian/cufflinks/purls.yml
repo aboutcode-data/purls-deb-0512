@@ -19,3 +19,4 @@
 - pkg:deb/debian/cufflinks@2.2.1%2Bdfsg.1-9?arch=mipsel
 - pkg:deb/debian/cufflinks@2.2.1%2Bdfsg.1-9?arch=ppc64el
 - pkg:deb/debian/cufflinks@2.2.1%2Bdfsg.1-9?arch=s390x
+- pkg:deb/debian/cufflinks@2.2.1%2Bgit20190706.dc3b0cb%2Bdfsg-1%2Bb1?arch=ppc64el

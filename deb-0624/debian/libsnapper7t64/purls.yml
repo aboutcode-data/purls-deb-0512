@@ -13,3 +13,4 @@
 - pkg:deb/debian/libsnapper7t64@0.10.6-1.2?arch=ppc64el
 - pkg:deb/debian/libsnapper7t64@0.10.6-1.2?arch=riscv64
 - pkg:deb/debian/libsnapper7t64@0.10.6-1.2?arch=s390x
+- pkg:deb/debian/libsnapper7t64@0.10.6-1.3%2Bb1?arch=s390x
