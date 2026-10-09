@@ -27,3 +27,4 @@
 - pkg:deb/debian/python3-gattlib@0~20210616-1.1%2Bb2?arch=riscv64
 - pkg:deb/debian/python3-gattlib@0~20210616-1.1%2Bb2?arch=s390x
 - pkg:deb/debian/python3-gattlib@0~20210616-1.1%2Bb3?arch=loong64
+- pkg:deb/debian/python3-gattlib@0~20210616-1.1%2Bb5?arch=s390x

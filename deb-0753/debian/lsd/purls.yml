@@ -22,3 +22,4 @@
 - pkg:deb/debian/lsd@1.1.5-6%2Bb1?arch=ppc64el
 - pkg:deb/debian/lsd@1.1.5-6%2Bb1?arch=s390x
 - pkg:deb/debian/lsd@1.1.5-6?arch=riscv64
+- pkg:deb/debian/lsd@1.2.0-4?arch=ppc64el

@@ -14,6 +14,7 @@
 - pkg:deb/debian/python3-py3exiv2@0.12.0-2%2Bb3?arch=riscv64
 - pkg:deb/debian/python3-py3exiv2@0.12.0-2%2Bb3?arch=s390x
 - pkg:deb/debian/python3-py3exiv2@0.12.0-2%2Bb4?arch=i386
+- pkg:deb/debian/python3-py3exiv2@0.12.0-2%2Bb6?arch=s390x
 - pkg:deb/debian/python3-py3exiv2@0.7.2-1.1%2Bb4?arch=amd64
 - pkg:deb/debian/python3-py3exiv2@0.7.2-1.1%2Bb4?arch=arm64
 - pkg:deb/debian/python3-py3exiv2@0.7.2-1.1%2Bb4?arch=armel
