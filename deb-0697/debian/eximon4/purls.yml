@@ -1,3 +1,4 @@
+- pkg:deb/debian/eximon4@4.100.1-2~bpo13%2B1?arch=ppc64el
 - pkg:deb/debian/eximon4@4.94.2-7%2Bdeb11u3?arch=amd64
 - pkg:deb/debian/eximon4@4.94.2-7%2Bdeb11u3?arch=arm64
 - pkg:deb/debian/eximon4@4.94.2-7%2Bdeb11u3?arch=armhf
