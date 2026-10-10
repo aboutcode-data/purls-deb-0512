@@ -27,3 +27,4 @@
 - pkg:deb/debian/gnustep-base-runtime@1.31.1-4?arch=riscv64
 - pkg:deb/debian/gnustep-base-runtime@1.31.1-4?arch=s390x
 - pkg:deb/debian/gnustep-base-runtime@1.31.1-5?arch=ppc64el
+- pkg:deb/debian/gnustep-base-runtime@1.31.1-5?arch=riscv64
