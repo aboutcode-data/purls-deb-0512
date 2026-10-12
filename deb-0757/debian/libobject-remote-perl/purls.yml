@@ -1,3 +1,4 @@
 - pkg:deb/debian/libobject-remote-perl@0.004001-1?arch=all
 - pkg:deb/debian/libobject-remote-perl@0.004001-3?arch=all
 - pkg:deb/debian/libobject-remote-perl@0.004004-1?arch=all
+- pkg:deb/debian/libobject-remote-perl@0.005004-2?arch=all
