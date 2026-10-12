@@ -3,3 +3,4 @@
 - pkg:deb/debian/openstack-pkg-tools@135?arch=all
 - pkg:deb/debian/openstack-pkg-tools@137?arch=all
 - pkg:deb/debian/openstack-pkg-tools@138?arch=all
+- pkg:deb/debian/openstack-pkg-tools@151?arch=all
