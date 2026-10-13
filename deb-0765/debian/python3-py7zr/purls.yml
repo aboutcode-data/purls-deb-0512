@@ -14,3 +14,4 @@
 - pkg:deb/debian/python3-py7zr@0.22.0%2Bdfsg-1?arch=all
 - pkg:deb/debian/python3-py7zr@1.0.0%2Bdfsg1-3~bpo13%2B1?arch=all
 - pkg:deb/debian/python3-py7zr@1.0.0%2Bdfsg1-4?arch=all
+- pkg:deb/debian/python3-py7zr@1.1.4%2Bdfsg-1?arch=all

@@ -8,3 +8,4 @@
 - pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.14.0%2Bds1-2~bpo12%2B1?arch=ppc64el
 - pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.14.0%2Bds1-2~bpo12%2B1?arch=s390x
 - pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.20.1%2Bds1-1?arch=all
+- pkg:deb/debian/golang-github-google-go-containerregistry-dev@0.20.7%2Bds1-5?arch=all
