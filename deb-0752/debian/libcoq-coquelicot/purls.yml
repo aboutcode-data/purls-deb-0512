@@ -24,3 +24,8 @@
 - pkg:deb/debian/libcoq-coquelicot@3.4.4-2?arch=arm64
 - pkg:deb/debian/libcoq-coquelicot@3.4.4-2?arch=ppc64el
 - pkg:deb/debian/libcoq-coquelicot@3.4.4-2?arch=s390x
+- pkg:deb/debian/libcoq-coquelicot@3.4.4-5%2Bb3?arch=amd64
+- pkg:deb/debian/libcoq-coquelicot@3.4.4-5%2Bb3?arch=arm64
+- pkg:deb/debian/libcoq-coquelicot@3.4.4-5%2Bb3?arch=ppc64el
+- pkg:deb/debian/libcoq-coquelicot@3.4.4-5%2Bb3?arch=riscv64
+- pkg:deb/debian/libcoq-coquelicot@3.4.4-5%2Bb3?arch=s390x
