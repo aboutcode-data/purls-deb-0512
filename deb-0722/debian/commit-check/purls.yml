@@ -1,0 +1,2 @@
+- pkg:deb/debian/commit-check@2.19.3-1?arch=all
+- pkg:deb/debian/commit-check@2.19.4-1?arch=all
