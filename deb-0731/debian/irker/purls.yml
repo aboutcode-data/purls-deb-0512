@@ -1,3 +1,4 @@
 - pkg:deb/debian/irker@2.19%2Bdfsg-1?arch=all
 - pkg:deb/debian/irker@2.23%2Bdfsg-1.1?arch=all
 - pkg:deb/debian/irker@2.23%2Bdfsg-1?arch=all
+- pkg:deb/debian/irker@2.24%2Bdfsg-4?arch=all

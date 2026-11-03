@@ -3,3 +3,5 @@
 - pkg:deb/debian/ironic-common@29.0.0-7?arch=all
 - pkg:deb/debian/ironic-common@32.0.0-6?arch=all
 - pkg:deb/debian/ironic-common@32.0.0-7?arch=all
+- pkg:deb/debian/ironic-common@39.0.0-6?arch=all
+- pkg:deb/debian/ironic-common@39.0.0-7?arch=all
