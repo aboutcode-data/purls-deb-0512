@@ -6,6 +6,14 @@
 - pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-11%2Bb3?arch=ppc64el
 - pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-11%2Bb3?arch=riscv64
 - pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-11%2Bb3?arch=s390x
+- pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-13?arch=amd64
+- pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-13?arch=arm64
+- pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-13?arch=armhf
+- pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-13?arch=i386
+- pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-13?arch=loong64
+- pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-13?arch=ppc64el
+- pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-13?arch=riscv64
+- pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-13?arch=s390x
 - pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-4?arch=amd64
 - pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-4?arch=arm64
 - pkg:deb/debian/libseqlib-dev@1.2.0%2Bdfsg-4?arch=armhf
