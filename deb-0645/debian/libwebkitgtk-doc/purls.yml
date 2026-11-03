@@ -5,3 +5,4 @@
 - pkg:deb/debian/libwebkitgtk-doc@2.50.5-1?arch=all
 - pkg:deb/debian/libwebkitgtk-doc@2.51.1-1?arch=all
 - pkg:deb/debian/libwebkitgtk-doc@2.51.2-1?arch=all
+- pkg:deb/debian/libwebkitgtk-doc@2.54.2-2?arch=all
