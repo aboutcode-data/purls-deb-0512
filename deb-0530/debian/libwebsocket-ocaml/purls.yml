@@ -15,3 +15,11 @@
 - pkg:deb/debian/libwebsocket-ocaml@2.17-1%2Bb7?arch=riscv64
 - pkg:deb/debian/libwebsocket-ocaml@2.17-1%2Bb7?arch=s390x
 - pkg:deb/debian/libwebsocket-ocaml@2.17-1%2Bb8?arch=amd64
+- pkg:deb/debian/libwebsocket-ocaml@2.17-4%2Bb11?arch=amd64
+- pkg:deb/debian/libwebsocket-ocaml@2.17-4%2Bb11?arch=arm64
+- pkg:deb/debian/libwebsocket-ocaml@2.17-4%2Bb11?arch=i386
+- pkg:deb/debian/libwebsocket-ocaml@2.17-4%2Bb11?arch=loong64
+- pkg:deb/debian/libwebsocket-ocaml@2.17-4%2Bb11?arch=ppc64el
+- pkg:deb/debian/libwebsocket-ocaml@2.17-4%2Bb11?arch=s390x
+- pkg:deb/debian/libwebsocket-ocaml@2.17-4%2Bb12?arch=armhf
+- pkg:deb/debian/libwebsocket-ocaml@2.17-4%2Bb12?arch=riscv64

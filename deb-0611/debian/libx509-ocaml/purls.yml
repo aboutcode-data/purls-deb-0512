@@ -24,3 +24,11 @@
 - pkg:deb/debian/libx509-ocaml@1.0.6-1%2Bb7?arch=amd64
 - pkg:deb/debian/libx509-ocaml@1.0.6-1%2Bb7?arch=ppc64el
 - pkg:deb/debian/libx509-ocaml@1.0.6-1%2Bb9?arch=arm64
+- pkg:deb/debian/libx509-ocaml@1.2.0-1%2Bb4?arch=amd64
+- pkg:deb/debian/libx509-ocaml@1.2.0-1%2Bb4?arch=arm64
+- pkg:deb/debian/libx509-ocaml@1.2.0-1%2Bb4?arch=armhf
+- pkg:deb/debian/libx509-ocaml@1.2.0-1%2Bb4?arch=i386
+- pkg:deb/debian/libx509-ocaml@1.2.0-1%2Bb4?arch=loong64
+- pkg:deb/debian/libx509-ocaml@1.2.0-1%2Bb4?arch=ppc64el
+- pkg:deb/debian/libx509-ocaml@1.2.0-1%2Bb4?arch=riscv64
+- pkg:deb/debian/libx509-ocaml@1.2.0-1%2Bb4?arch=s390x
