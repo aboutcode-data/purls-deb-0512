@@ -19,3 +19,4 @@
 - pkg:deb/debian/librecode-dev@3.7.15-1?arch=ppc64el
 - pkg:deb/debian/librecode-dev@3.7.15-1?arch=riscv64
 - pkg:deb/debian/librecode-dev@3.7.15-1?arch=s390x
+- pkg:deb/debian/librecode-dev@3.7.17-1?arch=riscv64
