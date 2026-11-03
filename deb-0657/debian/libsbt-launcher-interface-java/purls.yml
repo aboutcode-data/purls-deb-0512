@@ -1,1 +1,2 @@
 - pkg:deb/debian/libsbt-launcher-interface-java@1.0.1-2?arch=all
+- pkg:deb/debian/libsbt-launcher-interface-java@1.6.2-2?arch=all
