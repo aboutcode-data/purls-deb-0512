@@ -1,0 +1,5 @@
+- pkg:deb/debian/libcoq-mathcomp-group-representation@2.6.0-3%2Bb3?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-group-representation@2.6.0-3%2Bb3?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-group-representation@2.6.0-3%2Bb3?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-group-representation@2.6.0-3%2Bb3?arch=riscv64
+- pkg:deb/debian/libcoq-mathcomp-group-representation@2.6.0-3%2Bb3?arch=s390x
