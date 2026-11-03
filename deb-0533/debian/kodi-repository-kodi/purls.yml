@@ -2,3 +2,4 @@
 - pkg:deb/debian/kodi-repository-kodi@20.1%2Bdfsg-1?arch=all
 - pkg:deb/debian/kodi-repository-kodi@21.2%2Bdfsg-4?arch=all
 - pkg:deb/debian/kodi-repository-kodi@21.3%2Bdfsg-1?arch=all
+- pkg:deb/debian/kodi-repository-kodi@21.3%2Bdfsg-2?arch=all
