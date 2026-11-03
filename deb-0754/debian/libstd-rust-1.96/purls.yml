@@ -1,0 +1,6 @@
+- pkg:deb/debian/libstd-rust-1.96@1.96.1%2Bdfsg1-2~bpo13%2B1?arch=arm64
+- pkg:deb/debian/libstd-rust-1.96@1.96.1%2Bdfsg1-2~bpo13%2B1?arch=armhf
+- pkg:deb/debian/libstd-rust-1.96@1.96.1%2Bdfsg1-2~bpo13%2B1?arch=i386
+- pkg:deb/debian/libstd-rust-1.96@1.96.1%2Bdfsg1-2~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/libstd-rust-1.96@1.96.1%2Bdfsg1-2~bpo13%2B1?arch=riscv64
+- pkg:deb/debian/libstd-rust-1.96@1.96.1%2Bdfsg1-2~bpo13%2B1?arch=s390x
