@@ -36,6 +36,7 @@
 - pkg:deb/debian/python3-all-dev@3.14.8-1?arch=loong64
 - pkg:deb/debian/python3-all-dev@3.14.8-1?arch=ppc64el
 - pkg:deb/debian/python3-all-dev@3.14.8-1?arch=riscv64
+- pkg:deb/debian/python3-all-dev@3.14.8-1?arch=s390x
 - pkg:deb/debian/python3-all-dev@3.9.2-3?arch=amd64
 - pkg:deb/debian/python3-all-dev@3.9.2-3?arch=arm64
 - pkg:deb/debian/python3-all-dev@3.9.2-3?arch=armhf
