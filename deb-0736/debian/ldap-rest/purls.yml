@@ -1,0 +1,2 @@
+- pkg:deb/debian/ldap-rest@0.21.3-1?arch=all
+- pkg:deb/debian/ldap-rest@2.0.0-1?arch=all
