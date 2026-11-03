@@ -1,0 +1,5 @@
+- pkg:deb/debian/khronos-opencl-icd-loader-dev@0~20250722-2~bpo13%2B1?arch=amd64
+- pkg:deb/debian/khronos-opencl-icd-loader-dev@0~20250722-2~bpo13%2B1?arch=arm64
+- pkg:deb/debian/khronos-opencl-icd-loader-dev@0~20250722-2~bpo13%2B1?arch=i386
+- pkg:deb/debian/khronos-opencl-icd-loader-dev@0~20250722-2~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/khronos-opencl-icd-loader-dev@0~20250722-2~bpo13%2B1?arch=s390x
