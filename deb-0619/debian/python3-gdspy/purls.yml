@@ -11,10 +11,17 @@
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb13?arch=amd64
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb13?arch=arm64
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb13?arch=i386
+- pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb14?arch=armhf
+- pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb14?arch=ppc64el
+- pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb14?arch=s390x
+- pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb15?arch=amd64
+- pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb15?arch=arm64
+- pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb15?arch=i386
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb3?arch=amd64
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb3?arch=arm64
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb3?arch=armhf
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb3?arch=i386
+- pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb3?arch=loong64
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb5?arch=riscv64
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb6?arch=riscv64
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb7?arch=amd64
@@ -26,3 +33,4 @@
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb7?arch=mipsel
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb7?arch=ppc64el
 - pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb7?arch=s390x
+- pkg:deb/debian/python3-gdspy@1.4.2-2%2Bb8?arch=riscv64
