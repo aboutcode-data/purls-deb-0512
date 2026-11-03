@@ -26,3 +26,10 @@
 - pkg:deb/debian/ftp-ssl@0.17.34%2Breally0.17-3?arch=ppc64el
 - pkg:deb/debian/ftp-ssl@0.17.34%2Breally0.17-3?arch=riscv64
 - pkg:deb/debian/ftp-ssl@0.17.34%2Breally0.17-3?arch=s390x
+- pkg:deb/debian/ftp-ssl@0.17.34%2Breally0.17-4?arch=amd64
+- pkg:deb/debian/ftp-ssl@0.17.34%2Breally0.17-4?arch=arm64
+- pkg:deb/debian/ftp-ssl@0.17.34%2Breally0.17-4?arch=armhf
+- pkg:deb/debian/ftp-ssl@0.17.34%2Breally0.17-4?arch=i386
+- pkg:deb/debian/ftp-ssl@0.17.34%2Breally0.17-4?arch=loong64
+- pkg:deb/debian/ftp-ssl@0.17.34%2Breally0.17-4?arch=ppc64el
+- pkg:deb/debian/ftp-ssl@0.17.34%2Breally0.17-4?arch=s390x
