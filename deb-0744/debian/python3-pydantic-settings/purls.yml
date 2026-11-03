@@ -1,3 +1,4 @@
 - pkg:deb/debian/python3-pydantic-settings@2.12.0-1?arch=all
 - pkg:deb/debian/python3-pydantic-settings@2.13.0-1?arch=all
+- pkg:deb/debian/python3-pydantic-settings@2.16.1-1?arch=all
 - pkg:deb/debian/python3-pydantic-settings@2.8.1-2?arch=all
