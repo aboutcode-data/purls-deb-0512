@@ -26,3 +26,4 @@
 - pkg:deb/debian/cron@3.0pl1-200?arch=ppc64el
 - pkg:deb/debian/cron@3.0pl1-200?arch=riscv64
 - pkg:deb/debian/cron@3.0pl1-200?arch=s390x
+- pkg:deb/debian/cron@3.0pl1-212?arch=riscv64
