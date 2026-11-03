@@ -4,3 +4,4 @@
 - pkg:deb/debian/python3-mitogen@0.3.34-1?arch=all
 - pkg:deb/debian/python3-mitogen@0.3.41-1?arch=all
 - pkg:deb/debian/python3-mitogen@0.3.42-1?arch=all
+- pkg:deb/debian/python3-mitogen@0.3.54-1?arch=all
