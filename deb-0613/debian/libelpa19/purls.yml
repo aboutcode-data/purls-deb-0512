@@ -19,3 +19,8 @@
 - pkg:deb/debian/libelpa19@2024.05.001-1?arch=ppc64el
 - pkg:deb/debian/libelpa19@2024.05.001-1?arch=riscv64
 - pkg:deb/debian/libelpa19@2024.05.001-1?arch=s390x
+- pkg:deb/debian/libelpa19@2026.02.002-1?arch=amd64
+- pkg:deb/debian/libelpa19@2026.02.002-1?arch=arm64
+- pkg:deb/debian/libelpa19@2026.02.002-1?arch=loong64
+- pkg:deb/debian/libelpa19@2026.02.002-1?arch=ppc64el
+- pkg:deb/debian/libelpa19@2026.02.002-1?arch=s390x
