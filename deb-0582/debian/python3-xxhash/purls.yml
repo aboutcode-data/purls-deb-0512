@@ -29,3 +29,4 @@
 - pkg:deb/debian/python3-xxhash@3.2.0-1%2Bb8?arch=riscv64
 - pkg:deb/debian/python3-xxhash@3.2.0-1%2Bb8?arch=s390x
 - pkg:deb/debian/python3-xxhash@3.2.0-1%2Bb9?arch=arm64
+- pkg:deb/debian/python3-xxhash@3.2.0-1%2Bb9?arch=i386
