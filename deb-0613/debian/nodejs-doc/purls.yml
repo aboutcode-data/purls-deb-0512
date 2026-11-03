@@ -3,3 +3,4 @@
 - pkg:deb/debian/nodejs-doc@20.19.2%2Bdfsg-1?arch=all
 - pkg:deb/debian/nodejs-doc@22.21.1%2Bdfsg%2B~cs22.19.0-5?arch=all
 - pkg:deb/debian/nodejs-doc@22.21.1%2Bdfsg%2B~cs22.19.0-6?arch=all
+- pkg:deb/debian/nodejs-doc@24.22.2%2Bdfsg%2B~cs24.19.2-1?arch=all
