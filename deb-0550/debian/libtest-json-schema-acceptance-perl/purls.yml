@@ -3,3 +3,4 @@
 - pkg:deb/debian/libtest-json-schema-acceptance-perl@1.029-1?arch=all
 - pkg:deb/debian/libtest-json-schema-acceptance-perl@1.034-1?arch=all
 - pkg:deb/debian/libtest-json-schema-acceptance-perl@1.035-1?arch=all
+- pkg:deb/debian/libtest-json-schema-acceptance-perl@1.040-1?arch=all
