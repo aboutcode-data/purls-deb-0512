@@ -1,0 +1,5 @@
+- pkg:deb/debian/libifcopenshell-dev@0.8.1%2Bdfsg1-10%2Bb1?arch=amd64
+- pkg:deb/debian/libifcopenshell-dev@0.8.1%2Bdfsg1-10%2Bb1?arch=arm64
+- pkg:deb/debian/libifcopenshell-dev@0.8.1%2Bdfsg1-10%2Bb1?arch=loong64
+- pkg:deb/debian/libifcopenshell-dev@0.8.1%2Bdfsg1-10%2Bb1?arch=ppc64el
+- pkg:deb/debian/libifcopenshell-dev@0.8.1%2Bdfsg1-10%2Bb1?arch=s390x

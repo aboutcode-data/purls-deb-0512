@@ -6,6 +6,7 @@
 - pkg:deb/debian/ifhp@3.5.20%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/ifhp@3.5.20%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/ifhp@3.5.20%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/ifhp@3.5.20%2Bdfsg-2?arch=riscv64
 - pkg:deb/debian/ifhp@3.5.20-17?arch=amd64
 - pkg:deb/debian/ifhp@3.5.20-17?arch=arm64
 - pkg:deb/debian/ifhp@3.5.20-17?arch=armhf
