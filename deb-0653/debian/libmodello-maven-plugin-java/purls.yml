@@ -1,1 +1,2 @@
 - pkg:deb/debian/libmodello-maven-plugin-java@1.11-1?arch=all
+- pkg:deb/debian/libmodello-maven-plugin-java@2.5.1-1?arch=all
