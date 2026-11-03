@@ -1,3 +1,4 @@
 - pkg:deb/debian/ruby-rspec-core@3.12.0c0e1m1s0-1?arch=all
 - pkg:deb/debian/ruby-rspec-core@3.13.0c0e0m0s1-2?arch=all
+- pkg:deb/debian/ruby-rspec-core@3.13.2c6e5m8s7-3?arch=all
 - pkg:deb/debian/ruby-rspec-core@3.9.0c2e2m1s3-2?arch=all
