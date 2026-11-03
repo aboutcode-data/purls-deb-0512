@@ -1,2 +1,3 @@
 - pkg:deb/debian/python3-pynina@0.3.4-2?arch=all
 - pkg:deb/debian/python3-pynina@0.3.6-1?arch=all
+- pkg:deb/debian/python3-pynina@1.0.4-1?arch=all

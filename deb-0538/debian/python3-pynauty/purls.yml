@@ -7,6 +7,14 @@
 - pkg:deb/debian/python3-pynauty@2.8.6%2Bds-1%2Bb3?arch=mipsel
 - pkg:deb/debian/python3-pynauty@2.8.6%2Bds-1%2Bb3?arch=ppc64el
 - pkg:deb/debian/python3-pynauty@2.8.6%2Bds-1%2Bb3?arch=s390x
+- pkg:deb/debian/python3-pynauty@2.8.8.1%2Bds-1%2Bb12?arch=amd64
+- pkg:deb/debian/python3-pynauty@2.8.8.1%2Bds-1%2Bb12?arch=arm64
+- pkg:deb/debian/python3-pynauty@2.8.8.1%2Bds-1%2Bb12?arch=armhf
+- pkg:deb/debian/python3-pynauty@2.8.8.1%2Bds-1%2Bb12?arch=ppc64el
+- pkg:deb/debian/python3-pynauty@2.8.8.1%2Bds-1%2Bb12?arch=riscv64
+- pkg:deb/debian/python3-pynauty@2.8.8.1%2Bds-1%2Bb12?arch=s390x
+- pkg:deb/debian/python3-pynauty@2.8.8.1%2Bds-1%2Bb13?arch=i386
+- pkg:deb/debian/python3-pynauty@2.8.8.1%2Bds-1%2Bb4?arch=loong64
 - pkg:deb/debian/python3-pynauty@2.8.8.1%2Bds-1%2Bb6?arch=amd64
 - pkg:deb/debian/python3-pynauty@2.8.8.1%2Bds-1%2Bb6?arch=arm64
 - pkg:deb/debian/python3-pynauty@2.8.8.1%2Bds-1%2Bb6?arch=armel
