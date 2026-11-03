@@ -3,3 +3,4 @@
 - pkg:deb/debian/sa-compile@4.0.1-5?arch=all
 - pkg:deb/debian/sa-compile@4.0.2-2?arch=all
 - pkg:deb/debian/sa-compile@4.0.2-3?arch=all
+- pkg:deb/debian/sa-compile@4.0.3~rc1-1?arch=all

@@ -10,6 +10,7 @@
 - pkg:deb/debian/libsope1@5.12.1-2?arch=ppc64el
 - pkg:deb/debian/libsope1@5.12.1-2?arch=riscv64
 - pkg:deb/debian/libsope1@5.12.1-2?arch=s390x
+- pkg:deb/debian/libsope1@5.12.12-1?arch=riscv64
 - pkg:deb/debian/libsope1@5.12.4-1?arch=amd64
 - pkg:deb/debian/libsope1@5.12.4-1?arch=arm64
 - pkg:deb/debian/libsope1@5.12.4-1?arch=armhf
