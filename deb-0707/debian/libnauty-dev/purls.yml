@@ -6,3 +6,11 @@
 - pkg:deb/debian/libnauty-dev@2.8.9%2Bds-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libnauty-dev@2.8.9%2Bds-1%2Bb1?arch=riscv64
 - pkg:deb/debian/libnauty-dev@2.8.9%2Bds-1%2Bb1?arch=s390x
+- pkg:deb/debian/libnauty-dev@2.9.3-4?arch=amd64
+- pkg:deb/debian/libnauty-dev@2.9.3-4?arch=arm64
+- pkg:deb/debian/libnauty-dev@2.9.3-4?arch=armhf
+- pkg:deb/debian/libnauty-dev@2.9.3-4?arch=i386
+- pkg:deb/debian/libnauty-dev@2.9.3-4?arch=loong64
+- pkg:deb/debian/libnauty-dev@2.9.3-4?arch=ppc64el
+- pkg:deb/debian/libnauty-dev@2.9.3-4?arch=riscv64
+- pkg:deb/debian/libnauty-dev@2.9.3-4?arch=s390x
