@@ -13,3 +13,6 @@
 - pkg:deb/debian/cargo-auditable@0.7.0-1?arch=ppc64el
 - pkg:deb/debian/cargo-auditable@0.7.0-1?arch=riscv64
 - pkg:deb/debian/cargo-auditable@0.7.0-1?arch=s390x
+- pkg:deb/debian/cargo-auditable@0.7.7-1?arch=amd64
+- pkg:deb/debian/cargo-auditable@0.7.7-1?arch=arm64
+- pkg:deb/debian/cargo-auditable@0.7.7-1?arch=armhf
