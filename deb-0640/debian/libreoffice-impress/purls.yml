@@ -66,6 +66,8 @@
 - pkg:deb/debian/libreoffice-impress@26.8.2.2-2?arch=i386
 - pkg:deb/debian/libreoffice-impress@26.8.2.2-2?arch=loong64
 - pkg:deb/debian/libreoffice-impress@26.8.2.2-2?arch=ppc64el
+- pkg:deb/debian/libreoffice-impress@26.8.2.2-2?arch=riscv64
+- pkg:deb/debian/libreoffice-impress@26.8.2.2-2?arch=s390x
 - pkg:deb/debian/libreoffice-impress@7.0.4-4%2Bdeb11u10?arch=amd64
 - pkg:deb/debian/libreoffice-impress@7.0.4-4%2Bdeb11u10?arch=arm64
 - pkg:deb/debian/libreoffice-impress@7.0.4-4%2Bdeb11u10?arch=armhf
