@@ -28,3 +28,10 @@
 - pkg:deb/debian/sniproxy@0.6.1%2Bgit20240321-0.2?arch=ppc64el
 - pkg:deb/debian/sniproxy@0.6.1%2Bgit20240321-0.2?arch=riscv64
 - pkg:deb/debian/sniproxy@0.6.1%2Bgit20240321-0.2?arch=s390x
+- pkg:deb/debian/sniproxy@0.7.0-2?arch=amd64
+- pkg:deb/debian/sniproxy@0.7.0-2?arch=arm64
+- pkg:deb/debian/sniproxy@0.7.0-2?arch=armhf
+- pkg:deb/debian/sniproxy@0.7.0-2?arch=i386
+- pkg:deb/debian/sniproxy@0.7.0-2?arch=loong64
+- pkg:deb/debian/sniproxy@0.7.0-2?arch=ppc64el
+- pkg:deb/debian/sniproxy@0.7.0-2?arch=s390x
