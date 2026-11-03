@@ -35,3 +35,4 @@
 - pkg:deb/debian/claws-mail-newmail-plugin@4.3.1-1~bpo12%2B1?arch=mipsel
 - pkg:deb/debian/claws-mail-newmail-plugin@4.3.1-1~bpo12%2B1?arch=ppc64el
 - pkg:deb/debian/claws-mail-newmail-plugin@4.3.1-1~bpo12%2B1?arch=s390x
+- pkg:deb/debian/claws-mail-newmail-plugin@4.4.0-1%2Bb4?arch=amd64
