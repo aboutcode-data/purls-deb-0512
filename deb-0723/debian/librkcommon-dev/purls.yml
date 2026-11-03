@@ -6,3 +6,9 @@
 - pkg:deb/debian/librkcommon-dev@1.15.2-2?arch=loong64
 - pkg:deb/debian/librkcommon-dev@1.15.2-2?arch=ppc64el
 - pkg:deb/debian/librkcommon-dev@1.15.2-2?arch=s390x
+- pkg:deb/debian/librkcommon-dev@1.15.2-3?arch=amd64
+- pkg:deb/debian/librkcommon-dev@1.15.2-3?arch=arm64
+- pkg:deb/debian/librkcommon-dev@1.15.2-3?arch=armhf
+- pkg:deb/debian/librkcommon-dev@1.15.2-3?arch=loong64
+- pkg:deb/debian/librkcommon-dev@1.15.2-3?arch=ppc64el
+- pkg:deb/debian/librkcommon-dev@1.15.2-3?arch=s390x
