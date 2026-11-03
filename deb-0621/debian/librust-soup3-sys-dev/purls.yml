@@ -13,3 +13,7 @@
 - pkg:deb/debian/librust-soup3-sys-dev@0.8.0-5?arch=ppc64el
 - pkg:deb/debian/librust-soup3-sys-dev@0.8.0-5?arch=riscv64
 - pkg:deb/debian/librust-soup3-sys-dev@0.8.0-5?arch=s390x
+- pkg:deb/debian/librust-soup3-sys-dev@0.9.0-4?arch=amd64
+- pkg:deb/debian/librust-soup3-sys-dev@0.9.0-4?arch=arm64
+- pkg:deb/debian/librust-soup3-sys-dev@0.9.0-4?arch=armhf
+- pkg:deb/debian/librust-soup3-sys-dev@0.9.0-4?arch=i386
