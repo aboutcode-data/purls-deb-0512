@@ -32,3 +32,5 @@
 - pkg:deb/debian/clamav-daemon@1.4.6%2Bdfsg-1~deb13u1?arch=armhf
 - pkg:deb/debian/clamav-daemon@1.4.6%2Bdfsg-1~deb13u1?arch=i386
 - pkg:deb/debian/clamav-daemon@1.4.6%2Bdfsg-1~deb13u1?arch=ppc64el
+- pkg:deb/debian/clamav-daemon@1.4.6%2Bdfsg-1~deb13u1?arch=riscv64
+- pkg:deb/debian/clamav-daemon@1.4.6%2Bdfsg-1~deb13u1?arch=s390x
