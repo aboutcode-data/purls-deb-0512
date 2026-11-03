@@ -5,6 +5,13 @@
 - pkg:deb/debian/ruby-cool.io@1.10.1-1?arch=ppc64el
 - pkg:deb/debian/ruby-cool.io@1.10.1-1?arch=riscv64
 - pkg:deb/debian/ruby-cool.io@1.10.1-1?arch=s390x
+- pkg:deb/debian/ruby-cool.io@1.10.1-2?arch=amd64
+- pkg:deb/debian/ruby-cool.io@1.10.1-2?arch=arm64
+- pkg:deb/debian/ruby-cool.io@1.10.1-2?arch=armhf
+- pkg:deb/debian/ruby-cool.io@1.10.1-2?arch=i386
+- pkg:deb/debian/ruby-cool.io@1.10.1-2?arch=loong64
+- pkg:deb/debian/ruby-cool.io@1.10.1-2?arch=ppc64el
+- pkg:deb/debian/ruby-cool.io@1.10.1-2?arch=s390x
 - pkg:deb/debian/ruby-cool.io@1.7.1-1%2Bb4?arch=amd64
 - pkg:deb/debian/ruby-cool.io@1.7.1-1%2Bb4?arch=arm64
 - pkg:deb/debian/ruby-cool.io@1.7.1-1%2Bb4?arch=armel
