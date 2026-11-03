@@ -22,3 +22,11 @@
 - pkg:deb/debian/librplay3-dev@3.3.2-22?arch=ppc64el
 - pkg:deb/debian/librplay3-dev@3.3.2-22?arch=riscv64
 - pkg:deb/debian/librplay3-dev@3.3.2-22?arch=s390x
+- pkg:deb/debian/librplay3-dev@3.3.2-23?arch=amd64
+- pkg:deb/debian/librplay3-dev@3.3.2-23?arch=arm64
+- pkg:deb/debian/librplay3-dev@3.3.2-23?arch=armhf
+- pkg:deb/debian/librplay3-dev@3.3.2-23?arch=i386
+- pkg:deb/debian/librplay3-dev@3.3.2-23?arch=loong64
+- pkg:deb/debian/librplay3-dev@3.3.2-23?arch=ppc64el
+- pkg:deb/debian/librplay3-dev@3.3.2-23?arch=riscv64
+- pkg:deb/debian/librplay3-dev@3.3.2-23?arch=s390x
