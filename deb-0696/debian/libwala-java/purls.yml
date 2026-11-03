@@ -1,1 +1,2 @@
 - pkg:deb/debian/libwala-java@1.5.2-1?arch=all
+- pkg:deb/debian/libwala-java@1.5.2-2?arch=all
