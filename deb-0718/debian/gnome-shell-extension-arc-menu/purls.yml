@@ -2,3 +2,4 @@
 - pkg:deb/debian/gnome-shell-extension-arc-menu@49-1?arch=all
 - pkg:deb/debian/gnome-shell-extension-arc-menu@65-2?arch=all
 - pkg:deb/debian/gnome-shell-extension-arc-menu@67.2-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-arc-menu@70.0-1?arch=all

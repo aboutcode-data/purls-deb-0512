@@ -2,3 +2,4 @@
 - pkg:deb/debian/gnome-shell-extension-gsconnect-browsers@62-1%2Bdeb13u1?arch=all
 - pkg:deb/debian/gnome-shell-extension-gsconnect-browsers@62-1?arch=all
 - pkg:deb/debian/gnome-shell-extension-gsconnect-browsers@71-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-gsconnect-browsers@74-1?arch=all
