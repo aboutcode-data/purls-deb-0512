@@ -17,3 +17,8 @@
 - pkg:deb/debian/python3-dna-jellyfish@2.3.1-5%2Bb1?arch=arm64
 - pkg:deb/debian/python3-dna-jellyfish@2.3.1-5%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-dna-jellyfish@2.3.1-5%2Bb1?arch=riscv64
+- pkg:deb/debian/python3-dna-jellyfish@2.3.1-7%2Bb1?arch=amd64
+- pkg:deb/debian/python3-dna-jellyfish@2.3.1-7%2Bb1?arch=arm64
+- pkg:deb/debian/python3-dna-jellyfish@2.3.1-7%2Bb1?arch=loong64
+- pkg:deb/debian/python3-dna-jellyfish@2.3.1-7%2Bb1?arch=ppc64el
+- pkg:deb/debian/python3-dna-jellyfish@2.3.1-7%2Bb1?arch=riscv64
