@@ -9,6 +9,14 @@
 - pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb10?arch=ppc64el
 - pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb10?arch=riscv64
 - pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb10?arch=s390x
+- pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb12?arch=amd64
+- pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb12?arch=arm64
+- pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb12?arch=armhf
+- pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb12?arch=i386
+- pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb12?arch=loong64
+- pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb12?arch=ppc64el
+- pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb12?arch=riscv64
+- pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb12?arch=s390x
 - pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb4?arch=amd64
 - pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb4?arch=arm64
 - pkg:deb/debian/python3-sendfile@2.0.1-4%2Bb4?arch=armel
