@@ -19,3 +19,4 @@
 - pkg:deb/debian/libmad0@0.15.1b-11%2Bb1?arch=ppc64el
 - pkg:deb/debian/libmad0@0.15.1b-11%2Bb1?arch=riscv64
 - pkg:deb/debian/libmad0@0.15.1b-11%2Bb1?arch=s390x
+- pkg:deb/debian/libmad0@0.16.5-2?arch=riscv64

@@ -11,3 +11,6 @@
 - pkg:deb/debian/libmaus2-2@2.0.813%2Bds-5%2Bb1?arch=amd64
 - pkg:deb/debian/libmaus2-2@2.0.813%2Bds-5%2Bb1?arch=ppc64el
 - pkg:deb/debian/libmaus2-2@2.0.813%2Bds-5%2Bb1?arch=riscv64
+- pkg:deb/debian/libmaus2-2@2.0.813%2Bds-7?arch=amd64
+- pkg:deb/debian/libmaus2-2@2.0.813%2Bds-7?arch=arm64
+- pkg:deb/debian/libmaus2-2@2.0.813%2Bds-7?arch=armhf
