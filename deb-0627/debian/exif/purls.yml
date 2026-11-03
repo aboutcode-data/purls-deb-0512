@@ -20,3 +20,10 @@
 - pkg:deb/debian/exif@0.6.22-4?arch=riscv64
 - pkg:deb/debian/exif@0.6.22-4?arch=s390x
 - pkg:deb/debian/exif@0.6.22-5?arch=amd64
+- pkg:deb/debian/exif@0.6.22-5?arch=arm64
+- pkg:deb/debian/exif@0.6.22-5?arch=armhf
+- pkg:deb/debian/exif@0.6.22-5?arch=i386
+- pkg:deb/debian/exif@0.6.22-5?arch=loong64
+- pkg:deb/debian/exif@0.6.22-5?arch=ppc64el
+- pkg:deb/debian/exif@0.6.22-5?arch=riscv64
+- pkg:deb/debian/exif@0.6.22-5?arch=s390x
