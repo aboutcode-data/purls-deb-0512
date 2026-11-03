@@ -12,4 +12,5 @@
 - pkg:deb/debian/git-pages@0.10.1-1?arch=i386
 - pkg:deb/debian/git-pages@0.10.1-1?arch=loong64
 - pkg:deb/debian/git-pages@0.10.1-1?arch=ppc64el
+- pkg:deb/debian/git-pages@0.10.1-1?arch=riscv64
 - pkg:deb/debian/git-pages@0.10.1-1?arch=s390x
