@@ -20,3 +20,11 @@
 - pkg:deb/debian/poe.app@0.5.1-7%2Bb2?arch=riscv64
 - pkg:deb/debian/poe.app@0.5.1-7%2Bb2?arch=s390x
 - pkg:deb/debian/poe.app@0.5.1-7?arch=loong64
+- pkg:deb/debian/poe.app@0.5.1-8?arch=amd64
+- pkg:deb/debian/poe.app@0.5.1-8?arch=arm64
+- pkg:deb/debian/poe.app@0.5.1-8?arch=armhf
+- pkg:deb/debian/poe.app@0.5.1-8?arch=i386
+- pkg:deb/debian/poe.app@0.5.1-8?arch=loong64
+- pkg:deb/debian/poe.app@0.5.1-8?arch=ppc64el
+- pkg:deb/debian/poe.app@0.5.1-8?arch=riscv64
+- pkg:deb/debian/poe.app@0.5.1-8?arch=s390x

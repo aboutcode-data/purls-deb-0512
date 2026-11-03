@@ -1,3 +1,4 @@
 - pkg:deb/debian/pmbootstrap@1.50.1-1?arch=all
 - pkg:deb/debian/pmbootstrap@3.1.0-2?arch=all
+- pkg:deb/debian/pmbootstrap@3.12.1-1?arch=all
 - pkg:deb/debian/pmbootstrap@3.6.0-1?arch=all
