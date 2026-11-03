@@ -8,3 +8,4 @@
 - pkg:deb/debian/rust-gdb@1.90.0%2Bdfsg1-1?arch=all
 - pkg:deb/debian/rust-gdb@1.90.0%2Bdfsg1-1~bpo13%2B1?arch=all
 - pkg:deb/debian/rust-gdb@1.90.0%2Bdfsg1-1~bpo13%2B2?arch=all
+- pkg:deb/debian/rust-gdb@1.98.1%2Bdfsg1-1~exp1?arch=all
