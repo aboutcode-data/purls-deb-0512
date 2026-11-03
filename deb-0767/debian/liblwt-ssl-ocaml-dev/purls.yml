@@ -28,3 +28,4 @@
 - pkg:deb/debian/liblwt-ssl-ocaml-dev@1.2.0-2%2Bb17?arch=riscv64
 - pkg:deb/debian/liblwt-ssl-ocaml-dev@1.2.0-2%2Bb19?arch=amd64
 - pkg:deb/debian/liblwt-ssl-ocaml-dev@1.2.0-2%2Bb19?arch=arm64
+- pkg:deb/debian/liblwt-ssl-ocaml-dev@1.2.0-2%2Bb22?arch=riscv64
