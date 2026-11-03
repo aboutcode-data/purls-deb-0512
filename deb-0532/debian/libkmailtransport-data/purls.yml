@@ -1,3 +1,4 @@
 - pkg:deb/debian/libkmailtransport-data@24.12.3-1?arch=all
 - pkg:deb/debian/libkmailtransport-data@24.12.3-2?arch=all
 - pkg:deb/debian/libkmailtransport-data@25.08.3-2?arch=all
+- pkg:deb/debian/libkmailtransport-data@26.08.2-2?arch=all
