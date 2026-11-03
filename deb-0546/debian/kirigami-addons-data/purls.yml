@@ -1,2 +1,5 @@
 - pkg:deb/debian/kirigami-addons-data@0.7.0-2?arch=all
+- pkg:deb/debian/kirigami-addons-data@1.14.2-3?arch=all
+- pkg:deb/debian/kirigami-addons-data@1.15.0-1?arch=all
+- pkg:deb/debian/kirigami-addons-data@1.16.0-1?arch=all
 - pkg:deb/debian/kirigami-addons-data@1.7.0-1?arch=all

@@ -34,3 +34,11 @@
 - pkg:deb/debian/kio-gdrive@25.08.2-1?arch=ppc64el
 - pkg:deb/debian/kio-gdrive@25.08.2-1?arch=riscv64
 - pkg:deb/debian/kio-gdrive@25.08.2-1?arch=s390x
+- pkg:deb/debian/kio-gdrive@26.04.0-1%2Bb2?arch=amd64
+- pkg:deb/debian/kio-gdrive@26.04.0-1%2Bb2?arch=arm64
+- pkg:deb/debian/kio-gdrive@26.04.0-1%2Bb2?arch=armhf
+- pkg:deb/debian/kio-gdrive@26.04.0-1%2Bb2?arch=i386
+- pkg:deb/debian/kio-gdrive@26.04.0-1%2Bb2?arch=loong64
+- pkg:deb/debian/kio-gdrive@26.04.0-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/kio-gdrive@26.04.0-1%2Bb2?arch=riscv64
+- pkg:deb/debian/kio-gdrive@26.04.0-1%2Bb2?arch=s390x
