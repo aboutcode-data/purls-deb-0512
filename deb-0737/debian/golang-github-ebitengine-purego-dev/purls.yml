@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-ebitengine-purego-dev@0.11.2-1?arch=all
+- pkg:deb/debian/golang-github-ebitengine-purego-dev@0.11.2-1~bpo13%2B1?arch=all
