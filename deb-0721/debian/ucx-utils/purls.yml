@@ -15,3 +15,12 @@
 - pkg:deb/debian/ucx-utils@1.20.0%2Bds~rc1-1?arch=arm64
 - pkg:deb/debian/ucx-utils@1.20.0%2Bds~rc1-1?arch=ppc64el
 - pkg:deb/debian/ucx-utils@1.20.0%2Bds~rc1-1?arch=riscv64
+- pkg:deb/debian/ucx-utils@1.23.0~rc1-1?arch=amd64
+- pkg:deb/debian/ucx-utils@1.23.0~rc1-1?arch=arm64
+- pkg:deb/debian/ucx-utils@1.23.0~rc1-1?arch=loong64
+- pkg:deb/debian/ucx-utils@1.23.0~rc1-1?arch=ppc64el
+- pkg:deb/debian/ucx-utils@1.23.0~rc1-1?arch=riscv64
+- pkg:deb/debian/ucx-utils@1.23.0~rc2-1?arch=amd64
+- pkg:deb/debian/ucx-utils@1.23.0~rc2-1?arch=arm64
+- pkg:deb/debian/ucx-utils@1.23.0~rc2-1?arch=loong64
+- pkg:deb/debian/ucx-utils@1.23.0~rc2-1?arch=ppc64el

@@ -13,6 +13,14 @@
 - pkg:deb/debian/ucspi-tcp@0.88-13?arch=ppc64el
 - pkg:deb/debian/ucspi-tcp@0.88-13?arch=riscv64
 - pkg:deb/debian/ucspi-tcp@0.88-13?arch=s390x
+- pkg:deb/debian/ucspi-tcp@0.88-16?arch=amd64
+- pkg:deb/debian/ucspi-tcp@0.88-16?arch=arm64
+- pkg:deb/debian/ucspi-tcp@0.88-16?arch=armhf
+- pkg:deb/debian/ucspi-tcp@0.88-16?arch=i386
+- pkg:deb/debian/ucspi-tcp@0.88-16?arch=loong64
+- pkg:deb/debian/ucspi-tcp@0.88-16?arch=ppc64el
+- pkg:deb/debian/ucspi-tcp@0.88-16?arch=riscv64
+- pkg:deb/debian/ucspi-tcp@0.88-16?arch=s390x
 - pkg:deb/debian/ucspi-tcp@0.88-6?arch=amd64
 - pkg:deb/debian/ucspi-tcp@0.88-6?arch=arm64
 - pkg:deb/debian/ucspi-tcp@0.88-6?arch=armhf
