@@ -3,3 +3,4 @@
 - pkg:deb/debian/murasaki-common@1.68.6-14?arch=all
 - pkg:deb/debian/murasaki-common@1.68.6-16?arch=all
 - pkg:deb/debian/murasaki-common@1.68.6-17?arch=all
+- pkg:deb/debian/murasaki-common@1.68.6-19?arch=all
