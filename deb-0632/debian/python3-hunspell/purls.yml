@@ -11,6 +11,13 @@
 - pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb13?arch=ppc64el
 - pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb13?arch=s390x
 - pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb14?arch=arm64
+- pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb15?arch=amd64
+- pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb15?arch=armhf
+- pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb15?arch=i386
+- pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb15?arch=ppc64el
+- pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb15?arch=s390x
+- pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb16?arch=arm64
+- pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb3?arch=loong64
 - pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb4?arch=amd64
 - pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb4?arch=arm64
 - pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb4?arch=armhf
@@ -25,4 +32,5 @@
 - pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb8?arch=mips64el
 - pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb8?arch=mipsel
 - pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb8?arch=ppc64el
+- pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb8?arch=riscv64
 - pkg:deb/debian/python3-hunspell@0.5.5-2%2Bb8?arch=s390x
