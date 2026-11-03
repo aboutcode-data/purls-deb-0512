@@ -23,6 +23,14 @@
 - pkg:deb/debian/python3-esmre@1.0.1-5%2Bb3?arch=arm64
 - pkg:deb/debian/python3-esmre@1.0.1-5%2Bb3?arch=armhf
 - pkg:deb/debian/python3-esmre@1.0.1-5%2Bb3?arch=i386
+- pkg:deb/debian/python3-esmre@1.0.1-5%2Bb3?arch=loong64
 - pkg:deb/debian/python3-esmre@1.0.1-5%2Bb3?arch=ppc64el
 - pkg:deb/debian/python3-esmre@1.0.1-5%2Bb3?arch=riscv64
 - pkg:deb/debian/python3-esmre@1.0.1-5%2Bb3?arch=s390x
+- pkg:deb/debian/python3-esmre@1.0.1-5%2Bb5?arch=amd64
+- pkg:deb/debian/python3-esmre@1.0.1-5%2Bb5?arch=arm64
+- pkg:deb/debian/python3-esmre@1.0.1-5%2Bb5?arch=armhf
+- pkg:deb/debian/python3-esmre@1.0.1-5%2Bb5?arch=i386
+- pkg:deb/debian/python3-esmre@1.0.1-5%2Bb5?arch=ppc64el
+- pkg:deb/debian/python3-esmre@1.0.1-5%2Bb5?arch=riscv64
+- pkg:deb/debian/python3-esmre@1.0.1-5%2Bb5?arch=s390x
