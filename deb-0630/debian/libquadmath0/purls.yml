@@ -24,3 +24,6 @@
 - pkg:deb/debian/libquadmath0@16-20260217-1?arch=amd64
 - pkg:deb/debian/libquadmath0@16-20260217-1?arch=i386
 - pkg:deb/debian/libquadmath0@16-20260217-1?arch=ppc64el
+- pkg:deb/debian/libquadmath0@16.2.0-4?arch=amd64
+- pkg:deb/debian/libquadmath0@16.2.0-4?arch=i386
+- pkg:deb/debian/libquadmath0@16.2.0-4?arch=ppc64el
