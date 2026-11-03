@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-python-multipart@0.0.20-1?arch=all
+- pkg:deb/debian/python3-python-multipart@0.0.33-1?arch=all
