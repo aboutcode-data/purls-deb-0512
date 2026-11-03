@@ -12,4 +12,5 @@
 - pkg:deb/debian/python3-crysfml@0.0~git20260927085033.f438022-2?arch=i386
 - pkg:deb/debian/python3-crysfml@0.0~git20260927085033.f438022-2?arch=loong64
 - pkg:deb/debian/python3-crysfml@0.0~git20260927085033.f438022-2?arch=ppc64el
+- pkg:deb/debian/python3-crysfml@0.0~git20260927085033.f438022-2?arch=riscv64
 - pkg:deb/debian/python3-crysfml@0.0~git20260927085033.f438022-2?arch=s390x
