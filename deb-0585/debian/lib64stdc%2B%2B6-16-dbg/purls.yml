@@ -1,2 +1,3 @@
 - pkg:deb/debian/lib64stdc%2B%2B6-16-dbg@16-20251202-1?arch=i386
 - pkg:deb/debian/lib64stdc%2B%2B6-16-dbg@16-20260217-1?arch=i386
+- pkg:deb/debian/lib64stdc%2B%2B6-16-dbg@16.2.0-4?arch=i386
