@@ -21,4 +21,5 @@
 - pkg:deb/debian/kiwi-dracut-verity@11.1.6-1?arch=i386
 - pkg:deb/debian/kiwi-dracut-verity@11.1.6-1?arch=loong64
 - pkg:deb/debian/kiwi-dracut-verity@11.1.6-1?arch=ppc64el
+- pkg:deb/debian/kiwi-dracut-verity@11.1.6-1?arch=riscv64
 - pkg:deb/debian/kiwi-dracut-verity@11.1.6-1?arch=s390x
