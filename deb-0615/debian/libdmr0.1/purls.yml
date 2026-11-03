@@ -25,3 +25,9 @@
 - pkg:deb/debian/libdmr0.1@5.7.6.147-1?arch=amd64
 - pkg:deb/debian/libdmr0.1@5.7.6.147-1?arch=arm64
 - pkg:deb/debian/libdmr0.1@5.7.6.147-1?arch=i386
+- pkg:deb/debian/libdmr0.1@6.5.60-1?arch=amd64
+- pkg:deb/debian/libdmr0.1@6.5.60-1?arch=arm64
+- pkg:deb/debian/libdmr0.1@6.5.60-1?arch=armhf
+- pkg:deb/debian/libdmr0.1@6.5.60-1?arch=i386
+- pkg:deb/debian/libdmr0.1@6.5.60-1?arch=loong64
+- pkg:deb/debian/libdmr0.1@6.5.60-1?arch=ppc64el
