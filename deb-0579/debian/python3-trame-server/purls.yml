@@ -1,1 +1,2 @@
+- pkg:deb/debian/python3-trame-server@3.12.4-3?arch=all
 - pkg:deb/debian/python3-trame-server@3.6.1-2?arch=all
