@@ -4,3 +4,4 @@
 - pkg:deb/debian/python3-authlib@1.6.5-1?arch=all
 - pkg:deb/debian/python3-authlib@1.6.7-1?arch=all
 - pkg:deb/debian/python3-authlib@1.6.8-1?arch=all
+- pkg:deb/debian/python3-authlib@1.9.1-1?arch=all
