@@ -2,3 +2,4 @@
 - pkg:deb/debian/golang-sigsum-sigsum-go-dev@0.11.2-1?arch=all
 - pkg:deb/debian/golang-sigsum-sigsum-go-dev@0.12.0-1?arch=all
 - pkg:deb/debian/golang-sigsum-sigsum-go-dev@0.12.0-1~bpo13%2B1?arch=all
+- pkg:deb/debian/golang-sigsum-sigsum-go-dev@1.0.0-1?arch=all
