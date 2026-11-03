@@ -16,3 +16,8 @@
 - pkg:deb/debian/kallisto@0.51.1%2Bdfsg-1?arch=arm64
 - pkg:deb/debian/kallisto@0.51.1%2Bdfsg-1?arch=loong64
 - pkg:deb/debian/kallisto@0.51.1%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/kallisto@0.52.0%2Bdfsg-1?arch=amd64
+- pkg:deb/debian/kallisto@0.52.0%2Bdfsg-1?arch=arm64
+- pkg:deb/debian/kallisto@0.52.0%2Bdfsg-1?arch=loong64
+- pkg:deb/debian/kallisto@0.52.0%2Bdfsg-1?arch=ppc64el
+- pkg:deb/debian/kallisto@0.52.0%2Bdfsg-1?arch=s390x
