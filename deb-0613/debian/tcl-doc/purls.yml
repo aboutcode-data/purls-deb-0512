@@ -1,4 +1,6 @@
 - pkg:deb/debian/tcl-doc@8.6.11%2B1?arch=all
 - pkg:deb/debian/tcl-doc@8.6.13?arch=all
 - pkg:deb/debian/tcl-doc@8.6.16?arch=all
+- pkg:deb/debian/tcl-doc@8.6.18%2B1?arch=all
 - pkg:deb/debian/tcl-doc@9.0.1?arch=all
+- pkg:deb/debian/tcl-doc@9.1.0%2B1?arch=all
