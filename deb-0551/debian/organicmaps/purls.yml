@@ -3,3 +3,8 @@
 - pkg:deb/debian/organicmaps@2026.01.26-11%2Bds-4?arch=loong64
 - pkg:deb/debian/organicmaps@2026.01.26-11%2Bds-4?arch=ppc64el
 - pkg:deb/debian/organicmaps@2026.01.26-11%2Bds-4?arch=riscv64
+- pkg:deb/debian/organicmaps@2026.09.29-32%2Bds-2?arch=amd64
+- pkg:deb/debian/organicmaps@2026.09.29-32%2Bds-2?arch=arm64
+- pkg:deb/debian/organicmaps@2026.09.29-32%2Bds-2?arch=loong64
+- pkg:deb/debian/organicmaps@2026.09.29-32%2Bds-2?arch=ppc64el
+- pkg:deb/debian/organicmaps@2026.09.29-32%2Bds-2?arch=riscv64
