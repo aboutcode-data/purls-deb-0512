@@ -16,3 +16,7 @@
 - pkg:deb/debian/python3-guiqwt@4.4.4-2%2Bb1?arch=arm64
 - pkg:deb/debian/python3-guiqwt@4.4.4-2%2Bb1?arch=armhf
 - pkg:deb/debian/python3-guiqwt@4.4.4-2%2Bb1?arch=i386
+- pkg:deb/debian/python3-guiqwt@4.4.4-2%2Bb3?arch=amd64
+- pkg:deb/debian/python3-guiqwt@4.4.4-2%2Bb3?arch=arm64
+- pkg:deb/debian/python3-guiqwt@4.4.4-2%2Bb3?arch=armhf
+- pkg:deb/debian/python3-guiqwt@4.4.4-2%2Bb3?arch=i386

@@ -14,3 +14,4 @@
 - pkg:deb/debian/guix@1.4.0-9?arch=i386
 - pkg:deb/debian/guix@1.4.0-9?arch=ppc64el
 - pkg:deb/debian/guix@1.4.0-9?arch=riscv64
+- pkg:deb/debian/guix@1.5.0-1?arch=riscv64
