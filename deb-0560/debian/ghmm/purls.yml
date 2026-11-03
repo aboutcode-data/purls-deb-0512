@@ -13,6 +13,14 @@
 - pkg:deb/debian/ghmm@0.9~rc3-11?arch=ppc64el
 - pkg:deb/debian/ghmm@0.9~rc3-11?arch=riscv64
 - pkg:deb/debian/ghmm@0.9~rc3-11?arch=s390x
+- pkg:deb/debian/ghmm@0.9~rc3-14?arch=amd64
+- pkg:deb/debian/ghmm@0.9~rc3-14?arch=arm64
+- pkg:deb/debian/ghmm@0.9~rc3-14?arch=armhf
+- pkg:deb/debian/ghmm@0.9~rc3-14?arch=i386
+- pkg:deb/debian/ghmm@0.9~rc3-14?arch=loong64
+- pkg:deb/debian/ghmm@0.9~rc3-14?arch=ppc64el
+- pkg:deb/debian/ghmm@0.9~rc3-14?arch=riscv64
+- pkg:deb/debian/ghmm@0.9~rc3-14?arch=s390x
 - pkg:deb/debian/ghmm@0.9~rc3-4?arch=amd64
 - pkg:deb/debian/ghmm@0.9~rc3-4?arch=arm64
 - pkg:deb/debian/ghmm@0.9~rc3-4?arch=armel
