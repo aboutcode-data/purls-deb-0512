@@ -5,3 +5,8 @@
 - pkg:deb/debian/libopencolorio2.5@2.5.1%2Bdfsg-1?arch=ppc64el
 - pkg:deb/debian/libopencolorio2.5@2.5.1%2Bdfsg-1?arch=riscv64
 - pkg:deb/debian/libopencolorio2.5@2.5.1%2Bdfsg-1?arch=s390x
+- pkg:deb/debian/libopencolorio2.5@2.5.1%2Bdfsg-4%2Bb5?arch=amd64
+- pkg:deb/debian/libopencolorio2.5@2.5.1%2Bdfsg-4%2Bb5?arch=arm64
+- pkg:deb/debian/libopencolorio2.5@2.5.1%2Bdfsg-4%2Bb5?arch=armhf
+- pkg:deb/debian/libopencolorio2.5@2.5.1%2Bdfsg-4%2Bb5?arch=i386
+- pkg:deb/debian/libopencolorio2.5@2.5.1%2Bdfsg-4%2Bb5?arch=loong64
