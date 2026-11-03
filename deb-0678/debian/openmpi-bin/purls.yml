@@ -33,3 +33,8 @@
 - pkg:deb/debian/openmpi-bin@5.0.9-4?arch=ppc64el
 - pkg:deb/debian/openmpi-bin@5.0.9-4?arch=riscv64
 - pkg:deb/debian/openmpi-bin@5.0.9-4?arch=s390x
+- pkg:deb/debian/openmpi-bin@6.0.0~rc2-4?arch=amd64
+- pkg:deb/debian/openmpi-bin@6.0.0~rc2-4?arch=arm64
+- pkg:deb/debian/openmpi-bin@6.0.0~rc2-4?arch=loong64
+- pkg:deb/debian/openmpi-bin@6.0.0~rc2-4?arch=ppc64el
+- pkg:deb/debian/openmpi-bin@6.0.0~rc2-4?arch=s390x
