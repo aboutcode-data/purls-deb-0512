@@ -1,2 +1,3 @@
 - pkg:deb/debian/libvelocity-tools-java@2.0-8?arch=all
 - pkg:deb/debian/libvelocity-tools-java@2.0-9?arch=all
+- pkg:deb/debian/libvelocity-tools-java@3.2-1?arch=all
