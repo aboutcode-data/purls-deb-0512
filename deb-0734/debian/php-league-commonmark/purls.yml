@@ -1,4 +1,6 @@
 - pkg:deb/debian/php-league-commonmark@1.5.7-2?arch=all
+- pkg:deb/debian/php-league-commonmark@2.10.4-1?arch=all
+- pkg:deb/debian/php-league-commonmark@2.10.7-1?arch=all
 - pkg:deb/debian/php-league-commonmark@2.3.9-1?arch=all
 - pkg:deb/debian/php-league-commonmark@2.7.0-1?arch=all
 - pkg:deb/debian/php-league-commonmark@2.8.0-1?arch=all
