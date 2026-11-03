@@ -2,3 +2,7 @@
 - pkg:deb/debian/frr-dev@10.7.1-6?arch=arm64
 - pkg:deb/debian/frr-dev@10.7.1-6?arch=armhf
 - pkg:deb/debian/frr-dev@10.7.1-6?arch=i386
+- pkg:deb/debian/frr-dev@10.7.1-6?arch=loong64
+- pkg:deb/debian/frr-dev@10.7.1-6?arch=ppc64el
+- pkg:deb/debian/frr-dev@10.7.1-6?arch=riscv64
+- pkg:deb/debian/frr-dev@10.7.1-6?arch=s390x
