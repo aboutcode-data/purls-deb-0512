@@ -1,3 +1,4 @@
 - pkg:deb/debian/cl-named-readtables@20201221.gitc5689a4-1?arch=all
 - pkg:deb/debian/cl-named-readtables@20230828.git455fbaa-3?arch=all
 - pkg:deb/debian/cl-named-readtables@20250524.git8bd0045-1?arch=all
+- pkg:deb/debian/cl-named-readtables@20260701.git9b774b5-1?arch=all

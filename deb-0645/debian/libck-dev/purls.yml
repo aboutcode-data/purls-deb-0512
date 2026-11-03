@@ -11,6 +11,14 @@
 - pkg:deb/debian/libck-dev@0.7.1-10?arch=mipsel
 - pkg:deb/debian/libck-dev@0.7.1-10?arch=ppc64el
 - pkg:deb/debian/libck-dev@0.7.1-10?arch=s390x
+- pkg:deb/debian/libck-dev@0.7.2-12?arch=amd64
+- pkg:deb/debian/libck-dev@0.7.2-12?arch=arm64
+- pkg:deb/debian/libck-dev@0.7.2-12?arch=armhf
+- pkg:deb/debian/libck-dev@0.7.2-12?arch=i386
+- pkg:deb/debian/libck-dev@0.7.2-12?arch=loong64
+- pkg:deb/debian/libck-dev@0.7.2-12?arch=ppc64el
+- pkg:deb/debian/libck-dev@0.7.2-12?arch=riscv64
+- pkg:deb/debian/libck-dev@0.7.2-12?arch=s390x
 - pkg:deb/debian/libck-dev@0.7.2-6?arch=amd64
 - pkg:deb/debian/libck-dev@0.7.2-6?arch=arm64
 - pkg:deb/debian/libck-dev@0.7.2-6?arch=armel
