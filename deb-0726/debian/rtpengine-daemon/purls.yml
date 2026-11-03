@@ -22,3 +22,6 @@
 - pkg:deb/debian/rtpengine-daemon@13.5.1.2-1?arch=ppc64el
 - pkg:deb/debian/rtpengine-daemon@13.5.1.2-1?arch=riscv64
 - pkg:deb/debian/rtpengine-daemon@13.5.1.2-1?arch=s390x
+- pkg:deb/debian/rtpengine-daemon@26.0.1.26-1?arch=amd64
+- pkg:deb/debian/rtpengine-daemon@26.0.1.26-1?arch=arm64
+- pkg:deb/debian/rtpengine-daemon@26.0.1.26-1?arch=armhf
