@@ -26,3 +26,5 @@
 - pkg:deb/debian/uwsgi@2.0.31-1?arch=ppc64el
 - pkg:deb/debian/uwsgi@2.0.31-1?arch=riscv64
 - pkg:deb/debian/uwsgi@2.0.31-1?arch=s390x
+- pkg:deb/debian/uwsgi@2.0.31-7?arch=amd64
+- pkg:deb/debian/uwsgi@2.0.31-7?arch=arm64
