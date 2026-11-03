@@ -1,3 +1,4 @@
 - pkg:deb/debian/ruby-omniauth-facebook@10.0.0-1?arch=all
+- pkg:deb/debian/ruby-omniauth-facebook@11.0.0-2?arch=all
 - pkg:deb/debian/ruby-omniauth-facebook@4.0.0-2?arch=all
 - pkg:deb/debian/ruby-omniauth-facebook@4.0.0-3?arch=all

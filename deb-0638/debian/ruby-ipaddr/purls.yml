@@ -2,3 +2,4 @@
 - pkg:deb/debian/ruby-ipaddr@1.2.5-1?arch=all
 - pkg:deb/debian/ruby-ipaddr@1.2.7-1?arch=all
 - pkg:deb/debian/ruby-ipaddr@1.2.8-1?arch=all
+- pkg:deb/debian/ruby-ipaddr@1.3.0-1?arch=all
