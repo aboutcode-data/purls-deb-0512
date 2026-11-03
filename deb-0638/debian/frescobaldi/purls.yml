@@ -16,3 +16,7 @@
 - pkg:deb/debian/frescobaldi@3.3.0%2Bds1-3?arch=ppc64el
 - pkg:deb/debian/frescobaldi@3.3.0%2Bds1-3?arch=riscv64
 - pkg:deb/debian/frescobaldi@3.3.0%2Bds1-3?arch=s390x
+- pkg:deb/debian/frescobaldi@4.0.7%2Bds1-2?arch=amd64
+- pkg:deb/debian/frescobaldi@4.0.7%2Bds1-2?arch=arm64
+- pkg:deb/debian/frescobaldi@4.0.7%2Bds1-2?arch=armhf
+- pkg:deb/debian/frescobaldi@4.0.7%2Bds1-2?arch=i386
