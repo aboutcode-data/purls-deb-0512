@@ -35,3 +35,5 @@
 - pkg:deb/debian/libxmp4@4.6.3-1?arch=ppc64el
 - pkg:deb/debian/libxmp4@4.6.3-1?arch=riscv64
 - pkg:deb/debian/libxmp4@4.6.3-1?arch=s390x
+- pkg:deb/debian/libxmp4@4.7.4-1?arch=amd64
+- pkg:deb/debian/libxmp4@4.7.4-1?arch=arm64
