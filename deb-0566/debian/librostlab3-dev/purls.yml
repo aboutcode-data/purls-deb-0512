@@ -19,3 +19,11 @@
 - pkg:deb/debian/librostlab3-dev@1.0.20-14?arch=ppc64el
 - pkg:deb/debian/librostlab3-dev@1.0.20-14?arch=riscv64
 - pkg:deb/debian/librostlab3-dev@1.0.20-14?arch=s390x
+- pkg:deb/debian/librostlab3-dev@1.0.20-15?arch=amd64
+- pkg:deb/debian/librostlab3-dev@1.0.20-15?arch=arm64
+- pkg:deb/debian/librostlab3-dev@1.0.20-15?arch=armhf
+- pkg:deb/debian/librostlab3-dev@1.0.20-15?arch=i386
+- pkg:deb/debian/librostlab3-dev@1.0.20-15?arch=loong64
+- pkg:deb/debian/librostlab3-dev@1.0.20-15?arch=ppc64el
+- pkg:deb/debian/librostlab3-dev@1.0.20-15?arch=riscv64
+- pkg:deb/debian/librostlab3-dev@1.0.20-15?arch=s390x
