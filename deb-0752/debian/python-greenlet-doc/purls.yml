@@ -3,3 +3,4 @@
 - pkg:deb/debian/python-greenlet-doc@3.1.0-1?arch=all
 - pkg:deb/debian/python-greenlet-doc@3.2.4-2?arch=all
 - pkg:deb/debian/python-greenlet-doc@3.2.4-3?arch=all
+- pkg:deb/debian/python-greenlet-doc@3.3.2-5?arch=all
