@@ -10,3 +10,7 @@
 - pkg:deb/debian/libsaclib0t64@2.2.8-8?arch=arm64
 - pkg:deb/debian/libsaclib0t64@2.2.8-8?arch=armhf
 - pkg:deb/debian/libsaclib0t64@2.2.8-8?arch=i386
+- pkg:deb/debian/libsaclib0t64@2.2.8-8?arch=loong64
+- pkg:deb/debian/libsaclib0t64@2.2.8-8?arch=ppc64el
+- pkg:deb/debian/libsaclib0t64@2.2.8-8?arch=riscv64
+- pkg:deb/debian/libsaclib0t64@2.2.8-8?arch=s390x
