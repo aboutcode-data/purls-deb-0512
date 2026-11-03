@@ -6,6 +6,10 @@
 - pkg:deb/debian/seqan-raptor@3.0.1%2Bds-10?arch=arm64
 - pkg:deb/debian/seqan-raptor@3.0.1%2Bds-10?arch=ppc64el
 - pkg:deb/debian/seqan-raptor@3.0.1%2Bds-10?arch=riscv64
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-13?arch=amd64
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-13?arch=arm64
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-13?arch=loong64
+- pkg:deb/debian/seqan-raptor@3.0.1%2Bds-13?arch=ppc64el
 - pkg:deb/debian/seqan-raptor@3.0.1%2Bds-9?arch=amd64
 - pkg:deb/debian/seqan-raptor@3.0.1%2Bds-9?arch=arm64
 - pkg:deb/debian/seqan-raptor@3.0.1%2Bds-9?arch=ppc64el
