@@ -1,4 +1,5 @@
 - pkg:deb/debian/libqalculate-data@4.5.1-1?arch=all
+- pkg:deb/debian/libqalculate-data@5.13.2-2?arch=all
 - pkg:deb/debian/libqalculate-data@5.5.2-1?arch=all
 - pkg:deb/debian/libqalculate-data@5.8.2-1?arch=all
 - pkg:deb/debian/libqalculate-data@5.9.0-1?arch=all
