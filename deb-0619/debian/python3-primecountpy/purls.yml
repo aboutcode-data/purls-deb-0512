@@ -24,3 +24,5 @@
 - pkg:deb/debian/python3-primecountpy@0.1.1-1%2Bb1?arch=s390x
 - pkg:deb/debian/python3-primecountpy@0.1.1-1.1?arch=loong64
 - pkg:deb/debian/python3-primecountpy@0.1.1-1?arch=riscv64
+- pkg:deb/debian/python3-primecountpy@0.2.1-1%2Bb1?arch=amd64
+- pkg:deb/debian/python3-primecountpy@0.2.1-1%2Bb1?arch=arm64
