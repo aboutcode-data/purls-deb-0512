@@ -1,1 +1,2 @@
 - pkg:deb/debian/hyprland-protocols@0.7.0-0.1?arch=all
+- pkg:deb/debian/hyprland-protocols@0.8.0-1?arch=all
