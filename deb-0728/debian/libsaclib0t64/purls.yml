@@ -6,3 +6,7 @@
 - pkg:deb/debian/libsaclib0t64@2.2.8-6.1%2Bb2?arch=ppc64el
 - pkg:deb/debian/libsaclib0t64@2.2.8-6.1%2Bb2?arch=riscv64
 - pkg:deb/debian/libsaclib0t64@2.2.8-6.1%2Bb2?arch=s390x
+- pkg:deb/debian/libsaclib0t64@2.2.8-8?arch=amd64
+- pkg:deb/debian/libsaclib0t64@2.2.8-8?arch=arm64
+- pkg:deb/debian/libsaclib0t64@2.2.8-8?arch=armhf
+- pkg:deb/debian/libsaclib0t64@2.2.8-8?arch=i386
