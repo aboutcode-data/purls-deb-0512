@@ -1,2 +1,3 @@
 - pkg:deb/debian/python-fedora-doc@1.1.1-1?arch=all
 - pkg:deb/debian/python-fedora-doc@1.1.1-5?arch=all
+- pkg:deb/debian/python-fedora-doc@1.1.1-8?arch=all
