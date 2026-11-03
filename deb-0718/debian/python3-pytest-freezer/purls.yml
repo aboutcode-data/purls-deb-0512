@@ -1,1 +1,2 @@
 - pkg:deb/debian/python3-pytest-freezer@0.4.9-1?arch=all
+- pkg:deb/debian/python3-pytest-freezer@0.4.9-2?arch=all
