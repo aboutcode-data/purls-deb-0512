@@ -18,3 +18,9 @@
 - pkg:deb/debian/repowerd-tools@2025.09-1?arch=i386
 - pkg:deb/debian/repowerd-tools@2025.09-1?arch=ppc64el
 - pkg:deb/debian/repowerd-tools@2025.09-1?arch=riscv64
+- pkg:deb/debian/repowerd-tools@2026.06-4?arch=amd64
+- pkg:deb/debian/repowerd-tools@2026.06-4?arch=arm64
+- pkg:deb/debian/repowerd-tools@2026.06-4?arch=armhf
+- pkg:deb/debian/repowerd-tools@2026.06-4?arch=i386
+- pkg:deb/debian/repowerd-tools@2026.06-4?arch=loong64
+- pkg:deb/debian/repowerd-tools@2026.06-4?arch=ppc64el
