@@ -2,3 +2,5 @@
 - pkg:deb/debian/cuttlefish-common@1.0.1-0~exp2%2Bb1?arch=arm64
 - pkg:deb/debian/cuttlefish-common@1.0.1-0~exp2%2Bb1?arch=ppc64el
 - pkg:deb/debian/cuttlefish-common@1.0.1-0~exp2%2Bb1?arch=riscv64
+- pkg:deb/debian/cuttlefish-common@1.57.0%2Bdfsg.1-1?arch=amd64
+- pkg:deb/debian/cuttlefish-common@1.57.0%2Bdfsg.1-1?arch=arm64
