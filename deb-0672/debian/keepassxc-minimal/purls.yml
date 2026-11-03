@@ -19,4 +19,5 @@
 - pkg:deb/debian/keepassxc-minimal@2.8.0%2Bdfsg1-1?arch=i386
 - pkg:deb/debian/keepassxc-minimal@2.8.0%2Bdfsg1-1?arch=loong64
 - pkg:deb/debian/keepassxc-minimal@2.8.0%2Bdfsg1-1?arch=ppc64el
+- pkg:deb/debian/keepassxc-minimal@2.8.0%2Bdfsg1-1?arch=riscv64
 - pkg:deb/debian/keepassxc-minimal@2.8.0%2Bdfsg1-1?arch=s390x
