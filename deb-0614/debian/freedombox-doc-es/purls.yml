@@ -4,3 +4,6 @@
 - pkg:deb/debian/freedombox-doc-es@25.16~bpo13%2B1?arch=all
 - pkg:deb/debian/freedombox-doc-es@25.9.3?arch=all
 - pkg:deb/debian/freedombox-doc-es@25.9.3~bpo12%2B2?arch=all
+- pkg:deb/debian/freedombox-doc-es@26.14?arch=all
+- pkg:deb/debian/freedombox-doc-es@26.14~bpo13%2B1?arch=all
+- pkg:deb/debian/freedombox-doc-es@26.15?arch=all
