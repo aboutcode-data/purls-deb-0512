@@ -12,3 +12,4 @@
 - pkg:deb/debian/libc-ares2@1.18.1-3?arch=ppc64el
 - pkg:deb/debian/libc-ares2@1.18.1-3?arch=s390x
 - pkg:deb/debian/libc-ares2@1.34.5-1?arch=all
+- pkg:deb/debian/libc-ares2@1.34.9-1?arch=all

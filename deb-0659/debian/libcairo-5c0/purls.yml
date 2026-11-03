@@ -22,3 +22,11 @@
 - pkg:deb/debian/libcairo-5c0@1.24?arch=ppc64el
 - pkg:deb/debian/libcairo-5c0@1.24?arch=riscv64
 - pkg:deb/debian/libcairo-5c0@1.24?arch=s390x
+- pkg:deb/debian/libcairo-5c0@1.28?arch=amd64
+- pkg:deb/debian/libcairo-5c0@1.28?arch=arm64
+- pkg:deb/debian/libcairo-5c0@1.28?arch=armhf
+- pkg:deb/debian/libcairo-5c0@1.28?arch=i386
+- pkg:deb/debian/libcairo-5c0@1.28?arch=loong64
+- pkg:deb/debian/libcairo-5c0@1.28?arch=ppc64el
+- pkg:deb/debian/libcairo-5c0@1.28?arch=riscv64
+- pkg:deb/debian/libcairo-5c0@1.28?arch=s390x

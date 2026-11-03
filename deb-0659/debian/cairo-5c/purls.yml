@@ -6,3 +6,11 @@
 - pkg:deb/debian/cairo-5c@1.24?arch=ppc64el
 - pkg:deb/debian/cairo-5c@1.24?arch=riscv64
 - pkg:deb/debian/cairo-5c@1.24?arch=s390x
+- pkg:deb/debian/cairo-5c@1.28?arch=amd64
+- pkg:deb/debian/cairo-5c@1.28?arch=arm64
+- pkg:deb/debian/cairo-5c@1.28?arch=armhf
+- pkg:deb/debian/cairo-5c@1.28?arch=i386
+- pkg:deb/debian/cairo-5c@1.28?arch=loong64
+- pkg:deb/debian/cairo-5c@1.28?arch=ppc64el
+- pkg:deb/debian/cairo-5c@1.28?arch=riscv64
+- pkg:deb/debian/cairo-5c@1.28?arch=s390x
