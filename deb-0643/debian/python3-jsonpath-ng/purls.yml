@@ -1,2 +1,4 @@
+- pkg:deb/debian/python3-jsonpath-ng@1.11.0%2Bds-1?arch=all
+- pkg:deb/debian/python3-jsonpath-ng@1.15.0%2Bds-1?arch=all
 - pkg:deb/debian/python3-jsonpath-ng@1.7.0-1?arch=all
 - pkg:deb/debian/python3-jsonpath-ng@1.7.0-4?arch=all
