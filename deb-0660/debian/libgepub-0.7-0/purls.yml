@@ -22,3 +22,4 @@
 - pkg:deb/debian/libgepub-0.7-0@0.7.3-2?arch=ppc64el
 - pkg:deb/debian/libgepub-0.7-0@0.7.3-2?arch=riscv64
 - pkg:deb/debian/libgepub-0.7-0@0.7.3-2?arch=s390x
+- pkg:deb/debian/libgepub-0.7-0@0.7.3-4?arch=amd64
