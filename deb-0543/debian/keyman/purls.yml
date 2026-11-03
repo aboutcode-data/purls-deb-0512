@@ -3,3 +3,4 @@
 - pkg:deb/debian/keyman@18.0.235-1?arch=all
 - pkg:deb/debian/keyman@18.0.244-1?arch=all
 - pkg:deb/debian/keyman@18.0.245-1?arch=all
+- pkg:deb/debian/keyman@18.0.254-1?arch=all
