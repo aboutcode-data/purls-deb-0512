@@ -33,3 +33,10 @@
 - pkg:deb/debian/protobuf-compiler@3.25.4-1%2Bb7?arch=ppc64el
 - pkg:deb/debian/protobuf-compiler@3.25.4-1%2Bb7?arch=riscv64
 - pkg:deb/debian/protobuf-compiler@3.25.4-1%2Bb7?arch=s390x
+- pkg:deb/debian/protobuf-compiler@36.2-3?arch=amd64
+- pkg:deb/debian/protobuf-compiler@36.2-3?arch=arm64
+- pkg:deb/debian/protobuf-compiler@36.2-3?arch=armhf
+- pkg:deb/debian/protobuf-compiler@36.2-3?arch=i386
+- pkg:deb/debian/protobuf-compiler@36.2-3?arch=loong64
+- pkg:deb/debian/protobuf-compiler@36.2-3?arch=ppc64el
+- pkg:deb/debian/protobuf-compiler@36.2-3?arch=s390x
