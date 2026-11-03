@@ -5,3 +5,8 @@
 - pkg:deb/debian/libssw1@1.2.5-1?arch=i386
 - pkg:deb/debian/libssw1@1.2.5-1?arch=ppc64el
 - pkg:deb/debian/libssw1@1.2.5-1?arch=s390x
+- pkg:deb/debian/libssw1@1.2.5-4?arch=amd64
+- pkg:deb/debian/libssw1@1.2.5-4?arch=arm64
+- pkg:deb/debian/libssw1@1.2.5-4?arch=armhf
+- pkg:deb/debian/libssw1@1.2.5-4?arch=i386
+- pkg:deb/debian/libssw1@1.2.5-4?arch=loong64
