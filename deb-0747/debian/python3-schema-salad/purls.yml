@@ -1,4 +1,11 @@
 - pkg:deb/debian/python3-schema-salad@7.0.20210124093443-1?arch=all
+- pkg:deb/debian/python3-schema-salad@8.10.20260825112551-2%2Bb1?arch=amd64
+- pkg:deb/debian/python3-schema-salad@8.10.20260825112551-2%2Bb1?arch=arm64
+- pkg:deb/debian/python3-schema-salad@8.10.20260825112551-2%2Bb1?arch=armhf
+- pkg:deb/debian/python3-schema-salad@8.10.20260825112551-2%2Bb1?arch=i386
+- pkg:deb/debian/python3-schema-salad@8.10.20260825112551-2%2Bb1?arch=loong64
+- pkg:deb/debian/python3-schema-salad@8.10.20260825112551-2%2Bb1?arch=ppc64el
+- pkg:deb/debian/python3-schema-salad@8.10.20260825112551-2%2Bb1?arch=s390x
 - pkg:deb/debian/python3-schema-salad@8.4.20230213094415-1?arch=amd64
 - pkg:deb/debian/python3-schema-salad@8.4.20230213094415-1?arch=arm64
 - pkg:deb/debian/python3-schema-salad@8.4.20230213094415-1?arch=armel
