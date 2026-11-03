@@ -7,6 +7,11 @@
 - pkg:deb/debian/libcoq-mathcomp-analysis@1.14.0-1?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-analysis@1.14.0-1?arch=ppc64el
 - pkg:deb/debian/libcoq-mathcomp-analysis@1.14.0-1?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-analysis@1.17.0-1%2Bb3?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-analysis@1.17.0-1%2Bb3?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-analysis@1.17.0-1%2Bb3?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-analysis@1.17.0-1%2Bb3?arch=riscv64
+- pkg:deb/debian/libcoq-mathcomp-analysis@1.17.0-1%2Bb3?arch=s390x
 - pkg:deb/debian/libcoq-mathcomp-analysis@1.9.0-1%2Bb12?arch=amd64
 - pkg:deb/debian/libcoq-mathcomp-analysis@1.9.0-1%2Bb12?arch=arm64
 - pkg:deb/debian/libcoq-mathcomp-analysis@1.9.0-1%2Bb2?arch=riscv64
