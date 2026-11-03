@@ -1,3 +1,4 @@
 - pkg:deb/debian/qt6-base-doc@6.10.2%2Bdfsg-3?arch=all
+- pkg:deb/debian/qt6-base-doc@6.11.2%2Bdfsg-7?arch=all
 - pkg:deb/debian/qt6-base-doc@6.8.2%2Bdfsg-9%2Bdeb13u1?arch=all
 - pkg:deb/debian/qt6-base-doc@6.9.2%2Bdfsg-3?arch=all
