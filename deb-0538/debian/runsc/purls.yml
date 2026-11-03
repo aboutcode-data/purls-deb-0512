@@ -6,3 +6,4 @@
 - pkg:deb/debian/runsc@0.0~20240729.0-4~bpo12%2B2?arch=arm64
 - pkg:deb/debian/runsc@0.0~20240729.0-5%2Bb1?arch=amd64
 - pkg:deb/debian/runsc@0.0~20240729.0-5%2Bb1?arch=arm64
+- pkg:deb/debian/runsc@0.0~20261026.0-1?arch=amd64
