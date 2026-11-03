@@ -3,3 +3,4 @@
 - pkg:deb/debian/zsv-dev@1.3.0-1?arch=armhf
 - pkg:deb/debian/zsv-dev@1.3.0-1?arch=i386
 - pkg:deb/debian/zsv-dev@1.3.0-1?arch=s390x
+- pkg:deb/debian/zsv-dev@1.4.4-1?arch=riscv64
