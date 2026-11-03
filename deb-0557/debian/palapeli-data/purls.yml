@@ -1,3 +1,4 @@
 - pkg:deb/debian/palapeli-data@20.12.3-1?arch=all
 - pkg:deb/debian/palapeli-data@22.12.3-1?arch=all
 - pkg:deb/debian/palapeli-data@25.04.0-1?arch=all
+- pkg:deb/debian/palapeli-data@26.08.2-1?arch=all
