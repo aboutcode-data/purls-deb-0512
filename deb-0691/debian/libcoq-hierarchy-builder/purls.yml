@@ -3,6 +3,9 @@
 - pkg:deb/debian/libcoq-hierarchy-builder@1.10.1-2?arch=amd64
 - pkg:deb/debian/libcoq-hierarchy-builder@1.10.1-2?arch=ppc64el
 - pkg:deb/debian/libcoq-hierarchy-builder@1.10.1-2?arch=s390x
+- pkg:deb/debian/libcoq-hierarchy-builder@1.10.3-3%2Bb3?arch=arm64
+- pkg:deb/debian/libcoq-hierarchy-builder@1.10.3-3%2Bb3?arch=ppc64el
+- pkg:deb/debian/libcoq-hierarchy-builder@1.10.3-3%2Bb3?arch=riscv64
 - pkg:deb/debian/libcoq-hierarchy-builder@1.4.0-2%2Bb6?arch=amd64
 - pkg:deb/debian/libcoq-hierarchy-builder@1.4.0-2%2Bb6?arch=arm64
 - pkg:deb/debian/libcoq-hierarchy-builder@1.4.0-2%2Bb6?arch=i386
