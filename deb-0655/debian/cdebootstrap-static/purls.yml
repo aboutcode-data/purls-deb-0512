@@ -35,3 +35,6 @@
 - pkg:deb/debian/cdebootstrap-static@0.7.9%2Bb2?arch=ppc64el
 - pkg:deb/debian/cdebootstrap-static@0.7.9%2Bb2?arch=riscv64
 - pkg:deb/debian/cdebootstrap-static@0.7.9%2Bb2?arch=s390x
+- pkg:deb/debian/cdebootstrap-static@0.7.9%2Bnmu1?arch=amd64
+- pkg:deb/debian/cdebootstrap-static@0.7.9%2Bnmu1?arch=arm64
+- pkg:deb/debian/cdebootstrap-static@0.7.9%2Bnmu1?arch=armhf
