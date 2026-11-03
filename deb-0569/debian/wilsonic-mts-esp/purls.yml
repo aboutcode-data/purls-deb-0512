@@ -1,0 +1,6 @@
+- pkg:deb/debian/wilsonic-mts-esp@0.43~beta%2B260.g99c17cc-2?arch=amd64
+- pkg:deb/debian/wilsonic-mts-esp@0.43~beta%2B260.g99c17cc-2?arch=arm64
+- pkg:deb/debian/wilsonic-mts-esp@0.43~beta%2B260.g99c17cc-2?arch=armhf
+- pkg:deb/debian/wilsonic-mts-esp@0.43~beta%2B260.g99c17cc-2?arch=i386
+- pkg:deb/debian/wilsonic-mts-esp@0.43~beta%2B260.g99c17cc-2?arch=loong64
+- pkg:deb/debian/wilsonic-mts-esp@0.43~beta%2B260.g99c17cc-2?arch=ppc64el
