@@ -2,3 +2,5 @@
 - pkg:deb/debian/libnvidia-tesla-550-fbc1@550.54.15-3?arch=arm64
 - pkg:deb/debian/libnvidia-tesla-550-fbc1@550.54.15-3?arch=i386
 - pkg:deb/debian/libnvidia-tesla-550-fbc1@550.54.15-5?arch=amd64
+- pkg:deb/debian/libnvidia-tesla-550-fbc1@550.54.15-5?arch=arm64
+- pkg:deb/debian/libnvidia-tesla-550-fbc1@550.54.15-5?arch=i386
