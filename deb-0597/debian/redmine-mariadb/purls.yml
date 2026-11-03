@@ -1,0 +1,2 @@
+- pkg:deb/debian/redmine-mariadb@6.1.5%2Bds-3?arch=all
+- pkg:deb/debian/redmine-mariadb@6.1.5%2Bds-4?arch=all
