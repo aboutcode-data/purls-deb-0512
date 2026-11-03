@@ -5,4 +5,5 @@
 - pkg:deb/debian/python-django-doc@4.2.21-1~bpo12%2B1?arch=all
 - pkg:deb/debian/python-django-doc@4.2.23-1?arch=all
 - pkg:deb/debian/python-django-doc@4.2.26-1?arch=all
+- pkg:deb/debian/python-django-doc@5.2.18-2?arch=all
 - pkg:deb/debian/python-django-doc@6.0~rc1-1?arch=all
