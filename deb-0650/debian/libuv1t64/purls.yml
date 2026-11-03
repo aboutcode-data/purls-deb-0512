@@ -21,3 +21,4 @@
 - pkg:deb/debian/libuv1t64@1.52.0-1?arch=ppc64el
 - pkg:deb/debian/libuv1t64@1.52.0-1?arch=riscv64
 - pkg:deb/debian/libuv1t64@1.52.0-1?arch=s390x
+- pkg:deb/debian/libuv1t64@1.53.0-1?arch=riscv64
