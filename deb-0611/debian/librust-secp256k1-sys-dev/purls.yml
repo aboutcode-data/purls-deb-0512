@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-secp256k1-sys-dev@0.14.1%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/librust-secp256k1-sys-dev@0.14.1%2Bdfsg-3?arch=arm64
