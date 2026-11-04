@@ -5,3 +5,4 @@
 - pkg:deb/debian/firefox-l10n-ca-valencia@157.0.1-1?arch=all
 - pkg:deb/debian/firefox-l10n-ca-valencia@158.0.1-1?arch=all
 - pkg:deb/debian/firefox-l10n-ca-valencia@159.0-1?arch=all
+- pkg:deb/debian/firefox-l10n-ca-valencia@159.0.1-1?arch=all
