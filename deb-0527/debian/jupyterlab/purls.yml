@@ -1,3 +1,4 @@
 - pkg:deb/debian/jupyterlab@4.0.11%2Bds1%2B~cs11.25.27-7?arch=all
 - pkg:deb/debian/jupyterlab@4.0.11%2Bds1%2B~cs11.25.27-8?arch=all
 - pkg:deb/debian/jupyterlab@4.0.11%2Bds1%2B~cs11.25.27-9?arch=all
+- pkg:deb/debian/jupyterlab@4.4.10%2Bds1%2B~3.1.0%2B~0.16.6%2B~cs1.4.4-7?arch=all
