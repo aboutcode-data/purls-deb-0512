@@ -5,3 +5,4 @@
 - pkg:deb/debian/libcpansa-db-perl@20260816.002-1?arch=all
 - pkg:deb/debian/libcpansa-db-perl@20261025.002-1?arch=all
 - pkg:deb/debian/libcpansa-db-perl@20261027.002-1?arch=all
+- pkg:deb/debian/libcpansa-db-perl@20261101.010-1?arch=all

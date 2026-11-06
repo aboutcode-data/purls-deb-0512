@@ -2,3 +2,4 @@
 - pkg:deb/debian/libiri-perl@0.011-2?arch=all
 - pkg:deb/debian/libiri-perl@0.013-1?arch=all
 - pkg:deb/debian/libiri-perl@0.15-1?arch=all
+- pkg:deb/debian/libiri-perl@0.16-1?arch=all
