@@ -40,3 +40,4 @@
 - pkg:deb/debian/gstreamer1.0-tools@1.27.2-2?arch=ppc64el
 - pkg:deb/debian/gstreamer1.0-tools@1.27.2-2?arch=riscv64
 - pkg:deb/debian/gstreamer1.0-tools@1.27.2-2?arch=s390x
+- pkg:deb/debian/gstreamer1.0-tools@1.28.9-1?arch=riscv64
