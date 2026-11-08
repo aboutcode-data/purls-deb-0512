@@ -17,3 +17,4 @@
 - pkg:deb/debian/python3-numba@0.61.2%2Bdfsg-2?arch=arm64
 - pkg:deb/debian/python3-numba@0.68.1%2Bds-1?arch=amd64
 - pkg:deb/debian/python3-numba@0.68.1%2Bds-1?arch=arm64
+- pkg:deb/debian/python3-numba@0.68.1%2Bds-3?arch=riscv64
