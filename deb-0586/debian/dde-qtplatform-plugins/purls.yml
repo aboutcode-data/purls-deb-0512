@@ -1,0 +1,5 @@
+- pkg:deb/debian/dde-qtplatform-plugins@6.7.52-1?arch=arm64
+- pkg:deb/debian/dde-qtplatform-plugins@6.7.52-1?arch=armhf
+- pkg:deb/debian/dde-qtplatform-plugins@6.7.52-1?arch=loong64
+- pkg:deb/debian/dde-qtplatform-plugins@6.7.52-1?arch=ppc64el
+- pkg:deb/debian/dde-qtplatform-plugins@6.7.52-1?arch=riscv64
