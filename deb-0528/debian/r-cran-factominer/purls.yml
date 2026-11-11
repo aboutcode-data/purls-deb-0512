@@ -6,6 +6,10 @@
 - pkg:deb/debian/r-cran-factominer@2.11-1?arch=ppc64el
 - pkg:deb/debian/r-cran-factominer@2.11-1?arch=riscv64
 - pkg:deb/debian/r-cran-factominer@2.11-1?arch=s390x
+- pkg:deb/debian/r-cran-factominer@2.18-1?arch=amd64
+- pkg:deb/debian/r-cran-factominer@2.18-1?arch=arm64
+- pkg:deb/debian/r-cran-factominer@2.18-1?arch=loong64
+- pkg:deb/debian/r-cran-factominer@2.18-1?arch=ppc64el
 - pkg:deb/debian/r-cran-factominer@2.4-1?arch=all
 - pkg:deb/debian/r-cran-factominer@2.7-1?arch=amd64
 - pkg:deb/debian/r-cran-factominer@2.7-1?arch=arm64

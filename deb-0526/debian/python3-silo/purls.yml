@@ -41,3 +41,4 @@
 - pkg:deb/debian/python3-silo@4.12.2~pre1-1?arch=loong64
 - pkg:deb/debian/python3-silo@4.12.2~pre1-1?arch=ppc64el
 - pkg:deb/debian/python3-silo@4.12.2~pre1-1?arch=s390x
+- pkg:deb/debian/python3-silo@4.12.2~pre1-2?arch=riscv64
