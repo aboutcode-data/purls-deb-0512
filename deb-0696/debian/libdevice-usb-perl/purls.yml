@@ -18,5 +18,6 @@
 - pkg:deb/debian/libdevice-usb-perl@0.38-3%2Bb3?arch=arm64
 - pkg:deb/debian/libdevice-usb-perl@0.38-3%2Bb3?arch=armhf
 - pkg:deb/debian/libdevice-usb-perl@0.38-3%2Bb3?arch=i386
+- pkg:deb/debian/libdevice-usb-perl@0.38-3%2Bb3?arch=loong64
 - pkg:deb/debian/libdevice-usb-perl@0.38-3%2Bb3?arch=ppc64el
 - pkg:deb/debian/libdevice-usb-perl@0.38-3%2Bb3?arch=riscv64

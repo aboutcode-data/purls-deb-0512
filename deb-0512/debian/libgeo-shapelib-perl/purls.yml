@@ -19,6 +19,7 @@
 - pkg:deb/debian/libgeo-shapelib-perl@0.22-7?arch=ppc64el
 - pkg:deb/debian/libgeo-shapelib-perl@0.22-7?arch=riscv64
 - pkg:deb/debian/libgeo-shapelib-perl@0.22-7?arch=s390x
+- pkg:deb/debian/libgeo-shapelib-perl@0.22-8%2Bb3?arch=loong64
 - pkg:deb/debian/libgeo-shapelib-perl@0.22-8?arch=amd64
 - pkg:deb/debian/libgeo-shapelib-perl@0.22-8?arch=arm64
 - pkg:deb/debian/libgeo-shapelib-perl@0.22-8?arch=armhf

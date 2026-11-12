@@ -19,6 +19,7 @@
 - pkg:deb/debian/libdigest-whirlpool-perl@1.09-4?arch=ppc64el
 - pkg:deb/debian/libdigest-whirlpool-perl@1.09-4?arch=riscv64
 - pkg:deb/debian/libdigest-whirlpool-perl@1.09-4?arch=s390x
+- pkg:deb/debian/libdigest-whirlpool-perl@1.09-6%2Bb3?arch=loong64
 - pkg:deb/debian/libdigest-whirlpool-perl@1.09-6?arch=amd64
 - pkg:deb/debian/libdigest-whirlpool-perl@1.09-6?arch=arm64
 - pkg:deb/debian/libdigest-whirlpool-perl@1.09-6?arch=armhf

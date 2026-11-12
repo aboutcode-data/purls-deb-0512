@@ -26,3 +26,4 @@
 - pkg:deb/debian/libgd-perl@2.83-1?arch=ppc64el
 - pkg:deb/debian/libgd-perl@2.83-1?arch=riscv64
 - pkg:deb/debian/libgd-perl@2.83-1?arch=s390x
+- pkg:deb/debian/libgd-perl@2.84-3%2Bb2?arch=loong64
