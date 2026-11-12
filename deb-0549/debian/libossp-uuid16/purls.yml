@@ -26,3 +26,8 @@
 - pkg:deb/debian/libossp-uuid16@1.6.5-1?arch=ppc64el
 - pkg:deb/debian/libossp-uuid16@1.6.5-1?arch=riscv64
 - pkg:deb/debian/libossp-uuid16@1.6.5-1?arch=s390x
+- pkg:deb/debian/libossp-uuid16@1.6.6-1%2Bb3?arch=amd64
+- pkg:deb/debian/libossp-uuid16@1.6.6-1%2Bb3?arch=arm64
+- pkg:deb/debian/libossp-uuid16@1.6.6-1%2Bb3?arch=armhf
+- pkg:deb/debian/libossp-uuid16@1.6.6-1%2Bb3?arch=i386
+- pkg:deb/debian/libossp-uuid16@1.6.6-1%2Bb3?arch=ppc64el
