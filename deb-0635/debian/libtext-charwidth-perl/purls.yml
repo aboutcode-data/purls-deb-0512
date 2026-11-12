@@ -19,3 +19,5 @@
 - pkg:deb/debian/libtext-charwidth-perl@0.04-11?arch=mipsel
 - pkg:deb/debian/libtext-charwidth-perl@0.04-11?arch=ppc64el
 - pkg:deb/debian/libtext-charwidth-perl@0.04-11?arch=s390x
+- pkg:deb/debian/libtext-charwidth-perl@0.04-12%2Bb2?arch=amd64
+- pkg:deb/debian/libtext-charwidth-perl@0.04-12%2Bb2?arch=i386

@@ -11,6 +11,7 @@
 - pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb2?arch=mipsel
 - pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb2?arch=ppc64el
 - pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb2?arch=s390x
+- pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb3?arch=loong64
 - pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb3?arch=riscv64
 - pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb5?arch=amd64
 - pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb5?arch=arm64
@@ -19,3 +20,5 @@
 - pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb5?arch=i386
 - pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb5?arch=ppc64el
 - pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb5?arch=s390x
+- pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb7?arch=amd64
+- pkg:deb/debian/libtaint-runtime-perl@0.3-4%2Bb7?arch=i386
