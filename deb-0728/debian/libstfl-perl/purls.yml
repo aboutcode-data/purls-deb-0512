@@ -22,6 +22,8 @@
 - pkg:deb/debian/libstfl-perl@0.22-6%2Bb4?arch=amd64
 - pkg:deb/debian/libstfl-perl@0.22-6%2Bb4?arch=arm64
 - pkg:deb/debian/libstfl-perl@0.22-6%2Bb4?arch=armhf
+- pkg:deb/debian/libstfl-perl@0.22-6%2Bb4?arch=i386
+- pkg:deb/debian/libstfl-perl@0.22-6%2Bb4?arch=ppc64el
 - pkg:deb/debian/libstfl-perl@0.22-6?arch=amd64
 - pkg:deb/debian/libstfl-perl@0.22-6?arch=arm64
 - pkg:deb/debian/libstfl-perl@0.22-6?arch=armhf

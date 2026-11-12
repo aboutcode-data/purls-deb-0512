@@ -26,3 +26,5 @@
 - pkg:deb/debian/xeus-dev@5.2.6-1?arch=ppc64el
 - pkg:deb/debian/xeus-dev@5.2.6-1?arch=riscv64
 - pkg:deb/debian/xeus-dev@5.2.6-1?arch=s390x
+- pkg:deb/debian/xeus-dev@6.2.0-1?arch=arm64
+- pkg:deb/debian/xeus-dev@6.2.0-1?arch=armhf
