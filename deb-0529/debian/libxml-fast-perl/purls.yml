@@ -1,0 +1,5 @@
+- pkg:deb/debian/libxml-fast-perl@0.17-1%2Bb1?arch=amd64
+- pkg:deb/debian/libxml-fast-perl@0.17-1%2Bb1?arch=arm64
+- pkg:deb/debian/libxml-fast-perl@0.17-1%2Bb1?arch=armhf
+- pkg:deb/debian/libxml-fast-perl@0.17-1%2Bb1?arch=i386
+- pkg:deb/debian/libxml-fast-perl@0.17-1%2Bb1?arch=ppc64el

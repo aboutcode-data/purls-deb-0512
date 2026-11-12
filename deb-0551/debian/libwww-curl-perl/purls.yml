@@ -15,6 +15,9 @@
 - pkg:deb/debian/libwww-curl-perl@4.17-12?arch=ppc64el
 - pkg:deb/debian/libwww-curl-perl@4.17-12?arch=riscv64
 - pkg:deb/debian/libwww-curl-perl@4.17-12?arch=s390x
+- pkg:deb/debian/libwww-curl-perl@4.17-13%2Bb4?arch=amd64
+- pkg:deb/debian/libwww-curl-perl@4.17-13%2Bb4?arch=i386
+- pkg:deb/debian/libwww-curl-perl@4.17-13%2Bb4?arch=ppc64el
 - pkg:deb/debian/libwww-curl-perl@4.17-7%2Bb1?arch=amd64
 - pkg:deb/debian/libwww-curl-perl@4.17-7%2Bb1?arch=arm64
 - pkg:deb/debian/libwww-curl-perl@4.17-7%2Bb1?arch=armhf

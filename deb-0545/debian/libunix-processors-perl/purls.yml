@@ -19,3 +19,6 @@
 - pkg:deb/debian/libunix-processors-perl@2.046-3%2Bb4?arch=ppc64el
 - pkg:deb/debian/libunix-processors-perl@2.046-3%2Bb4?arch=riscv64
 - pkg:deb/debian/libunix-processors-perl@2.046-3%2Bb4?arch=s390x
+- pkg:deb/debian/libunix-processors-perl@2.046-3%2Bb8?arch=amd64
+- pkg:deb/debian/libunix-processors-perl@2.046-3%2Bb8?arch=i386
+- pkg:deb/debian/libunix-processors-perl@2.046-3%2Bb8?arch=ppc64el

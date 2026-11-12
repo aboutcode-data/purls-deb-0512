@@ -19,3 +19,5 @@
 - pkg:deb/debian/libunicode-casefold-perl@1.01-2%2Bb4?arch=i386
 - pkg:deb/debian/libunicode-casefold-perl@1.01-2%2Bb4?arch=ppc64el
 - pkg:deb/debian/libunicode-casefold-perl@1.01-2%2Bb4?arch=s390x
+- pkg:deb/debian/libunicode-casefold-perl@1.01-2%2Bb6?arch=amd64
+- pkg:deb/debian/libunicode-casefold-perl@1.01-2%2Bb6?arch=ppc64el

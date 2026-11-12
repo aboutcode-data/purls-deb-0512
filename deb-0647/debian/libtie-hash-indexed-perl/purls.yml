@@ -1,3 +1,5 @@
+- pkg:deb/debian/libtie-hash-indexed-perl@0.08%2Bds1-1%2Bb10?arch=amd64
+- pkg:deb/debian/libtie-hash-indexed-perl@0.08%2Bds1-1%2Bb10?arch=i386
 - pkg:deb/debian/libtie-hash-indexed-perl@0.08%2Bds1-1%2Bb2?arch=amd64
 - pkg:deb/debian/libtie-hash-indexed-perl@0.08%2Bds1-1%2Bb2?arch=arm64
 - pkg:deb/debian/libtie-hash-indexed-perl@0.08%2Bds1-1%2Bb2?arch=armel
