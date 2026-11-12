@@ -19,6 +19,8 @@
 - pkg:deb/debian/libre-engine-re2-perl@0.18%2Bds-2?arch=ppc64el
 - pkg:deb/debian/libre-engine-re2-perl@0.18%2Bds-2?arch=riscv64
 - pkg:deb/debian/libre-engine-re2-perl@0.18%2Bds-2?arch=s390x
+- pkg:deb/debian/libre-engine-re2-perl@0.18%2Bds-3%2Bb5?arch=i386
+- pkg:deb/debian/libre-engine-re2-perl@0.18%2Bds-3%2Bb5?arch=loong64
 - pkg:deb/debian/libre-engine-re2-perl@0.18%2Bds-3?arch=amd64
 - pkg:deb/debian/libre-engine-re2-perl@0.18%2Bds-3?arch=arm64
 - pkg:deb/debian/libre-engine-re2-perl@0.18%2Bds-3?arch=armhf

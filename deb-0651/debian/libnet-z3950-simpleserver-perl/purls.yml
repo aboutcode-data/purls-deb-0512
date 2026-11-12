@@ -19,3 +19,5 @@
 - pkg:deb/debian/libnet-z3950-simpleserver-perl@1.29-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libnet-z3950-simpleserver-perl@1.29-1%2Bb1?arch=riscv64
 - pkg:deb/debian/libnet-z3950-simpleserver-perl@1.29-1%2Bb1?arch=s390x
+- pkg:deb/debian/libnet-z3950-simpleserver-perl@1.29-1%2Bb3?arch=i386
+- pkg:deb/debian/libnet-z3950-simpleserver-perl@1.29-1%2Bb3?arch=loong64

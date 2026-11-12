@@ -11,6 +11,7 @@
 - pkg:deb/debian/libpg-hstore-perl@1.06-4?arch=mipsel
 - pkg:deb/debian/libpg-hstore-perl@1.06-4?arch=ppc64el
 - pkg:deb/debian/libpg-hstore-perl@1.06-4?arch=s390x
+- pkg:deb/debian/libpg-hstore-perl@1.06-5%2Bb2?arch=i386
 - pkg:deb/debian/libpg-hstore-perl@1.06-5?arch=amd64
 - pkg:deb/debian/libpg-hstore-perl@1.06-5?arch=arm64
 - pkg:deb/debian/libpg-hstore-perl@1.06-5?arch=armel

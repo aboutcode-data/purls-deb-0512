@@ -6,6 +6,8 @@
 - pkg:deb/debian/libopengl-glfw-perl@0.0402-1?arch=ppc64el
 - pkg:deb/debian/libopengl-glfw-perl@0.0402-1?arch=riscv64
 - pkg:deb/debian/libopengl-glfw-perl@0.0402-1?arch=s390x
+- pkg:deb/debian/libopengl-glfw-perl@0.0403-1%2Bb2?arch=i386
+- pkg:deb/debian/libopengl-glfw-perl@0.0403-1%2Bb3?arch=loong64
 - pkg:deb/debian/libopengl-glfw-perl@0.0403-1?arch=amd64
 - pkg:deb/debian/libopengl-glfw-perl@0.0403-1?arch=arm64
 - pkg:deb/debian/libopengl-glfw-perl@0.0403-1?arch=armhf

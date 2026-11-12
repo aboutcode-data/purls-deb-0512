@@ -12,6 +12,8 @@
 - pkg:deb/debian/libnet-libidn2-perl@1.02-1%2Bb3?arch=armel
 - pkg:deb/debian/libnet-libidn2-perl@1.02-1%2Bb3?arch=armhf
 - pkg:deb/debian/libnet-libidn2-perl@1.02-1%2Bb3?arch=i386
+- pkg:deb/debian/libnet-libidn2-perl@1.02-1%2Bb3?arch=loong64
 - pkg:deb/debian/libnet-libidn2-perl@1.02-1%2Bb3?arch=ppc64el
 - pkg:deb/debian/libnet-libidn2-perl@1.02-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libnet-libidn2-perl@1.02-1%2Bb3?arch=s390x
+- pkg:deb/debian/libnet-libidn2-perl@1.02-1%2Bb5?arch=i386

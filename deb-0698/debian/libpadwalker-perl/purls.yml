@@ -19,3 +19,4 @@
 - pkg:deb/debian/libpadwalker-perl@2.5-1%2Bb6?arch=i386
 - pkg:deb/debian/libpadwalker-perl@2.5-1%2Bb6?arch=ppc64el
 - pkg:deb/debian/libpadwalker-perl@2.5-1%2Bb6?arch=s390x
+- pkg:deb/debian/libpadwalker-perl@2.5-1%2Bb8?arch=i386
