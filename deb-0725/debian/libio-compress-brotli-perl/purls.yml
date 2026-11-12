@@ -6,6 +6,7 @@
 - pkg:deb/debian/libio-compress-brotli-perl@0.004001-2%2Bb3?arch=ppc64el
 - pkg:deb/debian/libio-compress-brotli-perl@0.004001-2%2Bb3?arch=riscv64
 - pkg:deb/debian/libio-compress-brotli-perl@0.004001-2%2Bb3?arch=s390x
+- pkg:deb/debian/libio-compress-brotli-perl@0.019000-1%2Bb2?arch=loong64
 - pkg:deb/debian/libio-compress-brotli-perl@0.019000-1?arch=amd64
 - pkg:deb/debian/libio-compress-brotli-perl@0.019000-1?arch=arm64
 - pkg:deb/debian/libio-compress-brotli-perl@0.019000-1?arch=armhf
