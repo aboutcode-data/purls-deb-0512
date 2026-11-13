@@ -19,3 +19,4 @@
 - pkg:deb/debian/libcrypt-eksblowfish-perl@0.009-3%2Bb4?arch=i386
 - pkg:deb/debian/libcrypt-eksblowfish-perl@0.009-3%2Bb4?arch=ppc64el
 - pkg:deb/debian/libcrypt-eksblowfish-perl@0.009-3%2Bb4?arch=s390x
+- pkg:deb/debian/libcrypt-eksblowfish-perl@0.009-3%2Bb6?arch=s390x

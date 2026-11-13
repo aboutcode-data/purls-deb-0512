@@ -21,3 +21,4 @@
 - pkg:deb/debian/libhamlib%2B%2B4t64@4.7.2-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/libhamlib%2B%2B4t64@4.7.2-2%2Bb1?arch=riscv64
 - pkg:deb/debian/libhamlib%2B%2B4t64@4.7.2-2%2Bb1?arch=s390x
+- pkg:deb/debian/libhamlib%2B%2B4t64@4.7.2-2%2Bb2?arch=s390x
