@@ -1,5 +1,6 @@
 - pkg:deb/debian/postgresql-all@225%2Bdeb11u1?arch=all
 - pkg:deb/debian/postgresql-all@248%2Bdeb12u1?arch=all
+- pkg:deb/debian/postgresql-all@278%2Bdeb13u1?arch=all
 - pkg:deb/debian/postgresql-all@278?arch=all
 - pkg:deb/debian/postgresql-all@287?arch=all
 - pkg:deb/debian/postgresql-all@289?arch=all

@@ -19,3 +19,4 @@
 - pkg:deb/debian/libwx-glcanvas-perl@0.09-8%2Bb4?arch=ppc64el
 - pkg:deb/debian/libwx-glcanvas-perl@0.09-8%2Bb4?arch=riscv64
 - pkg:deb/debian/libwx-glcanvas-perl@0.09-8%2Bb4?arch=s390x
+- pkg:deb/debian/libwx-glcanvas-perl@0.09-8%2Bb6?arch=riscv64
