@@ -33,6 +33,7 @@
 - pkg:deb/debian/geeqie@2.6.1-2?arch=ppc64el
 - pkg:deb/debian/geeqie@2.6.1-2?arch=riscv64
 - pkg:deb/debian/geeqie@2.6.1-2?arch=s390x
+- pkg:deb/debian/geeqie@3.3-4%2Bb1?arch=riscv64
 - pkg:deb/debian/geeqie@3.3-4?arch=amd64
 - pkg:deb/debian/geeqie@3.3-4?arch=arm64
 - pkg:deb/debian/geeqie@3.3-4?arch=armhf
