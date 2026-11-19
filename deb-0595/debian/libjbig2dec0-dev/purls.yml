@@ -19,3 +19,4 @@
 - pkg:deb/debian/libjbig2dec0-dev@0.20-1%2Bb3?arch=ppc64el
 - pkg:deb/debian/libjbig2dec0-dev@0.20-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libjbig2dec0-dev@0.20-1%2Bb3?arch=s390x
+- pkg:deb/debian/libjbig2dec0-dev@0.20-1.1?arch=loong64

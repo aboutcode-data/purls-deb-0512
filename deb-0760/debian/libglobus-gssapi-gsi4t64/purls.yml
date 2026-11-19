@@ -6,3 +6,4 @@
 - pkg:deb/debian/libglobus-gssapi-gsi4t64@14.20-3%2Bb1?arch=ppc64el
 - pkg:deb/debian/libglobus-gssapi-gsi4t64@14.20-3%2Bb1?arch=riscv64
 - pkg:deb/debian/libglobus-gssapi-gsi4t64@14.20-3%2Bb1?arch=s390x
+- pkg:deb/debian/libglobus-gssapi-gsi4t64@14.21-1?arch=riscv64

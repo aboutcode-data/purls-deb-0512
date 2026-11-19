@@ -35,3 +35,4 @@
 - pkg:deb/debian/containers-storage@1.61.0%2Bds1-6?arch=ppc64el
 - pkg:deb/debian/containers-storage@1.61.0%2Bds1-6?arch=riscv64
 - pkg:deb/debian/containers-storage@1.61.0%2Bds1-6?arch=s390x
+- pkg:deb/debian/containers-storage@1.64.2-1?arch=s390x

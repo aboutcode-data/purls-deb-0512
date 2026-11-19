@@ -5,3 +5,5 @@
 - pkg:deb/debian/libc4core-dev@0.2.7-1?arch=ppc64el
 - pkg:deb/debian/libc4core-dev@0.2.7-1?arch=riscv64
 - pkg:deb/debian/libc4core-dev@0.2.7-1?arch=s390x
+- pkg:deb/debian/libc4core-dev@0.6.0-5?arch=loong64
+- pkg:deb/debian/libc4core-dev@0.6.0-5?arch=s390x
