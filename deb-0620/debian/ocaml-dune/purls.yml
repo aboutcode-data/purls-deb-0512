@@ -28,3 +28,4 @@
 - pkg:deb/debian/ocaml-dune@3.20.2-3?arch=ppc64el
 - pkg:deb/debian/ocaml-dune@3.20.2-3?arch=riscv64
 - pkg:deb/debian/ocaml-dune@3.20.2-3?arch=s390x
+- pkg:deb/debian/ocaml-dune@3.24.1-4%2Bb1?arch=riscv64

@@ -19,3 +19,4 @@
 - pkg:deb/debian/libpam-ocaml@1.1-6%2Bb4?arch=ppc64el
 - pkg:deb/debian/libpam-ocaml@1.1-6%2Bb4?arch=s390x
 - pkg:deb/debian/libpam-ocaml@1.1-6%2Bb5?arch=riscv64
+- pkg:deb/debian/libpam-ocaml@1.1-6%2Bb8?arch=riscv64
