@@ -1,3 +1,9 @@
+- pkg:deb/debian/plasma-mobile-full@11?arch=amd64
+- pkg:deb/debian/plasma-mobile-full@11?arch=arm64
+- pkg:deb/debian/plasma-mobile-full@11?arch=armhf
+- pkg:deb/debian/plasma-mobile-full@11?arch=i386
+- pkg:deb/debian/plasma-mobile-full@11?arch=loong64
+- pkg:deb/debian/plasma-mobile-full@11?arch=ppc64el
 - pkg:deb/debian/plasma-mobile-full@9?arch=amd64
 - pkg:deb/debian/plasma-mobile-full@9?arch=arm64
 - pkg:deb/debian/plasma-mobile-full@9?arch=armel
