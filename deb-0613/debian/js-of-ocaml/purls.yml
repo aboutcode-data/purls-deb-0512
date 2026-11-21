@@ -36,3 +36,4 @@
 - pkg:deb/debian/js-of-ocaml@6.4.1-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/js-of-ocaml@6.4.1-2%2Bb1?arch=riscv64
 - pkg:deb/debian/js-of-ocaml@6.4.1-2%2Bb1?arch=s390x
+- pkg:deb/debian/js-of-ocaml@6.5.0-1%2Bb2?arch=amd64
