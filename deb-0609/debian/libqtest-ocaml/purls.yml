@@ -11,6 +11,7 @@
 - pkg:deb/debian/libqtest-ocaml@2.11.2-1%2Bb1?arch=mipsel
 - pkg:deb/debian/libqtest-ocaml@2.11.2-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/libqtest-ocaml@2.11.2-1%2Bb1?arch=s390x
+- pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb2?arch=loong64
 - pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb3?arch=amd64
 - pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb3?arch=arm64
 - pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb3?arch=armel
@@ -19,3 +20,9 @@
 - pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb3?arch=ppc64el
 - pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb3?arch=s390x
 - pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb4?arch=riscv64
+- pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb6?arch=amd64
+- pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb6?arch=arm64
+- pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb6?arch=armhf
+- pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb6?arch=i386
+- pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb6?arch=ppc64el
+- pkg:deb/debian/libqtest-ocaml@2.11.2-4%2Bb6?arch=s390x
