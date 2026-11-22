@@ -26,3 +26,9 @@
 - pkg:deb/debian/libbpp-core-dev@2.4.1-9?arch=mipsel
 - pkg:deb/debian/libbpp-core-dev@2.4.1-9?arch=ppc64el
 - pkg:deb/debian/libbpp-core-dev@2.4.1-9?arch=s390x
+- pkg:deb/debian/libbpp-core-dev@3.0.0-1?arch=arm64
+- pkg:deb/debian/libbpp-core-dev@3.0.0-1?arch=armhf
+- pkg:deb/debian/libbpp-core-dev@3.0.0-1?arch=i386
+- pkg:deb/debian/libbpp-core-dev@3.0.0-1?arch=loong64
+- pkg:deb/debian/libbpp-core-dev@3.0.0-1?arch=ppc64el
+- pkg:deb/debian/libbpp-core-dev@3.0.0-1?arch=s390x
