@@ -1,3 +1,4 @@
 - pkg:deb/debian/ruby-rack-proxy@0.6.1-2?arch=all
 - pkg:deb/debian/ruby-rack-proxy@0.7.4-1?arch=all
 - pkg:deb/debian/ruby-rack-proxy@0.7.7-1?arch=all
+- pkg:deb/debian/ruby-rack-proxy@2.0.2-1?arch=all
