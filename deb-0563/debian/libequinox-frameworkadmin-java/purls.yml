@@ -1,3 +1,4 @@
 - pkg:deb/debian/libequinox-frameworkadmin-java@2.1.400%2Beclipse4.18-1?arch=all
 - pkg:deb/debian/libequinox-frameworkadmin-java@2.2.100%2Beclipse4.26-1?arch=all
 - pkg:deb/debian/libequinox-frameworkadmin-java@2.2.200%2Beclipse4.29-1?arch=all
+- pkg:deb/debian/libequinox-frameworkadmin-java@2.3.300%2Beclipse4.35-1?arch=all
