@@ -14,3 +14,4 @@
 - pkg:deb/debian/libutfcpp-dev@4.0.5-1?arch=all
 - pkg:deb/debian/libutfcpp-dev@4.0.8-1?arch=all
 - pkg:deb/debian/libutfcpp-dev@4.0.9-1?arch=all
+- pkg:deb/debian/libutfcpp-dev@5.0.0-1?arch=all
