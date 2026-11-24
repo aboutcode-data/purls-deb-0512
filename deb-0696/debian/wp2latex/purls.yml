@@ -26,3 +26,4 @@
 - pkg:deb/debian/wp2latex@4.18c~ds-1?arch=ppc64el
 - pkg:deb/debian/wp2latex@4.18c~ds-1?arch=riscv64
 - pkg:deb/debian/wp2latex@4.18c~ds-1?arch=s390x
+- pkg:deb/debian/wp2latex@4.26~ds-2?arch=s390x
