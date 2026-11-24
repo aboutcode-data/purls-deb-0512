@@ -29,3 +29,4 @@
 - pkg:deb/debian/libggml-dev@0.9.7-2?arch=ppc64el
 - pkg:deb/debian/libggml-dev@0.9.7-2?arch=riscv64
 - pkg:deb/debian/libggml-dev@0.9.7-2?arch=s390x
+- pkg:deb/debian/libggml-dev@1.0.0-1?arch=riscv64
