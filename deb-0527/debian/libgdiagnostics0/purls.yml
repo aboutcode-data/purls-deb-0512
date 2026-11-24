@@ -48,3 +48,4 @@
 - pkg:deb/debian/libgdiagnostics0@16.2.0-4?arch=ppc64el
 - pkg:deb/debian/libgdiagnostics0@16.2.0-4?arch=riscv64
 - pkg:deb/debian/libgdiagnostics0@16.2.0-4?arch=s390x
+- pkg:deb/debian/libgdiagnostics0@16.2.0-5?arch=riscv64
