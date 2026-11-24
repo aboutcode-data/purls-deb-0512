@@ -5,6 +5,7 @@
 - pkg:deb/debian/xli@1.17.0%2B20061110-10.1?arch=ppc64el
 - pkg:deb/debian/xli@1.17.0%2B20061110-10.1?arch=riscv64
 - pkg:deb/debian/xli@1.17.0%2B20061110-10.1?arch=s390x
+- pkg:deb/debian/xli@1.17.0%2B20061110-10.2?arch=riscv64
 - pkg:deb/debian/xli@1.17.0%2B20061110-10?arch=amd64
 - pkg:deb/debian/xli@1.17.0%2B20061110-10?arch=arm64
 - pkg:deb/debian/xli@1.17.0%2B20061110-10?arch=armel
