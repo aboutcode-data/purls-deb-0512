@@ -13,6 +13,7 @@
 - pkg:deb/debian/pskctool@2.6.13-2%2Bb1?arch=ppc64el
 - pkg:deb/debian/pskctool@2.6.13-2%2Bb1?arch=riscv64
 - pkg:deb/debian/pskctool@2.6.13-2%2Bb1?arch=s390x
+- pkg:deb/debian/pskctool@2.6.15-1%2Bb1?arch=riscv64
 - pkg:deb/debian/pskctool@2.6.6-3?arch=amd64
 - pkg:deb/debian/pskctool@2.6.6-3?arch=arm64
 - pkg:deb/debian/pskctool@2.6.6-3?arch=armhf
