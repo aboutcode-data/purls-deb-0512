@@ -18,6 +18,9 @@
 - pkg:deb/debian/libvirt-daemon-driver-storage-rbd@11.9.0-2?arch=ppc64el
 - pkg:deb/debian/libvirt-daemon-driver-storage-rbd@11.9.0-2?arch=riscv64
 - pkg:deb/debian/libvirt-daemon-driver-storage-rbd@11.9.0-2?arch=s390x
+- pkg:deb/debian/libvirt-daemon-driver-storage-rbd@12.9.0-1~bpo13%2B1?arch=arm64
+- pkg:deb/debian/libvirt-daemon-driver-storage-rbd@12.9.0-1~bpo13%2B1?arch=ppc64el
+- pkg:deb/debian/libvirt-daemon-driver-storage-rbd@12.9.0-1~bpo13%2B1?arch=s390x
 - pkg:deb/debian/libvirt-daemon-driver-storage-rbd@7.0.0-3%2Bdeb11u3?arch=amd64
 - pkg:deb/debian/libvirt-daemon-driver-storage-rbd@7.0.0-3%2Bdeb11u3?arch=arm64
 - pkg:deb/debian/libvirt-daemon-driver-storage-rbd@7.0.0-3%2Bdeb11u3?arch=armhf
