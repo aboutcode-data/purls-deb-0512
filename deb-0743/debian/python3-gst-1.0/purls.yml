@@ -41,6 +41,7 @@
 - pkg:deb/debian/python3-gst-1.0@1.28.8-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-gst-1.0@1.28.8-1%2Bb1?arch=riscv64
 - pkg:deb/debian/python3-gst-1.0@1.28.8-1%2Bb1?arch=s390x
+- pkg:deb/debian/python3-gst-1.0@1.28.9-2?arch=riscv64
 - pkg:deb/debian/python3-gst-1.0@1.29.2-1%2Bb2?arch=amd64
 - pkg:deb/debian/python3-gst-1.0@1.29.2-1%2Bb2?arch=arm64
 - pkg:deb/debian/python3-gst-1.0@1.29.2-1%2Bb2?arch=armhf

@@ -6,3 +6,4 @@
 - pkg:deb/debian/guile-commonmark@0.1.2%2B20240812-3?arch=ppc64el
 - pkg:deb/debian/guile-commonmark@0.1.2%2B20240812-3?arch=riscv64
 - pkg:deb/debian/guile-commonmark@0.1.2%2B20240812-3?arch=s390x
+- pkg:deb/debian/guile-commonmark@20260108%2Bed3ce543ca-2?arch=riscv64
