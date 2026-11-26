@@ -3,3 +3,6 @@
 - pkg:deb/debian/mysql-server@9.7.4-2?arch=arm64
 - pkg:deb/debian/mysql-server@9.7.4-2?arch=ppc64el
 - pkg:deb/debian/mysql-server@9.7.4-2?arch=s390x
+- pkg:deb/debian/mysql-server@9.7.4.1-3?arch=amd64
+- pkg:deb/debian/mysql-server@9.7.4.1-3?arch=ppc64el
+- pkg:deb/debian/mysql-server@9.7.4.1-3?arch=s390x
