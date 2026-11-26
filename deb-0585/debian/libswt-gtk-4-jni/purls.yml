@@ -10,3 +10,4 @@
 - pkg:deb/debian/libswt-gtk-4-jni@4.29.0-1?arch=ppc64el
 - pkg:deb/debian/libswt-gtk-4-jni@4.29.0-1?arch=riscv64
 - pkg:deb/debian/libswt-gtk-4-jni@4.29.0-1?arch=s390x
+- pkg:deb/debian/libswt-gtk-4-jni@4.40.0-1?arch=riscv64
