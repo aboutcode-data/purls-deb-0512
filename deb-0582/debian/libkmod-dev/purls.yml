@@ -19,3 +19,4 @@
 - pkg:deb/debian/libkmod-dev@34.2-2?arch=ppc64el
 - pkg:deb/debian/libkmod-dev@34.2-2?arch=riscv64
 - pkg:deb/debian/libkmod-dev@34.2-2?arch=s390x
+- pkg:deb/debian/libkmod-dev@34.4-1?arch=riscv64

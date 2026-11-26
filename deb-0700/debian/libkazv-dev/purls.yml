@@ -6,3 +6,6 @@
 - pkg:deb/debian/libkazv-dev@1.0.0-2?arch=ppc64el
 - pkg:deb/debian/libkazv-dev@1.0.0-2?arch=riscv64
 - pkg:deb/debian/libkazv-dev@1.0.0-2?arch=s390x
+- pkg:deb/debian/libkazv-dev@1.0.0-4?arch=amd64
+- pkg:deb/debian/libkazv-dev@1.0.0-4?arch=arm64
+- pkg:deb/debian/libkazv-dev@1.0.0-4?arch=armhf

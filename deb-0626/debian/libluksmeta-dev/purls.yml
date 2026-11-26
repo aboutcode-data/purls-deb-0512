@@ -19,6 +19,7 @@
 - pkg:deb/debian/libluksmeta-dev@11-1?arch=i386
 - pkg:deb/debian/libluksmeta-dev@11-1?arch=loong64
 - pkg:deb/debian/libluksmeta-dev@11-1?arch=ppc64el
+- pkg:deb/debian/libluksmeta-dev@11-1?arch=riscv64
 - pkg:deb/debian/libluksmeta-dev@11-1?arch=s390x
 - pkg:deb/debian/libluksmeta-dev@9-3?arch=amd64
 - pkg:deb/debian/libluksmeta-dev@9-3?arch=arm64
