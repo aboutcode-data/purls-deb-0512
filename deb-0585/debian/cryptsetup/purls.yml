@@ -26,3 +26,4 @@
 - pkg:deb/debian/cryptsetup@2.8.1-1?arch=ppc64el
 - pkg:deb/debian/cryptsetup@2.8.1-1?arch=riscv64
 - pkg:deb/debian/cryptsetup@2.8.1-1?arch=s390x
+- pkg:deb/debian/cryptsetup@2.8.9-1?arch=riscv64

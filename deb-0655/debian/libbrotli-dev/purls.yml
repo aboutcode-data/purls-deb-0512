@@ -57,3 +57,4 @@
 - pkg:deb/debian/libbrotli-dev@1.2.0-4.1?arch=ppc64el
 - pkg:deb/debian/libbrotli-dev@1.2.0-4.1?arch=riscv64
 - pkg:deb/debian/libbrotli-dev@1.2.0-4.1?arch=s390x
+- pkg:deb/debian/libbrotli-dev@1.2.1-1?arch=riscv64

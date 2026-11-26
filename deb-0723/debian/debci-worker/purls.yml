@@ -2,3 +2,4 @@
 - pkg:deb/debian/debci-worker@3.12?arch=all
 - pkg:deb/debian/debci-worker@3.13?arch=all
 - pkg:deb/debian/debci-worker@3.6?arch=all
+- pkg:deb/debian/debci-worker@4.5?arch=all
