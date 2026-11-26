@@ -44,3 +44,4 @@
 - pkg:deb/debian/wsjtx@3.3.0~beta2%2Bdfsg-2?arch=riscv64
 - pkg:deb/debian/wsjtx@3.3.0~beta8%2Bdfsg-2?arch=i386
 - pkg:deb/debian/wsjtx@3.3.0~beta8%2Bdfsg-2?arch=loong64
+- pkg:deb/debian/wsjtx@3.3.0~beta8%2Bdfsg-2?arch=riscv64
