@@ -47,3 +47,10 @@
 - pkg:deb/debian/ocserv@1.6.0-2?arch=loong64
 - pkg:deb/debian/ocserv@1.6.0-2?arch=ppc64el
 - pkg:deb/debian/ocserv@1.6.0-2?arch=s390x
+- pkg:deb/debian/ocserv@1.6.0-4?arch=amd64
+- pkg:deb/debian/ocserv@1.6.0-4?arch=arm64
+- pkg:deb/debian/ocserv@1.6.0-4?arch=armhf
+- pkg:deb/debian/ocserv@1.6.0-4?arch=i386
+- pkg:deb/debian/ocserv@1.6.0-4?arch=loong64
+- pkg:deb/debian/ocserv@1.6.0-4?arch=ppc64el
+- pkg:deb/debian/ocserv@1.6.0-4?arch=s390x
