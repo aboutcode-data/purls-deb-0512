@@ -5,6 +5,7 @@
 - pkg:deb/debian/expat@2.10.0-1?arch=loong64
 - pkg:deb/debian/expat@2.10.0-1?arch=ppc64el
 - pkg:deb/debian/expat@2.10.0-1?arch=s390x
+- pkg:deb/debian/expat@2.11.0-1?arch=riscv64
 - pkg:deb/debian/expat@2.2.10-2%2Bdeb11u5?arch=amd64
 - pkg:deb/debian/expat@2.2.10-2%2Bdeb11u5?arch=arm64
 - pkg:deb/debian/expat@2.2.10-2%2Bdeb11u5?arch=armhf
