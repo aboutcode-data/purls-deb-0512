@@ -34,4 +34,5 @@
 - pkg:deb/debian/dnsdist@2.1.4-1?arch=arm64
 - pkg:deb/debian/dnsdist@2.1.4-1?arch=loong64
 - pkg:deb/debian/dnsdist@2.1.4-1?arch=ppc64el
+- pkg:deb/debian/dnsdist@2.1.4-1?arch=riscv64
 - pkg:deb/debian/dnsdist@2.1.4-1?arch=s390x
