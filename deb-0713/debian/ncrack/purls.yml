@@ -25,4 +25,5 @@
 - pkg:deb/debian/ncrack@0.7%2Bdebian-7?arch=i386
 - pkg:deb/debian/ncrack@0.7%2Bdebian-7?arch=loong64
 - pkg:deb/debian/ncrack@0.7%2Bdebian-7?arch=ppc64el
+- pkg:deb/debian/ncrack@0.7%2Bdebian-7?arch=riscv64
 - pkg:deb/debian/ncrack@0.7%2Bdebian-7?arch=s390x

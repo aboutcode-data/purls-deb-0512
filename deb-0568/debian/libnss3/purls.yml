@@ -29,6 +29,7 @@
 - pkg:deb/debian/libnss3@3.132-1?arch=ppc64el
 - pkg:deb/debian/libnss3@3.132-1?arch=riscv64
 - pkg:deb/debian/libnss3@3.132-1?arch=s390x
+- pkg:deb/debian/libnss3@3.134-1?arch=riscv64
 - pkg:deb/debian/libnss3@3.61-1%2Bdeb11u3?arch=amd64
 - pkg:deb/debian/libnss3@3.61-1%2Bdeb11u3?arch=arm64
 - pkg:deb/debian/libnss3@3.61-1%2Bdeb11u3?arch=armhf

@@ -1,3 +1,11 @@
 - pkg:deb/debian/ocaml-tools@20120103-13?arch=all
+- pkg:deb/debian/ocaml-tools@20120103-18?arch=amd64
+- pkg:deb/debian/ocaml-tools@20120103-18?arch=arm64
+- pkg:deb/debian/ocaml-tools@20120103-18?arch=armhf
+- pkg:deb/debian/ocaml-tools@20120103-18?arch=i386
+- pkg:deb/debian/ocaml-tools@20120103-18?arch=loong64
+- pkg:deb/debian/ocaml-tools@20120103-18?arch=ppc64el
+- pkg:deb/debian/ocaml-tools@20120103-18?arch=riscv64
+- pkg:deb/debian/ocaml-tools@20120103-18?arch=s390x
 - pkg:deb/debian/ocaml-tools@20120103-7?arch=all
 - pkg:deb/debian/ocaml-tools@20120103-9?arch=all
