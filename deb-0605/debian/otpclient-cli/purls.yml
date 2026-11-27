@@ -40,3 +40,5 @@
 - pkg:deb/debian/otpclient-cli@5.3.3-1?arch=armhf
 - pkg:deb/debian/otpclient-cli@5.3.3-1?arch=i386
 - pkg:deb/debian/otpclient-cli@5.3.3-1?arch=loong64
+- pkg:deb/debian/otpclient-cli@5.3.3-1?arch=ppc64el
+- pkg:deb/debian/otpclient-cli@5.3.3-1?arch=s390x
