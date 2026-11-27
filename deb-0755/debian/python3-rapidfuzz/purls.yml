@@ -20,3 +20,4 @@
 - pkg:deb/debian/python3-rapidfuzz@3.14.5%2Bds-1%2Bb1?arch=ppc64el
 - pkg:deb/debian/python3-rapidfuzz@3.14.5%2Bds-1%2Bb1?arch=riscv64
 - pkg:deb/debian/python3-rapidfuzz@3.14.5%2Bds-1%2Bb1?arch=s390x
+- pkg:deb/debian/python3-rapidfuzz@3.14.6-1%2Bds-1?arch=riscv64
