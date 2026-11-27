@@ -11,4 +11,5 @@
 - pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=mipsel
 - pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=ppc64el
 - pkg:deb/debian/php-libvirt-php@0.5.6-6?arch=s390x
+- pkg:deb/debian/php-libvirt-php@0.5.8-12?arch=all
 - pkg:deb/debian/php-libvirt-php@0.5.8-7?arch=all
