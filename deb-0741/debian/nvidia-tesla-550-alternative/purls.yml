@@ -6,3 +6,6 @@
 - pkg:deb/debian/nvidia-tesla-550-alternative@550.54.15-5?arch=arm64
 - pkg:deb/debian/nvidia-tesla-550-alternative@550.54.15-5?arch=i386
 - pkg:deb/debian/nvidia-tesla-550-alternative@550.54.15-5?arch=ppc64el
+- pkg:deb/debian/nvidia-tesla-550-alternative@550.54.15-6?arch=amd64
+- pkg:deb/debian/nvidia-tesla-550-alternative@550.54.15-6?arch=arm64
+- pkg:deb/debian/nvidia-tesla-550-alternative@550.54.15-6?arch=i386
