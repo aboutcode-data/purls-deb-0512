@@ -10,3 +10,4 @@
 - pkg:deb/debian/yt-dlp@2026.10.26-1?arch=all
 - pkg:deb/debian/yt-dlp@2026.10.26-1~bpo13%2B1?arch=all
 - pkg:deb/debian/yt-dlp@2026.11.23-1?arch=all
+- pkg:deb/debian/yt-dlp@2026.11.23-1~bpo13%2B1?arch=all
