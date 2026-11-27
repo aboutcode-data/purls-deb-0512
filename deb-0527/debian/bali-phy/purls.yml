@@ -37,3 +37,4 @@
 - pkg:deb/debian/bali-phy@4.3%2Bdfsg-2?arch=loong64
 - pkg:deb/debian/bali-phy@4.3%2Bdfsg-2?arch=ppc64el
 - pkg:deb/debian/bali-phy@4.3%2Bdfsg-2?arch=s390x
+- pkg:deb/debian/bali-phy@4.3%2Bdfsg-3?arch=riscv64
