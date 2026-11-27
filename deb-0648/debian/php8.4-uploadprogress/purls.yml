@@ -6,3 +6,4 @@
 - pkg:deb/debian/php8.4-uploadprogress@2.0.2%2B%2B-4?arch=ppc64el
 - pkg:deb/debian/php8.4-uploadprogress@2.0.2%2B%2B-4?arch=riscv64
 - pkg:deb/debian/php8.4-uploadprogress@2.0.2%2B%2B-4?arch=s390x
+- pkg:deb/debian/php8.4-uploadprogress@2.0.2%2B%2B-7?arch=amd64
