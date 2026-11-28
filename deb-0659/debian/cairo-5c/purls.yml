@@ -14,3 +14,4 @@
 - pkg:deb/debian/cairo-5c@1.28?arch=ppc64el
 - pkg:deb/debian/cairo-5c@1.28?arch=riscv64
 - pkg:deb/debian/cairo-5c@1.28?arch=s390x
+- pkg:deb/debian/cairo-5c@1.35?arch=riscv64

@@ -13,3 +13,7 @@
 - pkg:deb/debian/bam@0.5.1-3?arch=mipsel
 - pkg:deb/debian/bam@0.5.1-3?arch=ppc64el
 - pkg:deb/debian/bam@0.5.1-3?arch=s390x
+- pkg:deb/debian/bam@0.5.1-4?arch=amd64
+- pkg:deb/debian/bam@0.5.1-4?arch=i386
+- pkg:deb/debian/bam@0.5.1-4?arch=ppc64el
+- pkg:deb/debian/bam@0.5.1-4?arch=riscv64

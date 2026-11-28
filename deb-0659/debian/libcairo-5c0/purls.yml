@@ -30,3 +30,4 @@
 - pkg:deb/debian/libcairo-5c0@1.28?arch=ppc64el
 - pkg:deb/debian/libcairo-5c0@1.28?arch=riscv64
 - pkg:deb/debian/libcairo-5c0@1.28?arch=s390x
+- pkg:deb/debian/libcairo-5c0@1.35?arch=riscv64
