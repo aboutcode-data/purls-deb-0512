@@ -52,6 +52,7 @@
 - pkg:deb/debian/libnginx-mod-http-headers-more-filter@0.42-1?arch=i386
 - pkg:deb/debian/libnginx-mod-http-headers-more-filter@0.42-1?arch=loong64
 - pkg:deb/debian/libnginx-mod-http-headers-more-filter@0.42-1?arch=ppc64el
+- pkg:deb/debian/libnginx-mod-http-headers-more-filter@0.42-1?arch=riscv64
 - pkg:deb/debian/libnginx-mod-http-headers-more-filter@0.42-1?arch=s390x
 - pkg:deb/debian/libnginx-mod-http-headers-more-filter@1.18.0-6.1%2Bdeb11u3?arch=amd64
 - pkg:deb/debian/libnginx-mod-http-headers-more-filter@1.18.0-6.1%2Bdeb11u3?arch=arm64
