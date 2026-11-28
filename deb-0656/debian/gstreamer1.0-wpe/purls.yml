@@ -40,3 +40,6 @@
 - pkg:deb/debian/gstreamer1.0-wpe@1.27.2-1?arch=ppc64el
 - pkg:deb/debian/gstreamer1.0-wpe@1.27.2-1?arch=riscv64
 - pkg:deb/debian/gstreamer1.0-wpe@1.27.2-1?arch=s390x
+- pkg:deb/debian/gstreamer1.0-wpe@1.28.9-1%2Bb1?arch=amd64
+- pkg:deb/debian/gstreamer1.0-wpe@1.28.9-1%2Bb1?arch=i386
+- pkg:deb/debian/gstreamer1.0-wpe@1.28.9-1%2Bb1?arch=ppc64el

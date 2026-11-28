@@ -39,4 +39,5 @@
 - pkg:deb/debian/kissfft-tools@131.2.0-2?arch=i386
 - pkg:deb/debian/kissfft-tools@131.2.0-2?arch=loong64
 - pkg:deb/debian/kissfft-tools@131.2.0-2?arch=ppc64el
+- pkg:deb/debian/kissfft-tools@131.2.0-2?arch=riscv64
 - pkg:deb/debian/kissfft-tools@131.2.0-2?arch=s390x

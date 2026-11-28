@@ -19,3 +19,5 @@
 - pkg:deb/debian/guile-zlib@0.2.2-2?arch=ppc64el
 - pkg:deb/debian/guile-zlib@0.2.2-2?arch=riscv64
 - pkg:deb/debian/guile-zlib@0.2.2-2?arch=s390x
+- pkg:deb/debian/guile-zlib@0.2.2-4?arch=ppc64el
+- pkg:deb/debian/guile-zlib@0.2.2-4?arch=riscv64
