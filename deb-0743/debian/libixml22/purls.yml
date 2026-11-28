@@ -6,3 +6,7 @@
 - pkg:deb/debian/libixml22@22.1.8-2?arch=ppc64el
 - pkg:deb/debian/libixml22@22.1.8-2?arch=riscv64
 - pkg:deb/debian/libixml22@22.1.8-2?arch=s390x
+- pkg:deb/debian/libixml22@22.2.5-1?arch=amd64
+- pkg:deb/debian/libixml22@22.2.5-1?arch=i386
+- pkg:deb/debian/libixml22@22.2.5-1?arch=ppc64el
+- pkg:deb/debian/libixml22@22.2.5-1?arch=riscv64
