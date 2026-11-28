@@ -28,3 +28,6 @@
 - pkg:deb/debian/dracut-test@112-7?arch=loong64
 - pkg:deb/debian/dracut-test@112-7?arch=ppc64el
 - pkg:deb/debian/dracut-test@112-7?arch=s390x
+- pkg:deb/debian/dracut-test@113-2?arch=amd64
+- pkg:deb/debian/dracut-test@113-2?arch=ppc64el
+- pkg:deb/debian/dracut-test@113-2?arch=riscv64

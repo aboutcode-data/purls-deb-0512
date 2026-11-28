@@ -1,1 +1,2 @@
 - pkg:deb/debian/libcurl4-gnutls@8.23.0~rc3-1%2Bexp1?arch=ppc64el
+- pkg:deb/debian/libcurl4-gnutls@8.24.0~rc2-1?arch=riscv64
