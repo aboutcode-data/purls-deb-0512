@@ -35,3 +35,6 @@
 - pkg:deb/debian/vim-nox@9.1.2141-1?arch=riscv64
 - pkg:deb/debian/vim-nox@9.1.2141-1?arch=s390x
 - pkg:deb/debian/vim-nox@9.2.0858-1%2Bb1?arch=arm64
+- pkg:deb/debian/vim-nox@9.2.1417-1?arch=amd64
+- pkg:deb/debian/vim-nox@9.2.1417-1?arch=i386
+- pkg:deb/debian/vim-nox@9.2.1417-1?arch=ppc64el
