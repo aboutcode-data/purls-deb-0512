@@ -2,4 +2,5 @@
 - pkg:deb/debian/postgresql-19-asn1oid@1.6-4?arch=arm64
 - pkg:deb/debian/postgresql-19-asn1oid@1.6-4?arch=loong64
 - pkg:deb/debian/postgresql-19-asn1oid@1.6-4?arch=ppc64el
+- pkg:deb/debian/postgresql-19-asn1oid@1.6-4?arch=riscv64
 - pkg:deb/debian/postgresql-19-asn1oid@1.6-4?arch=s390x

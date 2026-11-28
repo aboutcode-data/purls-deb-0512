@@ -2,4 +2,5 @@
 - pkg:deb/debian/postgresql-19-pg-wait-sampling@1.1.11-2?arch=arm64
 - pkg:deb/debian/postgresql-19-pg-wait-sampling@1.1.11-2?arch=loong64
 - pkg:deb/debian/postgresql-19-pg-wait-sampling@1.1.11-2?arch=ppc64el
+- pkg:deb/debian/postgresql-19-pg-wait-sampling@1.1.11-2?arch=riscv64
 - pkg:deb/debian/postgresql-19-pg-wait-sampling@1.1.11-2?arch=s390x
