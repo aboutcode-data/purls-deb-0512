@@ -28,6 +28,7 @@
 - pkg:deb/debian/libodoc-ocaml-dev@3.1.0-1%2Bb1?arch=s390x
 - pkg:deb/debian/libodoc-ocaml-dev@3.1.0-1%2Bb3?arch=amd64
 - pkg:deb/debian/libodoc-ocaml-dev@3.1.0-1%2Bb3?arch=arm64
+- pkg:deb/debian/libodoc-ocaml-dev@3.2.2-1%2Bb3?arch=riscv64
 - pkg:deb/debian/libodoc-ocaml-dev@3.2.2-1?arch=amd64
 - pkg:deb/debian/libodoc-ocaml-dev@3.2.2-1?arch=arm64
 - pkg:deb/debian/libodoc-ocaml-dev@3.2.2-1?arch=armhf

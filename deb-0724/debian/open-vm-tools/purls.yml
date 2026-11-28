@@ -12,6 +12,9 @@
 - pkg:deb/debian/open-vm-tools@12.5.0-2~bpo12%2B1?arch=amd64
 - pkg:deb/debian/open-vm-tools@12.5.0-2~bpo12%2B1?arch=arm64
 - pkg:deb/debian/open-vm-tools@12.5.0-2~bpo12%2B1?arch=i386
+- pkg:deb/debian/open-vm-tools@13.0.10-1.2?arch=amd64
+- pkg:deb/debian/open-vm-tools@13.0.10-1.2?arch=arm64
+- pkg:deb/debian/open-vm-tools@13.0.10-1.2?arch=i386
 - pkg:deb/debian/open-vm-tools@13.0.5-1?arch=amd64
 - pkg:deb/debian/open-vm-tools@13.0.5-1?arch=arm64
 - pkg:deb/debian/open-vm-tools@13.0.5-1?arch=i386

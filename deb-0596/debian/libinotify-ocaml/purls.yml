@@ -36,3 +36,4 @@
 - pkg:deb/debian/libinotify-ocaml@2.6-2%2Bb6?arch=s390x
 - pkg:deb/debian/libinotify-ocaml@2.6-2%2Bb8?arch=amd64
 - pkg:deb/debian/libinotify-ocaml@2.6-2%2Bb8?arch=arm64
+- pkg:deb/debian/libinotify-ocaml@2.6-2%2Bb8?arch=riscv64
