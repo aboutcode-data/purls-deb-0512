@@ -33,3 +33,7 @@
 - pkg:deb/debian/libsereal-decoder-perl@6.003%2Bds-1?arch=i386
 - pkg:deb/debian/libsereal-decoder-perl@6.003%2Bds-1?arch=loong64
 - pkg:deb/debian/libsereal-decoder-perl@6.003%2Bds-1?arch=ppc64el
+- pkg:deb/debian/libsereal-decoder-perl@7.008%2Bds-1?arch=amd64
+- pkg:deb/debian/libsereal-decoder-perl@7.008%2Bds-1?arch=i386
+- pkg:deb/debian/libsereal-decoder-perl@7.008%2Bds-1?arch=ppc64el
+- pkg:deb/debian/libsereal-decoder-perl@7.008%2Bds-1?arch=riscv64
