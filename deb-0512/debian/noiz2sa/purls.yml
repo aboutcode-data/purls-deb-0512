@@ -12,3 +12,7 @@
 - pkg:deb/debian/noiz2sa@0.51a-13?arch=mipsel
 - pkg:deb/debian/noiz2sa@0.51a-13?arch=ppc64el
 - pkg:deb/debian/noiz2sa@0.51a-13?arch=s390x
+- pkg:deb/debian/noiz2sa@0.51a-14?arch=amd64
+- pkg:deb/debian/noiz2sa@0.51a-14?arch=i386
+- pkg:deb/debian/noiz2sa@0.51a-14?arch=ppc64el
+- pkg:deb/debian/noiz2sa@0.51a-14?arch=riscv64
