@@ -8,6 +8,7 @@
 - pkg:deb/debian/lego@4.35.2-5?arch=i386
 - pkg:deb/debian/lego@4.35.2-5?arch=loong64
 - pkg:deb/debian/lego@4.35.2-5?arch=ppc64el
+- pkg:deb/debian/lego@4.35.2-5?arch=riscv64
 - pkg:deb/debian/lego@4.35.2-5?arch=s390x
 - pkg:deb/debian/lego@4.9.1-1?arch=amd64
 - pkg:deb/debian/lego@4.9.1-1?arch=arm64

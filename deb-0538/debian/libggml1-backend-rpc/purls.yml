@@ -4,3 +4,5 @@
 - pkg:deb/debian/libggml1-backend-rpc@1.1.1-1?arch=loong64
 - pkg:deb/debian/libggml1-backend-rpc@1.1.1-1?arch=ppc64el
 - pkg:deb/debian/libggml1-backend-rpc@1.1.1-1?arch=s390x
+- pkg:deb/debian/libggml1-backend-rpc@1.1.1-2?arch=amd64
+- pkg:deb/debian/libggml1-backend-rpc@1.1.1-2?arch=ppc64el
