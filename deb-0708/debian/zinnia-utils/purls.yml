@@ -1,3 +1,9 @@
+- pkg:deb/debian/zinnia-utils@0.06-10?arch=amd64
+- pkg:deb/debian/zinnia-utils@0.06-10?arch=arm64
+- pkg:deb/debian/zinnia-utils@0.06-10?arch=armhf
+- pkg:deb/debian/zinnia-utils@0.06-10?arch=i386
+- pkg:deb/debian/zinnia-utils@0.06-10?arch=loong64
+- pkg:deb/debian/zinnia-utils@0.06-10?arch=ppc64el
 - pkg:deb/debian/zinnia-utils@0.06-6?arch=amd64
 - pkg:deb/debian/zinnia-utils@0.06-6?arch=arm64
 - pkg:deb/debian/zinnia-utils@0.06-6?arch=armhf
