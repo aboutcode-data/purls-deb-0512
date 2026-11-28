@@ -6,6 +6,7 @@
 - pkg:deb/debian/linguist-qt6@6.10.2-1?arch=ppc64el
 - pkg:deb/debian/linguist-qt6@6.10.2-1?arch=riscv64
 - pkg:deb/debian/linguist-qt6@6.10.2-1?arch=s390x
+- pkg:deb/debian/linguist-qt6@6.11.2-3?arch=riscv64
 - pkg:deb/debian/linguist-qt6@6.4.2~rc1-2?arch=amd64
 - pkg:deb/debian/linguist-qt6@6.4.2~rc1-2?arch=arm64
 - pkg:deb/debian/linguist-qt6@6.4.2~rc1-2?arch=armel

@@ -13,6 +13,7 @@
 - pkg:deb/debian/librust-actix-http-dev@3.11.2-2?arch=ppc64el
 - pkg:deb/debian/librust-actix-http-dev@3.11.2-2?arch=riscv64
 - pkg:deb/debian/librust-actix-http-dev@3.11.2-2?arch=s390x
+- pkg:deb/debian/librust-actix-http-dev@3.22.1-1?arch=riscv64
 - pkg:deb/debian/librust-actix-http-dev@3.9.0-3?arch=amd64
 - pkg:deb/debian/librust-actix-http-dev@3.9.0-3?arch=arm64
 - pkg:deb/debian/librust-actix-http-dev@3.9.0-3?arch=armel
